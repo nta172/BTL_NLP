@@ -1,19 +1,54 @@
-iPad mini 7 tăng gấp đôi dung lượng lưu trữ thấp nhất, hỗ trợ bút Pencil Pro, Apple Intelligence với giá không đổi so với thế hệ trước.
-Sau ba năm, Apple đã không "bỏ quên" dòng iPad mini khi chính thức công bố thế hệ thứ 7 với nhiều nâng cấp về phần cứng, phần mềm.
-Dòng máy này được nhiều người yêu thích nhờ thiết kế gọn nhẹ hiếm có trong thế giới tablet hiện tại.
-Đây cũng là thiết bị có giá tốt nhất để có thể trải nghiệm bộ tính năng trí tuệ cá nhân Apple Intelligence. iPad mini mới vẫn sử dụng màn hình kích thước 8,3 inch độ phân giải Liquid Retina, thậm chí có thể cầm một tay để thao tác.
-Đây cũng là mẫu tablet cỡ nhỏ nhưng mạnh hàng đầu trên thị trường với chip A17 Pro mang lại hiệu suất CPU tăng 30%, hiệu suất GPU tăng 25% so với thế hệ trước.
-Ngoài nâng sức mạnh xử lý, iPad cỡ nhỏ của Apple cũng có điểm mới dành cho những người sáng tạo nội dung là hỗ trợ bút Pencil Pro.
-Sản phẩm giúp người dùng có thể cảm nhận được các thao tác cuộn, bóp để mở menu nhờ phản hồi xúc giác được đặt ở cuối thân bút.
-Cử chỉ cuộn là tính năng hoàn toàn mới, không có trên các sản phẩm của đối thủ.
-Theo Apple, iPad mini 7 được thiết kế cho Apple Intelligence.
-Sản phẩm giúp đưa bộ trí tuệ nhân tạo cá nhân với các tính năng AI đến với người dùng phổ thông, đặc biệt là học sinh, sinh viên.
-Trong đó, chủ sở hữu thiết bị có thể sử dụng công cụ viết, tạo hình ảnh, tự động hóa các tác vụ nâng cao.
-Hệ thống sử dụng cả xử lý trên thiết bị lẫn mô hình dựa trên đám mây như ChatGPT để cân bằng giữa hiệu suất và quyền riêng tư.
-Apple Intelligence sẽ có sẵn với ngôn ngữ Anh (Mỹ) trong tháng 10, trong khi tiếng Việt được hỗ trợ vào năm sau.
-Ngoài ra, iPad mini cũng có một số cải tiến khác như kết nối Wi-Fi 6E, tốc độ truyền dữ liệu USB-C nhanh hơn, camera góc rộng 12 megapixel được nâng cấp với Smart HDR 4.
-Ngoài ra, model này cũng có đầy đủ tính năng mới của hệ điều hành iOS 18 nhờ được cài sẵn khi bán ra. iPad Mini thế hệ mới có các màu xanh dương, tím, vàng ánh sao, xám không gian.
-Giá khởi điểm 13,9 triệu đồng cho bản wifi và 17,9 triệu đồng với bản có thêm kết nối 5G.
-Mức giá khởi điểm dành cho người trong ngành giáo dục là 12,59 triệu đồng.
-Dung lượng lưu trữ cho bản thấp nhất 128 GB, gấp đôi mức 64 GB của thế hệ cũ trong khi tùy chọn cao nhất là 512 GB.
-Apple cũng ra mắt bộ case bảo vệ Smart Folio mới tương thích iPad Mini 7 với giá 1,69 triệu đồng, có các màu xám than, tím nhạt, xanh denim và xanh lá.
+Nấu hai lần hay kỹ thuật "hai lửa" là chìa khóa vàng giải quyết nhiều lỗi thường gặp phải như kho cá bị vỡ nát, làm nem rán bị ỉu, nấu canh măng kém vị.
+ Từ xưa tới nay, bữa ăn thường ngày của người Việt luôn ưu ái các món ăn từ cá, nhất là cá kho.
+ Tùy theo văn hóa mỗi vùng miền mà có nhiều cách kho cá khác nhau. Miền Bắc thường kho khô, miền Trung kho keo, miền Nam lại kho nhiều nước. Kho cá tưởng chừng đơn giản nhưng để ra đĩa cá săn chắc, đậm vị, óng lên màu nâu đỏ đẹp mắt không phải ai cũng biết. Ngoài việc lựa chọn cá tươi ngon, sơ chế sạch sẽ, tẩm ướp đủ độ các gia vị thì kỹ thuật kho và canh lửa rất quan trọng.
+ Theo kinh nghiệm truyền thống của người nội trợ cá kho ''hai lửa'' sẽ đượm vị, đượm màu, đượng hương hơn.
+ Cụ thể, ở "lửa một" (lần nấu thứ nhất): Xếp cá đã ướp vào nồi bên dưới lót riềng, sả, hành hoặc mía (tùy chọn), cho cả phần nước ướp vào.
+ Ban đầu, bật lửa để nước ướp cá sôi và len lỏi vào từng thớ thịt cá.
+ Sau đó, cho nước nóng vào xâm xấp, đun sôi cho nước sốt phủ đều bề mặt.
+ Hạ lửa nhỏ liu riu, mở vung để nước cá kho được trong, nêm nếm lại gia vị cho phù hợp.
+ Thỉnh thoảng nghiêng nồi, lấy thìa múc nước rưới đều bề mặt cho gia vị thấm đều vào cá.
+ Sau 40 - 45 phút, thịt cá se dần lại, tắt bếp để nguội giúp ''cá hồi thịt'' trở nên săn hơn.
+ Trước khi ăn, tiếp tục kho "lửa hai" cũng kho tương tự ở lửa liu riu, mở vung, thỉnh thoảng múc nước kho rưới đều mặt.
+ Chêm nước nếu muốn kho cá lâu hơn để xương mềm rục.
+ Chú ý khi nước kho gần cạn, rưới chút mỡ lợn lên trên để màu óng lên màu hổ phách đẹp mắt là hoàn thiện.
+ Giả cầy là món ăn dân dã, phổ biến nhiều vùng miền trong cả nước và mỗi nơi có một phong vị riêng.
+ Giả cầy miền Bắc sánh nhẹ và vị chua dịu từ mẻ,; giả cầy miền Trung đượm vị ngọt mật mía dậy mùi thơm từ lá tắt; giả cầy miền Tây Nam Bộ thơm ngậy từ chao, nước dừa.
+ Giả cầy miền Bắc và Hà Nội hấp dẫn bởi màu nâu vàng óng hấp dẫn, khi ăn bên ngoài bì giòn sần sật mà bên trong thịt mềm, nước sóng sánh vàng rượi, đượm mùi thơm của mắm tôm, riềng mẻ rất cuốn vị. Món giả cầy để lên màu nhựa mận (màu tím tựa như nhựa cây mận) và có độ sền sệt quan trọng nhất cần phải thui kỹ và cần nấu ''hai lửa''.
+ Ở lửa một, cho móng giò và thịt bắp giò đã ướp kỹ (''già riềng, non mẻ, khỏe mắm tôm'' cùng riềng, nghệ giã) lên bếp đảo săn.
+ Sau đó cho nước vào xâm xấp mặt thịt. Khi nước sôi trở lại hớt bỏ bọt (nếu có), rồi hạ lửa vừa đun tiếp 25 - 30 phút rồi tắt bếp.
+ Trước khi ăn nấu lửa hai khoảng 8 - 10 phút tùy theo khẩu vị mỗi người thích ăn giòn sần sật hay mềm nhừ. Khi gần đạt mở vung nước giả cầy mới sóng sánh, nêm nếm lại cho vừa miệng.
+ Cuối cùng thả hành hoa, rau răm vào là hoàn thiện, tắt bếp múc ra ăn nóng. Món giả cầy Hà Nội cũ không độn thêm măng như các biến thể ngày nay.
+ Để có những chiếc nem rán vỏ ngoài vàng ruộm, giòn tan mà nhân bên trong vẫn giữ vị mềm ngọt từ thịt, tươi giòn từ rau củ cũng cần chiên 2 lửa.
+ Ở lần lửa một, rán nem ở lửa vừa, trở đều mặt cho nem se lại. Khi nem chín khoảng 70% vớt ra để rổ thưa cho nguội. Nếu làm nhiều nên chia ra các mẻ, hoặc gói vào từng lớp giấy nến cho dễ tách (tương đương mỗi bữa ăn) rồi đem cấp đông.
+ Trước khi ăn, đem rán nem ở lửa hai.
+ Ban đầu lửa vừa, khi lớp vỏ đã chuyển nâu vàng thì tăng nhiệt để giúp nem thoát dầu không bị ngậy, giúp lớp vỏ giòn vàng ruộm, giòn tan mà nhân bên trong vẫn mềm ngọt. Khi rang tôm đồng, tôm rảo, tép gạo nên rang khô rồi mới nêm mắm, muối, đường, hạt tiêu.
+ Tôm không ướp mắm, muối trước bởi quy tắc ''Muối tách, đường giữ'', muối dễ làm tôm, thịt ra nước khi rang lâu khô và mất đi vị ngọt tự nhiên.
+ Tôm rang hai lần lửa sẽ lên màu đẹp mắt và tròn vị, ăn được cả vỏ giòn thơm.
+ Ban đầu để lửa to chút rang tôm nhanh ráo nước, sau đó khi cho thịt vào thì hạ lửa nhỏ vừa rồi nêm nếm gia vị, đảo đều cho thấm vào trong. Nếu muốn tôm rảo giòn hơn thì thêm chút giấm hoặc nước cốt chanh khi rang.
+ Đây cũng là bí quyết khi làm thịt heo quay hoặc rán nem muốn giòn thì quét chút nước cốt chanh lên bì hoặc bánh đa nem.
+ Ở lửa một: Trút măng đã sơ chế vào chảo xào (có thể lấy phần phần váng mỡ nước dùng gà, nước ninh xương), thêm chút nước mắm ngon cho dậy vị. Măng cần xào kỹ để ngấm sâu gia vị.
+ Ở lửa hai: Trút phần măng đã xào vào nồi nước dùng rồi om lửa nhỏ (lửa 2), mở vung để măng hút trọn vị ngọt thơm và bay bớt độc tố nếu còn. Khi măng đã ngấu vị vừa mềm lại giòn sần sật, nêm nếm lại cho vừa miệng là hoàn thiện.
+ Rán cá lửa một: Chia cá theo mẻ, lần lượt cho vào chảo dàn đều ra để tránh dính vào nhau nhằm đảm bảo nhiệt ổn định. Lúc này bên ngoài cá gặp dầu nóng sẽ cong lại, chú ý không lật trở dễ bị gãy nát mà để yên cho se mặt và định hình miếng.
+ Duy trì nhiệt vừa để rán cá chín đều từ trong ra ngoài. Khi một mặt cá vàng, bong lên thì lật trở rán vàng đều mặt còn lại.
+ Vớt ra để giấy thấm dầu.
+ Rán lửa hai: Trước khi ăn, đun nóng lại mỡ hoặc dầu ăn, thử đầu đũa thấy sủi tăm to là đạt độ, cho cá vào chiên nhanh.
+ Việc căng nhiệt ở bước này rất quan trọng, vừa giúp thoát hơi nước tồn dư nếu có giúp vỏ vàng giòn thịt cá bên trong vẫn giữ được độ mềm ngọt, không bị khô xác.
+ Đề có đĩa xôi dẻo mềm, căng bóng dù để lâu bên cạnh việc chọn gạo nếp ngon, ngâm gạo thì kỹ thuật đồ xôi ''hai lần lửa'' là chìa khóa vàng quan trọng để món ăn hoàn thiện.
+ Ở lửa lần một: Đun sôi nước (khoảng 1/3 nồi), cho gạo nếp vào chõ dàn đều, chọc mấy lỗ thủng to cho thoát nhiệt và thông khí rồi đồ xôi.
+ Dùng vải màn (hoặc khăn xô to sạch) phủ kín để nước không đọng, chảy xuống làm nhão.
+ Thỉnh thoảng mở nắp ra ngoài để chảy bớt phần hơi nước bốc lên, xới cho xôi chín đều.
+ Sau 30 - 35 phút khi xôi chín độ 70 - 80% xới ra rổ hoặc mẹt, tãi đều rồi hong quạt cho nguội. Nếu đồ nhiều xôi nên để nguội, chia nhỏ các suất đủ từng bữa ăn rồi cấp đông.
+ Đồ lửa hai: Trước khi ăn thì đồ xôi lửa hai, vẩy chút nước lạnh, cầu kỳ hơn thêm chút mỡ gà vào trộn đều và tiếp tục đồ thêm 10 - 15 phút cho hạt xôi hút đẫy nước trở nên dẻo mềm là được.
+ Ban đầu, trút toàn bộ thịt đã ướp vào xào săn cho ngấm vị, thêm nước vào xâm xấp mặt thịt. Khi nước sôi thì hớt bỏ bọt, hạ lửa và kho liu riu cho tới khi thịt gần mềm thì trút trứng vào kho tiếp (chú ý thịt kho kiểu Bắc thường chiên trứng, còn thịt kho miền Nam dùng trứng vịt luộc không chiên).
+ Tắp bếp, để thịt nguội cho nước kho sánh và mỡ trong hơn.
+ Trước khi ăn thì kho tiếp lửa hai cho tới khi thịt mềm, trứng và thịt chuyển màu cánh gián, nước hơi sánh là được.
+ Để rán đậu ngon, ban đầu đun nóng mỡ lợn hoặc dầu ăn, khi thử đầu đũa thấy sủi tăm là đạt độ nóng.
+ Hạ lửa vừa rồi cho đậu đã cắt miếng vừa ăn vào.
+ Chú ý xếp dàn ra có khoảng cách để đậu không dính vào nhau.
+ Để yên cho đậu định hình rồi dần se vàng mặt dưới. Lật trở và rán vàng mặt còn lại.
+ Tùy theo khẩu vị mỗi người mà rán lướt ván, rán phồng hoặc rán ''ngoài giòn trong mềm''. Nếu muốn rán nổ cốm và vàng ruộm bên ngoài cần chiên ''hai lửa'' hoặc gộp chung bằng cách tăng nhiệt độ lúc cuối để phản ứng Maillard xảy ra. Lúc này nhiệt cao khiến cho lớp vỏ mỏng bên ngoài vàng giòn mà chưa kịp lan vào trong nên vẫn giữ được độ mềm mọng. Không cần tẩm bột, khoai tây chiên bên ngoài vàng ruộm, giòn tan còn bên trong vẫn giữ chút mềm bùi chấm cùng tương ớt được nhiều bạn nhỏ yêu thích. Khoai mua về gọt vỏ, cắt thành các thanh dài bằng một ngón út. Nếu có dao răng cưa lượn sóng thì cắt càng đẹp rồi ngâm nước muối loãng. Nếu muốn khoai lên màu vàng ươm đẹp mắt có thể chần sơ với nước đun sôi thêm chút bột nghệ rồi vớt ra xả nước lạnh, để ráo nước.
+ Còn nếu chọn được khoai tây Đà Lạt phần thịt vốn vàng nên không cần chần sơ, khi chiên vẫn lên màu vàng đẹp mắt.
+ Bí quyết giúp cho khoai tây giòn rụm, để lâu không bị mềm ỉu là chiên hai lần lửa.
+ Ở lửa một chiên giúp khoai se bề mặt: Căn lượng dầu cho ngập khoai tây rồi cho vào chảo đun nóng dầu ăn.
+ Thử đầu đũa thấy sủi tăm là đạt độ nóng, lần lượt chia khoai thành các mẻ cho vào chiên, thỉnh thoảng đảo nhẹ để tránh gãy.
+ Sau vài phút khi khoai se bề mặt và hơi cứng vớt ra để rổ thưa, bật quạt hong cho khoai nguội hoàn toàn. Nếu có thời gian, để khoai nguội cho vào hộp để ngăn mát tủ lạnh, khi ăn mới chiên lần hai căng nhiệt để thoát dầu đảm bảo khoai luôn giòn rụm, không bị ngấy dù để lâu.

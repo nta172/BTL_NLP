@@ -1,0 +1,18 @@
+Thiết kế chỗ ở dạng module của công ty DEEP sẽ cho phép con người sinh sống thời gian dài dưới nước ở độ sâu hàng trăm mét.
+ DEEP, một công ty công nghệ đại dương ở Anh từng mua lại trung tâm lặn trong mỏ đá ngập nước gần Bristol làm khuôn viên và nơi nghiên cứu, tiết lộ nhiệm vụ của họ là "giúp con người ở dưới nước".
+ Trụ cột trong kế hoạch của công ty là chỗ ở dưới nước mang tên hệ thống Sentinel, cho phép con người sống và làm việc ở độ sâu 200 m trong một tháng, CNN hôm 17/9 đưa tin.
+ Hệ thống Sentinel bao gồm các module nối liền nhau có thể sử dụng cho nhiều mục đích từ thu thập dữ liệu về hóa chất ở biển tới khai quật xác tàu lịch sử.
+ Chỗ ở dễ thay đổi kích cỡ có thể thiết lập cấu hình theo những hình dạng khác nhau, khiến nó phù hợp cho nhiệm vụ 6 người không kém trạm nghiên cứu quy mô lớn, theo DEEP.
+ Công ty hy vọng chỗ ở của họ có thể trở thành xúc tác để con người định cư vĩnh viễn dưới nước, tương tự Trạm Vũ trụ Quốc tế (ISS) cho phép con người sống và làm việc trong không gian từ năm 2000.
+ Tuần trước, DEEP giới thiệu phiên bản chỗ ở dưới nước nhỏ hơn mà công ty sẽ sử dụng để phát triển các hệ thống cho Sentinel.
+ Vanguard là chỗ ở kích thước 12 x 7,5 m, có đủ không gian cho 3 người ở dưới nước trong một tuần.
+ Chỗ ở thí điểm này sẽ sẵn sàng hạ xuống nước trong khuôn viên của DEEP tại Anh vào đầu năm 2025. Nó có thể phục vụ các mục đích quan trọng khi cần triển khai nhanh như nhiệm vụ tìm kiếm người sống sót trong vụ chìm siêu du thuyền ngoài khơi Sicily hồi tháng 8, theo chủ tịch của DEEP.
+ Với tàu chìm xuống độ sâu 50 m, thợ lặn chỉ có thể ở dưới nước khoảng 12 phút trước khi phải nổi lên.
+ Thay vào đó, một chỗ ở đặt trên đáy biển gần xác tàu có thể đóng vai trò như một cơ sở cho thợ lặn.
+ Hiện nay, chỉ có duy nhất một phòng thí nghiệm dưới nước đang hoạt động do Đại học Quốc tế Florida vận hành, phục vụ từ các nhà nghiên cứu tìm hiểu san hô tới phi hành gia huấn luyện làm quen với môi trường cực hạn. Nếu tất cả theo đúng kế hoạch, Sentinel sẽ sẵn sàng hoạt động vào năm 2027.
+ Wolpert hy vọng có thể triển khai hệ thống ở nhiều địa điểm trên thế giới. Nhưng DEEP thừa nhận họ sẽ cần nỗ lực nhiều để đạt mục tiêu tham vọng này.
+ Các module của Sentinel sẽ được in 3D bởi 6 robot, sử dụng thép gia cố bằng siêu hợp kim chứa nickel mang tên Inconel, có thể chịu điều kiện cực hạn, cũng dùng trong những bộ phận của tàu con thoi và tên lửa SpaceX.
+ Tùy theo áp suất hoạt động, hệ thống Sentinel có thể tiếp cận bằng cả tàu ngầm hoặc thợ lặn, tiến vào qua lỗ ở đáy. Một phao nổi hỗ trợ trên mặt nước sẽ đảm bảo kết nối qua vệ tinh Starlink.
+ Chỗ ở sẽ sử dụng nguồn điện tái tạo như turbine gió và tấm quang điện ở mặt nước.
+ DEEP đang bàn bạc với các tổ chức và chính phủ trên khắp thế giới. Khách hàng có thể thuê, mua hoặc dùng chung không gian trong hệ thống Sentinel tùy theo nhu cầu của họ. Ngoài thúc đẩy tạo ra công việc và khoản đầu tư mới liên quan tới đại dương, những cách sử dụng khác của hệ thống bao gồm theo dõi và sửa chữa cơ sở hạ tầng quan trọng dưới biển, du lịch, huấn luyện du hành không gian, tái tạo san hô, đào tạo lặn hải quân và nghiên cứu y học.
+ Sau khi hoàn thành nhiệm vụ, chỗ ở có thể được tái triển khai ở vị trí mới.

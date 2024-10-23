@@ -1,0 +1,14 @@
+Nivdia kỷ niệm 25 năm ngày ra mắt GeForce 256 - GPU đầu tiên trên thế giới, giữa bối cảnh vốn hoá công ty đạt 3,4 nghìn tỷ USD, vượt qua Microsoft và sắp đuổi kịp Apple.
+ GeForce 256, công bố năm 1999, được đánh giá không đơn thuần là một card đồ họa mà đã đặt nền tảng cho những tiến bộ của game và máy tính sau này. "GeForce 256 có thể giảm tải cho CPU, cho phép các nhà phát triển tích hợp nhiều chi tiết hơn vào trò chơi mà không làm giảm hiệu suất", Tom’s Hardware nhận định.
+ Theo các nhà phân tích, việc giới đầu tư đặt cược vào nhu cầu mạnh mẽ đối với bộ xử lý AI Blackwell thế hệ tiếp theo là động lực lớn cho Nvidia tiếp tục tăng giá trị, với giá trị cổ phiếu có thể đạt 165 USD, theo công ty nghiên cứu TD Cowen.
+ Dòng chip mới chuyên dùng cho các hệ thống AI, có giá dự kiến từ 30.
+000 đến 40.
+000 USD, được cho là "đang được đặt hàng một cách điên rồ".
+ Theo CNBC, Nvidia giống như những người bán cuốc xẻng ở thời kỳ cơn sốt đào vàng, khi cung cấp công cụ cho các hệ thống AI - xu hướng mới trong thời đại kỹ thuật số.
+ Từ những ông lớn như Microsoft, Meta, Google và Amazon đến các công ty nhỏ đều xếp hàng để mua những bộ GPU mạnh mẽ nhằm dẫn đầu trong cơn sốt.
+ Ở thị trường chip đào tạo AI có khả năng suy luận, Nvidia chiếm 95% thị phần, theo hãng nghiên cứu Mizuho.
+ Các nhà phân tích cũng dự đoán nhu cầu xây dựng trung tâm dữ liệu AI sẽ giúp doanh thu hàng năm của Nvidia tăng gấp đôi, lên gần 126 tỷ USD. Nvidia thành lập năm 1993 bởi ba kỹ sư Jensen Huang, Chris Malachowsky và Curtis Priem - những người dự đoán khi máy tính phát triển sẽ cần những bộ xử lý đồ họa (GPU) phức tạp.
+ Ván cược được đền đáp khi năm 2000, họ giành hợp đồng lớn đầu tiên: sản xuất chip cho máy chơi game Xbox của Microsoft. Kể từ đó, Nvidia được chú ý hơn nhờ các sản phẩm GPU cho máy tính. Khi làn sóng khai thác tiền số diễn ra, công ty lại tiếp tục hưởng lợi nhờ cơn khát card đồ họa.
+ Đầu 2022, hãng công bố H100 - bộ xử lý đồ họa GPU mạnh nhất từng chế tạo và vẫn là một trong những chip đắt nhất hiện nay với giá 40.
+000 USD. Khi đó, giới chuyên gia nhận định Nvidia chọn sai thời gian công bố, bởi các doanh nghiệp đang tìm cách thắt chặt chi tiêu và sa thải nhân sự.
+ Tuy nhiên, thực tế đã chứng minh ngược lại khi OpenAI ra mắt ChatGPT và trào lưu AI bùng nổ trên thế giới.

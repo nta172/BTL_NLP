@@ -1,0 +1,15 @@
+Các nhà khoa học chế tạo viên pin hạt nhân mới sử dụng nguyên tố americium, có kích thước milimet và phát điện ổn định.
+ Từ những năm 1900, giới nghiên cứu đã muốn sử dụng nguyên tử phóng xạ để chế tạo pin có tuổi thọ và khả năng chống hư hỏng vượt trội. Một số nguyên mẫu đã được lắp ráp, thậm chí sử dụng trong các nhiệm vụ không gian, nhưng không hiệu quả.
+ Trong nghiên cứu mới công bố trên tạp chí Nature hôm 18/9, chuyên gia Shuao Wang tại Đại học Đông Ngô, Trung Quốc, cùng đồng nghiệp tăng hiệu suất của thiết kế pin hạt nhân lên gấp 8.
+000 lần.
+ Đầu tiên, nhóm nghiên cứu sử dụng một mẫu nhỏ nguyên tố americium, thường được coi là chất thải hạt nhân. Nó phát năng lượng dưới dạng các hạt alpha, vốn mang nhiều năng lượng nhưng nhanh chóng thất thoát vào môi trường xung quanh.
+ Do đó, nhóm chuyên gia đặt americium vào một tinh thể polymer để chuyển hóa năng lượng này thành ánh sáng xanh liên tục và ổn định.
+ Tiếp theo, họ kết hợp tinh thể chứa americium phát sáng với tấm pin quang điện mỏng.
+ Cuối cùng, họ đóng gói pin hạt nhân tí hon này vào một tấm thạch anh kích thước milimet.
+ Wang cho biết, trong hơn 200 giờ thử nghiệm, thiết bị đã cung cấp nguồn điện ổn định với năng lượng tương đối cao và hiệu suất chưa từng có. Nó cũng chỉ cần một lượng nhỏ vật liệu phóng xạ để hoạt động.
+ Dù americium có thời gian bán rã 7.
+380 năm, pin hạt nhân sẽ hoạt động được trong vài thập kỷ, vì các thành phần xung quanh sẽ dần bị phóng xạ phá hủy.
+ Pin mới có hiệu suất chuyển đổi tổng thể và công suất đầu ra được cải thiện rất nhiều so với các thiết kế trước đây, theo nhà nghiên cứu Michael Spencer tại Đại học Bang Morgan, Maryland.
+ Tuy nhiên, nó vẫn tạo ra ít năng lượng hơn nhiều so với các thiết bị truyền thống.
+ Ví dụ, cần tới 40 tỷ viên pin để cung cấp năng lượng cho một bóng đèn 60 watt. Nhóm nghiên cứu đang tiếp tục tìm cách tăng hiệu suất và công suất đầu ra của loại pin mới.
+ Họ cũng muốn làm cho viên pin dễ sử dụng và an toàn hơn vì nó chứa vật liệu phóng xạ có thể gây nguy hiểm. "Chúng tôi hình dung pin hạt nhân tí hon của mình sẽ được sử dụng để cung cấp năng lượng cho cảm biến nhỏ trong những môi trường xa xôi hoặc khắc nghiệt mà nguồn điện truyền thống không thể hoạt động, như dưới biển sâu, trong nhiệm vụ không gian hoặc trạm giám sát từ xa", Wang nói.

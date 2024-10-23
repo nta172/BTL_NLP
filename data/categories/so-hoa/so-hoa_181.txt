@@ -1,0 +1,16 @@
+Lotus Chat có giao diện và một số tính năng giống Telegram, bổ sung thêm một số công cụ tối ưu cho người dùng tại Việt Nam.
+ Trong sự kiện chiều 18/10 tại Hà Nội, ông Nguyễn Thế Tân, Tổng giám đốc VCCorp, đơn vị phát triển Lotus Chat, đánh giá các ứng dụng chat, nhắn tin đang là môi trường chiếm phần lớn trong thời gian sử dụng của người dùng Internet hàng ngày.
+ Tại đây, họ có thể chia sẻ nhiều thông tin quan trọng như thẻ tín dụng, hợp đồng, thông tin cá nhân, công việc, đồng thời giao tiếp với nhiều nhóm người khác nhau, như người thân, đồng nghiệp, đối tác, và thậm chí cả người lạ. "Việc này khiến họ phải đối diện với vô vàn rủi ro, như bị quấy rối, lừa đảo, lộ thông tin, làm phiền, hoặc vô tình thất thoát các thông tin quan trọng", ông Tân nói. "Đó là suy nghĩ khi xây dựng Lotus Chat, hướng tới an toàn trong giao tiếp và hiệu quả hơn trong công việc".
+ Ứng dụng của VCCorp phát triển có nhiều điểm trong giao diện và tính năng giống phần mềm Telegram, nhưng bổ sung một số tính năng tối ưu hóa cho người dùng Việt, như trợ lý nhắc việc Lota có thể lên lịch theo lịch âm.
+ Trả lời tại sự kiện, ông Tân cho biết app sử dụng một số yếu tố mã nguồn mở từ Telegram, chiếm hơn 30%, như cơ chế đồng bộ dữ liệu trên app ở các nền tảng khác nhau. "Nhưng tư duy về sản phẩm và phần server là 100% của kỹ sư Việt", ông nói.
+ Theo đại diện nhóm phát triển, Lotus Chat được xây dựng dựa trên bốn trụ cột, gồm tính an toàn, bảo vệ chủ động, phục vụ công việc và sự luôn sẵn sàng.
+ Ứng dụng có các tính năng như đặt bí danh, cho phép tạo ra nhiều tên riêng sử dụng cho các nhóm chat khác nhau để tránh lộ thông tin hoặc làm phiền.
+ Ứng dụng cũng cho phép tùy chọn một số tính năng như ngăn chuyển tiếp, tải xuống hay tự xóa tin nhắn, giúp hạn chế tình trạng rò rỉ dữ liệu.
+ Với các cuộc trò chuyện quan trọng, app hỗ trợ bảo mật bằng mật khẩu, tự xóa hoặc chống xóa sửa tin nhắn, mã hóa trên đường truyền. Ngoài ra, ứng dụng có tính năng chống chuyển tiếp, tải xuống, chụp ảnh màn hình, nhằm hạn chế rò rỉ thông tin quan trọng.
+ Về công việc, ứng dụng cho phép gửi file nặng tối đa 1 GB, không bị xóa.
+ Giao diện chat hỗ trợ ghi âm cuộc gọi, tạo convo - tức cuộc trao đổi riêng với thành viên, ghim tin nhắn.
+ Tại sự kiện, ông Tân cũng nhấn mạnh tính sẵn sàng, khi người dùng "chỉ cần đăng nhập là các đoạn hội thoại, tài liệu có sẵn để sử dụng, không cần thao tác đồng bộ, không lo file ảnh để lâu bị mất, bị xóa".
+ Điều này được cho là nhằm giải quyết một vấn đề từng gặp với ứng dụng Zalo khi giới hạn dung lượng lưu trữ và thường xuyên gặp vấn đề về đồng bộ tin nhắn cũ. Lotus Chat hiện có thể tải về và cài đặt trên smartphone iOS, Android, máy tính macOS và Windows.
+ Để sử dụng, người dùng cần đăng ký bằng số điện thoại, hoặc đăng nhập bằng Apple ID, Viet ID.
+ Đây là ứng dụng chat tiếp theo do doanh nghiệp Việt phát triển phục vụ người dùng cuối, bên cạnh Zalo của VNG.
+ Theo thống kê tháng 8 năm ngoái của Bộ Thông tin và Truyền thông, Zalo có khoảng 75 triệu người dùng thường xuyên và là ứng dụng chat phổ biến nhất tại Việt Nam.

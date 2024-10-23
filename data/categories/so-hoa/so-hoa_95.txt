@@ -1,0 +1,36 @@
+Cần tìm hiểu kiến thức nhưng không có thời gian đọc sách, Minh Xuân tạo ứng dụng sách nói, trở thành một trong những phần mềm nổi bật trong nước.
+ Trong danh sách ứng dụng nổi bật tháng 9 trên cửa hàng App Store, Fonos - do Minh Xuân, 37 tuổi, đồng phát triển - là một trong những ứng dụng Việt tiêu biểu.
+ Đây cũng là ứng dụng về sách duy nhất trong danh sách.
+ Apple gọi Fonos là nơi cung cấp "thư viện khổng lồ với hàng nghìn sách điện tử, sách nói và khóa học video có bản quyền bằng tiếng Việt".
+ Fonos là sản phẩm của 5 năm phát triển, xuất phát từ chính nhu cầu của những người sáng lập về việc "nghe sách".
+ Xuân cho biết ý tưởng đến vào đúng giai đoạn cô bận rộn nhất khi vận hành một công ty về ẩm thực.
+ Công việc đòi hỏi cô phải liên tục mở rộng kiến thức, tìm tòi thêm trong sách vở. Nhưng sự bận rộn khiến cô không có nhiều thời gian ngồi yên để đọc một cuốn sách như trước.
+ Sau những ngày làm việc, di chuyển nhiều, mắt mỏi khiến cầm một cuốn sách lên đọc cũng là thách thức. "Lúc đó chỉ ước có người đọc sách cho mình nghe", cô nhớ lại.
+ Trên thế giới, giải pháp như vậy đã xuất hiện từ lâu, được gọi là sách nói, và được một số nhà sách phát hành qua ứng dụng riêng hoặc thông qua các nền tảng như video, podcast.
+ Tuy nhiên tại thị trường trong nước, nội dung tiếng Việt dạng này còn sơ khai.
+ Từng tìm thử các lựa chọn sách nói tại Việt Nam, Xuân cho biết chưa thực sự ưng ý vì số lượng đầu sách ít, chưa được cập nhật và là chất lượng âm thanh chưa cao. Nhận ra khoảng trống và biết sẽ có nhiều người có nhu cầu giống mình, Xuân bàn với chồng là Oscar Jesionek - người có nền tảng về công nghệ, quyết định khám phá thị trường này.
+ Fonos ra đời và có mặt trên thị trường vào tháng 4/2020.
+ Sản phẩm cốt lõi của Fonos là nội dung được cung cấp dưới dạng âm thanh, ban đầu là các cuốn sách nổi tiếng, sách tóm tắt và các bài thiền. Người dùng sẽ được nghe thử miễn phí chương đầu của mỗi cuốn, sau đó quyết định có trả tiền để nghe toàn bộ hay không.
+ Để làm điều này, Minh Xuân phải liên hệ các nhà xuất bản để xin cấp bản quyền, tìm giọng đọc phù hợp cho từng cuốn sách, trong khi Oscar Jesionek phụ trách việc xây dựng ứng dụng, đưa nội dung đến với nhiều người nhất có thể.
+ Hiện Fonos được cung cấp qua ứng dụng trên smartphone, thiết bị thông minh, ôtô. "Nó cho phép mọi người tiêu thụ nội dung, học hỏi điều mới trong khoảng thời gian trống nhỏ trong ngày.
+ Xu hướng này đang phổ biến ở Việt Nam khi ngày càng nhiều người theo đuổi lối sống hiện đại", Xuân nói. Năm 2021, Fonos gọi vốn được 1,1 triệu USD, trước khi gọi thêm 1,8 triệu USD vào năm 2022.
+ Từ đầu 2023, ứng dụng liên tục nằm trong nhóm được tải về nhiều trên hai kho ứng dụng App Store và Google Play.
+ Các bản ghi được nghe hơn 5 triệu lần trong nửa đầu 2023.
+ Đến nay, Fonos có hơn 13 nghìn nội dung và tiếp tục được cập nhật.
+ Trên thế giới, audiobook là thị trường trị giá hơn 8,15 tỷ USD năm 2024, dự kiến đạt hơn 53 tỷ USD vào 2032, theo Straits Research.
+ Còn tại Việt Nam, thống kê của Statista cho thấy thị trường sách nói có doanh thu khoảng 14 triệu USD năm nay, dự kiến đạt 23,1 triệu USD và 35,6 triệu người dùng vào 2029, mức tăng trưởng khoảng 10% mỗi năm.
+ Đây là cơ hội trong lĩnh vực còn nhiều dư địa phát triển, nhưng cũng là thách thức với các dự án khởi nghiệp.
+ Theo hai nhà sáng lập, điều khó khăn khi xây dựng một sản phẩm mới là cần xác định liệu mọi người có thực sự sẵn sàng trả tiền để dùng hay không.
+ Họ từng nhận nhiều lời cảnh báo về việc người tiêu dùng trong nước chưa sẵn lòng chi trả cho nội dung kỹ thuật số. "Tuy nhiên, chúng tôi tin người dùng Việt Nam về cơ bản không khác so với người dùng ở những nơi khác trên thế giới. Muốn thu phí cho dịch vụ của mình, kỳ vọng về chất lượng sẽ phải đặc biệt cao", Jesionek nhận định.
+ Còn theo Xuân, với sản phẩm như sách nói, yếu tố quan trọng nhất vẫn là chất lượng nội dung, đặc biệt là bản ghi âm, tiếp đến việc cập nhật sách mới, được nhiều người quan tâm, và cuối cùng là trải nghiệm người dùng. Năm 2020, lĩnh vực này còn khá mới tại Việt Nam và không có nhiều tiền lệ trong việc sản xuất, họ phải tìm và thử từng lựa chọn. "Liệu nên sử dụng một hay nhiều giọng đọc, giọng đọc có nên thay đổi tùy thuộc vào từng cuốn sách hay không, có nên thêm nhạc nền..." là những câu hỏi mà đội ngũ mất nhiều tháng để trả lời.
+ Họ chấp nhận "thử và sai", đồng thời lắng nghe phản hồi của người dùng để tìm ra cách làm phù hợp.
+ Đây cũng là lý do mà trong thời đại AI phát triển, các ứng dụng chuyển từ văn bản sang giọng nói nở rộ và có chất lượng tiệm cận giọng người thật, nhưng Fonos vẫn chưa áp dụng AI cho việc đọc, tiếp tục sử dụng các giọng đọc (voice talent) chuyên nghiệp của con người. "Đối với những dạng nội dung dài như sách, người nghe sẽ dành nhiều thời gian và chất lượng của giọng đọc có ảnh hưởng lớn đến cách người nghe kết nối với nội dung", Xuân nói.
+ Theo hai nhà sáng lập, mặc dù rất cởi mở và cập nhật sự phát triển của giọng đọc AI, các giải pháp AI tiếng Việt hiện chưa thể chuyển văn bản thành giọng nói đạt hoặc vượt qua chất lượng do giọng đọc chuyên nghiệp cung cấp.
+ AI có thể giúp họ giảm chi phí, thời gian tạo ra một cuốn sách nói, nhưng "một người đọc khéo léo mang lại sức sống cho văn bản, làm cho trải nghiệm nghe trở nên thú vị và hấp dẫn".
+ Theo Xuân, quá trình cung cấp sản phẩm sách nói khiến cô có thêm sự thấu hiểu về nhu cầu của người dùng, thể hiện qua việc chọn sách.
+ Theo đó, người Việt có nhu cầu mạnh đối với các cuốn sách về chủ đề phức tạp và sâu sắc, không đơn thuần giải trí.
+ Trong thời gian tới, nền tảng Việt này cũng bổ sung PodCourse, dạng chia sẻ kiến thức từ các chuyên gia, tái tạo trải nghiệm được nghe chia sẻ trực tiếp trong nhiều lĩnh vực khác nhau.
+ Tại cuộc họp của Bộ Thông tin và Truyền thông cuối năm 2023, Cục trưởng Xuất bản, In và Phát hành Nguyễn Nguyên đánh giá người đọc Việt ngày càng nhanh chóng tiếp cận các xu hướng đọc của thế giới, trong đó có sách nói, biến đây trở thành thị trường tiềm năng.
+ Tại Việt Nam, ngoài Fonos còn có một số tên tuổi khác cũng tham gia thị trường và thu hút được một lượng người dùng đông đảo là Waka hay Voiz FM, bên cạnh những người làm nội dung trên nền tảng video, podcast.
+ Ông Nguyên đánh giá thị trường sách nói ở Việt Nam đã bước đầu được xác lập với đầy đủ bộ phận cấu thành và đang có nhiều cơ hội phát triển.
+ Tuy nhiên sẽ cần giải quyết nhiều thách thức để loại hình này, như vấn đề bảo vệ bản quyền trên không gian mạng, chi phí sản xuất sách nói còn cao (gấp 2-3 lần so với sách điện tử), chưa có chính sách ưu đãi đặc thù để đẩy mạnh xuất bản điện tử, cũng như nhân lực phát triển sách nói còn hạn chế.

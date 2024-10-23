@@ -1,0 +1,32 @@
+Phát triển giải pháp pin cát để dùng trong sấy khô và sưởi ấm, startup chưa đầy 2 tuổi Alternō liên tiếp nhận các đợt rót vốn triệu USD.
+ Hôm 14/10, Quỹ Schneider Electric Energy Access Asia (SEEAA) công bố đầu tư vào Alternō trong vòng gọi vốn 1,5 triệu USD cùng các quỹ đầu tư khác như The Radical Fund, Touchstone Partners.
+ Đây là khoản rót vốn thứ hai của SEEAA tại Việt Nam, sau startup xe máy điện Selex Motors.
+ Ông Đồng Mai Lâm, Tổng giám đốc Schneider Electric Việt Nam và Campuchia, cho biết lựa chọn dự án vì công nghệ pin cát có nhiều tiềm năng, phù hợp với cam kết khử carbon và thúc đẩy năng lượng tái tạo.
+ Trước vòng đầu tư này, Alterno từng nhận hàng trăm nghìn USD từ các đợt rót vốn và tài trợ của các quỹ Antler, Impact Square; Temasek; P4G; JICA và một bên khác.
+ Tổng vốn huy động được đến nay đạt 1,71 triệu USD.
+ Chỉ chưa đầy 2 năm tuổi, Alterno đồng sáng lập bởi Hồ Việt Hải, Kent Nguyễn và Nguyễn Quốc Nam.
+ Cùng sinh năm 1985, mỗi người đều có kinh nghiệm trong lĩnh vực kỹ thuật, phát triển phần mềm và môi trường.
+ Trước khi Alternō ra mắt, Hải và Kent đã bắt tay vào dự án du lịch bền vững, là bước đệm cho sự hợp tác của họ trong tương lai. Khi Hải đang giải quyết những thách thức của cuộc sống ngoài lưới điện thì Kent tình cờ biết công nghệ pin cát.
+ Tháng 11/2022, họ cùng tham gia khóa ươm tạo dành cho các nhà khởi nghiệp của quỹ Antler và gặp Nam.
+ Cả ba cùng nhau bắt tay lập Alternō và đăng ký bằng sáng chế công nghệ cho pin cát ở Việt Nam vào tháng 2/2023.
+ Về cấu tạo, pin cát Alternō là một thùng thép cách nhiệt, chứa cát mịn bên trong.
+ Phần lõi cát gồm những thanh thép được nối với nguồn điện bên ngoài để nung cát nóng đến 600 độ C, biến cát thành "kho nhiệt".
+ Pin cát còn đi kèm một con chip thông minh đặt trong lõi, cùng các cảm biến xen giữa các lớp cát, từ đó gửi thông số về hoạt động của pin tới ứng dụng quản lý.
+ Công nghệ cũng đã được đăng ký sở hữu trí tuệ tại Mỹ.
+ Tương tự các hệ thống pin cát trên thế giới, Đồng sáng lập kiêm CEO Hồ Việt Hải cho biết pin của họ lấy năng lượng từ các nguồn tái tạo tại chỗ như điện gió, điện mặt trời mái nhà, thậm chí cả điện lưới.
+ Trong mùa hè, các doanh nghiệp có thể tranh thủ giá điện lưới thấp hơn vào ban đêm để nạp đầy năng lượng vào pin cát. "Pin cát của chúng tôi có lợi thế rẻ hơn đáng kể và tuổi thọ dài hơn so với pin lithium-ion truyền thống, sẽ gia tăng tác động giải quyết thách thức lớn nhất về lưu trữ dài hạn với chi phí tối ưu", Việt Hải nói.
+ Đến nay, giải pháp pin cát của startup này đã tìm được một số khách hàng trong nông nghiệp và sản xuất.
+ Ví dụ DoTea dùng pin cát sấy trà để không thải ra khói, tránh ảnh hưởng đến khu dân cư.
+ Hay Sucden, một nhà cung cấp cà phê có nhu cầu khử carbon trong quá trình sấy. Một trong số những khách hàng đầu tiên của Alternō là nông trại Ecovi Farm tại Ninh Hòa, Khánh Hòa.
+ Chị Nguyễn Thị Lê Na, Nhà sáng lập EcoVi Farm cho biết nông trại đặt ở nơi khô, nóng và thậm chí không có điện lưới nên lắp máy sấy từng là điều không tưởng. "Kể cả dùng điện mặt trời cho máy thì cũng gặp trường hợp hết điện vào ban đêm hay những ngày mưa kéo dài, làm ảnh hưởng đến chất lượng sản phẩm cũng như gián đoạn quá trình sản xuất", chị nói.
+ Vì vậy, chị Lê Na đánh giá công nghệ sấy bằng nguồn nhiệt từ pin cát phù hợp với điều kiện của nông trại nên quyết định đầu tư đầu năm nay.
+ Tổng chi phí toàn bộ hệ thống máy sấy, pin cát và điện mặt trời gần200 triệu đồng, với pin được bảo hành 12 năm.
+ Theo chị, chiếc máy sấy sử dụng hết công suất bằng điện lưới và tiền điện mỗi tháng sẽ tầm 6-7 triệu, nhưng với 60 triệu đầu tư cho hệ thống điện năng lượng mặt trời sẽ không phải trả tiền điện. Như vậy chỉ sau 1-2 năm đã có thể hoàn vốn đầu tư cho riêng hệ thống điện năng lượng mặt trời cung cấp cho pin. "Còn tính toàn bộ chi phí đầu tư hệ thống thì sau hơn 3 năm, số tiền điện tiết kiệm được đã đủ hoàn vốn đầu tư, chưa kể những giá trị gia tăng chính từ hệ thống mang lại", chị cho biết. Không dừng lại ở nông nghiệp, Alternō định mở rộng khả năng trữ nhiệt lên đến 1.
+500°C để ứng dụng đa dạng hơn trong các lĩnh vực công nghiệp, sưởi ấm và cung cấp nhiệt cho các tòa nhà.
+ Theo nhóm sáng lập, những phân khúc này nhắm đến thị trường châu Âu, đặc biệt là các vùng phía Bắc, nơi không có sẵn điện lưới nhưng phổ biến các tấm pin mặt trời.
+ Theo Cơ quan Năng lượng Quốc tế (IEA), hiện năng lực sản xuất điện tái tạo của thế giới đang tăng trưởng mạnh mẽ nhất 3 thập kỷ qua.
+ Dự báo đến 2028, công suất toàn cầu sẽ đạt 7.
+300 GW.
+ Tuy nhiên, các chuyên gia cho rằng việc ứng dụng năng lượng tái tạo vẫn gặp rào cản lớn khi thiếu các giải pháp lưu trữ năng lượng hiệu quả với giá cả phù hợp.
+ Quỹ SEEAA đánh giá công nghệ pin cát của Alternō đang mở ra một hướng đi mới trong lĩnh vực lưu trữ năng lượng tái tạo, bên cạnh năng lượng mặt trời.
+ Do đó, quyết định rót vốn nhằm gia tăng nguồn lực tài chính, giúp startup này hiện thực hóa công nghệ pin cát thành những giải pháp thương mại bền vững. "Chúng tôi tin rằng thúc đẩy sự phát triển của ngành năng lượng tái tạo là yếu tố then chốt để hiện thực hóa tầm nhìn bền vững khi mọi hoạt động từ sinh hoạt bình thường đến sản xuất, kinh doanh đều đang gắn liền với nhu cầu sử dụng năng lượng", ông Đồng Mai Lâm nhận định.

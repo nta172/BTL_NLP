@@ -1,1 +1,14 @@
-Hệ thống phóng Starship cao khoảng 120 m, sức chở 150 tấn, cả tên lửa tầng đẩy và tàu vũ trụ đều thiết kế có thể tái sử dụng.
+Tiếng Việt là một trong những ngôn ngữ đầu tiên ngoài tiếng Anh được hỗ trợ trên bộ tính năng Apple Intelligence từ 2025.
+ Apple thông báo Apple Intelligence sẽ ra mắt dưới dạng bản cập nhật miễn phí cho mọi thiết bị có hỗ trợ của hãng.
+ Phiên bản beta đầu tiên sẽ khả dụng vào tháng tới trên iOS 18.
+1, iPadOS 18.
+1 và macOS Sequoia 15.
+1 nhưng chỉ khi ngôn ngữ thiết bị được cài đặt là tiếng Anh Mỹ.
+ Theo kế hoạch, Apple Intelligence sẽ hỗ trợ thêm tiếng Anh được bản địa hóa tại Australia, Canada, New Zealand, Nam Phi và Anh trong tháng 12.
+ Từ năm tới, bộ tính năng AI của Apple sẽ mở rộng sang nhiều nền tảng và ngôn ngữ hơn, như tiếng Việt, Trung, tiếng Anh (Ấn Độ), tiếng Anh (Singapore), Pháp, Đức, Italy, Nhật, Hàn, Bồ Đào Nha, Tây Ban Nha.
+ Apple Intelligence tiếng Việt cho thấy nhiều khả năng trợ lý ảo Siri cũng sẽ hỗ trợ tiếng Việt. Ngoài ra lệnh trực tiếp trên điện thoại, tablet, laptop của hãng, Siri cũng cho phép người Việt điều khiển thiết bị nhà thông minh với nền tảng Homekit bằng ngôn ngữ mẹ đẻ.
+ Các thiết bị trong danh sách hỗ trợ bao gồm iPhone 16, 16 Plus, 16 Pro, 16 Pro Max,15 Pro, 15 Pro Max, iPad và Mac dùng chip M1 trở lên.
+ Apple lần đầu đưa ra khái niệm Apple Intelligence - hệ thống trí tuệ cá nhân cho iPhone, iPad và máy Mac - tại sự kiện WWDC 2024 ngày 10/6.
+ Bộ tính năng có thể tự nhận diện thông báo, tin nhắn quan trọng, tổng hợp nội dung email, viết lại đoạn văn hay xóa vật thể trong ảnh.
+ CEO Tim Cook gọi đây là "chương mới của Apple", hứa hẹn thay đổi hoàn toàn cách người dùng sử dụng sản phẩm.
+ Dù vậy, nó bị đánh giá là chậm chân so với các đối thủ.

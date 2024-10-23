@@ -1,23 +1,7 @@
-Một số người dùng tại Việt Nam cho biết iPhone 16 của họ dính lỗi Panic Full - hiện tượng máy tự khởi động lại hoặc tắt nguồn đột ngột.
-Thành Tiến (Hoàng Mai, Hà Nội) cho biết mới mua iPhone 16 Pro Max được 5 ngày nhưng máy liên tục tự khởi động không rõ nguyên nhân.
-"Tôi đã thử reset, cài đặt lại toàn bộ, tình trạng đỡ hơn nhưng vẫn xuất hiện.
-Cửa hàng đã kiểm tra và nói đây là lỗi Panic Full, cần chờ thêm một thời gian vì chưa có cách khắc phục triệt để, nhưng không cho đổi máy mới", anh nói.
-Trên nhiều hội nhóm sử dụng iPhone ở cả Việt Nam và thế giới, các chủ đề liên quan đến lỗi Panic Full của iPhone 16 đều đang thu hút hàng trăm lượt bình luận, một số người bày tỏ sự khó chịu hoặc hoang mang.
-Trong khi đó, Apple chưa lên tiếng về sự cố.
-Panic Full là tình trạng điện thoại tự khởi động lại dù đang hoặc không sử dụng, cũng như tắt nguồn đột ngột, với tần suất không giống nhau.
-Không như hiện tượng treo ứng dụng, Panic Full ảnh hưởng tới hệ thống, dẫn đến treo toàn bộ máy.
-Nguyên nhân có thể do cả phần cứng, phần mềm hoặc sự cố với firmware.
-Một cửa hàng bán lẻ thiết bị Apple tại Hà Nội cho biết trong hơn hai tuần đã tiếp nhận gần 30 trường hợp lỗi Panic Full, đa số là iPhone 16 Pro Max, có thể do tỷ lệ mua phiên bản này cao nhất.
-Một hệ thống bán lẻ khác cũng ghi nhận hàng chục khách hàng tới trung tâm bảo hành vì lỗi tương tự.
-"Panic Full cũng xuất hiện trên iPhone thế hệ cũ nhưng số lượng rất ít trong khi chủ yếu là iPhone 16", đại diện đơn vị này nói.
-Các bên đều cho biết sẽ hỗ trợ khách hàng nhưng chưa có phương án chính thức cho việc khắc phục, bảo hành.
-"Các máy đều cài sẵn iOS 18 cho thấy có khả năng phần mềm hệ thống xung đột phần cứng gây ra lỗi", Ngọc Linh, thợ sửa iPhone với hơn 10 năm kinh nghiệm, nhận định.
-Anh cho biết một số máy khi nâng cấp lên bản iOS 18 beta mới nhất không còn gặp hiện tượng này, nên có thể Panic Full là do phần mềm.
-Tuy nhiên, nếu do phần cứng, nhiều khả năng sẽ phải thay mainboard.
-Việc chưa xác định được nguyên nhân chính xác khiến nhiều thợ e ngại xử lý lỗi.
-"Trong trường hợp do phần cứng, việc can thiệp có thể làm mất bảo hành máy, gây tốn kém cho người dùng.
-Nếu do phần mềm, người dùng cần chờ Apple ra bản nâng cấp", anh Linh nói.
-Nếu thấy iPhone thỉnh thoảng khởi động lại hoặc tắt đột ngột, người dùng có thể tự kiểm tra bằng cách truy cập Cài đặt > Quyền riêng tư & Bảo mật > Phân tích & Cải tiến > Dữ liệu phân tích.
-Trong các dòng file, nếu có dòng bắt đầu bằng panic-full... có nghĩa máy gặp lỗi trên.
-Người dùng có thể xóa cài đặt, nâng cấp lên iOS 18 mới nhất để khắc phục.
-Nhiều cửa hàng khuyên không nên tự ý can thiệp phần cứng bởi sẽ bị mất bảo hành, gây khó cho các quy trình sau này.
+Người phụ nữ 33 tuổi mang thai 26 tuần, bật bếp nấu ăn thì bình gas phát nổ gây bỏng lửa 95% cơ thể, tình trạng nguy kịch.
+ Tối 18/10, TS.
+BS Ngô Đức Hiệp, Trưởng Khoa Phỏng Phẫu thuật Tạo hình, Bệnh viện Chợ Rẫy, cho biết bệnh nhân được đưa vào viện cấp cứu sáng cùng ngày, bỏng lửa gas độ 2 và 3, sốc bỏng nặng, mạch và huyết áp không đo được.
+ Các bác sĩ đang nỗ lực điều trị tích cực, tiên lượng dè dặt.
+ Bệnh nhân đang mang thai con thứ 4.
+ Bình thường điều trị bỏng ở bệnh nhân mang thai rất khó khăn, trường hợp này diện tích bỏng lớn, bỏng sâu nên càng nhiều nguy cơ.
+ Bác sĩ khuyến cáo khi xảy ra tai nạn bỏng, cần đưa người gặp nạn ra khỏi khu vực nguy hiểm, sơ cứu bằng cách xối nước lên vết thương để bớt bỏng thêm, bớt đau rồi đưa đến bệnh viện cấp cứu. Nếu nạn nhân ngừng hô hấp, tuần hoàn, cần lập tức hồi sức tim phổi ngay. Không sử dụng đá lạnh hoặc nước đá lạnh để ngâm rửa hay chườm lên vết bỏng. Không được bôi kem đánh răng, nước mắm, dấm, mỡ trăn chưa qua xử lý, lá cây... làm vết bỏng nặng hơn, dễ nhiễm trùng.

@@ -1,23 +1,25 @@
-Một số người dùng tại Việt Nam cho biết iPhone 16 của họ dính lỗi Panic Full - hiện tượng máy tự khởi động lại hoặc tắt nguồn đột ngột.
-Thành Tiến (Hoàng Mai, Hà Nội) cho biết mới mua iPhone 16 Pro Max được 5 ngày nhưng máy liên tục tự khởi động không rõ nguyên nhân.
-"Tôi đã thử reset, cài đặt lại toàn bộ, tình trạng đỡ hơn nhưng vẫn xuất hiện.
-Cửa hàng đã kiểm tra và nói đây là lỗi Panic Full, cần chờ thêm một thời gian vì chưa có cách khắc phục triệt để, nhưng không cho đổi máy mới", anh nói.
-Trên nhiều hội nhóm sử dụng iPhone ở cả Việt Nam và thế giới, các chủ đề liên quan đến lỗi Panic Full của iPhone 16 đều đang thu hút hàng trăm lượt bình luận, một số người bày tỏ sự khó chịu hoặc hoang mang.
-Trong khi đó, Apple chưa lên tiếng về sự cố.
-Panic Full là tình trạng điện thoại tự khởi động lại dù đang hoặc không sử dụng, cũng như tắt nguồn đột ngột, với tần suất không giống nhau.
-Không như hiện tượng treo ứng dụng, Panic Full ảnh hưởng tới hệ thống, dẫn đến treo toàn bộ máy.
-Nguyên nhân có thể do cả phần cứng, phần mềm hoặc sự cố với firmware.
-Một cửa hàng bán lẻ thiết bị Apple tại Hà Nội cho biết trong hơn hai tuần đã tiếp nhận gần 30 trường hợp lỗi Panic Full, đa số là iPhone 16 Pro Max, có thể do tỷ lệ mua phiên bản này cao nhất.
-Một hệ thống bán lẻ khác cũng ghi nhận hàng chục khách hàng tới trung tâm bảo hành vì lỗi tương tự.
-"Panic Full cũng xuất hiện trên iPhone thế hệ cũ nhưng số lượng rất ít trong khi chủ yếu là iPhone 16", đại diện đơn vị này nói.
-Các bên đều cho biết sẽ hỗ trợ khách hàng nhưng chưa có phương án chính thức cho việc khắc phục, bảo hành.
-"Các máy đều cài sẵn iOS 18 cho thấy có khả năng phần mềm hệ thống xung đột phần cứng gây ra lỗi", Ngọc Linh, thợ sửa iPhone với hơn 10 năm kinh nghiệm, nhận định.
-Anh cho biết một số máy khi nâng cấp lên bản iOS 18 beta mới nhất không còn gặp hiện tượng này, nên có thể Panic Full là do phần mềm.
-Tuy nhiên, nếu do phần cứng, nhiều khả năng sẽ phải thay mainboard.
-Việc chưa xác định được nguyên nhân chính xác khiến nhiều thợ e ngại xử lý lỗi.
-"Trong trường hợp do phần cứng, việc can thiệp có thể làm mất bảo hành máy, gây tốn kém cho người dùng.
-Nếu do phần mềm, người dùng cần chờ Apple ra bản nâng cấp", anh Linh nói.
-Nếu thấy iPhone thỉnh thoảng khởi động lại hoặc tắt đột ngột, người dùng có thể tự kiểm tra bằng cách truy cập Cài đặt > Quyền riêng tư & Bảo mật > Phân tích & Cải tiến > Dữ liệu phân tích.
-Trong các dòng file, nếu có dòng bắt đầu bằng panic-full... có nghĩa máy gặp lỗi trên.
-Người dùng có thể xóa cài đặt, nâng cấp lên iOS 18 mới nhất để khắc phục.
-Nhiều cửa hàng khuyên không nên tự ý can thiệp phần cứng bởi sẽ bị mất bảo hành, gây khó cho các quy trình sau này.
+Cá nhân chuyển mục đích sử dụng, xin cấp sổ đỏ, tách thửa đất và có đất nằm trong các khu quy hoạch treo sẽ chịu tác động mạnh từ bảng giá đất mới, theo HoREA. Ngày 22/10, TP HCM chốt bảng giá đất điều chỉnh, cao nhất 678 triệu đồng một m2 thuộc ba tuyến đường trung tâm và thấp nhất 2,3 triệu đồng ở huyện Cần Giờ.
+ Bảng giá đất này sẽ áp dụng từ ngày 31/10 đến hết năm 2025.
+ Ông Lê Hoàng Châu, Chủ tịch Hiệp hội bất động sản TP HCM (HoREA), cho rằng bảng giá đất điều chỉnh đảm bảo hài hòa lợi ích của người sử dụng đất, nhà đầu tư và Nhà nước.
+ Tuy nhiên, theo ông, 4 nhóm sẽ chịu tác động mạnh khi bảng giá đất điều chỉnh.
+ Cụ thể, cá nhân có nhu cầu xin công nhận quyền sử dụng đất ở, trước hết là 13.
+035 thửa đất mà người sử dụng đất chưa được cấp giấy chứng nhận lần đầu.
+ Bên cạnh đó, người dân xin chuyển mục đích sử dụng đất với phần diện tích đất nông nghiệp, đất phi nông nghiệp trong cùng thửa có nhà ở, mà phần đất xây nhà đã có "sổ hồng" nằm xen kẽ trong đô thị, khu dân cư nông thôn. Nhóm chịu ảnh hưởng nữa là trường hợp xin tách thửa với đất ở, nông nghiệp, phi nông nghiệp không phải là đất ở, đồng thời với chuyển mục đích sử dụng.
+ Đặc biệt, cá nhân, hộ gia đình có nhà nằm trong khu vực "quy hoạch treo", như dự án Bình Qưới Thanh Đa, nhiều năm chưa được cấp quyền sử dụng đất.
+ Theo đó, chi phí nộp tiền sử dụng đất khi chuyển đổi mục đích, tách thửa, cấp sổ với đất nông nghiệp, phi nông nghiệp không phải là đất ở sẽ tăng cao hơn nhiều lần so với trước đó. "Cơ quan quản lý cũng cần có chính sách quan tâm đến 4 trường hợp chịu tác động không mong muốn của bảng giá đất mới", HoREA kiến nghị.
+ Bảng giá đất điều chỉnh được dùng làm căn cứ để tính tiền bồi thường, xác định giá đất cho người tái định cư với người được bồi thường về đất ở; tính thuế sử dụng, thu nhập cá nhân từ chuyển nhượng quyền sử dụng đất.
+ Bảng giá này cũng được dùng để tính các khoản phí và lệ phí liên quan đến sử dụng, chuyển nhượng hoặc khi làm các thủ tục hành chính về đất đai...
+ Riêng với thị trường bất động sản, Chủ tịch HoREA nhìn nhận bảng giá đất mới sẽ chưa tác động ngay do các dự án nhà ở thương mại hiện được định giá theo phương pháp thặng dư.
+ Dù vậy, ông nói bảng giá đất điều chỉnh có thể tạo tâm lý ăn theo, kích đẩy thị trường khi doanh nghiệp chuyển nhượng quyền sử dụng đất từ người dân.
+ Điều này có thể khiến giá nhà tăng, theo Chủ tịch HoREA.
+ HoREA kiến nghị cần có biện pháp kiểm soát hoạt động của giới đầu cơ, khi họ lợi dụng bảng giá đất điều chỉnh để thổi giá, gây nhiễu loạn thị trường và thu lời bất chính.
+ Thực tế, so với dự thảo hồi tháng 7, giá đất ở có 4.
+299 tuyến đường đã được giảm xuống, 160 tuyến giữ nguyên và 98 đường tăng thêm.
+ Tuy nhiên nhìn chung, mức giá ở quyết định này giảm 20-25% so với dự thảo và tăng 4-38 lần so với Quyết định 02 (chưa nhân hệ số K), tùy vị trí.
+ Ở bảng giá này, mức thấp nhất là 2,3 triệu đồng mỗi 2 thuộc khu dân cư Thiềng Liềng (huyện Cần Giờ), cao nhất là 687,2 triệu đồng ở các đường Đồng Khởi, Lê Lợi, Nguyễn Huệ (quận 1).
+ Các tuyến đường thuộc quận 1, 5, 10 có mức giảm khiêm tốn 1-10% so với dự thảo trước và cao hơn từ 0,8-1,4 lần bảng giá của Quyết định 02/2020.
+ Các quận còn lại như 3, 6, 7, 8, Phú Nhuận, Tân Bình, Tân Phú, Bình Thạnh... mức điều chỉnh giảm trung bình 16-23%; quận 4 điều chỉnh giảm mạnh nhất, bình quân 19-35% nhưng vẫn cao hơn giá cũ 1,2-4 lần.
+ Trước đó, tại họp báo chiều 22/10, ông Nguyễn Toàn Thắng, Giám đốc Sở Tài nguyên và Môi trường TP HCM, nói khi điều chỉnh bảng giá đất, các khoản lệ phí, thuế, nghĩa vụ tài chính về đất đai của người sử dụng đất, gồm các tổ chức và cá nhân, đặc biệt là hộ gia đình, cá nhân được công khai minh bạch và công bằng.
+Tuy nhiên, ông Thắng cho hay việc điều chỉnh bảng giá đất có tác động đến nhu cầu chuyển mục đích sử dụng đất của một số người dân trên địa bàn thành phố.
+ Ông cho biết Chính phủ đã giao Bộ Tài chính tham mưu ban hành Nghị định về miễn, giảm tiền sử dụng đất, trong đó có chuyển mục đích sử dụng của hộ gia đình, cá nhân đối với một số trường hợp.
+ Với người dân có đất nông nghiệp nhưng chưa chuyển đổi được lên đất ở do vướng các quy hoạch hoặc các yếu tố khách quan, ông Thắng cho biết Chính phủ đang xây dựng nghị định về miễn, giảm tiền thuê đất, sử dụng đất. Khi góp ý, thành phố sẽ đưa nội dung trên vào để người dân thuộc trường hợp này không bị tác động nhiều, đảm bảo quyền lợi chính đáng của họ.

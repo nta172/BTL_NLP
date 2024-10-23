@@ -1,0 +1,13 @@
+Apple vừa ra iOS 18.
+1 RC khắc phục vấn đề iPhone 16 tắt nguồn hoặc tự khởi động lại ngẫu nhiên.
+ Trong mô tả của iOS 18.
+1 RC (Release Candidate - bản thử nghiệm cuối trước khi phát hành chính thức), Apple cho biết tình trạng trên đã được xử lý.
+ Trước đó, nhiều người sử dụng iPhone 16 tại Việt Nam và trên thế giới phản ánh điện thoại "bị sập" 10-20 lần mỗi ngày không rõ nguyên nhân, nhất là khi đang ở chế độ Standby. iOS 18.
+1 RC cũng khắc phục một loạt lỗi khác, như sự cố Podcast có thể khiến các tập chưa phát được đánh dấu đã phát, lỗi hình ảnh bị giật, tình trạng quá nhiệt khi tua video 4K 60 fps trong ứng dụng Photos, hay lỗi không thể khởi động xe từ chìa khóa số tích hợp trên iPhone.
+ Bản cập nhật cũng hé lộ những tính năng đầu tiên của Apple Intelligence.
+ Trong đó, Writing Tools giúp viết lại, hiệu đính, tóm tắt văn bản từ thông báo, email, ghi chú, bản ghi âm và hỗ trợ ứng dụng bên thứ ba.
+ Trên ứng dụng Mail, tính năng trả lời thông minh sẽ hiển thị các đề xuất dựa trên phản hồi từ người dùng.
+ Họ cũng có thể xóa các chi tiết gây mất tập trung trên ảnh.
+ Apple cũng bổ sung một số tinh chỉnh, như cải thiện khả năng hỏi đáp trong Siri, chế độ Tập trung Hoàn toàn giúp hiển thị thông báo quan trọng. Ngoài ra, giao diện Trung tâm điều khiển cũng được làm mới, dễ thao tác hơn.
+ Theo 9to5mac, nếu không có thay đổi đáng kể, Apple dự kiến phát hành bản cập nhật lớn iOS 18.
+1 cho người dùng vào tuần tới.

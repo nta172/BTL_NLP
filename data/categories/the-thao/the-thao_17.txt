@@ -1,23 +1,16 @@
-Một số người dùng tại Việt Nam cho biết iPhone 16 của họ dính lỗi Panic Full - hiện tượng máy tự khởi động lại hoặc tắt nguồn đột ngột.
-Thành Tiến (Hoàng Mai, Hà Nội) cho biết mới mua iPhone 16 Pro Max được 5 ngày nhưng máy liên tục tự khởi động không rõ nguyên nhân.
-"Tôi đã thử reset, cài đặt lại toàn bộ, tình trạng đỡ hơn nhưng vẫn xuất hiện.
-Cửa hàng đã kiểm tra và nói đây là lỗi Panic Full, cần chờ thêm một thời gian vì chưa có cách khắc phục triệt để, nhưng không cho đổi máy mới", anh nói.
-Trên nhiều hội nhóm sử dụng iPhone ở cả Việt Nam và thế giới, các chủ đề liên quan đến lỗi Panic Full của iPhone 16 đều đang thu hút hàng trăm lượt bình luận, một số người bày tỏ sự khó chịu hoặc hoang mang.
-Trong khi đó, Apple chưa lên tiếng về sự cố.
-Panic Full là tình trạng điện thoại tự khởi động lại dù đang hoặc không sử dụng, cũng như tắt nguồn đột ngột, với tần suất không giống nhau.
-Không như hiện tượng treo ứng dụng, Panic Full ảnh hưởng tới hệ thống, dẫn đến treo toàn bộ máy.
-Nguyên nhân có thể do cả phần cứng, phần mềm hoặc sự cố với firmware.
-Một cửa hàng bán lẻ thiết bị Apple tại Hà Nội cho biết trong hơn hai tuần đã tiếp nhận gần 30 trường hợp lỗi Panic Full, đa số là iPhone 16 Pro Max, có thể do tỷ lệ mua phiên bản này cao nhất.
-Một hệ thống bán lẻ khác cũng ghi nhận hàng chục khách hàng tới trung tâm bảo hành vì lỗi tương tự.
-"Panic Full cũng xuất hiện trên iPhone thế hệ cũ nhưng số lượng rất ít trong khi chủ yếu là iPhone 16", đại diện đơn vị này nói.
-Các bên đều cho biết sẽ hỗ trợ khách hàng nhưng chưa có phương án chính thức cho việc khắc phục, bảo hành.
-"Các máy đều cài sẵn iOS 18 cho thấy có khả năng phần mềm hệ thống xung đột phần cứng gây ra lỗi", Ngọc Linh, thợ sửa iPhone với hơn 10 năm kinh nghiệm, nhận định.
-Anh cho biết một số máy khi nâng cấp lên bản iOS 18 beta mới nhất không còn gặp hiện tượng này, nên có thể Panic Full là do phần mềm.
-Tuy nhiên, nếu do phần cứng, nhiều khả năng sẽ phải thay mainboard.
-Việc chưa xác định được nguyên nhân chính xác khiến nhiều thợ e ngại xử lý lỗi.
-"Trong trường hợp do phần cứng, việc can thiệp có thể làm mất bảo hành máy, gây tốn kém cho người dùng.
-Nếu do phần mềm, người dùng cần chờ Apple ra bản nâng cấp", anh Linh nói.
-Nếu thấy iPhone thỉnh thoảng khởi động lại hoặc tắt đột ngột, người dùng có thể tự kiểm tra bằng cách truy cập Cài đặt > Quyền riêng tư & Bảo mật > Phân tích & Cải tiến > Dữ liệu phân tích.
-Trong các dòng file, nếu có dòng bắt đầu bằng panic-full... có nghĩa máy gặp lỗi trên.
-Người dùng có thể xóa cài đặt, nâng cấp lên iOS 18 mới nhất để khắc phục.
-Nhiều cửa hàng khuyên không nên tự ý can thiệp phần cứng bởi sẽ bị mất bảo hành, gây khó cho các quy trình sau này.
+Cựu hậu vệ Gary Neville bắt đầu vai trò đại sứ cho Man Utd, chỉ vài ngày sau khi huyền thoại HLV Alex Ferguson bị cắt hợp đồng làm đại sứ toàn cầu.
+ Theo báo Anh Sunsport, Neville làm đại sứ Man Utd theo hình thức tự do, không phải công việc cố định. Nhiều cựu cầu thủ Man Utd khác cũng làm đại sứ với những trách nhiệm khác nhau.
+ Tuần trước, Neville tới Ấn Độ để tham gia buổi thảo luận tại Học viện Minerva ở thành phố Mohali và tham dự chương trình bóng đá cộng đồng hàng đầu của Apollo Tyres.
+ Cựu hậu vệ người Anh đăng tải bức ảnh về chuyến đi này trên Instagram Story. Neville còn thuộc nhóm đặc biệt do đồng sở hữu Jim Ratcliffe thành lập với nhiệm vụ quyết định xem nên cải tạo Old Trafford hay xây SVĐ mới có sức chứa 100.
+000 người trên cùng địa điểm. Nhóm này còn có Chủ tịch liên đoàn điền kinh thế giới, Sebastian Coe và Thị trưởng Manchester, Andy Burnham. Neville dành trọn sự nghiệp đỉnh cao cho Man Utd giai đoạn 1992-2011, ghi bảy bàn qua 602 trận, và là thành viên của "Thế hệ 92" huyền thoại.
+ Thế hệ 92 gồm nhiều danh thủ như Paul Scholes, Ryan Giggs, Beckham, Butt và anh em nhà Neville. Ngoài Giggs, họ trưởng thành bên nhau, từ các cấp độ trẻ đến chuyên nghiệp.
+ Đỉnh cao của thế hệ này là cú ăn ba năm 1999, với chức vô địch Ngoại hạng Anh, Champions League và Cup FA. Neville từng có thời gian làm HLV, nhưng không thành công.
+ Trong 28 trận dẫn dắt Valencia mùa 2015-2016, đội của ông thắng 10, hòa 7 và thua đến 11, trong đó có thất bại 0-7 trước Barca, ghi 39 và thủng 38 bàn. Kể từ khi bị sa thải, Neville không còn trở lại công việc huấn luyện, mà chuyển sang cương vị bình luận viên bóng đá.
+ Vấn đề đại sứ của Man Utd gây ồn ào gần đây, khi CLB quyết định cắt hợp đồng với huyền thoại Alex Ferguson nhằm giảm chi phí.
+ Cựu HLV 82 tuổi cũng bị hạn chế vào phòng thay đồ Man Utd sau các trận đấu.
+ Ferguson đã không đến dự trận Man Utd thắng ngược Brentford 2-1 ở vòng 8 Ngoại hạng Anh trên sân Old Trafford cuối tuần qua.
+ Thay vào đó, ông dự khán trận Aberdeen hòa Celtic 2-2 tại Celtic Park.
+ Ferguson từng dẫn dắt Aberdeen giai đoạn 1978-1986, giúp CLB Scotland trải qua giai đoạn thành công nhất lịch sử với chín danh hiệu, gồm ba chức vô địch quốc gia, bốn Cup Scotland, một Cup Liên đoàn và một Cup C2 châu Âu.
+ Sau đó ông đến Man Utd, dẫn dắt CLB liên tục 27 năm và giành 38 danh hiệu, trong đó có hai Champions League và 13 Ngoại hạng Anh.
+ Sau khi giải nghệ năm 2013, ông ký hợp đồng làm đại sứ toàn cầu của Man Utd với mức lương khoảng 2,8 triệu USD mỗi năm. Kể từ sau thời Ferguson, Man Utd bổ nhiệm bảy HLV nhưng chưa thể trở lại vị thế như xưa, bao gồm David Moyes, Louis van Gaal, Jose Mourinho, Ole Gunnar Solskjaer, Ralf Rangnick và Erik ten Hag.
+ HLV đương nhiệm, Ten Hag, giúp Man Utd đoạt Cup Liên đoàn và Cup FA hai mùa gần nhất, nhưng chịu áp lực lớn vì thành tích không tốt tại Ngoại hạng Anh và Champions League.

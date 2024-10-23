@@ -1,0 +1,15 @@
+Bốn phiên bản iPhone 16 đều có 8 GB RAM, tốc độ sạc nhanh qua cổng USB-C nâng từ 29 W năm ngoái lên 45 W.
+ Theo ShrimpApplePro, thông tin chi tiết về khả năng sạc của iPhone 16 đã được gửi tới Trung tâm chứng nhận chất lượng Trung Quốc (CQC).
+ Theo đó, các máy có thể sạc ở mức điện áp 5-15V, dòng 3A cho thấy công suất sạc đạt tối đa 45 W.
+ Con số này cao hơn đáng kể so với mức tối đa 29 W của iPhone 15 năm ngoái nhưng vẫn thấp hơn nhiều mẫu Android hiện nay. Khi ra mắt iPhone 16, Apple chỉ giới thiệu loạt máy hỗ trợ sạc Magsafe nâng cấp, không đề cập đến thay đổi với sạc nhanh có dây.
+ Công nghệ sạc không dây của Apple có thể nhận tối đa 25 W so với mức 15 W trước đó.
+ Trong cuộc phỏng vấn với kênh YouTube Geekerwan, Phó chủ tịch Apple Johny Srouji cũng tiết lộ cả bốn mẫu iPhone 16 đều có bộ nhớ RAM 8 GB.
+ Đây là lần hiếm hoi hãng công khai thông tin RAM của loạt iPhone mới, vì trước đó người dùng chỉ biết sau khi các bên mổ xẻ máy và thử nghiệm. Năm ngoái, chỉ iPhone 15 Pro và 15 Pro Max có RAM 8 GB trong khi iPhone 15 và 15 Plus chỉ là 6 GB.
+ Đây cũng là một trong các lý do khiến Apple Intelligence chỉ hỗ trợ trên hai phiên bản Pro. Năm nay, Johny Srouji xác nhận bốn phiên bản iPhone 16 đều được phát triển ngay từ đầu cho bộ tính năng trí tuệ nhân tạo. Ngoài việc hỗ trợ Apple Intelligence, RAM lớn hơn cũng giúp ích cho iPhone 16 trong việc chạy các ứng dụng khác, đặc biệt với các game "khủng" AAA.
+ Đại diện Apple cho biết nhóm phát triển không chỉ tối ưu cho việc tính toán mà còn cho khả năng sử dụng bộ nhớ của từng ứng dụng để tránh lãng phí.
+ Sau khi xem xét các khả năng, công ty nhận thấy 8 GB là mức phù hợp hiện tại.
+ Bộ bốn iPhone 16 ra mắt trong sự kiện It's Glowtime rạng sáng 10/9 với kiểu dáng và thông số không khác biệt với thông tin rò rỉ trước sự kiện.
+ Trong đó ,iPhone 16 và 16 Plus thay đổi thiết kế camera, trang bị nút Action thay cho phím gạt chế độ âm lượng, camera chính nâng lên 48 megapixel.
+ Hai mẫu Pro có màn hình lớn hơn trước 0,2 inch, camera góc siêu rộng nâng độ phân giải lên 48 megapixel.
+ Cả bốn đều có nút chụp mới.
+Apple trang bị chip A18 cho iPhone 16 tiêu chuẩn và A18 Pro cho iPhone 16 dòng Pro. iPhone 16 sẽ lên kệ tại Việt Nam từ ngày 27/9.

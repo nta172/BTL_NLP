@@ -1,0 +1,8 @@
+Apple dự kiến sản xuất chip A19 trên tiến trình 2 nm năm tới, nhưng chỉ trang bị cho iPhone 17 Pro và 17 Pro Max.
+ Trang công nghệ GSMArena dẫn báo cáo mới từ chuỗi cung ứng Đài Loan cho thấy Apple sẽ ra mắt chip xử lý theo công nghệ 2 nm trong năm 2025.
+ TSMC vẫn là nhà sản xuất chip cho Apple.
+ Tuy nhiên, do vấn đề về sản lượng, chip 2 nm sẽ chỉ được trang bị cho hai phiên bản iPhone 17 dòng Pro.
+ Theo nguồn tin từ Đài Loan, TSMC đã giới thiệu sản phẩm mới nhưng vẫn cần sự hỗ trợ của các nhà cung cấp khác để hoàn thiện chip, sẵn sàng cho việc đưa vào điện thoại thông minh.
+ Các đối tác cần cung cấp vật liệu, thiết bị, tự động hóa thiết kế điện tử (EDA)..., dẫn đến việc cạnh tranh theo nhóm sản xuất.
+ Dây chuyền chip trên tiến trình 2 nm của TSMC đã được lắp đặt tại nhà máy Baoshan và sẽ bắt đầu sản xuất thử nghiệm trong quý III/2024.
+ TSMC dự kiến cung cấp quy trình N2 cho Apple và Nvidia nhằm giúp công ty giữ vững vị trí trước Samsung và Intel trong mảng sản xuất chip.

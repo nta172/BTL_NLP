@@ -1,0 +1,11 @@
+Bộ nhớ RAM GDDR7 24 Gb (3 GB) đầu tiên trên thế giới của Samsung có tốc độ 42,5 Gbps hỗ trợ các GPU thế hệ mới.
+ Samsung cho biết sản phẩm hướng đến các trung tâm dữ liệu, máy trạm trí tuệ nhân tạo (AI), hay trang bị trong card đồ họa, máy chơi game và hệ thống lái tự động dành cho người dùng cuối.
+ Các mô-đun RAM GDDR7 24 Gb đã được chào bán tới các nhà sản xuất GPU lớn và dự kiến đi vào sản xuất hàng loạt đầu năm sau.
+ Tháng 7 năm ngoái, hãng Hàn Quốc ra mắt RAM GDDR7 đầu tiên trên thế giới, nhưng tốc độ khiêm tốn 32 Gbps và dung lượng mỗi mô-đun 16 Gb (2 GB).
+ Trong khi đó, GDDR7 3 GB có mức băng thông tăng 25% so với GDDR7 2 GB và gấp 2,36 lần so với GDDR6 18 Gbps.
+ Bộ nhớ được sản xuất trên quy trình công nghệ 10 nm thế hệ thứ năm của công ty, giúp mật độ tăng lên 50% mà không thay đổi kích thước. Những mô-đun bộ nhớ mới có thể dễ dàng đạt tốc độ 40 Gbps và trong điều kiện cụ thể, có thể đạt 42,5 Gbps, nhanh hơn gần 80% so với GDDR6X (24 Gbps).
+ Samsung cho biết GDDR7 mới có hiệu suất cao hơn thế hệ trước 30% nhờ công nghệ như quản lý đồng hồ và thiết kế VDD kép.
+ Hơn nữa, vấn đề rò rỉ dòng điện được giải quyết bằng cách ngắt nguồn điện cho các phần của chip không sử dụng.
+ Đối với các game thủ, công nghệ RAM mới sẽ giúp xóa bỏ các hạn chế về thiếu hụt dung lượng VRAM.
+ Hiện các game có độ phân giải Full HD cũng cần hơn 8 GB bộ nhớ RAM.
+ Tuy nhiên, loại RAM mới dự kiến chỉ có trên các mẫu GPU cao cấp trong khi GPU giá rẻ vẫn sử dụng RAM GDDR6 16 Gb vì chi phí sản xuất rẻ hơn.

@@ -1,0 +1,14 @@
+Hội Truyền thông số Việt Nam vinh danh BIDV là Doanh nghiệp chuyển đổi số xuất sắc với những giải pháp công nghệ đột phá và hiệu quả, ngày 5/10.
+ Tại giải thưởng Chuyển đổi số Việt Nam năm nay, BIDV được đánh giá cao với ba giải pháp công nghệ chiến lược: BIDV Payment Hub, Chuyển đổi dữ liệu Delta vào hệ thống Core Banking và hệ thống BIDV Open API. Những giải pháp này giúp BIDV nhận được giải thưởng Doanh nghiệp chuyển đổi số xuất sắc.
+ Trong đó, BIDV Payment Hub là giải pháp tối ưu để xử lý tập trung các giao dịch thanh toán.
+ Đây là giải pháp do BIDV tự nghiên cứu xây dựng.
+ Với ưu thế vượt trội, Payment Hub giúp BIDV trở thành ngân hàng thương mại đầu tiên tại Việt Nam và top 30% ngân hàng trên thế giới xử lý thành công giao dịch theo chuẩn ISO-20022.
+ Còn Chuyển đổi dữ liệu Delta vào hệ thống Core Banking là một bước quan trọng trong quá trình chuyển đổi hệ thống Core Banking của BIDV.
+ Giải pháp này rút ngắn thời gian gián đoạn dịch vụ xuống còn 16 giờ, ngắn nhất trong các ngân hàng thực hiện chuyển đổi Core Banking.
+ Quá trình này bao gồm việc chuyển đổi dữ liệu của 18 triệu khách hàng trên toàn quốc.
+ Hệ thống BIDV Open API lại cung cấp nền tảng giao tiếp ứng dụng mở, tích hợp nhiều dịch vụ ngân hàng vào các ứng dụng của đối tác.
+ Đến tháng 8, hệ thống thu hút 246.
+000 lượt gọi API và gần 700 tài khoản thử nghiệm, đánh dấu bước tiến quan trọng trong chiến lược mở rộng hệ sinh thái số của BIDV.
+ Với việc giành giải thưởng Doanh nghiệp chuyển đổi số xuất sắc, BIDV khẳng định vị thế trong việc ứng dụng thành tựu công nghệ vào hoạt động ngân hàng. Ngân hàng đang không ngừng phát triển các hệ sinh thái số để cung cấp sản phẩm tiện ích, nâng cao trải nghiệm khách hàng.
+ Giải thưởng Chuyển đổi số Việt Nam do Hội Truyền thông số Việt Nam (VDCA) tổ chức thường niên, với sự bảo trợ của Bộ Thông tin và Truyền thông.
+ Giải thưởng nhằm tôn vinh những thành tựu chuyển đổi số của các cơ quan Nhà nước, đơn vị sự nghiệp, doanh nghiệp và cá nhân, góp phần thúc đẩy công cuộc chuyển đổi số quốc gia.

@@ -1,0 +1,14 @@
+Nhiều người dùng cho biết điện thoại của họ, kể cả iPhone 16 và các phiên bản thế hệ cũ, gặp tình trạng hao pin sau khi cập nhật iOS 18.
+ Theo hàng loạt phản ánh trên diễn đàn Reddit, cộng đồng Hỗ trợ Apple và trang công nghệ MacRumors, nhiều điện thoại từ đời mới nhất là iPhone 16 đến những phiên bản cũ hơn đang chạy iOS 18 đã gặp vấn đề về pin.
+ Trước đó, khi iOS 18 chính thức phát hành ngày 17/9, một số người bắt đầu phản ánh và nói "hối hận" khi lên hệ điều hành mới vì pin sụt nhanh hơn bình thường. Khi đó, chuyên gia Kingsley-Hughes cho rằng nếu chưa thực sự cần thiết, người dùng nên đợi thêm vài ngày, hoặc chờ phiên bản ổn định tiếp theo của iOS 18 rồi mới cập nhật hệ điều hành.
+ Tuy nhiên, sau một tháng, tình trạng này vẫn tiếp diễn. Một người phàn nàn trên MacRumors: "Thật thất vọng với tuổi thọ pin của iPhone 16 Pro Max mới.
+ Chỉ sau thời gian ngắn, sức khỏe pin xuống 99%.
+ Thời gian sử dụng giữa các lần sạc cũng chỉ bằng 50-60% so với chiếc 15 Pro Max tôi đã sử dụng một năm". Một số cho biết việc hao pin diễn ra khi điện thoại ở chế độ chờ. "Dù tôi đã tắt tính năng màn hình luôn bật AOD và kích hoạt giới hạn khung hình trong tùy chọn truy cập, việc hao pin vẫn không được khắc phục", một người dùng nói trên Reddit. "Tôi nâng cấp từ iPhone 12 lên iPhone 16 Pro chủ yếu vì pin và loa.
+ Tuy nhiên, dù Apple quảng cáo sản phẩm mới có pin tốt hơn, iPhone 16 Pro tiêu hao 10-15% pin khi để qua đêm mà không làm gì cả", một thành viên trên MacRumors cho hay.
+ Sự cố xảy ra cả với iPhone cũ hơn chạy iOS 18. Một số cho biết vấn đề được cải thiện phần nào với bản cập nhật iOS 18.
+0.
+1 và iOS 18.
+1 beta.
+ Apple chưa đưa ra bình luận. iOS 18 tương thích với các mẫu iPhone ra mắt từ năm 2018, như iPhone XS và XR về sau.
+ Đây là một trong những đợt cập nhật lớn nhất dành cho iOS khi Apple bổ sung nhiều tính năng theo hướng cá nhân hóa giao diện, như có thể đặt các icon ứng dụng ở nhiều vị trí trên màn hình chính, tùy biến kích thước biểu tượng trên Trung tâm điều khiển. Nền tảng cũng lần đầu hỗ trợ nhắn tin RCS.
+ Tuy nhiên, tính năng Apple Intelligence chưa có mặt.

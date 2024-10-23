@@ -1,0 +1,35 @@
+Bệnh viện Ung bướu TP HCM ứng dụng trí tuệ nhân tạo (AI) vạch kế hoạch xạ trị trong 2-5 phút thay vì 4 giờ như hiện nay. Một tháng qua, khoảng 30 bệnh nhân ung thư được bác sĩ Bệnh viện Ung bướu TP HCM ứng dụng phần mềm Raysearch tích hợp AI để lập kế hoạch, tính toán liều xạ trị ung thư đầu cổ.
+ Sau khi có kết quả chụp CT, dữ liệu của bệnh nhân được tải vào máy tính, AI sẽ nhanh chóng đưa ra kết quả trong vài phút.
+ So sánh từng trường hợp với liệu trình do bác sĩ, kỹ sư vẽ tay, kết quả không có sự khác biệt. "Thậm chí, ở một số vị trí, AI vẽ đẹp hơn bác sĩ thực hiện", TS.
+BS.
+CK2 Lâm Đức Hoàng, Trưởng Khoa Xạ trị Đầu Mặt Cổ, Bệnh viện Ung Bướu TP HCM, nói.
+ Hệ thống lập kế hoạch xạ trị tích hợp AI do một công ty đặt ở Bệnh viện Ung bướu TP HCM - là nơi đầu tiên tại Việt Nam triển khai phần mềm này.
+ Hệ thống được xây dựng và lưu trữ từ các chuyên gia xạ trị hàng đầu thế giới, ứng dụng tại khoảng 1.
+000 bệnh viện, trung tâm ung thư toàn cầu.
+ Trong đó, 10 trong 15 bệnh viện thuộc top đầu thế giới đã sử dụng, bác sĩ Hoàng nói.
+ Đặc biệt, hầu hết trung tâm xạ trị proton trên thế giới đều nhờ đến sự hỗ trợ của hệ thống này.
+ Đây là kỹ thuật xạ trị chiếu ngoài tiên tiến nhất hiện nay, khắc phục được những điểm yếu của xạ trị gia tốc tuyến tính, đảm bảo hiệu quả và an toàn với trẻ em.
+ Xạ trị là phương pháp dùng bức xạ ion hóa để tiêu diệt tế bào ác tính.
+ Ước tính khoảng 70% bệnh nhân ung thư cần xạ trị.
+ Tuy nhiên, vấn đề tác dụng phụ hoặc di chứng của phương pháp này vẫn nặng nề, đòi hỏi phải cải thiện độ chính xác để giảm rủi ro, đem lại chất lượng sống tốt nhất cho bệnh nhân.
+ Trong quá trình xạ trị ung thư, việc lập kế hoạch được xem là bước quan trọng nhất, tiêu tốn thời gian và công sức của toàn êkíp gồm bác sĩ xạ trị, kỹ sư y vật lý, vận hành viên và điều dưỡng.
+ Bác sĩ Hoàng đánh giá đây là một chuỗi các công việc phức tạp, đặc biệt vùng đầu cổ chứa nhiều cấu trúc mô, cơ quan trọng yếu như não, thân não, tủy sống, mắt, thần kinh thị, tuyến mang tai..., nên việc vẽ định vị từng cơ quan tốn rất nhiều công sức.
+ Thời gian lập kế hoạch có thể kéo dài nhiều giờ, thậm chí nhiều ngày.
+ Quá trình này tiềm ẩn nhiều nguy cơ sai sót như sự thiếu đồng bộ về năng lực, kinh nghiệm giữa các bác sĩ, kỹ sư dẫn đến định dạng sai thể tích điều trị và phân bố liều chưa hợp lý.
+ Êkíp làm việc trong bối cảnh quá tải bệnh nhân, thời gian làm việc có hạn dẫn đến nhiều nguy cơ sai sót trong quy trình. "Bệnh viện tiếp nhận điều trị cho hàng trăm lượt xạ trị ung thư đầu cổ mỗi ngày, áp lực về quá tải để thực hiện kế hoạch xạ trị là rất lớn", bác sĩ Hoàng cho hay.
+ Do đó phần mềm Raysearch tích hợp AI được xem là một bước tiến trong xạ trị.
+ Từ các dữ liệu về kế hoạch xạ trị tốt nhất của các chuyên gia xạ trị hàng đầu thế giới, AI tích hợp và áp dụng một cách nhanh nhất, để đưa ra kế hoạch hợp lý cho các bệnh nhân mới.
+ Thuật toán AI dựa trên tối ưu hóa không chỉ tính toán liều lượng mà còn điều chỉnh góc chiếu, cường độ và hướng đi của chùm tia bức xạ để đảm bảo liều cao nhất được phân bổ vào vùng thể tích đích, trong khi liều cho các cơ quan lành được giảm thiểu tối đa.
+ Chúng còn có thể theo dõi diễn tiến của cấu trúc vùng đầu cổ, thể tích bướu trong suốt quá trình xạ trị. Ngoài ra, hệ thống AI có thể cập nhật liên tục hình ảnh trong quá trình điều trị, giúp bác sĩ phát hiện những thay đổi nhỏ trong cấu trúc khối u hoặc sự lan rộng của bệnh.
+ Chúng còn phân tích sự thay đổi về liều xạ thực tế bệnh nhân đã nhận, nhờ thế các phác đồ điều trị có thể được điều chỉnh kịp thời, tăng hiệu quả điều trị và giảm các biến chứng tiềm ẩn.
+ Phần mềm AI có thể đồng bộ với nhiều dòng máy khác nhau, phù hợp cho các cơ sở có nhiều dòng máy xạ như Bệnh viện Ung bướu TP HCM.
+ Ứng dụng này có thể hỗ trợ trong việc tính toán và lập kế hoạch rất nhiều kỹ thuật như xạ trị 3D quy ước, xạ trị điều biến liều (IMRT) và điều biến thể tích cung tròn (VMAT), thậm chí xạ trị proton, hạt nặng.
+ Theo bác sĩ Hoàng, quá trình áp dụng trên những bệnh nhân đầu tiên cho thấy AI giúp tăng độ chính xác và hiệu quả, hạn chế các sai sót trong chuỗi quy trình xạ trị phức tạp.
+ Ứng dụng giúp tiết kiệm thời gian và chi phí cho bệnh nhân, rút ngắn thời gian chờ đợi lập kế hoạch xạ trị từ 5-10 ngày giảm xuống còn 2-3 ngày.
+ Với ứng dụng phần mềm này, các bác sĩ xạ trị tại Bệnh viện Ung bướu TP HCM có thể kết nối và truy cập vào phần mềm của bất kỳ thiết bị nào ở các địa phương khác.
+ Điều này giúp bác sĩ có thể thuận lợi lập kế hoạch xạ trị, hội chẩn lựa chọn phương án tốt nhất, theo dõi bệnh nhân dù ở bất kỳ vị trí làm việc nào hoặc có thể cùng vạch kế hoạch xạ trị từ xa cho các ca khó ở tuyến dưới.
+ Do đó, AI có nhiều triển vọng ứng dụng trong công tác chỉ đạo tuyến, liên kết vùng.
+ TS.
+BS Diệp Bảo Tuấn, Phó giám đốc điều hành Bệnh viện Ung bướu TP HCM, cho biết với xu hướng chuyển đổi số hiện nay, bệnh viện sẽ tăng cường triển khai AI trong điều trị, giúp góp phần tiết kiệm chi phí và tài nguyên y tế.
+ Vùng đầu cổ là nơi có nhiều cấu trúc quan trọng, cơ quan nguy cấp, mất nhiều thời gian nhất nên bệnh viện ưu tiên nghiên cứu và áp dụng trước. Nơi này sẽ tiếp tục nghiên cứu, thử nghiệm lâm sàng, hoàn thiện và mở rộng khả năng của AI trong lĩnh vực xạ trị nói chung.
+ Ứng dụng trên vừa được đề cử tham gia bình chọn Giải thưởng Thành tựu Y khoa Việt Nam 2024, chuyên đề Y tế thông minh, do Sở Y tế TP HCM phối hợp tổ chức.

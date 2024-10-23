@@ -1,0 +1,19 @@
+iOS 18 mang đến hàng chục cập nhật lớn, tăng khả năng tùy biến giao diện cho iPhone, nhưng chưa có Apple Intelligence.
+ Phiên bản chính thức đầu tiên của iOS 18 được Apple phát hành rạng sáng 17/9.
+ Hệ điều hành hỗ trợ các thiết bị ra mắt từ năm 2018, như iPhone XS và iPhone XR về sau, tương tự iOS 17.
+ Đây là một trong những đợt cập nhật lớn nhất với iOS những năm gần đây, với dung lượng hơn 4 GB trên iPhone 15 Pro Max.
+ Trong phần giới thiệu, Apple đưa ra gần 20 thay đổi lớn với các thiết bị, trong đó tập trung vào khả năng cá nhân hóa giao diện. Người dùng có thể tùy ý đặt vị trí cho các icon ứng dụng trên màn hình chính thay vì phải đặt theo hàng ngang như trước.
+ Các icon có thể tăng kích thước bằng cách loại bỏ tên bên dưới, đồng thời thay đổi màu sắc như mong muốn.
+ Trung tâm điều khiển không cố định các biểu tượng như trước đây, cho phép người dùng tùy biến kích thước biểu tượng, thêm nút điều khiển cho ứng dụng từ bên thứ ba, đồng thời gom các nút điều khiển theo từng nhóm và vuốt nhiều lần để tìm ra chức năng mong muốn.
+ Thậm chí, một thanh tìm kiếm cũng được đưa vào để người dùng tìm chức năng điều khiển mong muốn. Một trong những thay đổi thu hút sự chú ý khi được giới thiệu tại WWDC 2024 hồi tháng 6 là Tin nhắn và Ghi chú. iOS 18 chính thức hỗ trợ nhắn tin RCS, cho phép người dùng khi nhắn với những người không có iPhone vẫn có thể nhận được nội dung đa phương tiện như ảnh, video, thông báo đã đọc. Mục Ghi chú hỗ trợ thêm bản ghi âm thanh, thêm tùy chỉnh về màu sắc của chữ. Ngoài ra, người dùng cũng có thể nhập các biểu thức và được tính toán ngay trong ứng dụng.
+ Với ứng dụng Ảnh, Apple gọi đây là bản cập nhật lớn nhất từ trước đến nay, với thay đổi về bố cục xem ảnh được đơn giản hóa, đồng thời nhiều tính năng tự động sắp xếp ảnh được thêm vào.
+ Ứng dụng sẽ tự động sắp xếp thư viện ảnh theo chủ đề được đánh giá hữu ích với người dùng, như các chủ đề về thú cưng, chuyến đi, lọc riêng các ảnh chụp màn hình, ảnh QR, ảnh tài liệu.
+ Ứng dụng cũng tích hợp sẵn tính năng làm chậm với các video có tốc độ khung hình cao.
+ Về quyền riêng tư, người dùng có thể khóa ứng dụng để bảo vệ thông tin nhạy cảm, yêu cầu Face ID, Touch ID hoặc mật khẩu để mở; lựa chọn chia sẻ từng phần trong danh bạ với các ứng dụng, cải thiện tính năng Bluetooth bảo mật hơn.
+ Trình duyệt Safari cho phép ẩn các mục gây xao lãng, như quảng cáo trong trang web. Ngoài ra, iOS 18 cũng mang đến một số thay đổi về mật khẩu khi bổ sung ứng dụng Mật khẩu để xem toàn bộ thông tin đăng nhập; đồng bộ mật khẩu bằng iCloud; thay đổi giao diện ứng dụng Ví; thêm tính năng tạo lộ trình trên Bản đồ; tương tác Siri rảnh tay bằng cách cách gật đầu hoặc lắc đầu.
+ Apple cũng hỗ trợ tính năng chia sẻ màn hình SharePlay cho phép thao tác trên màn hình của người khác hoặc xin phép điều khiển iPhone của người khác từ xa.
+ Bên cạnh các thay đổi trên, một tính năng từng được hãng giới thiệu tại WWDC nhưng chưa được triển khai là Apple Intelligence.
+ Tính năng này, dành cho ngôn ngữ tiếng Anh, dự kiến ra mắt cuối năm nay.
+ Để cập nhật, người dùng có thể thực hiện ngay trên iPhone, bằng cách vào Cài đặt > Cài đặt chung > Cập nhật phần mềm.
+ Trước khi cập nhật, nên tạo bản sao lưu cho thiết bị, cắm sạc hoặc sạc đầy pin, kết nối đến mạng wifi ổn định. Ngoài iOS 18, Apple cũng tung ra bản cập nhật iOS 17.
+7 cho người chưa muốn lên 18, chủ yếu là sửa lỗi bảo mật.

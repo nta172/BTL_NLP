@@ -1,23 +1,18 @@
-Một số người dùng tại Việt Nam cho biết iPhone 16 của họ dính lỗi Panic Full - hiện tượng máy tự khởi động lại hoặc tắt nguồn đột ngột.
-Thành Tiến (Hoàng Mai, Hà Nội) cho biết mới mua iPhone 16 Pro Max được 5 ngày nhưng máy liên tục tự khởi động không rõ nguyên nhân.
-"Tôi đã thử reset, cài đặt lại toàn bộ, tình trạng đỡ hơn nhưng vẫn xuất hiện.
-Cửa hàng đã kiểm tra và nói đây là lỗi Panic Full, cần chờ thêm một thời gian vì chưa có cách khắc phục triệt để, nhưng không cho đổi máy mới", anh nói.
-Trên nhiều hội nhóm sử dụng iPhone ở cả Việt Nam và thế giới, các chủ đề liên quan đến lỗi Panic Full của iPhone 16 đều đang thu hút hàng trăm lượt bình luận, một số người bày tỏ sự khó chịu hoặc hoang mang.
-Trong khi đó, Apple chưa lên tiếng về sự cố.
-Panic Full là tình trạng điện thoại tự khởi động lại dù đang hoặc không sử dụng, cũng như tắt nguồn đột ngột, với tần suất không giống nhau.
-Không như hiện tượng treo ứng dụng, Panic Full ảnh hưởng tới hệ thống, dẫn đến treo toàn bộ máy.
-Nguyên nhân có thể do cả phần cứng, phần mềm hoặc sự cố với firmware.
-Một cửa hàng bán lẻ thiết bị Apple tại Hà Nội cho biết trong hơn hai tuần đã tiếp nhận gần 30 trường hợp lỗi Panic Full, đa số là iPhone 16 Pro Max, có thể do tỷ lệ mua phiên bản này cao nhất.
-Một hệ thống bán lẻ khác cũng ghi nhận hàng chục khách hàng tới trung tâm bảo hành vì lỗi tương tự.
-"Panic Full cũng xuất hiện trên iPhone thế hệ cũ nhưng số lượng rất ít trong khi chủ yếu là iPhone 16", đại diện đơn vị này nói.
-Các bên đều cho biết sẽ hỗ trợ khách hàng nhưng chưa có phương án chính thức cho việc khắc phục, bảo hành.
-"Các máy đều cài sẵn iOS 18 cho thấy có khả năng phần mềm hệ thống xung đột phần cứng gây ra lỗi", Ngọc Linh, thợ sửa iPhone với hơn 10 năm kinh nghiệm, nhận định.
-Anh cho biết một số máy khi nâng cấp lên bản iOS 18 beta mới nhất không còn gặp hiện tượng này, nên có thể Panic Full là do phần mềm.
-Tuy nhiên, nếu do phần cứng, nhiều khả năng sẽ phải thay mainboard.
-Việc chưa xác định được nguyên nhân chính xác khiến nhiều thợ e ngại xử lý lỗi.
-"Trong trường hợp do phần cứng, việc can thiệp có thể làm mất bảo hành máy, gây tốn kém cho người dùng.
-Nếu do phần mềm, người dùng cần chờ Apple ra bản nâng cấp", anh Linh nói.
-Nếu thấy iPhone thỉnh thoảng khởi động lại hoặc tắt đột ngột, người dùng có thể tự kiểm tra bằng cách truy cập Cài đặt > Quyền riêng tư & Bảo mật > Phân tích & Cải tiến > Dữ liệu phân tích.
-Trong các dòng file, nếu có dòng bắt đầu bằng panic-full... có nghĩa máy gặp lỗi trên.
-Người dùng có thể xóa cài đặt, nâng cấp lên iOS 18 mới nhất để khắc phục.
-Nhiều cửa hàng khuyên không nên tự ý can thiệp phần cứng bởi sẽ bị mất bảo hành, gây khó cho các quy trình sau này.
+Fitch ước tính bão Milton có thể khiến các công ty bảo hiểm phải bồi thường 30-50 tỷ USD, lớn nhất trong 2 năm qua. Ngày 10/10, bão Milton đổ bộ vào bang Florida (Mỹ), khiến ít nhất 10 người thiệt mạng và hàng triệu người chịu cảnh mất điện.
+ Tuy nhiên, Thống đốc Ron DeSantis cho biết thiệt hại ở bang này thấp hơn lo ngại ban đầu của họ.
+ Cơn bão không gây ra đợt nước biển dâng thảm khốc như dự báo trước đó, dù các khu vực dọc bờ biển phía nam Vịnh Tampa bị ngập lụt diện rộng.
+ Theo báo cáo của hãng đánh giá tín nhiệm Fitch (Mỹ) ước tính bão Hilton có thể khiến các công ty bảo hiểm phải bồi thường 30-50 tỷ USD cho người dân có tài sản tại Florida.
+ Đây là mức bồi thường lớn nhất kể từ bão Ian năm 2022.
+ Việc này có thể nâng số tiền mà các hãng bảo hiểm chi trả tại bang Florida năm nay lên hơn 100 tỷ USD.
+ Số liệu cuối cùng phụ thuộc vào nhu cầu vật liệu cần để sửa chữa và xây dựng lại tài sản sau bão.
+ Việc này thường khiến chi phí bảo hiểm tăng thêm ít nhất 20%, Fitch ước tính dựa trên các sự kiện trước đây.
+ Fitch cũng nhận định bão Milton không có khả năng đe dọa xếp hạng tín nhiệm của các hãng bảo hiểm tài sản và tai nạn lớn trên thế giới.
+ Dù vậy, "mức tín nhiệm của các công ty bảo hiểm tại Florida có thể bị đe dọa nếu thêm một cơn bão nữa càn quét bang này", báo cáo viết.
+ Đầu tuần này, Wall Street đưa ra nhiều dự báo về thiệt hại do bão Milton gây ra.
+ Các nhà phân tích tại Jefferies cho rằng cơn bão "trăm năm có một này" có thể khiến khu vực vịnh Tampa mất 175 tỷ USD, còn khu Fort Myers thiệt hại 70 tỷ USD.
+ Wells Fargo thì cho biết "thị trường dự báo thiệt hại khoảng 50 tỷ USD". Ngân hàng này ước tính số tài sản chịu ảnh hưởng là 10-100 tỷ USD.
+ Cục Dự trữ liên bang Mỹ (Fed) đang theo dõi sát các diễn biến của mùa bão.
+ Chủ tịch Fed Atlanta Raphael Bostic cho biết bão Milton và Helene có thể tác động đến kinh tế Mỹ trong ít nhất 6 tháng, chủ yếu là gây gián đoạn các chuỗi cung ứng.
+ Giới chức lo ngại việc cảng Tampa - cảng lớn nhất Florida - bị đóng cửa có thể gây gián đoạn nguồn cung nhiên liệu cho nhiều địa điểm ở bang này, từ Tampa đến Orlando.
+ Các khu vực chịu ảnh hưởng trực tiếp từ bão Milton hiện đóng góp 2,8% GDP cho Mỹ. Milton là cơn bão thứ 3 quét qua Florida năm nay.
+ Trước đó gần 2 tuần, bão Helen cũng đổ bộ vào bang này. Moody’s ước tính bão Helen có thể khiến các hãng bảo hiểm tư nhân tại Mỹ thiệt hại 8-14 tỷ USD.

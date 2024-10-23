@@ -1,0 +1,14 @@
+Microsoft Copilot hiện hỗ trợ Excel và các ứng dụng khác trong Microsoft 365 thông qua việc tương tác bằng truy vấn trực quan.
+ Trong buổi livestream trên LinkedIn ngày 16/9, CEO Microsoft Satya Nadella giới thiệu hàng loạt tính năng mới của Microsoft 365 Copilot.
+ Dù sự kiện chủ yếu dành cho khách hàng doanh nghiệp, nhiều chức năng trong đó được đánh giá cao cho người dùng cuối.
+ Trong đó, Copilot cho Excel được xem là bổ sung được quan tâm nhất.
+ AI có thể giúp người dùng Excel định dạng dữ liệu, hỗ trợ các công thức phổ biến như XLOOKUP và SUMIF, cũng như hình dung dữ liệu trong biểu đồ và bảng thông qua câu lệnh ngắn.
+ AI cũng có thể giúp người dùng tìm kiếm theo từ khóa và phân tích dữ liệu.
+ Theo Microsoft, Copilot trong Excel "hiểu" và thực hiện câu lệnh thông qua ngôn ngữ lập trình Python. Người dùng chỉ cần nhập vào câu lệnh cần thiết, không cần biết lập trình vẫn có thể sử dụng tính năng mới.
+ Trong PowerPoint, Copilot dàn bài của một bài thuyết trình từ yêu cầu của người dùng, bằng cách lấy dữ liệu đầu vào từ câu lệnh hoặc các nguồn trên Microsoft 365 có sẵn.
+ Sau đó, nó có thể chèn thông tin vào từng slide và thiết kế bài thuyết trình, hoặc cho phép người dùng chỉnh sửa nhanh thông tin.
+ AI thậm chí lấy hình ảnh thương hiệu hoặc hình ảnh do Dall-E 3 tạo ra thông qua tính năng Brand Narrative.
+ AI của Microsoft cũng hỗ trợ người dùng Teams tóm tắt nội dung sau mỗi cuộc họp trực tuyến hay chat nhanh.
+ Đối với Outlook, Copilot ưu tiên các email quan trọng trong hộp thư đến, tóm tắt nội dung từng email và tạo phản hồi đề xuất.
+ Trên OneDrive, nó giúp người dùng tìm kiếm và sắp xếp các tệp liên quan, tóm tắt mà không cần phải tìm kiếm từng tệp.
+ Word cũng tận dụng khả năng tóm tắt và thu thập dữ liệu của Copilot. Nằm ở thanh bên phải, người dùng có thể lấy dữ liệu công việc từ email, các ứng dụng 365 khác và web để tạo bản nháp trong tài liệu. Ngoài ra, công cụ Copilot Pages mới giúp chia sẻ các phản hồi của AI với thành viên khác trong nhóm BizChat.

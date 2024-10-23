@@ -1,0 +1,9 @@
+Hệ điều hành Android 16 được cho là sẽ ra mắt sớm trong năm 2025 và mở rộng tính năng bong bóng, đem đến khả năng đa nhiệm kiểu mới.
+ Sau khi phân tích mã nguồn, chuyên gia Mishaal Rahman của Android Authority nhận thấy Android 16 có thể sẽ cải tiến API bong bóng, được giới thiệu lần đầu năm 2020 với Android 11.
+ API này cho phép đặt các ứng dụng nhắn tin vào một cửa sổ nổi trên các ứng dụng khác. Khi thu nhỏ đoạn chat, nó trở thành biểu tượng bong bóng và có thể truy cập nhanh khi cần.
+ Ở thế hệ Android hiện tại, API bong bóng chỉ hoạt động với ứng dụng chat.
+ Tuy nhiên, Rahman đã phát hiện những tham chiếu đến Bubble Anything (bong bóng bất cứ thứ gì) và thử nghiệm thành công cơ chế này trên Android 15 QPR1 beta. Khi Bubble Anything được kích hoạt trong bản beta, Pixel Launcher sẽ thêm nút Bubble vào menu. Menu xuất hiện mỗi khi người dùng nhấn giữ biểu tượng ứng dụng trên màn hình chính và tùy chọn Bubble trong menu sẽ mở app dưới dạng bong bóng.
+ Bubble cũng được tích hợp vào thanh điều hướng, nơi các ứng dụng có thể được đặt trong một thư mục riêng để người dùng có thể nhấn vào và thoát ra nhanh chóng.
+ Trong khi đó, tính năng Bubble Stashing đẩy biểu tượng bong bóng gọn sang bên cạnh màn hình và có thể được kéo ra để truy cập nhanh.
+ Rahman đánh giá những tính năng này sẽ hoạt động hiệu quả trên máy tính bảng Android nhờ kích thước lớn.
+ Với smartphone, khả năng bung bất kỳ ứng dụng nào và lưu trữ những bong bóng đó trong thanh điều hướng hoặc bên cạnh màn hình để dễ truy cập cũng đem lại sự thuận tiện trong quá trình sử dụng. Không phải thử nghiệm nào cũng sẽ thành hiện thực, nhưng một số trang công nghệ dự đoán tính năng Bubble Anything sẽ được triển khai trên Android 16.

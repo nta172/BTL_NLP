@@ -1,23 +1,46 @@
-Một số người dùng tại Việt Nam cho biết iPhone 16 của họ dính lỗi Panic Full - hiện tượng máy tự khởi động lại hoặc tắt nguồn đột ngột.
-Thành Tiến (Hoàng Mai, Hà Nội) cho biết mới mua iPhone 16 Pro Max được 5 ngày nhưng máy liên tục tự khởi động không rõ nguyên nhân.
-"Tôi đã thử reset, cài đặt lại toàn bộ, tình trạng đỡ hơn nhưng vẫn xuất hiện.
-Cửa hàng đã kiểm tra và nói đây là lỗi Panic Full, cần chờ thêm một thời gian vì chưa có cách khắc phục triệt để, nhưng không cho đổi máy mới", anh nói.
-Trên nhiều hội nhóm sử dụng iPhone ở cả Việt Nam và thế giới, các chủ đề liên quan đến lỗi Panic Full của iPhone 16 đều đang thu hút hàng trăm lượt bình luận, một số người bày tỏ sự khó chịu hoặc hoang mang.
-Trong khi đó, Apple chưa lên tiếng về sự cố.
-Panic Full là tình trạng điện thoại tự khởi động lại dù đang hoặc không sử dụng, cũng như tắt nguồn đột ngột, với tần suất không giống nhau.
-Không như hiện tượng treo ứng dụng, Panic Full ảnh hưởng tới hệ thống, dẫn đến treo toàn bộ máy.
-Nguyên nhân có thể do cả phần cứng, phần mềm hoặc sự cố với firmware.
-Một cửa hàng bán lẻ thiết bị Apple tại Hà Nội cho biết trong hơn hai tuần đã tiếp nhận gần 30 trường hợp lỗi Panic Full, đa số là iPhone 16 Pro Max, có thể do tỷ lệ mua phiên bản này cao nhất.
-Một hệ thống bán lẻ khác cũng ghi nhận hàng chục khách hàng tới trung tâm bảo hành vì lỗi tương tự.
-"Panic Full cũng xuất hiện trên iPhone thế hệ cũ nhưng số lượng rất ít trong khi chủ yếu là iPhone 16", đại diện đơn vị này nói.
-Các bên đều cho biết sẽ hỗ trợ khách hàng nhưng chưa có phương án chính thức cho việc khắc phục, bảo hành.
-"Các máy đều cài sẵn iOS 18 cho thấy có khả năng phần mềm hệ thống xung đột phần cứng gây ra lỗi", Ngọc Linh, thợ sửa iPhone với hơn 10 năm kinh nghiệm, nhận định.
-Anh cho biết một số máy khi nâng cấp lên bản iOS 18 beta mới nhất không còn gặp hiện tượng này, nên có thể Panic Full là do phần mềm.
-Tuy nhiên, nếu do phần cứng, nhiều khả năng sẽ phải thay mainboard.
-Việc chưa xác định được nguyên nhân chính xác khiến nhiều thợ e ngại xử lý lỗi.
-"Trong trường hợp do phần cứng, việc can thiệp có thể làm mất bảo hành máy, gây tốn kém cho người dùng.
-Nếu do phần mềm, người dùng cần chờ Apple ra bản nâng cấp", anh Linh nói.
-Nếu thấy iPhone thỉnh thoảng khởi động lại hoặc tắt đột ngột, người dùng có thể tự kiểm tra bằng cách truy cập Cài đặt > Quyền riêng tư & Bảo mật > Phân tích & Cải tiến > Dữ liệu phân tích.
-Trong các dòng file, nếu có dòng bắt đầu bằng panic-full... có nghĩa máy gặp lỗi trên.
-Người dùng có thể xóa cài đặt, nâng cấp lên iOS 18 mới nhất để khắc phục.
-Nhiều cửa hàng khuyên không nên tự ý can thiệp phần cứng bởi sẽ bị mất bảo hành, gây khó cho các quy trình sau này.
+Tiến sĩ Cao Văn Sơn cho biết nghiên cứu neutrino (hạt ma) có thể ứng dụng trong giám sát các lò phản ứng hạt nhân hoặc khoa học vũ trụ.
+ Tiến sĩ Sơn hiện đảm nhiệm vai trò dẫn dắt nhóm nghiên cứu về neutrino tại Viện Khoa học và Giáo dục liên ngành (IFIRSE) thuộc Trung tâm quốc tế khoa học và giáo dục liên ngành (ICISE), TP Quy Nhơn.
+ Ông trở về Việt Nam năm 2022, sau 13 năm tham gia các dự án nghiên cứu quốc tế về neutrino tại Mỹ (5 năm) và Nhật Bản (8 năm).
+ Ông chia sẻ với VnExpress về neutrino trong lĩnh vực vật lý hạt và tiềm năng ứng dụng vào đời sống xã hội. - Tại sao neutrino quan trọng trong nghiên cứu vật lý hạt, thưa ông? - Hạt neutrino, biệt danh là "hạt ma", là một trong những bí ẩn lớn của thế giới hạt cơ bản - những viên gạch nhỏ nhất cấu thành nên vật chất.
+ Gọi là "ma" là bởi vì hạt này tương tác rất yếu với vật chất và gần như không để lại dấu vết nào. Một mặt đó là thách thức cho các nhà khoa học để bắt "ma" nhưng mặt khác, thông tin mà neutrino mang lại là trực tiếp và vô cùng quý giá. Nói một cách ngắn gọn, neutrino có vai trò đặc biệt trong vật lý hạt và hạt nhân, vũ trụ học và thiên văn học và những tiến bộ trong khoa học neutrino có ảnh hưởng sâu rộng đến nhiều lĩnh vực khác. - Ông bắt đầu nghiên cứu neutrino từ khi nào? - Tôi bắt đầu nghiên cứu hạt neutrino từ năm 2008 tại Đại học Khoa học Tự nhiên Hà Nội. Luận văn tốt nghiệp đại học của tôi là về hạt neutrino.
+ Từ 2009-2014, tôi du học sang Mỹ theo chương trình của VEF (Vietnam Education Foundation) và tham gia thí nghiệm quốc tế về neutrino ở Mỹ, có tên là MINOS.
+ Tháng 6/2014, tôi tốt nghiệp tại Mỹ và sau đó chuyển sang Nhật Bản.
+ Thời gian này tôi làm việc cả ở Mỹ và Nhật.
+ Trong 8 năm tại Nhật Bản (2014-2022), tôi nghiên cứu khả năng vật lý của thí nghiệm Tokai to Kamioka (T2K) trong việc tìm kiếm vi phạm đối xứng CP.
+ Đây là tiền đề để thuyết phục việc thu thập thêm số liệu đến năm 2027.
+ Từ 2016 đến nay, tôi tham gia phát triển hệ giám sát chùm tia proton kiểu mới và phụ trách một hệ thống máy giám sát mức độ mất mát của chùm proton bằng sợi quang, đồng thời thực hiện kiểm tra vi phạm đối xứng CPT với dữ liệu từ thí nghiệm.
+ Với thí nghiệm Super-Kamiokande (SK), tôi tham gia vào việc vận hành và thu thập số liệu. - Các dự án ông tham gia cụ thể là gì? - Hai thí nghiệm nổi tiếng là Tokai to Kamioka (T2K) và Super-Kamiokande (SK) đặt tại Nhật Bản đóng vai trò then chốt trong việc đo các tính chất và giải mã những bí ẩn của hạt neutrino.
+ Thí nghiệm T2K sử dụng máy gia tốc J-PARC để tăng tốc chùm tia proton năng lượng cao, cho va vào bia tương tác để tạo ra các hạt mẹ của neutrino.
+ T2K đã là thí nghiệm đầu tiên phát hiện ra quá trình chuyển đổi 2 trạng thái neutrino khác nhau năm 2013 và nhận được giải thưởng Đột Phá năm 2016.
+ Tiếp đến, T2K đã phát hiện dấu hiệu đầu tiên của vi phạm đối xứng CP trong hệ neutrino năm 2020, một phát hiện quan trọng có thể giải thích sự mất cân bằng giữa vật chất và phản vật chất trong vũ trụ.
+ Thí nghiệm T2K vẫn đang tiếp tục thu thập dữ liệu để xác nhận phát hiện này.
+ Super-Kamiokande là một trong những máy dò neutrino lớn nhất thế giới, đã hoạt động từ năm 1996, với bể chứa 50.
+000 tấn nước siêu tinh khiết và hơn 11.
+000 ống nhân quang.
+ Đây là công cụ chính để nghiên cứu neutrino từ nhiều nguồn khác nhau.
+ SK đã giúp phát hiện sự dao động của neutrino, đóng góp trực tiếp cho giải thưởng Nobel Vật lý năm 2015.
+ Hiện SK được nâng cấp và có nhiều khả năng trong thời gian tới sẽ lần đầu tiên phát hiện ra bức phông nền neutrino, tàn dư từ các vụ nổ sao trong vũ trụ.
+ Dự kiến vào năm 2027, Hyper-Kamiokande, thế hệ tiếp theo với quy mô gấp 10 lần SK, sẽ bắt đầu hoạt động, mở ra kỷ nguyên mới trong nghiên cứu neutrino. - Tại sao ông trở về Việt Nam và gia nhập Viện Khoa học và Giáo dục liên ngành (IFIRSE)? - Tôi biết đến IFIRSE vào năm 2012, khi tham dự hội nghị Vietnus2012 do GS Karol Lang tổ chức ở Quy Nhơn. Lúc đó, ICISE đang xây dựng và GS Lang đã gợi ý rằng đây có thể là nơi lý tưởng để phát triển khoa học neutrino tại Việt Nam.
+ Sau khi hoàn tất chương trình tiến sĩ ở Mỹ và làm việc tại Nhật Bản, tôi quyết định về Việt Nam và gia nhập IFIRSE năm 2022.
+ Tôi ấn tượng với tâm huyết của GS Trần Thanh Vân và môi trường nghiên cứu độc đáo tại đây.
+ Đây là nơi thúc đẩy nghiên cứu liên ngành, tự do học thuật, và kết nối với các nhà khoa học hàng đầu thế giới.
+ Hiện, tôi dẫn dắt nhóm nghiên cứu về neutrino tại IFIRSE. - Mục tiêu các dự án mà ông và cộng sự đang triển khai tại IFIRSE là gì? - Thực hiện nhiệm vụ quốc tế, IFIRSE tham gia vào thí nghiệm T2K và SK.
+ Trong T2K, chúng tôi thu thập dữ liệu để tăng độ nhạy và tìm kiếm vi phạm đối xứng CP. Nếu thành công, đó sẽ là một bước ngoặt quan trọng cho vật lý hiện đại.
+ Với SK, chúng tôi hiện chủ yếu hỗ trợ vận hành.
+ Ở cấp quốc gia, chúng tôi thực hiện dự án Nafosted nghiên cứu lý thuyết về neutrino, tìm cách dùng dữ liệu thực nghiệm để kiểm chứng và phát triển các mô hình vật lý mới.
+ Về lâu dài, chúng tôi đang phát triển một phòng thí nghiệm tại ICISE. Mục tiêu không chỉ phục vụ trực tiếp cho các thí nghiệm neutrino quốc tế mà còn mong muốn đưa các công nghệ tiên tiến về Việt Nam và tạo một hướng đi riêng.
+ Chúng tôi phát triển các công nghệ ánh sáng với các cảm ứng silicon siêu nhạy và siêu nhạy.
+ Chúng tôi cũng đang hợp tác phát triển hướng nghiên cứu trí tuệ nhân tạo (AI) trên phần cứng, thí nghiệm đo và tính toán lượng tử. - Neutrino sẽ được ứng dụng vào các lĩnh vực trong đời sống xã hội ra sao, thưa ông? - Nghiên cứu neutrino mở ra nhiều tiềm năng ứng dụng thực tiễn và địa phương.
+ Chúng tôi quan tâm và có các kỹ năng để phát triển hệ thống giám sát neutrino từ lò phản ứng hạt nhân.
+ Đây là phương pháp có thể giám sát từ xa hoạt động của các lò phản ứng, giúp phân biệt giữa mục đích sản xuất điện và làm giàu uranium cho phát triển vũ khí hạt nhân.
+ Các kỹ thuật phát hiện các tia vũ trụ với các chất nhạy sáng và các cảm ứng quang cực nhạy và nhanh có thể ứng dụng để "chụp X-quang" các cấu trúc địa chất lớn và ứng dụng trong y học hạt nhân và xạ trị.
+ Với Trung tâm Khám phá khoa học và Đổi mới sáng tạo, chúng tôi có thể hỗ trợ kỹ thuật và chuyên gia nhằm chuyển đổi công nghệ, phát triển các hệ đo để quan sát được tia vũ trụ, phát hiện tia gamma từ tia vũ trụ... - Tại sao ông đề xuất Bộ Khoa học và Công nghệ cho phép Việt Nam tham gia thí nghiệm HK như một nhiệm vụ quốc gia? - Tham gia thí nghiệm HK sẽ tạo nền tảng vững chắc cho sự phát triển lâu dài của khoa học và công nghệ tại Việt Nam.
+ Đối với Bình Định, điều này giúp nâng cao vị thế khoa học của tỉnh.
+ Đồng thời, thu hút đầu tư, phát triển cơ sở hạ tầng khoa học công nghệ và tạo cơ hội việc làm cho nhân lực địa phương lĩnh vực khoa học kỹ thuật cao.
+ Ở quy mô quốc gia, nó giúp thúc đẩy nghiên cứu khoa học cơ bản, đặc biệt trong vật lý hạt và thiên văn học, phát triển công nghệ cao như cảm biến, xử lý dữ liệu lớn. Ngoài ra, còn giúp tăng cường hợp tác quốc tế và nâng cao vị thế của Việt Nam trong cộng đồng khoa học thế giới, đồng thời đào tạo nguồn nhân lực chất lượng cao. - Ông có lời khuyên gì dành cho các nhà khoa học trẻ? - Khoa học không bao giờ lạc hậu.
+ Trong thời đại AI, kiến thức cơ bản ngày càng quan trọng để đánh giá thông tin chính xác hay là không.
+ Đừng ngại theo đuổi ngành STEM để mở ra cơ hội du học và phát triển sự nghiệp quốc tế.
+ Xem khoa học như "thẻ xanh" toàn cầu, mở ra cơ hội làm việc, học tập với các nhà khoa học hàng đầu. Nhiều bạn trẻ lo lắng về tài chính khi theo đuổi con đường khoa học.
+ Tuy vậy, mình muốn nhắc lại câu nói của Steve Jobs, nhà sáng lập Apple: "Hãy cứ khát khao, hãy cứ khờ dại".
+ Con đường khoa học có thể gian nan nhưng rất ý nghĩa.
+ Tôi luôn sẵn sàng hỗ trợ các bạn trẻ trong hành trình khoa học của mình.

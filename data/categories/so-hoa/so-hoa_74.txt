@@ -1,0 +1,18 @@
+Thời gian nhận hồ sơ mô tả ý tưởng và sản phẩm công nghệ tham gia cuộc thi Digital Data For Life 2023 đến hết ngày 21/9.
+ Thí sinh còn một ngày để tiếp tục gửi ý tưởng, sản phẩm công nghệ thông tin phục vụ tiến trình chuyển đổi số.
+ Từ 22/9 đến 29/9, hội đồng chuyên môn sẽ duyệt hồ sơ để chọn 30- 40 hồ sơ vào Vòng sơ khảo.
+ Cuộc thi Dữ liệu với cuộc sống (Data for Life 2024) do Trung tâm Dữ liệu và dân cư, Cục Cảnh sát quản lý hành chính về trật tự xã hội (Bộ Công an); Đại học Bách khoa Hà Nội và Đài Truyền hình Việt Nam (VTV) phối hợp tổ chức.
+ Báo VnExpress là đơn vị bảo trợ truyền thông.
+ Sau hai tháng triển khai, đại diện ban tổ chức cho biết đã nhận được hơn 100 ý tưởng dự thi đến từ khắp các tỉnh thành trên cả nước, thậm chí kiều bào nước ngoài.
+ Trong đó, có những ý tưởng đã được thí sinh đưa vào triển khai thử nghiệm với kết quả khả thi. Là một trong những đội thi là kiều bào Việt Nam tại nước ngoài, đội thi Mai Trang Trí đã gửi về ý tưởng "App, web quản lý phòng cháy chữa cháy".
+ Xuất phát từ nhiều vụ cháy thương tâm xảy ra trên cả nước thời gian gần đây, đội thi đã lên ý tưởng xây dựng công cụ ứng dụng app cổng thông tin web quản lý phòng cháy chữa cháy. Mục tiêu của app, website này là tạo ra môi trường mở, thuận tiện cho người dân, cơ sở sản xuất kinh doanh/ doanh nghiệp và cơ quan quản lý về phòng cháy chữa cháy; khuyến khích người dân và cơ sở sản xuất kinh doanh/ doanh nghiệp tham gia vào việc theo dõi và báo cáo về các vấn đề liên quan đến cháy nổ, từ đó nâng cao chất lượng cuộc sống. "Chúng tôi kỳ vọng với ý tưởng này, các cơ quan quản lý có thể dựa vào app để đánh giá và theo dõi nguy cơ cháy nổ hiệu quả", anh Hoàng Minh Trí, thành viên đại diện nhóm chia sẻ trong bản mô tả ý tưởng gửi về cuộc thi. Nhiều ý tưởng khác xoay quanh việc tìm giải pháp để chuyển đổi số cũng được gửi về cuộc thi như "Sổ tay công an số"; "Bảng điều khiển dữ liệu dân số", "Ứng dụng tìm đường thông minh cho xe ưu tiên", "Chatbot hỗ trợ tư vấn giải đáp thắc mắc về pháp luật", "Mô hình dự đoán vi phạm an toàn giao thông"...
+ Theo đại diện ban tổ chức, điểm nổi bật của cuộc thi năm nay là nhiều ý tưởng, sản phẩm gửi về cho ban tổ chức, đều ứng dụng công nghệ AI, như "Áp dụng trí tuệ nhân tạo dựng các livestreamer bot ảo hỗ trợ livestream bán hàng trên nền tảng thương mại trực tuyến"; AI hỗ trợ tìm kiếm việc làm; Người ảo AI, giải pháp cá nhân hóa trải nghiệm dịch vụ hành chính công; Ứng dụng AI vào dịch vụ bán lẻ, ngân hàng điện tử...
+ Các công nghệ hiện đại khác cũng được các thí sinh, đội thi sử dụng nhiều như Java, C++, Big Data...
+ Hầu hết ý tưởng đều lấy dữ liệu dân cư giả lập do ban tổ chức cung cấp, dữ liệu về tai nạn giao thông và camera giao thông do ban tổ chức cung cấp, nhóm dữ liệu từ các tổ chức và doanh nghiệp.
+ Bên cạnh đó là nhóm dữ liệu mở từ các nguồn hợp pháp và miễn phí trên mạng.
+ Cuộc thi Dữ liệu với cuộc sống (Data For Life 2024) nhằm tìm kiếm các ý tưởng, giải pháp, sản phẩm công nghệ thông tin từ các tài năng trẻ nhằm phục vụ phục vụ xây dựng Chính phủ số, Xã hội số và Kinh tế số.
+ Cuộc thi sẽ trải qua ba vòng, gồm sơ loại (30-40 đội), chung khảo (10 đội), từ đó sẽ trao giải cho 5 đội xuất sắc.
+ Các đội sẽ nộp bài thi trực tuyến đến hết 21/9 với bản mô tả ý tưởng, sản phẩm thể hiện lý do ra đời, cách thức vận hành, điểm nổi bật, kết quả đạt được khi ứng dụng vào thực tế.
+ Vòng chung kết dự kiến diễn ra ngày 26/11.
+ Tổng giá trị giải thưởng dự kiến là 390 triệu đồng gồm: một giải nhất 300 triệu đồng; một giải nhì 50 triệu đồng; một giải ba 30 triệu đồng; một giải khuyến khích 10 triệu đồng.
+ Đặc biệt, các sản phẩm đoạt giải nhất, nhì, ba sẽ được hỗ trợ hoàn thiện sản phẩm tại Trung tâm Đổi mới Sáng tạo - Trường Công nghệ Thông tin và Truyền thông - Đại học Bách khoa Hà Nội.

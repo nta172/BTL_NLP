@@ -1,0 +1,10 @@
+Rise, startup về blockchain, huy động được 3,2 triệu USD từ các nhà đầu tư, trong đó có người đồng sáng lập Ethereum Vitalik Buterin.
+ Rise là công ty blockchain trên nền tảng Ethereum, giải quyết bài toán về tốc độ giao dịch trên blockchain.
+ Dự án cung cấp khả năng xử lý hơn 100.
+000 giao dịch mỗi giây, thuộc nhóm cao nhất thị trường.
+ Rise được phát triển từ năm 2023 với đội ngũ sáng lập gồm Sam Battenally từ Australia, Nguyễn Quang Hải từ Việt Nam và Sasha Mai là người Mỹ gốc Việt. Nguyễn Quang Hải, CTO của dự án, từng bỏ học đại học để khởi nghiệp và huy động thành công hàng chục triệu USD, trong khi Sasha Mai từng làm trưởng bộ phận chiến lược tăng trưởng cho Kyber Network - startup cũng của các nhà sáng lập Việt Nam, ra đời từ 2017.
+ Trong thông báo ngày 16/9, Rise cho biết đã huy động 3,2 triệu USD cho vòng gọi vốn hạt giống, dẫn đầu bởi quỹ đầu tư mạo hiểm Mỹ Finality Capital, cùng một số đơn vị như vườn ươm khởi nghiệp Orange DAO, ether.fi Ventures. Ngoài ra, nhiều nhà đầu tư thiên thần nổi tiếng trong ngành cũng tham gia vòng này, như Vitalik Buterin, nhà đồng sáng lập Ethereum, Stani Kulechov, nhà sáng lập AAVE, Nguyễn Thành Trung, người đồng sáng lập Axie Infinity; và Trần Huy Vũ, nhà đồng sáng lập Kyber Network.
+ Theo Giám đốc tăng trưởng Sasha Mai, blockchain cho phép các nhà phát triển xây dựng ứng dụng phi tập trung bằng hợp đồng thông minh.
+ Tuy nhiên, công nghệ này "chưa được sử dụng rộng rãi bởi người dùng cuối" do hạn chế về tốc độ xử lý.
+ Các nền tảng blockchain trong hệ sinh thái Ethereum thường chỉ xử lý vài trăm giao dịch mỗi giây trước khi bắt đầu quá tải.
+ Rise là giải pháp layer 2, được phát triển để giải quyết hạn chế này, cho phép xử lý hàng trăm nghìn giao dịch mỗi giây trong khi vẫn duy trì lợi thế cốt lõi của công nghệ blockchain là tính phi tập trung. "Chúng tôi kỳ vọng phá vỡ giới hạn hiện tại về tốc độ, thúc đẩy các ứng dụng mới, từ đó tăng thêm nhiều người sử dụng công nghệ blockchain", đại diện dự án cho biết.

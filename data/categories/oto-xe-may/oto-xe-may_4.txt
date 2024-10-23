@@ -1,0 +1,14 @@
+Công nghệ hỗ trợ lái xe ProPilot 2.
+1 có thể ngăn tài xế "ôm khư khư" làn ngoài cùng bên trái trên cao tốc. Lái xe ở làn đường bên phải và chỉ chạy ở làn ngoài cùng bên trái, hay làn 1 cao tốc, trừ khi vượt xe không chỉ là văn hóa giao thông mà ở nhiều nơi, đó là luật.
+ Tuy nhiên, nhiều tài xế vẫn "cắm trại" ở làn đường bên trái.
+ Hành vi này có thể dẫn đến tắc nghẽn giao thông và gây khó chịu với những người khác.
+ Thậm chí, nó có thể gây ra tai nạn.
+ Phiên bản mới nhất của công nghệ hỗ trợ lái xe ProPilot 2.
+1 của Nissan sẽ không để điều đó xảy ra, hoặc ít ra, cảnh báo tài xế rằng không nên làm thế.
+ Cụ thể, khi tính năng được kích hoạt, khi tài xế đã hoàn tất việc vượt xe khác, hệ thống sẽ hiển thị cảnh báo chuyển sang làn đường bên phải. Nhưng cũng giống nhiều công nghệ hỗ trợ an toàn khác, hệ thống của Nissan không nắm quyền điều khiển và tự động đưa xe đi chỗ khác nếu tài xế không để ý đến xe cộ phía sau. Nhưng lời nhắc di chuyển sang phải là một biện pháp đơn giản và được kỳ vọng sẽ hiệu quả.
+ Hệ thống đang dần được triển khai trên các mẫu xe Nissan và Infiniti và đã ra mắt trên Rogue 2025, kèm khả năng lái xe rảnh tay trên một số đoạn đường cao tốc nhất định.
+ Các mẫu xe sắp tới trang bị ProPilot 2.
+1 là Armada mới và Infiniti QX80.
+ Với Nissan Rogue 2015, ProPilot 2.
+1 hiện là tùy chọn với giá 3.
+200 USD cho, được cung cấp trên các phiên bản SL trở lên.
