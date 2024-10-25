@@ -1,16 +1,16 @@
-Bespoke AI Heatpump là máy giặt kiêm sấy đầu tiên dùng công nghệ sấy bơm nhiệt thay vì sấy ngưng tụ như thông thường tại Việt Nam.
- Dòng máy giặt sấy mới là một trong các sản phẩm thu hút nhất của Samsung tại triển lãm IFA 2024 đầu tháng 9 ở Berlin (Đức). Model này bắt đầu cho đặt hàng tại Việt Nam với giá 68 triệu đồng và dự kiến giao cuối tháng này.
- Sản phẩm hỗ trợ khối lượng giặt, sấy lớn hàng đầu thị trường là 25 và 15 kg tương ứng. Mức giá của Bespoke AI Heatpump ở phân khúc cao cấp, tương đương LG WashTower với cùng cân nặng giặt, sấy.
- Tuy nhiên, hai sản phẩm khác nhau về cách thức hoạt động khi của LG là tháp giặt sấy với hai lồng chứa tách biệt còn Samsung là máy giặt kiêm sấy.
- Bespoke AI Heatpump cũng là máy giặt sấy dùng công nghệ bơm nhiệt đầu tiên bán chính hãng tại Việt Nam.
- Trước đó, thị trường xuất hiện một số dòng máy có tính năng tương tự nhưng là hàng nội địa Nhật Bản, không được phân phối chính thức.
- Giá các model này cũng cao từ 30 triệu đến 70 triệu đồng trong khi khối lượng giặt, sấy nhỏ hơn của Samsung.
- Sấy bơm nhiệt (heatpumb) là công nghệ được đánh giá tốt nhất hiện nay trên máy sấy.
- Trong khi hai công nghệ thông hơi và ngưng tụ sử dụng điện trở thông thường để đốt nóng không khí, sấy bơm nhiệt dùng máy nén và khí gas trong môi trường áp suất cao để tạo luồng khí nóng thổi vào lồng sấy. Luồng khí nóng ẩm đi qua dàn ngưng và được giữ lại hơi ẩm biến thành nước trước khi quay trở lại lồng sấy.
- Ưu điểm của công nghệ này là đỡ tốn điện và quần áo sấy cũng hạn chế nhăn, co hơn đáng kể.
- Chiếc Bespoke AI Heatpump đầu tiên về Việt Nam được trưng bày tại cửa hàng bán lẻ cao cấp mới khai trương của hãng tại Hà Nội là Samsung West Lake.
- Đây là một trong các sản phẩm quan trọng nhất của công ty Hàn Quốc năm 2024 khi nhấn mạnh vào tính năng AI cũng như đẩy mạnh hệ sinh thái nhà thông minh SmartThings.
- Bảng điều khiển là màn hình LCD cỡ lớn 7 inch hỗ trợ cảm ứng và có thể sử dụng như với một thiết bị di động thông thường. Người dùng có thể điều khiển máy giặt, các thiết bị khác trong hệ sinh thái SmartThings của Samsung.
- Các chế độ giặt, sấy đều được giới thiệu hỗ trợ bởi công nghệ AI kết hợp cùng loạt cảm biến bên trong.
- Cửa lồng giặt có thể tự mở khi bật máy hoặc sau khi kết thúc chu trình giặt hoặc sấy.
- Cùng với máy giặt sấy, một sản phẩm khác của hãng ra mắt tại IFA 2024 cũng trưng bày tại Samsung West Lake là tủ lạnh Bespoke FamilyHub nhưng chưa có giá chính thức.
+Giải pháp AI Contact Center OmiCX của Công ty Cổ phần Minh Phúc Transformation (MP Transformation) nằm trong top 14 giải pháp đổi mới sáng tạo trong lĩnh vực trí tuệ nhân tạo (AI).
+ OmiCX - giải pháp trải nghiệm khách hàng đa kênh hợp nhất ứng dụng AI của MP Transformation đã vượt qua hơn 750 đơn vị để ghi danh vào Top 14 giải pháp đổi mới sáng tạo trong lĩnh vực AI.
+ Giải thưởng nằm trong khuôn khổ chương trình Thách thức đổi mới sáng tạo Việt Nam (Vietnam Innovation Challenge) do Bộ Kế hoạch và Đầu tư chủ trì, Trung tâm Đổi mới sáng tạo Quốc gia Việt Nam (NIC) và Tập đoàn Meta đồng tổ chức.
+ Theo đại diện MP Transformation, trải qua ba vòng thi, OmiCX được đánh giá cao về tính độc đáo trong công nghệ áp dụng, bền vững đối với xã hội, tính triệt để trong giải quyết vấn đề thực tế, khả năng mở rộng quy mô lớn với chi phí phù hợp.
+ Trong danh sách được vinh danh lần này còn có nhiều tên tuổi lớn như Viettel, FPT, Phenika...
+ Đại diện công ty cho biết AI Contact Center OmiCX ghi dấu ấn công nghệ AI tiên tiến và giá trị kinh tế nói chung.
+ Trong bối cảnh dịch vụ khách hàng dần trở thành yếu tố mũi nhọn để thúc đẩy kinh doanh, tăng tính cạnh tranh trên thị trường, OmiCX nhận diện nhân tố quyết định hiệu suất tổng đài chính là tổng đài viên – đội ngũ thường bị bỏ quên trong chiến lược đầu tư của nhiều doanh nghiệp.
+ Giải pháp OmiCX đặt trọng tâm vào cải thiện trải nghiệm và hiệu quả công việc của tổng đài viên qua trợ lý ảo Agent Assist.
+ Từ đó đảm bảo mọi tương tác với khách hàng đều tạo nên những trải nghiệm vượt trội, thúc đẩy tăng trưởng bền vững cho doanh nghiệp. "AI Contact Center - OmiCX đã trợ lực cho hơn 1.
+000 tổng đài viên của hơn 50 doanh nghiệp, rút ngắn 70% thời gian xử lý quy trình, tăng hiệu suất làm việc từ 30-40%, cho phép tổng đài viên tập trung nhiều hơn vào các tác vụ phức tạp, tạo điều kiện phát triển năng lực chuyên môn", ông Đàm Bá Quyền, Giám đốc sản phẩm MP Transformation cho biết.
+ Cũng theo ông Quyền, OmiCX gây ấn tượng với hội đồng chấm thi bởi nhiều công nghệ tiên tiến được tích hợp như chuyển giọng nói thành văn bản (STT), dịch máy (Machine Translation), xử lý ngôn ngữ tự nhiên (NLP), sinh trắc học giọng nói (Voice Biometrics), phân tích cảm xúc và dữ liệu (Emotional Detection).
+ Đặc biệt mô hình Llama 3 – công nghệ Gen AI tiên tiến từ Meta, kết hợp với các kỹ thuật như RAG, Agentic Workflow được áp dụng triệt để, mở ra nhiều ứng dụng mới trong lĩnh vực chăm sóc khách hàng, giúp tăng cường hiệu suất cho tổng đài và mang lại trải nghiệm cá nhân hóa mượt mà.
+ Theo công bố của doanh nghiệp, OmiCX không dừng lại là nền tảng trải nghiệm khách hàng đa kênh hợp nhất mà còn ứng dụng công nghệ AI tạo sinh (Generative AI) tạo nên trợ lý ảo có độ thông minh và khả năng học hỏi tối ưu.
+ Giải pháp có thể tích hợp nhanh chóng để phù hợp với mọi lĩnh vực kinh doanh, đặc biệt với những ngành sản phẩm, dịch vụ có hệ thống thông tin phức tạp.
+ Để phát triển AI Contact Center - OmiCX, đội ngũ R&D của MP Transformmation với 15 năm kinh nghiệm trong lĩnh vực AI, đã nghiên cứu các công nghệ lõi inhouse, giúp tăng cường hiệu suất cho tổng đài và mang lại trải nghiệm cá nhân hóa mượt mà.
+ Bên cạnh đó, MP Transformation phát triển toàn diện hệ sinh thái sản phẩm, giải pháp trong lĩnh vực contact center, đồng hành cùng hơn 500 doanh nghiệp phát triển bền vững trong kỷ nguyên số.

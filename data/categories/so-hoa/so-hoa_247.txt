@@ -1,11 +1,14 @@
-Bộ nhớ RAM GDDR7 24 Gb (3 GB) đầu tiên trên thế giới của Samsung có tốc độ 42,5 Gbps hỗ trợ các GPU thế hệ mới.
- Samsung cho biết sản phẩm hướng đến các trung tâm dữ liệu, máy trạm trí tuệ nhân tạo (AI), hay trang bị trong card đồ họa, máy chơi game và hệ thống lái tự động dành cho người dùng cuối.
- Các mô-đun RAM GDDR7 24 Gb đã được chào bán tới các nhà sản xuất GPU lớn và dự kiến đi vào sản xuất hàng loạt đầu năm sau.
- Tháng 7 năm ngoái, hãng Hàn Quốc ra mắt RAM GDDR7 đầu tiên trên thế giới, nhưng tốc độ khiêm tốn 32 Gbps và dung lượng mỗi mô-đun 16 Gb (2 GB).
- Trong khi đó, GDDR7 3 GB có mức băng thông tăng 25% so với GDDR7 2 GB và gấp 2,36 lần so với GDDR6 18 Gbps.
- Bộ nhớ được sản xuất trên quy trình công nghệ 10 nm thế hệ thứ năm của công ty, giúp mật độ tăng lên 50% mà không thay đổi kích thước. Những mô-đun bộ nhớ mới có thể dễ dàng đạt tốc độ 40 Gbps và trong điều kiện cụ thể, có thể đạt 42,5 Gbps, nhanh hơn gần 80% so với GDDR6X (24 Gbps).
- Samsung cho biết GDDR7 mới có hiệu suất cao hơn thế hệ trước 30% nhờ công nghệ như quản lý đồng hồ và thiết kế VDD kép.
- Hơn nữa, vấn đề rò rỉ dòng điện được giải quyết bằng cách ngắt nguồn điện cho các phần của chip không sử dụng.
- Đối với các game thủ, công nghệ RAM mới sẽ giúp xóa bỏ các hạn chế về thiếu hụt dung lượng VRAM.
- Hiện các game có độ phân giải Full HD cũng cần hơn 8 GB bộ nhớ RAM.
- Tuy nhiên, loại RAM mới dự kiến chỉ có trên các mẫu GPU cao cấp trong khi GPU giá rẻ vẫn sử dụng RAM GDDR6 16 Gb vì chi phí sản xuất rẻ hơn.
+AnhPhu Nguyen, sinh viên gốc Việt tại Đại học Harvard, cùng một người bạn phát triển phần mềm xác thực thông tin từ người đối diện có tên DebateGPT vào kính AR. "Không bao giờ thua trong tranh luận nữa", Nguyen, 21 tuổi, viết trên Instagram kèm video mô tả công cụ. "DebateGPT là AI được đưa vào kính AR với khả năng kiểm tra nội dung các câu nói, định nghĩa những từ gây nhầm lẫn và nhiều hơn nữa theo thời gian thực".
+ Theo Business Insider, Nguyen cho biết hệ thống hoạt động bằng cách lắng nghe các cuộc trò chuyện, chuyển giọng nói thành văn bản để hiểu bối cảnh hội thoại nhanh chóng.
+ Do kính kết nối Internet, AI sẽ đối chiếu dữ liệu người nói đưa ra với thông tin công khai trên mạng để xác định tính đúng sai hay còn thiếu sót ở đâu. "Nhờ Internet, chúng ta có toàn bộ kiến thức trong tầm tay.
+ Giải pháp của chúng tôi giúp tận dụng sức mạnh đó nhanh hơn, hiệu quả hơn và tự nhiên hơn bao giờ hết, tất cả đều bằng AR", Nguyen cho biết.
+ Đầu tháng này, AnhPhu Nguyen và Caine Ardayfio cũng thu hút sự chú ý trên mạng xã hội khi tích hợp AI vào kính thông minh Meta Ray-ban.
+ Phần mềm I-XRAY do nhóm phát triển có thể sử dụng camera để quét khuôn mặt của người lạ để nhận diện và tìm kiếm tên của họ, thậm chí là thông tin như địa chỉ nhà, số điện thoại, thành viên gia đình nếu họ từng chia sẻ chúng lên Internet.
+ Cả hai cho biết đây là bước đầu cho dự án tham vọng hơn.
+ Nguyen và Ardafiyo đã thành lập câu lạc bộ AR/VR tại Đại học Harvard từ năm thứ hai và nhanh chóng bắt tay vào các dự án thực tế.
+ Hiện cả hai là sinh viên năm ba. "Chúng tôi đã ở trong phòng thí nghiệm khoa học và kỹ thuật của trường suốt mùa hè để thực hiện các dự án ngẫu nhiên", Ardafiyo nói với Business Insider. "Đầu tiên là súng phun lửa, sau đó là ván trượt điện có thể điều khiển bằng ngón tay.
+ Chúng tôi còn chế tạo một xúc tu cho robot dài khoảng 1,2 mét, có thể chuyển động trong không khí".
+ Cả hai đánh giá các mô hình AI ChatGPT của OpenAI và Claude của Anthropic đã đem đến "những cải tiến nhanh hơn mà trước đây con người chưa làm được". "Chẳng hạn, nếu một robot xây dựng tự động đang cố gắng đào hố, nhưng bị một người cản đường, trước đây nó cần một kỹ sư điều khiển chuyển động để tránh người đó", Ardifiyo lấy ví dụ. "Tuy nhiên, robot theo chuẩn LLM có thể sẽ đợi người đó trong vài giây đến khi họ di chuyển.
+ Nếu không, nó sẽ chủ động phân tích tình huống để đưa ra giải pháp tốt nhất".
+ Trước đó, chia sẻ với VnExpress, AnhPhu Nguyen nói anh sinh năm 2003 tại Bảo Lộc (Lâm Đồng), chuyển đến Mỹ từ năm 6 tuổi.
+ Anh đang học ngành Công nghệ Tăng cường Năng lực con người (Human Augmentation) tại Đại học Harvard.

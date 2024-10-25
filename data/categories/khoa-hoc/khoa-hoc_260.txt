@@ -1,15 +1,27 @@
-Laser âm thanh được tạo ra bằng cách điều khiển các hạt phonon, có tiềm năng ứng dụng lớn trong y tế và thám hiểm biển sâu.
- Các nhà khoa học Trung Quốc đạt bước tiến quan trọng trong việc phát triển laser mạnh hơn từ sóng âm thay vì ánh sáng, SciTechDaily hôm 4/10 đưa tin. Nghiên cứu mới xuất bản trên tạp chí eLight. Loại laser thông thường vốn đã rất thú vị.
- Chúng được con người tạo ra lần đầu tiên vào những năm 1960. "Laser tạo ra một chùm ánh sáng hẹp trong đó tất cả sóng ánh sáng đều có bước sóng rất giống nhau. Những sóng ánh sáng của laser truyền đi cùng nhau, các đỉnh của chúng đều thẳng hàng, hay cùng pha.
- Đây là lý do tại sao các chùm laser rất hẹp, rất sáng và có thể tập trung vào một điểm rất nhỏ", NASA giải thích.
- Dù âm thanh và ánh sáng có những điểm khác biệt, nhưng các nhà vật lý đã nghiên cứu để tạo ra laser âm thanh bằng cách điều khiển phonon. "Tương tự như các photon tạo nên chùm ánh sáng, phonon - hạt lượng tử không thể phân chia - tạo nên chùm âm thanh. Những hạt này xuất hiện từ chuyển động tập thể của hàng triệu tỷ nguyên tử, giống như 'sóng sân vận động' trong một nhà thi đấu thể thao do chuyển động của hàng nghìn người hâm mộ. Khi nghe một bài hát, bạn đang nghe một luồng hạt lượng tử siêu nhỏ này", Andrew N.
- Cleland, giáo sư tại Trường Kỹ thuật Phân tử Pritzker thuộc Đại học Chicago, giải thích.
- Ban đầu dùng để giải thích nhiệt dung của chất rắn, phonon được dự đoán cũng tuân theo những quy tắc cơ học lượng tử giống như photon.
- Tuy nhiên, công nghệ sản xuất và phát hiện phonon vẫn còn kém xa photon.
- Trước đây, laser phonon hình thành từ những vật thể nhỏ chịu ảnh hưởng bởi sóng âm yếu và không chính xác, làm giảm tính hữu ích.
- Phương pháp mới giúp khắc phục vấn đề này bằng cách "khóa" sóng âm trong trạng thái ổn định và mạnh hơn.
- Trong nghiên cứu mới, nhóm nhà khoa học Trung Quốc đã lấy một vi cầu (khối cầu siêu nhỏ) silicon oxide (SiO2) và treo nó bằng các chùm ánh sáng.
- Điều này làm rung quả cầu, tạo ra âm thanh bên trong giống như tiếng bíp với cao độ rất lớn và âm thanh vượt quá khả năng nghe của con người.
- Tiếp theo, họ bắt đầu điều khiển vi cầu rung động bằng một trường điện xoay chiều để tạo ra sự cộng hưởng, khuếch đại sóng âm lên gấp 1.
-000 lần ở những tần số đó.
- Thí nghiệm diễn ra trong môi trường chân không để đo sóng âm tốt hơn (bị giới hạn bên trong vi cầu), giúp tiến gần hơn tới việc tạo ra laser âm thanh có thể dùng cho nhiều mục đích, từ thám hiểm và lập bản đồ đại dương bằng âm thanh cho đến cải tiến những kỹ thuật hình ảnh y tế. Laser âm thanh cũng có thể ứng dụng trong khoa học vật liệu, điện toán lượng tử và nhiều lĩnh vực khác.
+68 công trình nghiên cứu lĩnh vực năng lượng nguyên tử được giới thiệu tại hội nghị khoa học công nghệ hạt nhân cán bộ trẻ, trong đó có nhiều đề tài tiềm năng ứng dụng phát triển kinh tế.
+ Các tác giả báo cáo kết quả tại hội nghị trong 2 ngày 3 - 4/10 tổ chức tại Hà Nội.
+ TS Phạm Quang Minh, Viện phó Viện Năng lượng Nguyên tử Việt Nam, cho biết đây là lần thứ 8 hội nghị được tổ chức, số lượng cán bộ trẻ tham gia ngày càng nhiều với chất lượng nghiên cứu ngày càng cao.
+ Đây được coi là diễn đàn, tạo bước đệm cho con đường học thuật của các nhà khoa học.
+ Tại hội nghị, nhóm nghiên cứu đến từ Viện Di truyền Nông nghiệp chia sẻ kết quả sử dụng tia gamma tạo đột biến lúa và chọn lọc các dòng đột biến năng suất cao, chất lượng tốt đóng góp vào sản xuất lương thực tại Việt Nam.
+ Kết quả chiếu xạ bằng tia gamma (Co60) vào giống lúa ST20 và ST5.
+ Sau sàng lọc, nhóm đã chọn được 4 dòng lúa có chất lượng tương đương hoặc cao hơn giống gốc với đặc tính cơm mềm, mùi thơm và dẻo vừa phải, độ trắng trong cao, hàm lượng amylose thấp dưới 16%.
+ Dòng lúa đột biến này được cải thiện và có thời gian sinh trưởng ngắn hơn đối chứng.
+ Giải trình tự hệ gene dòng lúa đột biến đã được tiến hành và phát triển cho thấy sau chiếu xạ có chứa nhiều biến thể khác nhau khi so với hệ gene của giống gốc ST5.
+ Nhóm tác giả Viện Công nghệ Xạ hiếm giới thiệu nghiên cứu điều chế keo silica làm nguyên liệu cho phân bón lá.
+ Đại diện Trung tâm Chiếu xạ Hà Nội giới thiệu nghiên cứu anh hưởng của chiếu xạ gamma tới khả năng đối kháng của Trichoderma với Rhizoctonia solani gây bệnh khô vằn trên lúa và nghiên cứu ứng dụng chùm điện tử gia tốc cho xử lý phế phẩm thuốc trừ sâu Hexanchlorane...
+ Một nghiên cứu khác được trình bày là tổ hợp gia tốc lớn do nhóm nhà khoa học trẻ Viện Vật lý (Viện Hàn lâm Khoa học và Công nghệ Việt Nam) và Viện Khoa học Kỹ thuật hạt nhân phối hợp thực hiện.
+ Máy gia tốc là một trong số ít thiết bị được ứng dụng ở nhiều lĩnh vực: nghiên cứu khoa học, y tế, môi trường, công nghiệp.
+ Ví dụ trong nghiên cứu máy gia tốc được sử dụng để làm cho các hạt hạ nguyên tử va chạm với tốc độ gần bằng tốc độ ánh sáng nhằm nâng cao hiểu biết về nguồn gốc vũ trụ.
+ Một số máy này còn được sử dụng để tạo ra nơtron, thường được sử dụng cho các mục đích khác nhau của lò phản ứng hạt nhân nghiên cứu.
+ Trong y tế, máy gia tốc được dùng để tiêu diệt tế bào ung thư, khám phá cấu trúc của protein và virus, sản xuất thuốc...
+ Theo đó TS Trần Đình Trọng, Viện Vật lý, đại diện nhóm nghiên cứu cho rằng một tổ hợp gia tốc có thể tập hợp và thúc đẩy nhiều lĩnh vực khác nhau cùng phát triển, do đó việc sở hữu một tổ hợp gia tốc là mong muốn của nhiều quốc gia trong đó có Việt Nam.
+ Hiện nay có rất nhiều loại tổ hợp gia tốc khác nhau về chi phí xây dựng, vận hành cũng như phạm vi ứng dụng.
+ Nhóm nghiên cứu đưa ra những đánh giá về tính khả thi, sự cần thiết của tổ hợp gia tốc lớn tại Việt Nam cũng như cung cấp những thông tin về quá trình chuẩn bị của Việt Nam.
+ Bên cạnh các công trình ứng dụng, nhiều nghiên cứu cơ bản lĩnh vực vật lý, công nghệ hạt nhân được chia sẻ tại hội nghị.
+ Nhóm tác giả trường đại học Khoa học Tự nhiên, Đại học Quốc gia Hà Nội nghiên cứu ảnh hưởng lưới giằng tới sự đối lưu tự nhiên đối với mô hình thanh nhiên liệu của lò phản ứng.
+ Nhóm nhà khoa học Viện Khoa học Kỹ thuật Hạt nhân giới thiệu nghiên cứu mô phỏng đặc trưng của trường chuẩn bức xạ gamma suất liều thấp sử dụng nguồn Cs-137...
+ TS Trần Chí Thành, Viện trưởng Viện Năng lượng nguyên tử Việt Nam cho biết ngành năng lượng nguyên tử có thể đóng góp tốt cho phát triển kinh tế trong bối cảnh biến đổi khí hậu.
+ Theo đó việc khuyến khích các nhà khoa học trẻ tham gia nghiên cứu khai thác ứng dụng thế mạnh của năng lượng nguyên tử được Viện chú trọng nhiều năm qua.
+ Đây cũng là cách để đào tạo và chuẩn bị nhân lực cho ngành trong tương lai.
+ Từ năm 2010, hội nghị Khoa học và Công nghệ hạt nhân cán bộ trẻ ngành Năng lượng nguyên tử được tổ chức hai năm một lần.
+ Sự kiện là dịp để các nhà khoa học trẻ trao đổi ý tưởng, kinh nghiệm, kết quả nghiên cứu, kết nối hợp tác giữa các các đơn vị nghiên cứu.

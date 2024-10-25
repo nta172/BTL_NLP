@@ -1,21 +1,19 @@
-Dự án hồi sinh game Flappy Bird được cho là để lừa đảo tiền số, trong khi nhà phát triển Nguyễn Hà Đông cũng phủ nhận liên quan.
- Tuần trước, tài khoản X có tên Flappy Bird đăng thông báo rằng game đình đám một thời này sắp được hồi sinh. "Tôi đã trở lại. Nhờ những người hâm mộ cuồng nhiệt Flappy Bird, tôi đã được làm mới, tiếp thêm sinh lực và sẵn sàng bay cao", trang này viết.
- Tài khoản cũng khẳng định đã mua lại các quyền hợp pháp và làm việc với người tiền nhiệm để tái tạo trò chơi một cách chính thức.
- Flappy Bird là game di động nổi tiếng 10 năm trước, do Nguyễn Hà Đông của Việt Nam phát triển.
- Ở giai đoạn gây sốt, game thu hút hàng triệu người trên thế giới, mang về cho anh 50.
-000 USD mỗi ngày.
- Tuy nhiên sau khoảng hai tuần, Hà Đông gỡ bỏ game khỏi các nền tảng vì cho rằng nó "phá hỏng cuộc sống giản dị" của mình.
- Quyết định gây sốc cho nhiều người.
- Thậm chí, những điện thoại được cài sẵn game được rao bán với giá cao hơn nhiều lần.
- Sau khi Flappy Bird bị gỡ, nhiều game ăn theo cũng xuất hiện nhưng đều không thành công. Khi thông tin hồi sinh game này xuất hiện, nhiều người kỳ vọng sản phẩm có thể mang lại cảm giác chơi như phiên bản gốc. Nhóm đứng sau việc "hồi sinh" tự nhận là Flappy Bird Foundation Group, khẳng định đã mua lại bản quyền trò chơi từ Gametech - đơn vị sở hữu nhãn hiệu này từ năm 2023, sau khi nhà phát triển Nguyễn Hà Đông không tiếp tục gia hạn.
- Trò chơi dự kiến ra mắt trở lại cuối tháng 10 trên trình duyệt web, trước khi đưa lên iOS và Android năm 2025.
- Website dự án cũng hé lộ game có thể mở rộng thêm tính năng, bổ sung chế độ chơi thách đấu với 99 người khác, thêm nhân vật mới.
- Tuy nhiên, vài ngày sau khi công bố, dự án hồi sinh Flappy Bird được phát hiện có nhiều vấn đề liên quan đến tiền số và bị nghi là dự án lừa đảo. Ngày 12/9, nhà nghiên cứu bảo mật Varun Biniwale nhận thấy nhiều nhánh con của website dự án đề cập đến việc kiếm tiền số. "Huyền thoại Flappy Bird đã trở lại và sẽ bay cao hơn bao giờ hết trên Solana khi vươn tới Web 3.
-0", trang này viết. Ngoài ra, một nhánh khác đề cập token có tên FLAP, chạy trên blockchain TON với lời giới thiệu là dự án "flap-to-earn" (vỗ cánh để kiếm tiền).
- Các trang này hiện đã bị gỡ bỏ.
- Biniwale đặt nghi vấn liệu đây có phải là kế hoạch lừa đảo hay không.
- Ông sau đó cũng nhắn đến Michael Roberts của công ty 1208 Production, người tự nhận trên LinkedIn "là người tiên phong cho sự trở lại của Flappy Bird", nhưng chưa nhận được câu trả lời.
- Trong khi đó, sau 7 năm không đăng bài trên tài khoản X, ngày 16/9, Nguyễn Hà Đông cũng lên tiếng khẳng định không liên quan đến trò chơi. "Tôi không bán bất cứ thứ gì.
- Tôi cũng không ủng hộ tiền số", Đông viết.
- Flappy Bird Foundation Group hiện chưa đưa ra bình luận về thông tin này.
- Trên X, các bài viết của tài khoản Flappy Bird bị người dùng cáo buộc "lợi dụng nỗi nhớ của người hâm mộ về trò chơi để bán NFT".
+Các chuyên gia bảo mật khai thác lỗ hổng trong giao thức điều khiển bằng sóng radio, chiếm quyền điều khiển máy bay không người lái (drone).
+ Cách kiểm soát drone được ông Hồng Ân, trưởng nhóm nghiên cứu bảo mật IoT - Trung tâm An toàn thông tin VNPT (VCI), đề cập tại Security Bootcamp 2024 cuối tuần qua tại Kiên Giang.
+ Phần lớn drone hiện sử dụng giao thức mã nguồn mở ELRS để truyền tin và điều khiển thiết bị bằng sóng vô tuyến.
+ Theo ông Ân, giao thức này tồn tại những lỗ hổng bảo mật nhưng ít được quan tâm và chưa được vá.
+ Trong bối cảnh thiết bị bay không người lái trở nên phổ biến cho cả mục đích dân sự và quân sự, nhiều vụ khai thác các lỗ hổng này để tác động và thay đổi một phần hoạt động của thiết bị đã được ghi nhận, như tăng tốc độ quạt lên hết công suất nhằm khiến thiết bị bay cao và cạn pin.
+ Tuy nhiên, việc chiếm quyền điều khiển hoàn toàn drone chưa nhiều.
+ Trong quá trình nghiên cứu và kiểm thử xâm nhập các thiết bị bay như drone, UAV, đơn vị của Việt Nam đã khai thác thành công lỗ hổng để chiếm quyền điều khiển thiết bị trong chưa đầy một phút.
+ Cách này gồm ba bước: khai thác quy luật nhảy tần trong điều khiển để tấn công vét cạn, sau đó vô hiệu hóa thiết bị điều khiển của nạn nhân.
+ Với giao thức ELRS, việc giả mạo gói tin để chiếm quyền cần hai yếu tố gồm mã ID của thiết bị nhằm tạo ra mã xác thực CRC, và quy luật nhảy tần FHSS.
+ Hai yếu tố này liên kết với nhau và được bảo mật bằng 4 byte dữ liệu.
+ Trong đó, ID thiết bị là thông tin dễ lấy, có thể khai thác dựa trên các gói truyền tin SYNS giữa thiết bị bay và thiết bị điều khiển, xuất hiện sau mỗi hai giây.
+ Từ thông tin này, người thử nghiệm tấn công có thể thực hiện "vét cạn" FHSS, tức thử các khả năng xảy ra cho tới khi nào trùng khớp.
+ Theo chuyên gia của VNPT, với cách làm thông thường, việc vét cạn có thể phải thực hiện trong thời gian nhanh nhất 256 giây, tương đương hơn bốn phút.
+ Tuy nhiên, nhóm chuyên gia đã khai thác một chỉ số có tên Delta T, là thời gian xuất hiện của một tần số ngẫu nhiên.
+ Cách này giúp họ không cần vét cạn toàn bộ mà sẽ tìm ra các mã FHSS có xác suất trùng khớp cao nhất trong năm giây, rút ngắn quá trình chiếm quyền thiết bị xuống chưa đầy một phút.
+ Quá trình này được ông mô phỏng trực tiếp tại khán phòng của Security Bootcamp 2024, khiến thiết bị điều khiển ban đầu bị vô hiệu hóa và drone bay ý của người tấn công.
+ Theo ông Ân, đây là một trong các ví dụ về nguy cơ có thể xảy ra với thiết bị bay nói riêng và thiết bị IoT không dây nói chung, vốn ngày càng phổ biến.
+ Do đó, cần có giải pháp đánh giá an toàn, nghiên cứu và phát triển phương án ngăn ngừa nguy cơ.
+ Theo đại diện Hiệp hội Internet Việt Nam, đơn vị đồng tổ chức Security Bootcamp 2024, việc phát hiện sớm lỗ hổng bảo mật nghiêm trọng trên thiết bị drone, UAV sẽ mở ra hướng đi mới trong việc phát triển biện pháp bảo mật tiên tiến, giúp bảo vệ drone hiện đại trước những mối đe dọa an ninh mạng. "Đây cũng là thông tin quan trọng đối với quân đội và các lực lượng quốc phòng, giúp nâng cao khả năng bảo vệ hệ thống chiến đấu trong kỷ nguyên công nghệ hiện đại", đại diện Hiệp hội đánh giá.

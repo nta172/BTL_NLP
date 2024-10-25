@@ -1,19 +1,20 @@
-Nhóm nhà khoa học Trung tâm Công nghệ Sinh học TP HCM nghiên cứu tạo dòng sâm Ngọc Linh thể đa bội với ưu thế lá dày, cuống lá to, cây cao hơn so với cây tự nhiên. Nghiên cứu do thạc sĩ Phạm Văn Hiểu, Phòng công nghệ sinh học thực vật (Trung tâm Công nghệ Sinh học TP HCM) cùng bốn cộng sự khác thực hiện từ tháng 12/2021 đến tháng 6/2024.
- Theo nhóm nghiên cứu, sâm Ngọc Linh chứa nhiều dược chất quý như ginsenosides (khoảng 52 hợp chất saponin) và ocotillol (Majonoside R2 hay MR2) có tác dụng giúp tăng cường hệ miễn dịch và ngăn ngừa ung thư. Nguồn giống sâm Ngọc Linh sử dụng cho sản xuất hiện nay chủ yếu được thu nhận từ hạt cây trồng trong điều kiện tự nhiên với số lượng rất hạn chế.
- Các nghiên cứu cho thấy cây đa bội, có nhiều hơn hai bộ nhiễm sắc thể trong tế bào, xuất hiện phổ biến ở nhiều loài thực vật, và có nhiều đặc điểm vượt trội so với cây lưỡng bội.
- Trong tự nhiên sâm Ngọc Linh tồn tại dạng cây lưỡng bội 2n = 24 nhiễm sắc thể (NST), sâm Ngọc Linh tứ bội được tạo ra 4n = 48 NST. Nhóm cho rằng, có nhiều nghiên cứu chứng minh, khi bộ nhiễm sắc thể tăng có thể dẫn đến tăng kích thước tế bào và cơ quan, tăng cường hoạt động trao đổi chất, dẫn đến làm tăng các hợp chất thứ cấp và tăng khả năng thích nghi với môi trường.
- Theo thạc sĩ Hiểu, việc áp dụng kỹ thuật đa bội để nâng cao năng suất và phẩm chất giống đã được áp dụng thành công trên nhiều loại cây trồng khác nhau.
- Điều này cho thấy có thể áp dụng kỹ thuật đa bội để tạo ra giống sâm Ngọc Linh có khả năng sinh trưởng và thích nghi với môi trường tốt hơn.
- Việc phát triển dòng sâm Ngọc Linh đa bội nhằm mục đích phục vụ nghiên cứu phát triển giống cũng như sản xuất sâm Ngọc Linh trong tương lai.
- Để tạo dòng Sâm Ngọc Linh đa bội, nhóm nghiên cứu đã sử dụng phôi ở giai đoạn phôi cầu (phôi tạo ra từ quá trình nuôi cấy mô) làm nguyên liệu ban đầu.
- Phôi cầu được xử lý bằng colchicine ở nhiều nồng độ khác nhau để tìm ra nồng độ và thời gian xử lý phù hợp nhất tạo sâm Ngọc Linh thể đa bội.
- Sau khi xử lý, các mẫu phôi được tiếp tục nuôi cấy để tăng trưởng tạo lá. Nhóm tiến hành sàng lọc mẫu đa bội bằng phương pháp dòng chảy tế bào (flow cytometry).
- Các mẫu đa bội sau khi sàng lọc bằng phương pháp dòng chảy tế bào sẽ được tái sinh để tạo cây đa bội hoàn chỉnh.
- Theo thạc sĩ Hiểu, trong các công đoạn trên, sàng lọc đa bội là công đoạn khó khăn nhất, do phải thực hiện với lượng lớn mẫu.
- Vấn đề này được nhóm giải quyết bằng máy đo dòng chảy tế bào. Máy này giúp sàng lọc lượng lớn mẫu trong thời gian ngắn.
- Dòng sâm Ngọc Linh đa bội được nhóm tạo ra bước đầu có sự gia tăng kích thước, lá dày hơn, cuống lá to hơn, cây cao hơn so với mẫu lưỡng bội. Kết quả nghiên cứu này là cơ sở bước đầu nhằm tạo ra được một số dòng sâm Ngọc Linh đa bội phục vụ cho mục đích nghiên cứu.
- Để ứng dụng sâm Ngọc Linh đa bội vào sản xuất, theo thạc sĩ Hiểu cần nghiên cứu sâu hơn về khả năng tăng trưởng, khả năng thích nghi cũng như đánh giá hàm lượng dược chất so với sâm lưỡng bội. "Sâm Ngọc Linh đa bội trên lý thuyết giúp làm tăng hàm lượng các dược chất quý.
- Tuy nhiên việc này cần được đánh giá thực tế thông qua thực nghiệm để có số liệu mang tính thuyết phục", thạc sĩ Hiểu nói.
- Thời gian tới nhóm sẽ tiến tục nghiên cứu phân tích một số thành phần dược chất chính trong mẫu sâm Ngọc Linh đa bội được tạo ra nhằm so sánh hàm lượng dược chất trong mẫu sâm đa bội so với dược chất trong giống sâm lưỡng bội ban đầu.
- TS Hà Thị Loan, Phó giám đốc Trung tâm Công nghệ Sinh học TP HCM đánh giá, nghiên cứu tạo dòng đa bội của là hướng khá mới trong nước nhằm hướng đến tạo giống sâm Ngọc Linh có khả năng sinh trưởng nhanh, hàm lượng dược chất cao.
- Tuy nhiên, bà cho rằng, nhóm cần tiếp tục nghiên cứu tiến tới việc trồng sâm Ngọc Linh đa bội thực tế để có các đánh giá hàm lượng hợp chất quý trong sâm và nhân nhanh sinh khối nhằm thu hợp chất. "Chúng tôi sẽ có phương án hỗ trợ nhóm về vùng trồng thử nghiệm sâm để thực hiện nghiên cứu giai đoạn tiếp theo", TS Loan nói.
+Trung Quốc tiến gần hơn một bước tới đo hạt neutrino bí ẩn sau khi lắp đặt máy dò hình cầu khổng lồ dưới lòng đất ở tỉnh Quảng Đông.
+ Khối cầu có đường kính khoảng 35 m và là bộ phận trung tâm của Đài quan sát neutrino dưới lòng đất Giang Môn (Juno), dự án ở thành phố Giang Môn, tỉnh Quảng Đông.
+ Khối cầu sẽ chứa khoảng 20.
+000 tấn chất phát sáng nhấp nháy và treo lơ lửng trong 35.
+000 tấn nước tinh khiết ở độ sâu 700 m dưới lòng đất để đo khối lượng của các loại neutrino khác nhau tạo bởi hai nhà máy điện hạt nhân gần đó, MSN hôm 13/10 đưa tin.
+ Có biệt danh "hạt ma", neutrino là những hạt cơ bản rất khó phát hiện do chúng không có điện tích, khối lượng rất nhỏ và di chuyển ở tốc độ gần bằng vận tốc ánh sáng.
+ Dù gần như mọi hạt truyền qua môi trường chất lỏng mà không để lại dấu vết, vài loại tương tác với chất lỏng, tạo ra hai chớp sáng mà hàng nghìn ống quang dò ánh sáng có thể ghi nhận.
+ Theo CCTV, khối cầu đã được lắp đặt và các kỹ sư đang tiến hành lắp ráp lớp vỏ kim loại bên ngoài của nó cùng ống quang.
+ Quá trình lắp đặt dự kiến sẽ hoàn tất vào cuối tháng 11 và cơ sở sẽ bắt đầu thu thập dữ liệu từ tháng 8 năm sau.
+ Trước đó, hoạt động thu thập dữ liệu được lên lịch vào năm 2023.
+ Công tác khởi công xây phòng thí nghiệm bắt đầu năm 2015 nhưng dự án bị trì hoãn do vấn đề nước ngầm.
+ Đây là dự án quốc tế với đội ngũ 750 nhà nghiên cứu đến từ 74 viện ở 17 nước và vùng lãnh thổ, gần 300 chuyên gia trong số đó đến từ châu Âu, bao gồm Italy, Đức và Pháp.
+ Juno là dự án nối tiếp Thí nghiệm neutrino lò phản ứng vịnh Daya, hoạt động từ năm 2003 đến năm 2020 gần Thâm Quyến, tỉnh Quảng Đông.
+ Các nhà khoa học Mỹ tham gia dự án vịnh Daya nhưng không cộng tác trong dự án Juno.
+ Theo dự kiến, Juno sẽ là cỗ máy đầu tiên hoạt động trong số những máy dò neutrino thế hệ mới trên khắp thế giới.
+ Cả Thí nghiệm neutrino dưới lòng đất sâu ở Mỹ và đài quan sát Hyper - Kamiokande ở Nhật đều được lên lịch khánh thành và hoạt động trong khoảng năm 2027 - 2028.
+ Theo Wang Yifang, giám đốc Viện vật lý năng lượng cao (IHEP) thuộc Viện Hàn lâm Khoa học Trung Quốc, nhóm chuyên gia đã phát triển nhiều công nghệ để nâng cấp Juno, bao gồm ống quang dò ánh sáng hiệu quả nhất thế giới.
+ Tất cả kết quả thu được trong quá trình xây dựng và vận hành trong tương lai của Juno sẽ được công bố bởi nhóm hợp tác quốc tế.
+ Juno sẽ mất 5 - 6 năm để thu thập tổng cộng 100.
+000 tín hiệu nhằm giải quyết câu hỏi về khối lượng neutrino.

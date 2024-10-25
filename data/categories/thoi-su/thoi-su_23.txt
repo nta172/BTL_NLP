@@ -1,12 +1,19 @@
-Chính phủ đề xuất tập hợp dữ liệu trung ương, địa phương và chuyên ngành nhằm chia sẻ, phân tích, ứng dụng vào phát triển kinh tế xã hội.
- Chiều 22/10, Bộ trưởng Công an Lương Tam Quang thay mặt Chính phủ trình Quốc hội dự án Luật Dữ liệu.
- Điều 33 dự thảo nêu C sở dữ liệu tổng hợp quốc gia được Chính phủ xây dựng và quản lý tập trung, thống nhất tại Trung tâm dữ liệu quốc gia.
- Cơ sở dữ liệu tổng hợp quốc gia sẽ được tích hợp thông tin từ kết quả thực hiện thủ tục hành chính, dịch vụ công; dữ liệu được chia sẻ, đồng bộ từ các cơ sở dữ liệu khác; dữ liệu được số hóa, cung cấp bởi cá nhân, tổ chức và nguồn khác theo quy định.
- Đây cũng là nền tảng phục vụ công tác thống kê, hoạch định chính sách, xây dựng quy hoạch, chiến lược phát triển kinh tế xã hội, an ninh, quốc phòng, đối ngoại, đấu tranh phòng, chống tội phạm, xử lý vi phạm pháp luật; phục vụ nhu cầu khai thác, sử dụng, ứng dụng dữ liệu của tổ chức, cá nhân.
- Bộ trưởng Lương Tam Quang cho biết xây dựng cơ sở dữ liệu tập trung là xu thế chung của các nước hiện nay, như Đan Mạch, Nhật Bản, Trung Quốc.
- Việc này giúp tạo lập, hình thành các hệ thống dữ liệu tin cậy, ổn định của Nhà nước.
- Bên cạnh đó, việc đầu tư, nâng cấp, mở rộng, lưu trữ thông tin trong Cơ sở dữ liệu tổng hợp quốc gia sẽ tiết kiệm rất nhiều so với việc đầu tư hệ thống riêng biệt.
- Thông tin được lưu trữ trong Cơ sở dữ liệu tổng hợp quốc gia cũng sẽ được chia sẻ phục vụ việc khai thác chung cho các bộ, ngành, địa phương.
- Cơ quan quản lý dữ liệu không phải thiết lập thêm các kênh kết nối, chia sẻ riêng.
- Báo cáo thẩm tra, Chủ nhiệm Ủy ban Quốc phòng - An ninh Lê Tấn Tới cho biết có thành viên Ủy ban cho rằng hiện có 7 cơ sở dữ liệu quốc gia, 108 cơ sở dữ liệu chuyên ngành được xây dựng phục vụ công tác quản lý nhà nước. Nếu thiết lập Cơ sở dữ liệu tổng hợp quốc gia của tất cả ngành, lĩnh vực, thì khối lượng dữ liệu sẽ đồ sộ và chi phí cho việc thiết lập, vận hành, bảo trì, bảo dưỡng, nâng cấp rất lớn. Nếu tổ chức thực hiện tốt theo Luật Giao dịch điện tử và văn bản liên quan thì tài nguyên về thông tin tại các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành vẫn có thể được khai thác, sử dụng hiệu quả. "Đề nghị đánh giá tác động về chi ngân sách nhà nước cho hoạt động của Cơ sở dữ liệu tổng hợp quốc gia; việc đầu tư cho cơ sở hạ tầng, kỹ thuật công nghệ và nhân lực quản lý đáp ứng yêu cầu đặt ra", cơ quan thẩm tra yêu cầu. Ngoài nội dung trên, dự thảo Luật Dữ liệu cũng tập trung vào quy định bảo mật dữ liệu cơ quan Nhà nước, dữ liệu cá nhân; quy định các loại dữ liệu không được công khai; dữ liệu công khai có điều kiện; mua bán dữ liệu; sàn giao dịch dữ liệu và chuyển dữ liệu ra nước ngoài.
- Theo chương trình, Quốc hội sẽ thảo luận dự án Luật Dữ liệu vào ngày 8/11 và biểu quyết thông qua theo trình tự rút gọn tại ngày bế mạc kỳ họp này, 30/11.
+Từ đêm nay, không khí lạnh tăng cường nên miền Bắc tiếp tục kiểu trời nắng hanh, độ ẩm không khí thấp (40%), Hà Nội 24-34 độ, Sa Pa 12-22 độ C.
+ Miền Bắc tuần qua trời quang mây, ban đêm dưới 22 độ C, vùng núi dưới 19 độ, một số điểm như Sa Pa (Lào Cai) 12 độ, Đồng Văn (Hà Giang) gần 13 độ, Sìn Hồ (Lai Châu) gần 14 độ.
+ Nguyên nhân là miền Bắc nằm sâu trong khối không khí lạnh khô với trường gió phân kỳ thổi từ mặt đất lên độ cao 1.
+500 m.
+ Cơ quan khí tượng dự báo đêm nay và ngày mai không khí lạnh tăng cường nên tuần tới miền Bắc trời quang mây, đêm lạnh, độ ẩm phổ biến 35-41%.
+ Trang Accuweather của Mỹ dự báo nhiệt độ Hà Nội cả tuần tới khoảng 24-34 độ C.
+ Điểm cao trên 1.
+500 m so với mực nước biển như Sa Pa (Lào Cai) ban ngày 21-22 độ, ban đêm 12-15 độ C.
+ Miền Trung dưới tác động của không khí lạnh tăng cường cộng thêm ảnh hưởng của nhiễu động trong đới gió đông nên tuần tới sẽ có mưa rào, giông, tâm mưa ở Trung Trung Bộ.
+ Nhiệt độ phổ biến 29-32 độ C.
+ Trong đó hai ngày 7-8/10, khu vực từ nam Nghệ An đến Thừa Thiên Huế mưa 20- 40 mm, cục bộ có nơi trên 100 mm.
+ Các đợt mưa với cường suất lớn trên 100 mm trong 6 giờ có thể gây sạt lở đất, lũ quét.
+ Khu vực Đà Nẵng - Bình Thuận mưa về chiều tối, cục bộ có điểm mưa to trên 70 mm.
+ Thanh Hóa, phần phía bắc của tỉnh Nghệ An có mưa vài nơi.
+ Nam Bộ và Tây Nguyên chịu ảnh hưởng của rãnh áp thấp xích đạo có trục 6-8 độ vĩ bắc nên tuần tới có mưa rào, giông nhiều ngày, tập trung về chiều tối.
+ Ban ngày, Nam Bộ nắng 32-34 độ, Tây Nguyên 28-31 độ C.
+ Trung tâm Dự báo Khí tượng Thủy văn quốc gia nhận định tháng 10, nhiệt độ cả nước phổ biến cao hơn 0,5-1 độ C so với trung bình nhiều năm cùng kỳ.
+ Tháng 11-12, nền nhiệt Bắc Bộ, Bắc và Trung Trung Bộ khả năng thấp hơn khoảng 0,5 độ C so với trung bình nhiều năm.
+ Rét đậm ở miền Bắc (nhiệt độ trung bình ngày từ 15 độ C trở xuống) có thể xuất hiện từ nửa cuối tháng 12.

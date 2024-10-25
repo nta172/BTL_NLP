@@ -1,34 +1,20 @@
-16 năm trước khi Alexander Fleming phát hiện chất kháng sinh ức chế vi khuẩn ở nấm mốc, một nhà khoa học người Pháp cũng từng mô tả phát hiện tương tự trong luận văn. Năm 1897, một sinh viên y khoa trẻ tuổi người Pháp tên Ernest Duchesne nộp một luận văn tiến sĩ mang tên Đóng góp vào nghiên cứu cạnh tranh sống còn giữa các tổ chức vi sinh vật: Sự đối kháng giữa nấm mốc và vi khuẩn.
- Trong luận văn này, Duchesne nêu một ý kiến mang tính cách mạng là vi khuẩn và nấm mốc bị cuốn vào sự đấu tranh sinh tồn thường xuyên và con người có thể tận dụng sự đối kháng này để điều trị bệnh, theo Amusing Planet.
- Dù các đặc tính trị bệnh của nấm và thực vật trong chữa bệnh truyền nhiễm đã được biết tới từ thời cổ đại, chính Duchesne là người chứng minh bằng thực nghiệm rằng một số loại nấm mốc nào đó phá hủy vi khuẩn gây bệnh như Salmonella typhi (gây bệnh thương hàn) và Escherichia coli trong phòng thí nghiệm khi tiêm vào chuột lang nhà.
- Thứ Duchesne phát hiện là thuốc kháng sinh penicillin tự nhiên, một thành tựu thường gắn liền với bác sĩ người Scotland Alexander Fleming. Nghiên cứu của Duchesne gần như bị lãng quên cho tới khi được tái phát hiện hơn 50 năm sau, vào năm 1949, 4 năm sau khi Fleming được trao giải Nobel.
- Ernest Duchesne sinh ở Paris năm 1874, là con trai của một kỹ sư hóa học sở hữu xưởng thuộc da.
- Sau khi học hết trung học, ông được nhận vào trường quân y ở Lyon (École du Service de Santé Militaire) năm 1894.
- Hai năm sau, Duchesne bắt đầu nghiên cứu dưới sự hướng dẫn của Gabriel Roux, giáo sư vi sinh vật học kiêm giám đốc Cơ quan vệ sinh cấp tỉnh ở Lyon.
- Roux quan sát một hiện tượng thú vị.
- Tuy bào tử nấm rất dồi dào trong không khí, chúng không có ở nước chảy từ vòi và đài phun nước dù có thể phát triển trong nước cất.
- Điều này khiến Roux nghi ngờ một số tổ chức vi sinh vật trong nước có thể ức chế sự phát triển của nấm mốc.
- Ông gợi ý Duchesne khám phá ý tưởng này như cơ sở cho luận văn.
- Quan sát đó là điểm khởi đầu cho nghiên cứu nòng cốt của Duchesne về sự cạnh tranh với vi khuẩn, cuối cùng dẫn tới phát hiện penicillin của ông.
- Duchesne tiến hành một loạt thí nghiệm, trong đó ông nuôi cấy Penicillium glaucum trong nước luộc thịt, sau đó đưa lượng nhỏ vi khuẩn Salmonella typhi và Escherichia coli vào quần thể nấm. Mỗi lần, bào tử nấm đều chết.
- Ông kết luận trong cuộc đấu tranh sinh tồn, vi khuẩn chiếm thế thượng phong.
- Tuy nhiên, Duchesne suy đoán trước khi Penicillium chết, nó có thể làm suy yếu vi khuẩn, do đó giảm bớt độc lực và đặc tính gây bệnh của chúng.
- Để kiểm tra giả thuyết này, Duchesne tiêm vào chuột lang nhà một dung dịch chứa lượng Penicillium glaucum và E. coli bằng nhau.
- Ban đầu, những con chuột ốm nặng, nhưng chúng hồi phục nhanh chóng.
- Hai ngày sau mũi tiêm đầu, ông tiêm thêm liều tương tự.
- Chuột thí nghiệm không có dấu hiệu bị ốm, chứng tỏ chúng phát triển sức đề kháng với E. coli. Khi tiêm hỗn hợp S. typhi và P. glaucum cho chuột lang nhà, chúng cũng có phản ứng miễn dịch như vậy.
- Duchesne nhận thấy nấm mốc (Penicillum glaucum), tiêm vào động vật cùng thời điểm với một số vi khuẩn như S. typhi và E. coli, có thể giảm đáng kể độc lực của chúng.
- Dù Duchesne không thể xác định chất kháng sinh do Penicillium glaucum tạo ra, ông kết luận đúng về cách sử dụng nấm mốc để điều trị bệnh. Luận văn của Duchesne giúp ông lấy được bằng tiến sĩ, nhưng ý tưởng của ông không thu hút cộng đồng y khoa.
- Tới cuối năm 1898, Duchesne được bổ nhiệm làm bác sĩ ở trung đoàn kỵ binh số hai đóng quân ở Senlis.
- Ông kết hôn năm 1901, nhưng vợ ông qua đời hai năm sau do bệnh lao.
- Bản thân ông cũng mắc bệnh năm 1904 và giải ngũ năm 1907.
- Ông trải qua những năm cuối đời ở nhiều nhà an dưỡng tại miền nam nước Pháp và Thụy Sĩ trước khi mất năm 1912 ở tuổi 37. Năm 1928, 16 năm sau, Alexander Fleming có phát hiện tương tự Duchesne khi đĩa nuôi cấy Staphylococcus aureus của ông vô tình nhiễm nấm Penicillium.
- Giống như Duchesne, Fleming quan sát nấm tiết ra hợp chất ức chế sự phát triển của vi khuẩn.
- Dù phát hiện có ý nghĩa quan trọng, bài báo công bố của Fleming công bố trên tạp chí Experimental Pathology của Anh không thu hút nhiều sự chú ý, tương tự luận văn của Duchesne nhiều năm trước.
- Bản thân Fleming không chắc chắn về ứng dụng y khoa thực tế của phát hiện.
- Ông tập trung nhiều hơn vào ứng dụng tiềm năng trong cô lập vi khuẩn thay vì điều trị bệnh truyền nhiễm.
- Các nhà hóa học đồng nghiệp của ông đã tìm cách tách hợp chất hoạt tính penicillin nhưng không thành công, khiến Fleming dừng nghiên cứu sâu hơn. Một thập kỷ sau, vào cuối những năm 1930, nhà hóa sinh người Anh Ernst Boris Chain tái phát hiện bài báo bị bỏ sót năm 1929 của Fleming. Nhận ra tiềm năng của nó, Chain gợi ý cho nhà khoa học người Australia Howard Florey tìm hiểu hợp chất kháng khuẩn do các tổ chức vi sinh vật tiết ra.
- Florey tập hợp một nhóm nhà sinh vật và hóa sinh học ở Đại học Oxford. Kết quả hợp tác của họ cuối cùng giúp tách thành công và sản xuất hàng loạt penicillin, biến nó thành chất kháng khuẩn cứu sống nhiều sinh mạng.
- Bước đột phá này ra đời kịp thời để sử dụng rộng rãi trong Thế chiến II, thay đổi nền y học.
- Sau khi các đặc tính chữa trị bệnh của penicillin được biết tới rộng rãi, Alexander Fleming trở thành trung tâm chú ý, thậm chí làm lu mờ Howard Florey. Năm 1945, Fleming, cùng với Florey và Ernst Boris Chain, được trao giải Nobel Prize Y sinh nhờ "phát hiện penicillin và hiệu quả chữa trị của nó trong nhiều bệnh truyền nhiễm".
- Dù giải thưởng được chia đều cho 3 người, Fleming tiếp tục được công chúng ghi nhận, trong khi vai trò chủ chốt của Florey và Chain trong phát triển penicillin thành phương pháp điều trị khả thi thường bị xem nhẹ.
+Thằn lằn sừng ngắn lớn có thể phun máu độc xa 1,5 mét từ mắt, có sừng nhọn và khả năng tự phồng để làm kẻ thù mắc nghẹn.
+ Thằn lằn sừng ngắn lớn (Phrynosoma hernandesi) sống ở Bắc Mỹ và Trung Mỹ chuyên ăn kiến, nhện và các loài côn trùng nhỏ khác.
+ Chúng có thân hình dẹt, lùn mập và phần mũi ngắn, trông giống loài lưỡng cư hơn bò sát, do đó còn có biệt danh là "cóc sừng".
+ Nhưng loài thằn lằn này nổi tiếng nhất với cơ chế tự vệ khác thường.
+ Khi bị đe dọa, chúng phun tia máu từ mắt từ khoảng cách lên tới 1,5 mét, theo Live Science.
+ Thằn lằn sừng ngắn lớn làm vậy bằng cách hạn chế lượng máu rút khỏi đầu, làm tăng huyết áp, khiến những mạch máu nhỏ li ti bắn ra quanh mắt.
+ Chúng phun máu vào động vật săn mồi để khiến kẻ thù bối rối và tranh thủ chạy trốn.
+ Khoảng 8 loài thằn lằn gai sử dụng mánh khóe mang tên chảy máu phản xạ.
+ Thằn lằn sừng ngắn lớn dài khoảng 15 cm có thể giải phóng 1/3 tổng lượng máu theo cách như vậy.
+ Dù không thể cản trở chim chóc, máu của thằn lằn ảnh hưởng tới các loài họ chó như chó (Canis familiaris), chó sói đồng cỏ (Canis latrans) và cáo (Vulpes), buộc chúng phải lắc mạnh đầu để máu bắn vào.
+ Những con thằn lằn dường như nhận ra hành vi đó và nhiều khả năng sử dụng cơ chế tự vệ độc đáo với chó thay vì động vật săn mồi khác.
+ Máu của chúng chứa đầy chất độc có thể đến từ loài kiến gặt (Pogonomyrmex) độc mà chúng ăn.
+ Vị máu thằn lằn không mấy dễ chịu đối với động vật săn mồi.
+ Thằn lằn sừng ngắn không bị ảnh hưởng bởi nọc độc của kiến gặt do một chất hóa học trong huyết thanh của chúng đã vô hiệu hóa nó.
+ Thằn lằn cũng tiết ra lượng lớn chất nhầy để làm kiến bất động, nhờ đó chúng có thể nuốt chửng kiến mà không chịu tác động từ nọc độc.
+ Nhưng phun máu không phải cơ chế tự vệ duy nhất của thằn lằn sừng ngắn.
+ Chúng có lớp da vằn vện và cơ thể dẹt giúp ngụy trang dễ dàng.
+ Cơ thể chúng được bao phủ bởi gai nhọn, bao gồm hai sừng lớn ở đầu.
+ Nếu động vật săn mồi tìm cách cắn chúng, thằn lằn sẽ cúi đầu, chĩa phần sừng vào miệng kẻ thù.
+ Chúng cũng có thể phồng lên gấp đôi kích thước thông thường khi bị tấn công, làm động vật săn mồi ngạt thở nếu tìm cách nuốt chúng.

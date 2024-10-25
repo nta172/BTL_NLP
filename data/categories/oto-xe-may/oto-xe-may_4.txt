@@ -1,14 +1,32 @@
-Công nghệ hỗ trợ lái xe ProPilot 2.
-1 có thể ngăn tài xế "ôm khư khư" làn ngoài cùng bên trái trên cao tốc. Lái xe ở làn đường bên phải và chỉ chạy ở làn ngoài cùng bên trái, hay làn 1 cao tốc, trừ khi vượt xe không chỉ là văn hóa giao thông mà ở nhiều nơi, đó là luật.
- Tuy nhiên, nhiều tài xế vẫn "cắm trại" ở làn đường bên trái.
- Hành vi này có thể dẫn đến tắc nghẽn giao thông và gây khó chịu với những người khác.
- Thậm chí, nó có thể gây ra tai nạn.
- Phiên bản mới nhất của công nghệ hỗ trợ lái xe ProPilot 2.
-1 của Nissan sẽ không để điều đó xảy ra, hoặc ít ra, cảnh báo tài xế rằng không nên làm thế.
- Cụ thể, khi tính năng được kích hoạt, khi tài xế đã hoàn tất việc vượt xe khác, hệ thống sẽ hiển thị cảnh báo chuyển sang làn đường bên phải. Nhưng cũng giống nhiều công nghệ hỗ trợ an toàn khác, hệ thống của Nissan không nắm quyền điều khiển và tự động đưa xe đi chỗ khác nếu tài xế không để ý đến xe cộ phía sau. Nhưng lời nhắc di chuyển sang phải là một biện pháp đơn giản và được kỳ vọng sẽ hiệu quả.
- Hệ thống đang dần được triển khai trên các mẫu xe Nissan và Infiniti và đã ra mắt trên Rogue 2025, kèm khả năng lái xe rảnh tay trên một số đoạn đường cao tốc nhất định.
- Các mẫu xe sắp tới trang bị ProPilot 2.
-1 là Armada mới và Infiniti QX80.
- Với Nissan Rogue 2015, ProPilot 2.
-1 hiện là tùy chọn với giá 3.
-200 USD cho, được cung cấp trên các phiên bản SL trở lên.
+Mẫu xe điện mới mang thiết kế tương lai, môtơ điện công suất 8 mã lực, kèm 2 pin có thể tháo rời, phạm vi hoạt động 80 km.
+ Hãng xe máy Nhật Bản Honda giới thiệu CUV e: - mẫu xe điện mới cho thị trường Indonesia, đầu tiên trong khu vực Đông Nam Á.
+ CUV e: hướng đến khách hàng trẻ, thích công nghệ.
+ Ngoại hình CUV e: mang thiết kế tương lai và phát triển theo phong cách châu Âu.
+ Điểm nhấn với đèn LED ban ngày và cụm đèn pha LED.
+ Cụm đèn hậu LED thiết kế tương tự đèn ban ngày và tích hợp đèn báo rẽ.
+ Bảng đồng hồ kỹ thuật số TFT 7 inch trên bản cao, trong khi bản tiêu chuẩn dùng màn 5 inch.
+ Mẫu xe điện mới có chiều dài x rộng x cao là 1.
+889 x 664 x 1.
+096 mm và chiều dài cơ sở 1.
+310 mm.
+ Kích thước này tương đương Honda Lead.
+ Khoảng sáng gầm của CUV e: 139 mm và độ cao yên 761 mm.
+ Bản tiêu chuẩn nặng 117 kg và bản cao nặng hơn 1kg.
+ Các trang bị tiêu chuẩn khác như hộc đồ trước tích hợp cổng USB, hệ thống khóa thông minh smartkey.
+ CUV e: cũng là mẫu xe đầu tiên của Honda có thể kết nối điện thoại thông minh.
+ Cặp bánh với vành đúc 12 inch thiết kế đa chấu.
+ Tính năng an toàn với phanh đĩa đơn ở bánh trước và phanh sau tang trống.
+ Hệ thống phanh kết hợp CBS (Combi Brake System).
+ Cặp lốp không săm 100/90.
+ CUV e: lắp môtơ điện ở bánh sau công suất 8 mã lực tại 3.
+500 vòng/phút, mô-men xoắn 22 Nm tại 2.
+300 vòng/phút.
+ Xe trang bị hai pin lithium-ion đặt dưới yên và có thể tháo rời, mỗi pin có dung lượng 29,4 Ah và nặng 10,2 kg.
+ Ba chế độ lái, gồm Econ (tiết kiệm), Standard (tiêu chuẩn), Sport (thể thao).
+ Theo công bố của hãng, thời gian sạc đầy pin 0-100% trong 6 giờ và sạc 25-75% pin trong 2,7 giờ.
+ Phạm vi hoạt động 80,7 km và tốc độ tối đa 83 km/h.
+ Mẫu xe điện Honda CUV e: bán ra hai phiên bản, gồm Tiêu chuẩn giá 3.
+400-3.
+600 USD và RoadSync Duo giá 3.
+600-4.
+000 USD.

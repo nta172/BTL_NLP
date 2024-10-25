@@ -1,14 +1,31 @@
-Microsoft Copilot hiện hỗ trợ Excel và các ứng dụng khác trong Microsoft 365 thông qua việc tương tác bằng truy vấn trực quan.
- Trong buổi livestream trên LinkedIn ngày 16/9, CEO Microsoft Satya Nadella giới thiệu hàng loạt tính năng mới của Microsoft 365 Copilot.
- Dù sự kiện chủ yếu dành cho khách hàng doanh nghiệp, nhiều chức năng trong đó được đánh giá cao cho người dùng cuối.
- Trong đó, Copilot cho Excel được xem là bổ sung được quan tâm nhất.
- AI có thể giúp người dùng Excel định dạng dữ liệu, hỗ trợ các công thức phổ biến như XLOOKUP và SUMIF, cũng như hình dung dữ liệu trong biểu đồ và bảng thông qua câu lệnh ngắn.
- AI cũng có thể giúp người dùng tìm kiếm theo từ khóa và phân tích dữ liệu.
- Theo Microsoft, Copilot trong Excel "hiểu" và thực hiện câu lệnh thông qua ngôn ngữ lập trình Python. Người dùng chỉ cần nhập vào câu lệnh cần thiết, không cần biết lập trình vẫn có thể sử dụng tính năng mới.
- Trong PowerPoint, Copilot dàn bài của một bài thuyết trình từ yêu cầu của người dùng, bằng cách lấy dữ liệu đầu vào từ câu lệnh hoặc các nguồn trên Microsoft 365 có sẵn.
- Sau đó, nó có thể chèn thông tin vào từng slide và thiết kế bài thuyết trình, hoặc cho phép người dùng chỉnh sửa nhanh thông tin.
- AI thậm chí lấy hình ảnh thương hiệu hoặc hình ảnh do Dall-E 3 tạo ra thông qua tính năng Brand Narrative.
- AI của Microsoft cũng hỗ trợ người dùng Teams tóm tắt nội dung sau mỗi cuộc họp trực tuyến hay chat nhanh.
- Đối với Outlook, Copilot ưu tiên các email quan trọng trong hộp thư đến, tóm tắt nội dung từng email và tạo phản hồi đề xuất.
- Trên OneDrive, nó giúp người dùng tìm kiếm và sắp xếp các tệp liên quan, tóm tắt mà không cần phải tìm kiếm từng tệp.
- Word cũng tận dụng khả năng tóm tắt và thu thập dữ liệu của Copilot. Nằm ở thanh bên phải, người dùng có thể lấy dữ liệu công việc từ email, các ứng dụng 365 khác và web để tạo bản nháp trong tài liệu. Ngoài ra, công cụ Copilot Pages mới giúp chia sẻ các phản hồi của AI với thành viên khác trong nhóm BizChat.
+Xiaomi 14T và 14T Pro nâng cấp mạnh về hiệu năng, camera tinh chỉnh bởi Leica và trang bị nhiều tính năng AI tạo sinh.
+ Xiaomi bắt đầu bán ra dòng 14T tại Việt Nam với giá khởi điểm 13 triệu đồng.
+ Mức này tương đương với Oppo Reno 12 hay Vivo V30, trong khi dòng 14T Pro cạnh tranh với Galaxy S24 FE và Oppo Reno 12 Pro.
+ Hộp đựng máy không còn phụ kiện củ sạc, chỉ có cáp kết nối và case bảo vệ.
+ Xiaomi bắt đầu bán ra dòng 14T tại Việt Nam với giá khởi điểm 13 triệu đồng.
+ Mức này tương đương với Oppo Reno 12 hay Vivo V30, trong khi dòng 14T Pro cạnh tranh với Galaxy S24 FE và Oppo Reno 12 Pro.
+ Hộp đựng máy không còn phụ kiện củ sạc, chỉ có cáp kết nối và case bảo vệ.
+ Thiết kế của Xiaomi 14T vuông vắn hơn thế hệ trước, phần camera bố trí đối xứng với các ống kính tách biệt.
+ Điểm khác biệt giữa hai model mới là 14T có khung sườn bằng nhựa và mặt lưng phẳng, còn 14T Pro (trong hình) hơi bo cong nhẹ với khung sườn kim loại.
+ Xiaomi chuyển sang sử dụng kính mờ trên thiết bị mới để khắc phục nhược điểm bám vân tay, vốn bị phàn nàn nhiều trên thế hệ trước.
+ Cả hai hỗ trợ chống bụi và nước IP68 - chỉ số tốt nhất hiện nay trên smartphone.
+ Thiết kế của Xiaomi 14T vuông vắn hơn thế hệ trước, phần camera bố trí đối xứng với các ống kính tách biệt.
+ Điểm khác biệt giữa hai model mới là 14T có khung sườn bằng nhựa và mặt lưng phẳng, còn 14T Pro (trong hình) hơi bo cong nhẹ với khung sườn kim loại.
+ Xiaomi chuyển sang sử dụng kính mờ trên thiết bị mới để khắc phục nhược điểm bám vân tay, vốn bị phàn nàn nhiều trên thế hệ trước.
+ Cả hai hỗ trợ chống bụi và nước IP68 - chỉ số tốt nhất hiện nay trên smartphone.
+ Xiaomi 14T và 14T Pro đều có ba camera sau, trong đó camera chính và tele 50 megapixel, hỗ trợ OIS còn camera góc siêu rộng là 12 megapixel.
+ Máy ảnh phía trước nâng độ phân giải lên 32 megapixel, trong khi thế hệ trước là 20 megapixel.
+ Xiaomi 14T và 14T Pro đều có ba camera sau, trong đó camera chính và tele 50 megapixel, hỗ trợ OIS còn camera góc siêu rộng là 12 megapixel.
+ Máy ảnh phía trước nâng độ phân giải lên 32 megapixel, trong khi thế hệ trước là 20 megapixel.
+ Xiaomi 14T trang bị chip Dimensity 8300 Ultra.
+ Năm nay, máy chỉ có một phiên bản RAM 12 GB và hai tuỳ chọn bộ nhớ trong 256 và 512 GB với giá lần lượt 13 triệu và 14 triệu đồng.
+ Thông số phần cứng của máy thuộc hàng tốt nhất tầm giá.
+ Xiaomi 14T trang bị chip Dimensity 8300 Ultra.
+ Năm nay, máy chỉ có một phiên bản RAM 12 GB và hai tuỳ chọn bộ nhớ trong 256 và 512 GB với giá lần lượt 13 triệu và 14 triệu đồng.
+ Thông số phần cứng của máy thuộc hàng tốt nhất tầm giá.
+ Xiaomi 14T Pro sử dụng chip Dimensity 9300+, một trong những chip mạnh nhất hiện nay trên thị trường, được đánh giá mạnh hơn Snapdragon 8 Gen 2.
+ Samsung cũng trang bị chip này trên dòng tablet cao cấp nhất của hãng.
+ Máy cũng có RAM 12 GB và hai tuỳ chọn bộ nhớ trong 256 và 512 GB, giá lần lượt 17 triệu và 18 triệu đồng.
+ Xiaomi 14T Pro sử dụng chip Dimensity 9300+, một trong những chip mạnh nhất hiện nay trên thị trường, được đánh giá mạnh hơn Snapdragon 8 Gen 2.
+ Samsung cũng trang bị chip này trên dòng tablet cao cấp nhất của hãng.
+ Máy cũng có RAM 12 GB và hai tuỳ chọn bộ nhớ trong 256 và 512 GB, giá lần lượt 17 triệu và 18 triệu đồng.

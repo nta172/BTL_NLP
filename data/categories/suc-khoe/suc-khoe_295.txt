@@ -1,19 +1,12 @@
-Người bị nhiễm trùng thận không được điều trị kịp thời có thể gặp các biến chứng nguy hiểm như tăng huyết áp, suy thận, nhiễm trùng huyết. Nhiễm trùng thận là loại nhiễm trùng đường tiết niệu (UTI), còn được gọi là viêm đài bể thận.
- Bệnh xảy ra do một số loại vi khuẩn và virus từ đường tiết niệu dưới như bàng quang hoặc niệu đạo, lan đến thận. Nhiễm trùng thận là tình trạng nghiêm trọng, cần được điều trị kịp thời, nếu không có thể gây ra nhiều biến chứng.
- Tổn thương thận: Một trong những biến chứng chính của nhiễm trùng thận không được điều trị là tổn thương hay sẹo thận. Lúc này, thận có thể không hoạt động bình thường, làm tăng nguy cơ mắc bệnh thận mạn tính.
- Huyết áp cao: Thận có chức năng lọc các chất thải ra khỏi máu. Nhiễm trùng thận làm hỏng các mạch máu cung cấp máu cho thận có khả năng dẫn đến huyết áp cao.
- Suy thận: Tổn thương nghiêm trọng do nhiễm trùng thận dễ khiến cơ quan này bị suy giảm chức năng.
- Các chất thải không được thận lọc khỏi máu có thể tích tụ trong cơ thể, gây ra các tình trạng nguy hiểm như tăng huyết áp bất thường, phù mí mắt, phù tay chân hoặc toàn thân, mệt mỏi.
- Áp xe thận: Trong một số trường hợp ít gặp, nhiễm trùng có thể dẫn đến áp xe thận, tức hình thành một túi mủ trong mô thận. Nhiễm trùng huyết: Nếu nhiễm trùng di chuyển từ thận vào máu, người bệnh có thể bị nhiễm trùng huyết, đe doạ tính mạng.
- Các dấu hiệu của tình trạng này bao gồm huyết áp thấp, sốt cao, nhịp tim tăng cao, nhịp thở nhanh.
- Bệnh nhân cần được điều trị tích cực để ngăn ngừa nhiễm trùng huyết dẫn đến suy đa cơ quan và tử vong.
- Viêm bể thận khí phế thũng: Đây là tình trạng có khả năng đe dọa tính mạng, xảy ra khi khí do vi khuẩn tạo ra tích tụ trong thận, dẫn đến phá hủy mô thận.
- Biến chứng này có xu hướng phổ biến hơn ở người bị tiểu đường.
- Các triệu chứng nhiễm trùng thận thường xuất hiện khoảng hai ngày sau khi nhiễm khuẩn và có thể khác nhau giữa trẻ em và người lớn.
- Triệu chứng thường gặp ở người lớn bao gồm đau ở bụng, lưng, bẹn hoặc bên hông; thường xuyên đi tiểu hoặc buồn tiểu, nóng rát hoặc đau khi tiểu; máu hoặc mủ trong nước tiểu; nước tiểu đục hoặc có mùi hôi. Người bệnh có thể buồn nôn hoặc nôn mửa, sốt, ớn lạnh. Nhiễm trùng thận ở trẻ dưới hai tuổi có thể chỉ kèm theo triệu chứng sốt cao. Người lớn trên 65 tuổi có thể bị rối loạn tâm thần và nói lắp bắp. Người xuất hiện các triệu chứng trên nên sớm đến bệnh viện để được khám và điều trị.
- Trường hợp nhiễm trùng thận nhẹ, bác sĩ chỉ định dùng thuốc không kê đơn giúp giảm các triệu chứng như đau, sốt.
- Thuốc kháng sinh được kê để tiêu diệt vi khuẩn, nhưng người bệnh cần tuân thủ toàn bộ liệu trình ngay cả khi tình trạng sớm cải thiện. Nên uống nhiều chất lỏng để cơ thể đủ nước và giúp loại bỏ vi khuẩn ra khỏi đường tiết niệu. Nghỉ ngơi để cơ thể hồi phục, chống lại nhiễm trùng.
- Trường hợp nhiễm trùng thận nặng cần điều trị tại bệnh viện, thường bằng cách truyền dịch và kháng sinh qua đường tĩnh mạch.
- Sau khi người bệnh hồi phục, bác sĩ có thể yêu cầu xét nghiệm nước tiểu để đảm bảo nhiễm trùng đã hoàn toàn khỏi. Nếu nhiễm trùng vẫn tồn tại, người bệnh có thể cần một đợt kháng sinh khác.
- Hầu hết trường hợp nhiễm trùng thận được điều trị kịp thời có tiên lượng tốt.
- Tuy nhiên, một số yếu tố nhất định làm tăng nguy cơ diễn tiến nghiêm trọng hoặc biến chứng như người lớn tuổi, người mắc bệnh thận hoặc tiết niệu, người tiểu đường, thai phụ, người có hệ miễn dịch suy yếu.
+Bé gái 9 tuổi mệt và buồn nôn, nhịp tim lên đến 220 lần/phút (bình thường tuổi này khoảng 84) rồi nhanh chóng ngưng tim, ngưng thở.
+ Ngày 19/10, BS.
+CK2 Nguyễn Thị Ngọc Phượng - Phó khoa Tim mạch, Bệnh viện Nhi đồng 2, cho biết bệnh nhi ngụ Phú Yên, bị rối loạn nhịp tim dạng nhanh.
+ Bé vào sốc, ngưng tim ngưng thở rất nhanh, các y bác sĩ phải chạy đua với thời gian để vừa đặt nội khí quản hỗ trợ hô hấp, vừa xoa bóp tim ngoài lồng ngực liên tục. "Quá trình hồi sức diễn ra khẩn trương và căng thẳng vì mục tiêu duy nhất là nỗ lực cứu bé", bác sĩ nói.
+ Tất cả nhân sự đêm trực được huy động, phối hợp cả khoa Nội tim mạch và khoa Hồi sức Tích cực Chống độc.
+ Mẹ bệnh nhi cho biết sờ thấy tim bé đập nhanh từ trước nhập viện 5 ngày.
+ Sau đó bé buồn nôn và than mệt, được đưa đi khám. "Tôi từng nghĩ cháu không qua khỏi, nhưng phép màu đã đến", người mẹ nói.
+ Sau 8 giờ kiên trì hồi sức, bệnh nhi mới thoát nguy kịch.
+ Những ngày sau đó, các bác sĩ tiếp tục dùng đến các biện pháp như thở máy, hỗ trợ tim với ECMO, thuốc vận mạch, thuốc chống rối loạn nhịp và lọc máu liên tục, nhịp tim của bé dần trở về bình thường.
+ Bệnh tim với dạng rối loạn nhịp nhanh có thể gây rối loạn huyết động rất nặng và ngưng tim gây tử vong nếu không được điều trị kịp thời.
+ Tình trạng này hay gặp ở phụ nữ trẻ, đôi khi xảy ra không rõ nguyên nhân.
+ Tùy vào mức độ nghiêm trọng của từng bệnh nhân, bác sĩ sẽ có những phương pháp điều trị phù hợp.

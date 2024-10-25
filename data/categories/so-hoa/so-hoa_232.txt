@@ -1,12 +1,17 @@
-FBI tạo ra một đồng tiền số trên nền tảng Ethereum nhằm theo dõi, phát hiện và buộc tội hàng chục người có âm mưu "bơm xả", lừa đảo.
- Chính phủ Mỹ công bố kết quả điều tra của Cục Điều tra Liên bang (FBI) nhằm vào kế hoạch thao túng thị trường tiền số, trong đó tiết lộ cơ quan này đã tạo ra đồng NexFundAI "với sự cộng tác của một số nhân chứng". Nhờ đó, Ủy ban Chứng khoán Mỹ (SEC) đã cáo buộc 3 "nhà tạo lập thị trường" và 9 người tham gia vào âm mưu thổi giá một số đồng tiền số.
- Bộ Tư pháp Mỹ cũng buộc tội "lừa đảo và thao túng" nhằm vào 18 cá nhân và tổ chức trong thị trường tiền số.
- Các nghi phạm đã phát tán tin tức giả và thực hiện giao dịch liên quan đến token của họ nhằm tạo cảm giác thị trường đang hoạt động sôi nổi.
- Ba "nhà tạo lập thị trường" gồm ZMQuant, CLS Global và MyTrade được cho là đã áp dụng chiêu bơm xả với đồng NexFundAI mà không biết tiền số đó do FBI khởi tạo.
- Bơm xả (pump and dump) có nghĩa một số người sẽ mua lượng lớn tiền số từ một dự án có giá trị thấp, kết hợp tung tin tức để tạo tâm lý sợ bị bỏ lỡ (FOMO).
- Tâm lý này khiến nhiều người khác vội vã mua theo, từ đó kéo giá tiền số tăng vọt.
- Đến đạt ngưỡng nào đó, nhóm người mua ban đầu sẽ bán toàn bộ token đang nắm giữ, thu lời, đồng thời khiến giá token giảm mạnh. Những người mua sau sẽ trở thành nạn nhân vì đồng tiền mình sở hữu mất giá. "Kết quả điều tra đã giúp xây dựng cáo trạng nhằm vào lãnh đạo của bốn công ty tiền số và nhân viên dưới quyền.
- Họ bị cáo buộc thúc đẩy âm mưu giao dịch lừa đảo, chiếm hàng triệu USD của người tham gia", Jodi Cohen, đặc vụ phụ trách văn phòng FBI tại Boston, cho hay.
- Phát ngôn viên FBI nói hoạt động giao dịch của NexFundAI rất hạn chế, nhưng không cung cấp thêm thông tin.
- Quyền chưởng lý Quận Massachusetts Joshua Levy cho biết giao dịch trên đồng tiền số này đã bị vô hiệu hóa.
- Bộ Tư pháp Mỹ thông báo đã tịch thu 25 triệu USD từ các giao dịch gian lận trên và sẽ trao trả cho những người tham gia.
+Apple phát hành bản cập nhật iOS 18.
+0.
+1, tập trung sửa lỗi chạm cảm ứng trên thế hệ iPhone 16.
+ Trang công nghệ PhoneArena đánh giá Apple có động thái đầy bất ngờ khi triển khai bản cập nhật nhỏ iOS 18.
+0.
+1, dù iOS 18.
+1 với tính năng được mong đợi nhất Apple Intelligence sẽ có mặt ngay trong tháng 10. iOS 18.
+0.
+1 chủ yếu khắc phục sự cố của iPhone đã gặp phải hai tuần qua, trong đó có lỗi phản hồi khiến màn hình cảm ứng không nhận diện các lần chạm hoặc vuốt.
+ Trước đó, nhiều người dùng iPhone 16, chủ yếu là hai mẫu iPhone 16 Pro và 16 Pro Max, phản ánh các phản hồi trên màn hình khá chậm, thao tác chạm và vuốt thi thoảng gặp trục trặc.
+ Một số sau đó cho rằng nguyên nhân nằm ở nút Camera Control.
+ Chỉ cần không chạm vào vùng này, lỗi sẽ không xảy ra.
+ Bên cạnh khắc phục vấn đề cảm ứng, iOS 18.
+0.
+1 cũng sửa lỗi khiến camera trên iPhone 16 Pro bị treo khi quay video chế độ macro 4K, ứng dụng Tin nhắn bị "đơ" khi gặp các ký tự lạ, hay sự cố phân bổ bộ nhớ ảnh hưởng đến hiệu suất trên một số iPhone.
+ Để cài đặt bản cập nhật mới, người dùng iPhone trong danh sách được hỗ trợ có thể vào Cài đặt > Chung > Cập nhật phần mềm và tải bản cập nhật.
+ Để tránh rủi ro, người dùng nên sao lưu dữ liệu quan trọng trước khi nâng cấp.

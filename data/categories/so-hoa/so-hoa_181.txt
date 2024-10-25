@@ -1,16 +1,18 @@
-Lotus Chat có giao diện và một số tính năng giống Telegram, bổ sung thêm một số công cụ tối ưu cho người dùng tại Việt Nam.
- Trong sự kiện chiều 18/10 tại Hà Nội, ông Nguyễn Thế Tân, Tổng giám đốc VCCorp, đơn vị phát triển Lotus Chat, đánh giá các ứng dụng chat, nhắn tin đang là môi trường chiếm phần lớn trong thời gian sử dụng của người dùng Internet hàng ngày.
- Tại đây, họ có thể chia sẻ nhiều thông tin quan trọng như thẻ tín dụng, hợp đồng, thông tin cá nhân, công việc, đồng thời giao tiếp với nhiều nhóm người khác nhau, như người thân, đồng nghiệp, đối tác, và thậm chí cả người lạ. "Việc này khiến họ phải đối diện với vô vàn rủi ro, như bị quấy rối, lừa đảo, lộ thông tin, làm phiền, hoặc vô tình thất thoát các thông tin quan trọng", ông Tân nói. "Đó là suy nghĩ khi xây dựng Lotus Chat, hướng tới an toàn trong giao tiếp và hiệu quả hơn trong công việc".
- Ứng dụng của VCCorp phát triển có nhiều điểm trong giao diện và tính năng giống phần mềm Telegram, nhưng bổ sung một số tính năng tối ưu hóa cho người dùng Việt, như trợ lý nhắc việc Lota có thể lên lịch theo lịch âm.
- Trả lời tại sự kiện, ông Tân cho biết app sử dụng một số yếu tố mã nguồn mở từ Telegram, chiếm hơn 30%, như cơ chế đồng bộ dữ liệu trên app ở các nền tảng khác nhau. "Nhưng tư duy về sản phẩm và phần server là 100% của kỹ sư Việt", ông nói.
- Theo đại diện nhóm phát triển, Lotus Chat được xây dựng dựa trên bốn trụ cột, gồm tính an toàn, bảo vệ chủ động, phục vụ công việc và sự luôn sẵn sàng.
- Ứng dụng có các tính năng như đặt bí danh, cho phép tạo ra nhiều tên riêng sử dụng cho các nhóm chat khác nhau để tránh lộ thông tin hoặc làm phiền.
- Ứng dụng cũng cho phép tùy chọn một số tính năng như ngăn chuyển tiếp, tải xuống hay tự xóa tin nhắn, giúp hạn chế tình trạng rò rỉ dữ liệu.
- Với các cuộc trò chuyện quan trọng, app hỗ trợ bảo mật bằng mật khẩu, tự xóa hoặc chống xóa sửa tin nhắn, mã hóa trên đường truyền. Ngoài ra, ứng dụng có tính năng chống chuyển tiếp, tải xuống, chụp ảnh màn hình, nhằm hạn chế rò rỉ thông tin quan trọng.
- Về công việc, ứng dụng cho phép gửi file nặng tối đa 1 GB, không bị xóa.
- Giao diện chat hỗ trợ ghi âm cuộc gọi, tạo convo - tức cuộc trao đổi riêng với thành viên, ghim tin nhắn.
- Tại sự kiện, ông Tân cũng nhấn mạnh tính sẵn sàng, khi người dùng "chỉ cần đăng nhập là các đoạn hội thoại, tài liệu có sẵn để sử dụng, không cần thao tác đồng bộ, không lo file ảnh để lâu bị mất, bị xóa".
- Điều này được cho là nhằm giải quyết một vấn đề từng gặp với ứng dụng Zalo khi giới hạn dung lượng lưu trữ và thường xuyên gặp vấn đề về đồng bộ tin nhắn cũ. Lotus Chat hiện có thể tải về và cài đặt trên smartphone iOS, Android, máy tính macOS và Windows.
- Để sử dụng, người dùng cần đăng ký bằng số điện thoại, hoặc đăng nhập bằng Apple ID, Viet ID.
- Đây là ứng dụng chat tiếp theo do doanh nghiệp Việt phát triển phục vụ người dùng cuối, bên cạnh Zalo của VNG.
- Theo thống kê tháng 8 năm ngoái của Bộ Thông tin và Truyền thông, Zalo có khoảng 75 triệu người dùng thường xuyên và là ứng dụng chat phổ biến nhất tại Việt Nam.
+Vòng thuyết trình cuộc thi Dữ liệu cho cuộc sống - Data For Life 2024 sẽ chọn ra 10 ý tưởng, sản phẩm xuất sắc vào vòng chung khảo.
+ Vòng thuyết trình diễn ra vào 8h ngày 26/10, tại tầng 4, 5, tòa nhà B1, Đại học Bách Khoa Hà Nội.
+ Theo đại diện ban tổ chức, ngay sau phần khai mạc, 46 đội thi chia thành hai phòng để tham gia thuyết trình.
+ Danh sách chia phòng và số thứ tự thuyết trình sẽ được ban tổ chức sắp xếp và gửi đến các đội.
+ Các đội thi không ở Hà Nội có thể trình bày trực tuyến.
+ Kết thúc vòng thuyết trình, 10 ý tưởng, sản phẩm xuất sắc sẽ vào vòng chung khảo, dự kiến diễn ra ngày 26/11.
+ BookWorm - đội thi từng tham gia Data For Life 2023 chia sẻ, để chuẩn bị tốt cho vòng thuyết trình và ghi điểm với ban giám khảo, các đội thi cần có chiến lược rõ ràng, từ cách viết và đưa bài bình chọn, đến cách thuyết trình, trang phục... "Các đội thi nên trình bày rõ ràng, slides ngắn gọn, súc tích, không lan man.
+ Ngoài ra, các bạn cũng cần chuẩn bị kỹ tâm thế để 'hỏi xoáy đáp xoay', chứng minh mình nói được, làm được", đại diện BookWorm chia sẻ kinh nghiệm.
+ Về phía ban tổ chức, ông Tạ Hải Tùng - Phó trưởng ban giám khảo cuộc thi cho biết, ban tổ chức cũng đã chuẩn bị nhiều hình thức hỗ trợ đa dạng và thiết thực cho các thí sinh tham gia cuộc thi Data4Life.
+ Các đội lọt vào vòng sau sẽ được sắp xếp các mentor là những chuyên gia uy tín từ các đại học và tập đoàn hàng đầu, cũng như các chuyên gia đến từ các đơn vị liên quan đến nghiệp vụ.
+ Những mentor này sẽ giúp các đội hoàn thiện ý tưởng, tư vấn các giải pháp công nghệ và hướng dẫn cách áp dụng để phù hợp với nghiệp vụ thực tế.
+ Đối với các thí sinh nước ngoài, ban tổ chức tài trợ vé máy bay và chi phí ăn ở để họ có thể tham dự cuộc thi mà không gặp khó khăn về kinh phí. "Điều này không chỉ thể hiện cam kết của ban tổ chức trong việc tạo ra một sân chơi quốc tế mà còn khuyến khích sự tham gia từ các tài năng toàn cầu", ông Tạ Hải Tùng cho hay.
+ Cuộc thi Dữ liệu với cuộc sống (Data for Life 2024) do Trung tâm Dữ liệu và dân cư, Cục Cảnh sát quản lý hành chính về trật tự xã hội (Bộ Công an); Đại học Bách khoa Hà Nội và Đài Truyền hình Việt Nam (VTV) phối hợp tổ chức.
+ Báo VnExpress là đơn vị bảo trợ truyền thông.
+ Cuộc thi tìm kiếm các ý tưởng, giải pháp, sản phẩm công nghệ thông tin từ các tài năng trẻ nhằm phục vụ phục vụ xây dựng Chính phủ số, Xã hội số và Kinh tế số.
+ Vòng chung kết dự kiến diễn ra ngày 26/11.
+ Tổng giá trị giải thưởng dự kiến là 390 triệu đồng gồm: một giải nhất 300 triệu đồng; một giải nhì 50 triệu đồng; một giải ba 30 triệu đồng; một giải khuyến khích 10 triệu đồng.
+ Đặc biệt, các sản phẩm đoạt giải nhất, nhì, ba sẽ được hỗ trợ hoàn thiện sản phẩm tại Trung tâm Đổi mới Sáng tạo - Trường Công nghệ Thông tin và Truyền thông - Đại học Bách khoa Hà Nội.

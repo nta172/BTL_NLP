@@ -1,24 +1,24 @@
-Đại học Bách khoa Hà Nội mở chương trình chuyên sâu đặc thù Thiết kế vi mạch, hệ kỹ sư, thông qua sự gắn kết chặt chẽ với doanh nghiệp.
- PGS.
-TS Nguyễn Đức Huy, Phó hiệu trưởng trường Điện - Điện tử, Đại học Bách khoa Hà Nội, cho biết thông tin trên tại hội thảo thiết kế vi mạch ngày 15/10.
- Theo ông Huy, quyết định mở chương trình này đến từ thực tế phát triển ngành công nghiệp bán dẫn, cũng nhằm đáp ứng nhu cầu nhân lực chất lượng cao ở lĩnh vực này.
- Việt Nam được đánh giá là thị trường tiềm năng của ngành sản xuất chip và linh kiện bán dẫn.
- Hơn 50 công ty vi mạch đang hoạt động, gồm những công ty nổi tiếng của Mỹ, Nhật, Đài Loan.
- Theo Cổng thông tin khoa học và công nghệ quốc gia, đến hết năm 2022, Việt Nam có khoảng 5.
-000 kỹ sư làm việc trong lĩnh vực thiết kế vi mạch.
- Tuy nhiên, Bộ Thông tin và Truyền thông ước tính ngành công nghiệp bán dẫn trong nước cần khoảng 10.
-000 kỹ sư mỗi năm.
- Chương trình Phát triển nguồn nhân lực ngành công nghiệp bán dẫn, được Chính phủ phê duyệt hồi tháng 9, đặt mục tiêu đến năm 2030, các cơ sở đào tạo được ít nhất 50.
-000 nhân lực có trình độ từ đại học trở lên.
- Theo ông Huy, với thực tế và nhu cầu như trên, các chương trình đào tạo cần được cải tiến để cung cấp cho người học những kiến thức, kỹ năng chuyên sâu, cập nhật nhất. "Đó là lý do Đại học Bách khoa Hà Nội quyết tâm trở thành một trong những đơn vị tiên phong trong việc đào tạo kỹ sư chuyên sâu về Thiết kế vi mạch", ông Huy nói.
- Bách khoa Hà Nội dự kiến tuyển 60 sinh viên mỗi năm cho chương trình này, từ năm 2025.
- Sinh viên học xong bậc cử nhân với 132 tín chỉ ở chuyên ngành Thiết kế vi mạch hoặc các ngành gần như Kỹ thuật Điện tử - Viễn thông, Tự động hóa được đăng ký xét tuyển. "Cử nhân các ngành phù hợp ở trường khác cũng có thể đăng ký", ông Huy cho biết. Nếu trúng tuyển, họ học thêm 48 hoặc 60 tín chỉ, tùy chuyên ngành ở bậc cử nhân.
- Chương trình trang bị kiến thức chuyên ngành cốt lõi về thiết kế chuyên sâu, vi mạch ứng dụng.
- Học viên được thực tập tại doanh nghiệp và làm đồ án tốt nghiệp với sự đồng hướng dẫn của doanh nghiệp. "Chúng tôi đảm bảo người học được tiếp cận với những kiến thức cập nhật nhất về thiết kế vi mạch", ông Huy nói. "Đây là lợi thế giúp sinh viên nhanh chóng bước chân được ngay vào nền công nghiệp bán dẫn khi ra trường".
- Trong quá trình học, sinh viên cũng được doanh nghiệp hỗ trợ để sử dụng các công cụ, phần mềm hiện đại, tham gia các khóa học nâng cao để lấy thêm chứng chỉ từ các công ty như Cadence, Qorvo, Infineo, Dolphin, CoAsia, Synopsys.
- Bằng kỹ sư chuyên sâu đặc thù của Đại học Bách khoa Hà Nội tương đương bậc 7 trong khung trình độ quốc gia, như với bằng thạc sĩ.
- Trước đó, một số trường có chương trình thạc sĩ chuyên ngành Thiết kế vi mạch như Trường Đại học Bách khoa và Khoa học Tự nhiên, thuộc Đại học Quốc gia TP HCM.
- Tuy nhiên, chưa trường nào công bố kế hoạch đào tạo kỹ sư chuyên sâu.
- Ở bậc cử nhân, nội dung về Thiết kế vi mạch, bán dẫn nằm trong các ngành gần như Điện tử - Viễn thông, Kỹ thuật máy tính, Vật lý kỹ thuật nhiều năm qua.
- Đến năm nay, nhiều trường tách thành chuyên ngành riêng, như Đại học Bách khoa Hà Nội, Khoa học và Công nghệ Hà Nội, Bách khoa Đà Nẵng, Đại học Cần Thơ, Quốc tế Sài Gòn (SIU), Phenikaa, FPT.
- Các trường cho rằng đây là thời điểm thích hợp nhằm "bắt" tín hiệu từ cơn khát nhân lực của thị trường và chính sách phát triển công nghiệp bán dẫn của Việt Nam.
+Đại học Harvard, MIT cùng 7 trường khác, chủ yếu trong top đầu, không xét đến tiềm lực tài chính của sinh viên quốc tế khi tuyển sinh (need-blind admission).
+ Khả năng chi trả của ứng viên là yếu tố mà hầu hết đại học Mỹ xem xét để đưa ra quyết định chấp nhận nhập học.
+ Tuy nhiên, 9 trường không quan tâm điều này, gồm: Đại học Harvard, Yale, Princeton, MIT, Amherst, Dartmouth, Bowdoin, Brown và Notre Dame.
+ Tất cả đều trong top 20 đại học quốc gia (National University) hoặc top trường khai phóng (Liberal Arts) của US News năm 2025.
+ Cụ thể, các trường này sẽ cân nhắc tuyển sinh theo tiêu chí và tiềm năng của ứng viên.
+ Hồ sơ của du học sinh không gặp bất lợi gì kể cả khi điều kiện tài chính gia đình của họ hạn chế.
+ Sinh viên quốc tế cũng được xem xét hỗ trợ tài chính, với mức khoảng 21.
+800-84.
+400 USD mỗi năm (khoảng 0,53-2,07 tỷ đồng).
+ Hào phóng nhất hiện nay là Đại học Harvard.
+ Ở Đại học Yale, nếu gia đình có thu nhập dưới 65.
+000 USD mỗi năm, trung bình sinh viên được hỗ trợ tới 84.
+200 USD, còn Viện công nghệ Massachusetts (MIT) hỗ trợ hơn 76.
+800 USD.
+ Còn tại Notre Dame, sinh viên được hỗ trợ trung bình 79.
+900 USD nếu gia đình kiếm được dưới 40.
+000 USD.
+ Ở Mỹ, các đại học thường tuyển sinh hai đợt, gồm tuyển sinh sớm - Early Decision (hạn cuối khoảng 15/11) và tuyển sinh thông thường (hạn cuối vào 15/12 hoặc tháng 1).
+ Hồ sơ ứng tuyển thường gồm bảng điểm, thư giới thiệu, bài luận, thành tích học tập và ngoại khóa.
+ Mỹ là điểm đến du học số một thế giới hiện nay.
+ Năm học trước, nước này có hơn một triệu sinh viên quốc tế, đến từ hơn 200 quốc gia và vùng lãnh thổ.
+ Số du học sinh người Việt là 21.
+900, đóng góp cho nền kinh tế Mỹ khoảng 816 triệu USD.
+ Phần lớn (47,6%) theo đuổi bằng cấp trong lĩnh vực STEM (Khoa học, Công nghệ, Kỹ thuật, Toán học).

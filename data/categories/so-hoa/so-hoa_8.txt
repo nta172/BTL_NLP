@@ -1,32 +1,33 @@
-Ba năm trước, Intel đang săn lùng và thâu tóm các công ty khác, nhưng hiện trở thành mục tiêu bị mua lại. "Trong 2-3 năm qua, sự chuyển dịch sang AI của thị trường thực sự là đòn chí mạng đối với Intel", Angelo Zino, nhà phân tích kỳ cựu của CFRA Research, nói với Wall Street Journal. "Họ đơn giản không có khả năng đi đúng đường nữa". Ngày 20/9, giới truyền thông Mỹ đưa tin Qualcomm vài ngày qua đã tiếp cận Intel và đưa ra đề nghị mua lại đối thủ.
- CNBC cho biết hiện chưa rõ liệu Intel đã bắt đầu đàm phán với Qualcomm hay chưa, và các điều khoản cụ thể là gì. Ngay cả khi Intel đồng ý, việc mua bán có thể phải kéo dài vài năm mới hoàn tất.
- Tuy nhiên, việc họ trở thành mục tiêu thâu tóm dù chỉ vài năm trước vẫn là "thế lực" trong ngành bán dẫn là điều ít người hình dung. Nó cho thấy các bước đi chiến lược sai lầm của hãng cũng như sự khắc nghiệt khi AI bùng nổ đã khiến một doanh nghiệp 56 năm tuổi rơi vào khó khăn.
- Thực tế, các vấn đề của Intel, đặc biệt là những trục trặc trong sản xuất, đã xuất hiện từ trước khi ông Pat Gelsinger tiếp quản vị trí CEO.
- Thế nhưng, chúng trở nên tồi tệ hơn khi ông theo đuổi chiến lược phục hồi đầy tốn kém nhưng lại không dự đoán được sự bùng nổ của AI.
- Intel đã thống trị nhiều thập kỷ, từng là công ty bán dẫn có giá trị nhất thế giới.
- Chip của họ phổ biến trong máy tính cá nhân và máy chủ.
- Trong một ngành công nghiệp nơi chuyên môn hóa ngày càng trở thành chuẩn mực, Intel là công ty hiếm hoi phụ trách cả khâu thiết kế và sản xuất chip riêng của mình, đồng thời cũng dẫn đầu thế giới trong hai lĩnh vực này. Khi Gelsinger trở thành CEO đầu năm 2021, Intel đã mất một phần sự tự tin và tụt lại sau các đối thủ ở châu Á trong cuộc đua sản xuất chip hiệu năng cao. Là người đã làm việc tại Intel hàng thập kỷ trước khi lên lãnh đạo, hơn ai hết ông hiểu rõ công ty và đây cũng là lý do ông được giao trọng trách đứng đầu hãng chip.
- Việc đầu tiên Gelsinger phải làm là phải bắt kịp các đối thủ châu Á như TSMC và Samsung Electronics.
- Ông thực hiện bằng cách chi tiêu mạnh mẽ để mở rộng hoạt động sản xuất và chào mời khả năng sản xuất của mình cho các công ty chỉ thiết kế chip như Qualcomm.
- Theo giới chuyên gia, đây là ván cược đầy tham vọng và tốn kém, dù Intel hội tụ đầy đủ yếu tố để thực hiện: một doanh nghiệp cốt lõi trong sản xuất chip PC và máy chủ, đi kèm một loạt doanh nghiệp phụ có thể giúp tài trợ cho giai đoạn tăng trưởng tiếp theo. Ngay sau đó, Gelsinger hướng Intel sang sản xuất chip theo hợp đồng, tham gia vào cuộc đàm phán thâu tóm GlobalFoundries với giá khoảng 30 tỷ USD, dù đã bị hủy bỏ. "Sẽ có sự hợp nhất trong ngành công nghiệp", ông nói trong một sự kiện đầu năm nay. "Xu hướng này sẽ tiếp tục và tôi kỳ vọng chúng tôi sẽ tiên phong". Không mua được GlobalFoundries, Gelsinger chọn Tower Semiconductor, một nhà sản xuất chip theo hợp đồng khác, với giá hơn 5 tỷ USD.
- Thỏa thuận tiếp tục bị hủy bỏ năm ngoái sau khi các cơ quan quản lý Trung Quốc không phê duyệt.
- Hai vụ thâu tóm lớn không thành khiến mục tiêu đưa Intel trở thành hãng gia công chip đứng thứ hai toàn cầu vào năm 2030 của Gelsinger không tiến triển như mong đợi. Nhiều người được đôn lên vị trí lãnh đạo rồi ra đi, còn nhiều khách hàng tiềm năng đã cắt giảm hoặc rút khỏi danh sách đối tác sau trục trặc này.
- Trong khi hàng tỷ USD được Intel chi ra, AI thế hệ mới bắt đầu bùng nổ.
- Các doanh nghiệp bắt đầu chuyển hướng từ bộ xử lý trung tâm của Intel sang chip xử lý đồ họa Nvidia vốn được sử dụng cho hệ thống AI tinh vi nhất. Lúc này, khi chip Nvidia được săn lùng và đẩy giá, sản phẩm của Intel chỉ nằm trên kệ.
- Gelsinger buộc cắt giảm chi phí để bảo vệ nỗ lực phục hồi của mình.
- Hãng đã sa thải hàng nghìn người bắt đầu từ năm 2022 và cắt giảm cổ tức năm ngoái. Nhưng điều đó là chưa đủ khi tháng trước, Gelsinger nói công ty sẽ tiếp tục sa thải 15.
-000 người, cắt giảm 10 tỷ USD chi phí vào năm tới và bỏ việc trả cổ tức. "Cơn sốt AI mạnh mẽ hơn nhiều so với tôi dự đoán", Gelsinger nói với các nhà đầu tư tháng trước.
- Ông gọi những lần cắt giảm vừa qua là "điều khó khăn nhất" mà bản thân đã làm trong sự nghiệp.
- Tuần trước, Intel tiếp tục công bố động thái mới, gồm kiểm soát chi tiêu nhiều hơn và tách biệt hơn nữa giữa thiết kế và hoạt động sản xuất. "Chúng ta cần chiến đấu cho từng inch và thực hiện tốt hơn bao giờ hết", Gelsinger nói với nhân viên. "Bởi vì đó là cách duy nhất để làm im lặng những người chỉ trích chúng ta và đạt được kết quả mà chúng ta biết mình có khả năng đạt được".
- Theo giới chuyên gia, động thái cắt giảm chi phí mới nhất có thể giúp Intel vượt qua khó khăn.
- Tính đến cuối ngày 21/9, giá cổ phiếu của Intel đã giảm gần 70% so với mức đầu năm 2020.
- Thời gian này, cổ phiếu Nvidia tăng hơn 18 lần.
- Stacy Rasgon, nhà phân tích của Bernstein Research, đánh giá tương lai của Intel phụ thuộc vào sự thành công hoặc thất bại của mẫu chip thế hệ mới dự kiến sản xuất năm sau, thực hiện trên nút 18A (tương đương 1,8 nm).
- Tuy nhiên, họ sẽ đối mặt với vấn đề khó giải quyết hơn, là Intel cần làm gì trước làn sóng chip AI đang phát triển rất mạnh thời gian qua, trong khi nhà máy của hãng chưa tạo ra nhiều loại chip này. "Chúng ta có thể tranh luận liệu chiến lược Intel đang đi đúng hay sai, nhưng vấn đề là thế mạnh cốt lõi của công ty không hỗ trợ con đường này", Rasgon nói với Wall Street Journal. "Có thể đã quá muộn để họ dừng lại, nhưng cũng bước tiếp trong muộn màng".
- Đối với Qualcomm, mua lại Intel, nếu có, sẽ giúp họ tiến vào phân khúc mới của ngành công nghiệp chip.
- Qualcomm chuyên về chip di động, có thành tựu mới ở mảng chip ôtô và Internet vạn vật (IoT) trong những năm gần đây.
- Việc thâu tóm Intel giúp hãng trở thành thế lực chip cho máy tính cá nhân và máy chủ.
- Dù vậy, không rõ liệu Qualcomm có giữ lại hoạt động sản xuất của Intel hay không.
- Cả hai hiện hoạt động theo mô hình khá khác nhau.
- Theo nhà phân tích Anthony Rapa của công ty luật Blank Rome chuyên về thương mại quốc tế, việc Qualcomm thâu tóm Intel khó diễn ra do công ty đang được Mỹ chú trọng, xem như một phần quan trọng trong việc đưa sản xuất về Mỹ. "Cuối cùng, tôi nghĩ những gì các nhà hoạch định chính sách mong muốn là có một ngành công nghiệp bán dẫn phát triển mạnh mẽ tại Mỹ", Rapa nói với CNBC.
- Dù vậy, việc hãng phải chia nhỏ hoặc bán một phần có thể xảy ra. "Intel tin những thay đổi đang làm là cách họ cho thấy họ đang nỗ lực với khách hàng", các nhà phân tích của JPMorgan Chase viết trong báo cáo ngày 20/9. "Chúng tôi tin điều này cuối cùng có thể dẫn đến việc chia tách doanh nghiệp trong vài năm tới".
+Số thứ 7 của Sản phẩm tôi yêu 2024 là cuộc đua của 5 mẫu máy rửa chén diệt sấy khô bán chính hãng, giá từ 15 triệu đến 25 triệu đồng.
+ Sản phẩm tôi yêu 2024 số thứ bảy có chủ đề Máy rửa chén sấy khô được yêu thích nhất, diễn ra từ 10/10 đến hết ngày 20/10.
+ Các sản phẩm trong danh sách đề cử được đánh giá cao về công nghệ, khả năng rửa nhanh, khử khuẩn, sấy khô và đa dạng tiện ích.
+ Sản phẩm trang bị công nghệ sấy khí nóng thông minh, cho khả năng sấy khô, đặc biệt có thể giữ khô ráo và vô trùng 72 giờ.
+ Máy hoạt động dạng độc lập, số lượng chén bát là 15 bộ đồ ăn châu Âu, công nghệ sấy khô AI Heat Dry và sấy khô hoàn toàn.
+ Dòng máy của Comfee có 10 chương trình rửa, độ ồn khi hoạt động ở mức 48 dB, mức tiêu thụ nước 9-15 lít mỗi lần rửa.
+ Một số tính năng nổi bật của máy như công nghệ AI phân tích độ bẩn, căn chỉnh thời gian, lượng nước và nhiệt độ, tự kích hoạt lại chương trình khi mất điện, bộ lọc bằng vật liệu kháng khuẩn.
+ Máy có kích thước 598 x 600 x 845 mm và giá 17 triệu đồng.
+ Máy có bảng điều khiển được thiết kế dạng cảm ứng, tích hợp công nghệ rửa bằng nước nóng, làm sạch đa hướng, rửa đáy chuyên sâu giúp chén đĩa sạch sẽ.
+ Sản phẩm hỗ trợ số lượng chén bát rửa được là 15 bộ đồ ăn châu Âu, sấy tăng cường và sấy hé tự động.
+ Dòng máy của Hitachi có 8 chương trình rửa, độ ồn 43 dB, mức tiêu thụ nước 9,5 lít.
+ Máy có kích thước 850 x 598 x 600 mm và được bán với giá 18,9 triệu đồng.
+ Máy rửa chén LG được thiết kế với công suất 1.
+600-1.
+800 W, có thể rửa số chén bát dùng cho 3-4 bữa ăn của người Việt (14 bộ theo chuẩn châu Âu).
+ Thiết bị có 10 chương trình hoạt động, công nghệ rửa nước nóng và hơi nước Truesteam giúp diệt khuẩn, loại bỏ mùi hôi.
+ Máy hỗ trợ công nghệ sấy ngưng tụ và sấy hé tự động, độ ồn 41 dB, mức tiêu thụ nước 9,6 lít.
+ Hệ thống có thể được điều khiển qua ứng dụng ThinQ, kích thước 843 x 600 x 600 mm và giá 25 triệu đồng.
+ Hệ thống mở cửa tự động sau khi hoàn thành chu trình rửa, giúp nhanh chóng nhận biết cho lần sử dụng kế tiếp, trang bị chế độ Hygiene Plus diệt khuẩn bảo vệ sức khỏe.
+ Số lượng chén bát rửa được là 14 bộ theo chuẩn châu Âu, công nghệ rửa nước nóng với 3 vòi phun, sấy nhiệt dư, độ ồn ở mức 44 dB, tiêu thụ nước 10,5 lít.
+ Máy có đèn LED cảnh báo hết muối, nước làm bóng, tự ngắt nguồn khi nước rò rỉ...
+ Sản phẩm có kích thước 845 x 598 x 600 mm, giá 15 triệu đồng.
+ Máy rửa chén Junger hoạt động với công suất 1.
+800 W, rửa được lượng chén bát tương đương 15 bộ đồ ăn châu Âu, cài đặt 6 chương trình, hai chức năng chuyên sâu và 4 chức năng phụ trợ giúp người dùng lựa chọn theo nhu cầu.
+ Sản phẩm hỗ trợ công nghệ rửa diệt khuẩn đến 75°C, tiệt trùng bằng tia UV, sấy nhiệt Junger Super Dry Tech, AI tự động nhận diện độ bẩn của nước...
+ Máy dạng độc lập, độ ồn 49 dB, tiêu thụ nước 10,9 lít mỗi lần rửa, khử mùi bằng gió tươi, vòi phun 360...
+ Kích thước của máy 789 x 600 x 598 mm và được bán giá 17 triệu đồng.
+ Kết quả bình chọn cho 5 mẫu máy rửa chén sấy khô được tính hoàn toàn dựa trên lượt đánh giá của độc giả.
+ Các sản phẩm có mặt trong danh sách đề cử phải đáp ứng tiêu chí: được giới thiệu trong vòng một năm qua tại Việt Nam; trang bị công nghệ mới, nổi bật; có thiết kế, tính năng và hiệu năng ấn tượng.
+ Độc giả bình chọn nhanh và chính xác nhất mẫu máy rửa chén thắng giải, đồng thời dự đoán gần đúng nhất số người có cùng đáp án sẽ nhận quà từ ban tổ chức là nồi chiên không dầu Lumias MF721650.
+ Sản phẩm tôi yêu là chương trình khởi động cho sự kiện Tech Awards, được VnExpress tổ chức từ 2020.
+ Các sản phẩm đạt giải sẽ được trao chứng nhận trong Lễ trao giải Tech Awards 2024, dự kiến tổ chức vào tháng 1/2025 tại TP HCM.
+ Tech Awards là chương trình bình chọn thường niên từ 2012 của VnExpress Số Hóa, dành cho các sản phẩm và thương hiệu công nghệ nổi bật, được bán chính hãng trong năm tại thị trường Việt Nam.

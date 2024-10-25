@@ -1,11 +1,20 @@
-Tìm hiểu trước thông tin nơi sạc ở các trạm dừng nghỉ, khách sạn sẽ giúp chuyến đi du lịch bằng xe điện thuận lợi, tiết kiệm thời gian hơn.
- Xe điện không nên sạc đầy lên mức 100% thường xuyên nhằm kéo dài tuổi thọ của pin, nhưng trước mỗi chuyến đi dài vẫn cần sạc đầy pin nhằm dự trù các tình huống không thể kiểm soát, ví dụ trạm sạc trên đường không có trụ sạc trống, hoặc đơn giản là cần kéo dài quãng đường.
- Bên cạnh đó, chủ xe cần nghiên cứu kỹ về lộ trình dự kiến của chuyến đi, và các điểm dừng sạc chính hãng hoặc của bên thứ ba trên quãng đường di chuyển. Nên ưu tiên sạc ở những nơi có trụ sạc nhanh nhằm tiết kiệm tổng thời gian di chuyển, dừng nghỉ trên đường đi.
- Hiện nay ứng dụng bản đồ Google Maps đã bổ sung thêm tính năng tìm trạm sạc cho xe điện, chủ xe có thể nhập "charging station" hoặc "trạm sạc xe điện" trên thanh tìm kiếm, lúc này có thể tra cứu thông tin chi tiết về trạm sạc như giờ mở cửa, số lượng trụ sạc, loại cổng sạc và công suất sạc. Ngoài ra thông tin về các địa điểm sạc cũng có thể được tra cứu qua các website của bên cung cấp dịch vụ.
- Chủ xe nên tham khảo nhiều nơi sạc để có sự lựa chọn, trong trường hợp nơi sạc cần đến không có trụ sạc trống, hoặc không hoạt động. Ngoài ra, một số khách sạn, nhà hàng tại Việt Nam cũng đã cung cấp dịch vụ sạc cho khách dừng nghỉ, cư trú, chủ xe có thể hỏi về dịch vụ này nhằm giúp việc nạp pin cho xe thuận tiện hơn. Ngoài ra còn có thể tra cứu thông tin này ở các dịch vụ tìm kiếm khách sạc bằng cách lọc theo tiêu chí "trạm sạc xe điện".
- Tuy nhiên, các trụ sạc tại những khách sạn tại Việt Nam hiện nay thường chỉ là sạc chậm, hoặc dùng ổ điện dân dụng.
- Cuối cùng, cần bơm lốp xe đúng với mức khuyến cáo của nhà sản xuất, thông tin này được in trên bệ cửa phía bên tài. Lưu ý nếu chở nhiều người hoặc tải thêm đồ, mức áp suất của lốp sẽ cao hơn so với khi chở ít người, không tải hàng nặng. Không nên chở quá nhiều đồ trên xe nếu không cần thiết, tải càng nặng quãng đường càng giảm, tài xế phải dừng sạc sớm hơn, hoặc sạc thường xuyên hơn.
- Bên cạnh đó, các yếu tố khách quan khác có thể làm giảm quãng đường là trời mưa, đường xấu, đi tốc độ cao, hoặc lên dốc.
- Tuy nhiên, nếu đi lên dốc làm tốn pin hơn, lúc xuống dốc tài xế có thể điều chỉnh mức độ phanh tái tạo năng lượng ở mức cao nhất, nhằm giúp pin có thể được sạc thêm nhiều hơn trong quá trình này, và cũng hạn chế được việc dùng phanh thường xuyên. Khi dừng nghỉ để sạc, nên ưu tiên các trụ sạc nhanh nhằm tối ưu hoá thời gian dừng nghỉ trên đường đi.
- Chỉ nên sạc chậm khi dừng nghỉ lâu hoặc qua đêm tại điểm đến, ví dụ như trong khách sạn. Khi sạc nhanh chỉ nên sạc lên mức 80% rồi di chuyển tiếp, vì thông thường pin chạm đến mức này hệ thống sẽ tự động chuyển sang chế độ sạc chậm để bảo vệ pin, vì thế sạc nhanh không còn ý nghĩa và phải mất nhiều thời gian để đầy pin. Nếu cần sạc đầy, tài xế nên chuyển sang các trụ sạc chậm khi pin ở mức trên 80%.
- Trước lúc ngắt sạc khoảng 10-15 phút, chủ xe có thể bật điều hòa để làm mát khoang xe trước khi khởi hành, như vậy sẽ tiết kiệm pin hơn khi xe di chuyển trên đường đi.
+Kế hoạch chỉ cung cấp xe thuần điện của thương hiệu siêu sang Anh vào 2030 được thay bằng chiến lược điện hóa, tức vẫn có động cơ đốt trong.
+ Tháng 1/2020, Bentley công bố chiến lược Beyond 100, đặt mục tiêu phát triển bền vững, chỉ cung cấp xe hybrid sạc điện (PHEV) hoặc xe điện chạy pin (BEV) vào năm 2026 và chuyển hoàn toàn sang xe điện vào năm 2030.
+ Thương hiệu siêu sang hứa hẹn 5 mẫu BEV mới từ 2025.
+ Tuy nhiên, Bentley đã xem xét lại chiến lược khi nhận thấy tỷ lệ người dùng xe điện chưa tương xứng.
+ CEO mới nhậm chức từ 1/7, Frank-Steffen Walliser, chia sẻ về sự thay đổi này tại một sự kiện liên quan đến mẫu Continental GT PHEV ở Thụy Sĩ.
+ Walliser giải thích: "Ôtô điện là công nghệ dựa trên cơ sở hạ tầng.
+ Công nghệ này thường bị đánh giá quá cao về tốc độ, trong khi mức độ sử dụng thấp".
+ Trên thị trường xe sang lúc này, người tiêu dùng chưa sẵn sàng đón nhận ôtô điện, và khi cân nhắc mua xe sang, khách hàng chỉ nghĩ đến động cơ đốt trong.
+ Là nhà sản xuất có quy mô khiêm tốn, Bentley không đủ khả năng để tạo ra các dòng xe động cơ đốt trong và xe điện riêng biệt như Mercedes đã làm với thương hiệu con EQ.
+ Do đó, Bentley phải tìm giải pháp khác.
+ Giải pháp hiện tại là xe hybrid sạc điện, như Continental GT coupe và mui trần mới, cùng Flying Spur sedan, cung cấp hơn 48 km phạm vi di chuyển bằng điện, kết hợp động cơ xăng cho những chuyến đi dài.
+ Theo Walliser, xe hybrid không chỉ là công nghệ bắc cầu mà còn là giải pháp tốt, đáp ứng nhu cầu của nhiều khách hàng.
+ Tuy nhiên, khi được hỏi về việc chuyển đổi hoàn toàn sang PHEV, CEO Bentley cho biết PHEV có thể là một trong những giải pháp nhưng chưa có quyết định cuối cùng.
+ Ông cũng đề cập đến nhiên liệu điện tử tổng hợp (e-fuel), được tạo ra bằng cách tổng hợp CO2 và hydro được sản xuất bởi nguồn điện sạch.
+ Kế hoạch trong tương lai gần của Bentley là giới thiệu mẫu xe điện đầu tiên vào khoảng năm 2026, ra mắt thị trường năm 2027, với mục tiêu hoàn toàn điện hóa vào giữa những năm 2030.
+ Mẫu xe điện này sẽ là sản phẩm mới, không phải sedan, coupe, mui trần hoặc SUV hai hàng ghế hiện nay.
+ Việc mở rộng dòng sản phẩm này là một phần quan trọng trong việc giảm thiểu rủi ro, cho phép thương hiệu tăng sản lượng với xe điện mà không mất khách hàng chỉ muốn xe chạy xăng hoặc hybrid.
+ Trong thời gian tới, Bentley vẫn có thể tiếp tục sản xuất ôtô động cơ đốt trong, nhưng động cơ này chỉ được sử dụng cho các phiên bản sản xuất giới hạn.
+ Walliser cho biết Bentley sẽ không hồi sinh động cơ W12.
+ Quyết định này đã được đưa ra trước khi ông nhậm chức và sẽ không thay đổi.

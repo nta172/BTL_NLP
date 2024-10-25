@@ -1,12 +1,22 @@
-CEO Apple Tim Cook cho biết Apple Intelligence không tiên phong trong lĩnh vực AI, nhưng sẽ góp phần thay đổi cuộc sống. "Chúng tôi không đi đầu về trí tuệ nhân tạo", Tim Cook nói với Wall Street Journal. "Tuy nhiên, chúng tôi đã làm những thứ theo cách chúng tôi nghĩ là tốt nhất cho khách hàng".
- Bài phỏng vấn đăng ngày 21/10, hai ngày sau khi chuyên gia Mark Gurman của Bloomberg trích dẫn nguồn tin nội bộ Apple, trong đó một số giám đốc cấp cao nhận xét công ty đi sau hai năm so với các ông lớn công nghệ khác về AI.
- Trước đó, một số ý kiến cũng đánh giá Apple chậm chân so với các đối thủ ở lĩnh vực AI. "Chúng tôi hoàn toàn ổn với việc không phải là người đầu tiên", Cook tiếp tục, đề cập đến không chỉ Apple Intelligence mà còn nhiều sản phẩm khác. "Nhưng như những gì đã xảy ra, chúng tôi cần thời gian để thực sự làm cho mọi thứ trở nên tuyệt vời".
- Theo người đứng đầu Apple, công ty "cần rất nhiều lần lặp lại" để cho ra một sản phẩm đúng với tiêu chí đặt ra, hơn là sự tiên phong. "Chúng tôi thích ra mắt sản phẩm có ích cho mọi người hơn là chạy đua để đưa ra cái gì đó đầu tiên", ông nói. "Nếu bạn nói chuyện với 100 người, cả 100 người đó sẽ nói với bạn: Mọi thứ nên trở thành tốt nhất'".
- Với Apple Intelligence, Cook cho biết ông đang sử dụng AI này trong cuộc sống hàng ngày, chẳng hạn tóm lược email mỗi sáng.
- Sự xuất hiện của công cụ mới cũng thay đổi thói quen hàng ngày của ông. "Nó thậm chí thay đổi cuộc sống của tôi.
- Thực sự là như vậy", ông cho biết.
- Cook cho rằng Apple Intelligence sẽ không thay đổi cuộc sống lập tức, nhưng theo thời gian sẽ tác động sâu rộng đến thói quen của mỗi người dùng như những gì ông trải nghiệm thời gian qua.
- Apple lần đầu đưa ra khái niệm Apple Intelligence - hệ thống trí tuệ cá nhân cho iPhone, iPad và máy Mac - tại sự kiện WWDC 2024 ngày 10/6. Khi ra mắt iPhone 16, Apple Intelligence không có sẵn.
- Dự kiến, người dùng iPhone 15 Pro, 15 Pro Max và dòng iPhone 16 sẽ trải nghiệm AI này trên bản iOS 18.
-1, dự kiến được tung ra cuối tháng này hoặc đầu tháng sau.
- Về tính năng, Apple Intelligence có thể tự nhận diện thông báo, tin nhắn quan trọng, tổng hợp nội dung email, viết lại đoạn văn hay xóa vật thể trong ảnh. Khi ra mắt, Cook gọi đây là "chương mới của Apple", hứa hẹn thay đổi hoàn toàn cách người dùng sử dụng sản phẩm.
+Trong hơn 12.
+000 tên miền bị lạm dụng cho hành vi vi phạm pháp luật có 19% là tên miền ".vn", như để lừa tải app dịch vụ công giả mạo.
+ Đại diện Trung tâm Internet Việt Nam (VNNIC) cho biết nhiều tên miền đang bị lạm dụng như một phương tiện để lừa đảo trên mạng.
+ Thống kê từ tháng 1/2021 đến tháng 10/2024, có 12.
+838 tên miền được phát hiện dùng cho các hành vi vi phạm, trong đó khoảng 10.
+300 (81%) là tên miền quốc tế và 2.
+500 tên miền ".vn".
+ Các vi phạm tập trung vào hai hình thức: lừa đảo và đăng nội dung bất hợp pháp.
+ Với lừa đảo, kẻ gian tạo trang web giả mạo cơ quan nhà nước như dichvucongquocgia, dulieudancu, hoặc tên gần giống với thương hiệu lớn, sau đó gửi qua mạng xã hội, email, kèm đường link để dụ người dùng truy cập.
+ Có khoảng 7.
+400 tên miền đang được dùng cho hình thức này, trong đó tên miền trong nước chiếm 22%.
+ Do thấy đuôi "vn", nhiều nạn nhân cảm thấy tin tưởng, làm theo lời dẫn dụ của kẻ lừa đảo và thiệt hại hàng tỷ đồng.
+ Với hình thức đăng tải thông tin vi phạm, kẻ gian sử dụng tên miền và tạo website dưới dạng trang thông tin điện tử, mạng xã hội không phép, quảng cáo game không phép hoặc trái thuần phong mỹ tục, giao dịch tiền ảo, ngoại hối, cho vay.
+ Trong hơn 5.
+400 tên miền dùng cho mục đích này, tên miền ".vn" chiếm 16%.
+ Theo đánh giá của Bộ Thông tin và Truyền thông, dù các hình thức lừa đảo sử dụng cả tên miền ".vn", số lượng tên miền quốc tế bị lạm dụng có dấu hiệu gia tăng.
+ Chúng chủ yếu được đăng ký trực tiếp qua các nhà cung cấp có trụ sở tại Mỹ, như GoDaddy, Namecheap, Namesilo, tập trung dưới các đuôi như ".com" chiếm 58,3%, hay ".net", "vip", ".me".
+ Ngày 21/10, Bộ Thông tin và Truyền thông đã phê duyệt "Kế hoạch tăng cường công tác quản lý, giảm thiểu lạm dụng tên miền để vi phạm pháp luật", đặt mục tiêu phòng chống, ngăn chặn, cảnh báo và xử lý website, tên miền bị lạm dụng để lừa đảo, vi phạm pháp luật trên mạng Internet Việt Nam.
+ Theo đó, Bộ sẽ xây dựng và triển khai quy chế phối hợp, ứng phó nhanh giữa các đơn vị thuộc Bộ và với đơn vị có liên quan trong nước, cùng tổ chức quốc tế về tên miền như ICANN, Registry, Registrar để xử lý lạm dụng tên miền quốc tế xuyên biên giới trên Internet Việt Nam.
+ Ngoài ra, các công nghệ mới, bao gồm AI, sẽ được dùng để chủ động phát hiện sớm vi phạm ngay từ khâu đăng ký tên miền, đồng thời phát triển hệ thống kỹ thuật để giám sát đăng ký, sử dụng, thực hiện quản lý đồng bộ tên miền ".vn" và tên miền quốc tế.
+ VNNIC cũng khuyến nghị người dân, doanh nghiệp cảnh giác với website, email có đuôi là tên miền quốc tế. com, .net, .vip, .cc.
+ Khi nghi ngờ, có thể tra cứu thông tin website và tên miền qua hệ thống tracuutenmien.gov.vn để phát hiện trang có dấu hiệu lừa đảo.

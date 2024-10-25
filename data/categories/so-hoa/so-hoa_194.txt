@@ -1,11 +1,15 @@
-Geoffrey Hinton, được gọi là "bố già AI" và vừa nhận giải Nobel Vật lý 2024, nhắc đến người học trò "từng phế truất Sam Altman".
- Trả lời báo chí sau khi nhận giải Nobel Vật lý 2024 ngày 8/10, Geoffrey Hinton bày tỏ sự hạnh phúc với giải thưởng danh giá, đồng thời dành lời khen cho các học trò của mình tại Đại học Toronto. "Họ đã làm những điều tuyệt vời", ông nói. "Tôi đặc biệt tự hào việc một trong những học trò của tôi đã sa thải Sam Altman". Người mà Hinton đề cập là Ilya Sutskever, nhà đồng sáng lập OpenAI và mới rời đi hồi tháng 5.
- Ông từng có ghế trong hội đồng quản trị OpenAI và theo đuổi mục tiêu phát triển AI vì lợi ích nhân loại.
- Ông đứng sau vụ lật đổ Sam Altman vào tháng 11/2023 nhưng bất thành.
- Hinton lo ngại trí tuệ nhân tạo sẽ thông minh hơn con người trong vòng 20 năm tới và nhấn mạnh sự cần thiết phải nghiên cứu sâu hơn về an toàn AI.
- Ông cho rằng CEO OpenAI đang quan tâm đến lợi nhuận hơn là sự an toàn, điều ông cho là "đáng tiếc".
- Hinton, Sutskever và một nhà khoa học khác là Alex Krizhevsky đã tạo ra thuật toán AlexNet vào năm 2012 với khả năng nhận diện đối tượng trong hình ảnh với độ chính xác được nhận xét "chưa từng có".
- Công trình này được ví như "vụ nổ Big Bang trong lĩnh vực AI". Năm 2018, Hinton cùng Yoshua Bengio và Yan LeCun được trao giải Turning - giải thưởng danh giá trong lĩnh vực khoa học máy tính.
- Cả ba cùng nghiên cứu về mạng lưới thần kinh - một loại phần mềm máy học mô phỏng cách thức hoạt động của bộ não con người.
- Đây một trong những tiến bộ lớn của ngành khoa học hiện đại và có ảnh hưởng mạnh mẽ đến sự phát triển của AI.
- Đầu tháng 5/2023, ông gây xôn xao khi quyết định rút khỏi vị trí phó chủ tịch và quản lý công nghệ tại Google với lý do có thể công khai về hiểm họa AI đối với nhân loại. "Thực tế, tôi rời đi để có thể nói về mối nguy của AI mà không phải xem xét điều này ảnh hưởng đến Google thế nào", ông viết trên Twitter ngày sau khi từ chức. "Chúng ta chưa biết cách tránh những nguy cơ này", Hinton nói thêm. "Đó là lý do chúng ta cần nhiều nghiên cứu hơn".
+Với mẫu iPhone 16 Pro dung lượng thấp nhất 128 GB, người Việt cần làm trung bình hơn 53 ngày để sở hữu. iPhone Index, được thực hiện từ năm 2018, là bảng xếp hạng do nền tảng thương mại điện tử quốc tế Picodi công bố mỗi khi iPhone thế hệ mới ra mắt. iPhone Index 2024 cho thấy người dùng Việt Nam vẫn nằm trong 5 thị trường cần nhiều ngày công nhất để mua iPhone 16 Pro dung lượng thấp nhất với giá 1.
+000 USD.
+ Cụ thể, người dùng Việt cần trung bình 53,1 ngày làm việc để mua được iPhone 16 Pro, cải thiện so với mức 55,6 ngày của năm 2023.
+ Dù vậy, thứ tự xếp hạng có phần thay đổi, khi người Việt nằm trong nhóm 4 thị trường cần nhiều ngày công nhất, còn năm ngoái đứng thứ 5.
+ Theo Picodi, iPhone Index là bảng xếp hạng được tổng hợp theo các chỉ số là giá iPhone do Apple công bố tại những thị trường bán chính thức và lương trung bình lấy từ website của cơ quan thống kê nhà nước, sau đó chia cho 21 - số ngày làm việc thực tế trong một tháng.
+ Năm ngoái, Việt Nam lần đầu vào danh sách sau khi có cửa hàng trực tuyến Apple Store Online.
+ Tuy nhiên, theo báo cáo từ Tổng cục Thống kê, trong 6 tháng đầu năm, thu nhập bình quân của người lao động đạt 7,5 triệu đồng/tháng.
+ Trong khi đó, theo công bố của Apple, giá iPhone 16 Pro bản 128 GB tại thị trường Việt Nam là 28,99 triệu đồng.
+ Như vậy, thực tế người Việt có thể phải cần trung bình hơn 117 ngày mới sở hữu được iPhone 16 Pro dung lượng thấp nhất.
+ Cũng theo bảng xếp hạng, Thổ Nhĩ kỳ là nơi người dùng cần nhiều ngày làm để mua iPhone 16 Pro với 72,9 ngày, tiếp đến là Philippines 68,8 ngày và Brazil với 68,6 ngày.
+ Các thị trường cần ít ngày làm việc nhất để mua iPhone là Thụy Sĩ (4 ngày), Mỹ (5,1 ngày), Australia và Singapore (cùng 5,7 ngày).
+ Bộ bốn iPhone 16 ra mắt trong sự kiện It's Glowtime rạng sáng 10/9. iPhone 16 và 16 Plus thay đổi thiết kế camera, trang bị nút Action thay cho phím gạt chế độ âm lượng, camera chính nâng lên 48 megapixel.
+ Hai mẫu Pro có màn hình lớn hơn trước 0,2 inch, camera góc siêu rộng nâng độ phân giải lên 48 megapixel.
+ Cả bốn đều có nút chụp mới.
+ Apple trang bị chip A18 cho iPhone 16 tiêu chuẩn và A18 Pro cho iPhone 16 dòng Pro. iPhone 16 sẽ lên kệ tại Việt Nam từ ngày 27/9.

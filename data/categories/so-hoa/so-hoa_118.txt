@@ -1,8 +1,14 @@
-iPhone 17 và iPhone 17 Air được cho là sẽ trang bị màn hình ProMotion với tần số làm tươi 120 Hz tương tự dòng Pro.
- Theo Ross Young, nhà phân tích của công ty tư vấn màn hình DSCC, Apple sẽ nâng cấp mạnh cho màn hình của hai phiên bản iPhone tiêu chuẩn trong năm 2025.
- Theo một số nguồn tin, 17 Plus sẽ được thay thế bằng phiên bản điện thoại mỏng nhất từ trước tới nay và được đổi tên thành 17 Air hoặc 17 Slim.
- Cả iPhone 17 và 17 Air sẽ sử dụng màn hình ProMotion, tần số quét 120 Hz, cao gấp đôi mức 60 Hz hiện tại, giúp đem lại trải nghiệm chơi game, xem phim tốt hơn.
- Công nghệ ProMotion cũng cho phép người dùng điều chỉnh tần số quét tùy theo nhu cầu, giúp tiết kiệm pin hơn.
- Trước đó, dòng iPhone 13 Pro có thể giảm tần số xuống 10 Hz, còn từ iPhone 14 Pro trở đi là 1 Hz, và thêm tính năng màn hình luôn bật (Always-on Display).
- Ross Young là chuyên gia công nghệ từng đưa ra nhiều thông tin chính xác về sản phẩm Apple.
- Ông cũng là người đầu tiên nói Apple sẽ tăng kích thước màn hình của iPhone 16 Pro và 16 Pro Max lên lần lượt 6,3 và 6,9 inch.
+Apple vừa ra iOS 18.
+1 RC khắc phục vấn đề iPhone 16 tắt nguồn hoặc tự khởi động lại ngẫu nhiên.
+ Trong mô tả của iOS 18.
+1 RC (Release Candidate - bản thử nghiệm cuối trước khi phát hành chính thức), Apple cho biết tình trạng trên đã được xử lý.
+ Trước đó, nhiều người sử dụng iPhone 16 tại Việt Nam và trên thế giới phản ánh điện thoại "bị sập" 10-20 lần mỗi ngày không rõ nguyên nhân, nhất là khi đang ở chế độ Standby. iOS 18.
+1 RC cũng khắc phục một loạt lỗi khác, như sự cố Podcast có thể khiến các tập chưa phát được đánh dấu đã phát, lỗi hình ảnh bị giật, tình trạng quá nhiệt khi tua video 4K 60 fps trong ứng dụng Photos, hay lỗi không thể khởi động xe từ chìa khóa số tích hợp trên iPhone.
+ Bản cập nhật cũng hé lộ những tính năng đầu tiên của Apple Intelligence.
+ Trong đó, Writing Tools giúp viết lại, hiệu đính, tóm tắt văn bản từ thông báo, email, ghi chú, bản ghi âm và hỗ trợ ứng dụng bên thứ ba.
+ Trên ứng dụng Mail, tính năng trả lời thông minh sẽ hiển thị các đề xuất dựa trên phản hồi từ người dùng.
+ Họ cũng có thể xóa các chi tiết gây mất tập trung trên ảnh.
+ Apple cũng bổ sung một số tinh chỉnh, như cải thiện khả năng hỏi đáp trong Siri, chế độ Tập trung Hoàn toàn giúp hiển thị thông báo quan trọng.
+ Ngoài ra, giao diện Trung tâm điều khiển cũng được làm mới, dễ thao tác hơn.
+ Theo 9to5mac, nếu không có thay đổi đáng kể, Apple dự kiến phát hành bản cập nhật lớn iOS 18.
+1 cho người dùng vào tuần tới.

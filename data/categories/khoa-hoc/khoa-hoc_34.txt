@@ -1,10 +1,32 @@
-Cuộc di cư hàng năm của những đàn cá mòi khổng lồ từ phía đông Nam Phi tới Ấn Độ Dương có quy mô lớn nhất hành tinh về mặt sinh khối.
- Cuộc di cư của linh dương đầu bò trong chuyến đi khứ hồi vòng quanh vùng đồng bằng Serengeti là một trong những sự kiện ấn tượng nhất trên Trái Đất, nhưng không phải cuộc di cư lớn nhất của động vật. Nếu tính theo sinh khối, trong trường hợp này là tổng khối lượng của một loài động vật ở khu vực chuyên biệt, cuộc di cư hàng năm của cá mòi thực sự đánh đại linh dương đầu bò, theo IFL Science.
- Cá mòi di cư mỗi năm dọc theo vùng ven biển phía đông Nam Phi, với những đàn cá khổng lồ di chuyển từ vùng nước lạnh ngoài khơi mũi Agulhas về hướng bắc tới KwaZulu-Natal và Ấn Độ Dương.
- Đàn cá mòi có thể trải dài hơn 7 km, rộng 1,5 km và sâu 30 m. Kết hợp lại, có hàng tỷ con cá mòi tham gia vào cuộc di cư.
- Dù đây là cuộc di cư thuộc hàng lớn nhất hành tinh, nó cũng kéo theo mặt bất lợi.
- Số lượng lớn cá mòi thu hút nhiều động vật săn mồi tranh thủ kiếm ăn, từ cá heo và cá mập tới chim biển và hải cẩu lông. Nếu dễ trở thành mục tiêu của động vật ăn thịt, tại sao cá mòi vẫn di cư từ năm này qua năm khác?
- Sử dụng dữ liệu di truyền, một nghiên cứu năm 2021 xác định phần lớn cá mòi tham gia di cư có nguồn gốc ở Đại Tây Dương, nơi nước lạnh hơn.
- Sự trồi lên trong thời gian ngắn của nước lạnh ở vùng biển phía nam vốn thường ấm áp thôi thúc cá mòi di chuyển. Khi đợt nước trồi kết thúc, chúng phát hiện bản thân bị mắc kẹt ở khu vực chúng chưa kịp thích nghi và đối mặt nhiều động vật săn mồi. Nhóm nghiên cứu kết luận cuộc di cư của cá mòi là "ví dụ hiếm và di cư hàng loạt không có lợi ích xứng đáng" và về cơ bản đây là một cái bẫy.
- Tuy nhiên, William Sydeman, nhà sinh thái học kiêm chủ tịch Viện nghiên cứu hệ sinh thái cao cấp Farallon ở Petaluma cho rằng cá mòi di cư để tranh thủ những điều kiện đại dương tạm thời có lợi ở Tây Cape.
- Giáo sư Peter Teske ở Đại học Johannesburg cho rằng cuộc di cư của cá mòi có thể là chứng tích của hành vi đẻ trứng có niên đại từ kỷ Băng Hà. Môi trường sống ngày nay là vùng Ấn Độ Dương cận nhiệt đới khi đó từng là nơi phát triển quan trọng của cá mòi non với điều kiện nước lạnh. Nếu đúng như vậy, biến đổi khí hậu có thể ảnh hưởng tới tương lai của cá mòi.
+Demis Hassabis chủ nhân giải Nobel Hóa học 2024 - nhà tiên phong trong những kỹ thuật trí tuệ nhân tạo (AI) nghĩ rằng "làm việc cả đời vì đây sẽ là công nghệ có lợi nhất đối với nhân loại".
+ Đóng góp của Hassabis, 48 tuổi, CEO của Google DeepMind tại Anh để thắng giải Nobel là mô hình AI mang tên AlphaFold2.
+ Nhờ mô hình này, các nhà nghiên cứu có thể dự đoán cấu trúc của tất cả 200 triệu protein, chính xác hình dạng của protein với độ chính xác đến mức nguyên tử, ở quy mô lớn và tính bằng phút.
+ Chia sẻ ngay sau biết tin được giải Nobel Hóa học Hassabis cho biết "cờ vua chính là thứ đưa anh đến với AI bởi lúc suy nghĩ và tìm cách cải thiện quá trình tư duy của chính mình".
+ Nhìn nhận bản thân như một người "lạc quan cẩn trọng", Hassabis nói: "Tôi đã làm việc cả đời vì cho rằng đây sẽ là công nghệ có lợi nhất đối với nhân loại, nhưng một thứ mạnh mẽ có tính cách mạng như vậy luôn đi kèm rủi ro".
+ Tuổi thơ của Hassabis gắn với cờ vua, rồi làm video game, sau đó nghiên cứu khoa học thần kinh.
+ Cả ba lĩnh vực này Hassabis đều được ghi nhận bằng các giải thưởng.
+ Khi nghiên cứu khoa học thần kinh ở Đại học London, Hassabis hy vọng tìm hiểu nhiều hơn về não người với mục tiêu cải tiến AI.
+ Năm 2007, tạp chí Science xếp nghiên cứu của anh vào top 10 đột phá của năm.
+ Sau đó anh trở thành nhà đồng sáng lập công ty DeepMind năm 2010, tập trung vào sử dụng mạng thần kinh nhân tạo dựa trên bộ não con người và AI để đánh bại người chơi trong chơi cờ và video game.
+ Google mua lại canh ty 4 năm sau đó.
+ Năm 2016, DeepMind trở nên nổi tiếng trên khắp thế giới khi chương trình vi tính AI của họ AlphaZero đánh bại kiện tướng cờ vây hàng đầu thế giới.
+ Một năm sau, AlphaZero đánh bại phần mềm đánh cờ vua vô địch thế giới Stockfish, đồng thời chinh phục một số video game.
+ Trọng tâm của chương trình không phải giải trí hoặc giành chiến thắng mà là mở rộng khả năng của AI. "Đó là loại kỹ thuật học hỏi châm ngòi cho sự phục hưng của AI hiện đại", Hassabis nhận định.
+ Hassabis sau đó hướng sức mạnh mà anh xây dựng vào protein.
+ Đây là những khối xây dựng sự sống, lấy thông tin từ ADN và biến tế bào thành thứ chuyên biệt như tế bào não hoặc tế bào cơ bắp.
+ Cuối thập niên 1960, các nhà hóa học biết trình tự của 20 axit amin cấu thành protein sẽ cho phép họ dự đoán cấu trúc 3 chiều mà có thể xoắn và gập lại.
+ Nhưng suốt 50 năm, không ai có thể dự đoán chính xác những cấu trúc 3D này.
+ Thậm chí có một cuộc thi nửa năm một lần mang tên "protein olympics" dành cho nhà hóa học muốn thử sức.
+ Năm 2018, Hassabis và chương trình AlphaFold của anh tham gia cuộc thi.
+ Những dự đoán trước đây có độ chính xác cao nhất là 40%.
+ AlphaFold đạt độ chính xác gần 60%.
+ Hai năm sau, chương trình hoạt động tốt đến mức vấn đề tồn tại suốt 50 năm đã được giải quyết.
+ Khoảng 30.
+000 bài báo khoa học ngày nay trích dẫn AlphaFold, theo nhà khoa học John Jumper ở DeepMind, người đồng chia sẻ giải Nobel Hóa học cùng với Hassabis và nhà hóa sinh người Mỹ David Baker.
+ Năm 2022 TS Demis Hassabis cùng với John Jumper nhận giải đặc biệt Giải thưởng VinFuture trị giá 500.
+000 USD dành cho nhà khoa học trong lĩnh vực mới tiên phong với chương trình AlphaFold.
+ Demis Hassabis cùng cộng sự phát triển đã sử dụng phương pháp học sâu để dự đoán cấu trúc protein.
+ Ứng dụng hệ thống này các nhà sinh học có thể nghiên cứu để hiểu cách protein tương tác và hoạt động.
+ Hơn thế nữa, thiết kế các protein mới, cho phép khám phá thuốc nhanh hơn, giải mã các biến thể gene gây bệnh. "AlphaFold được sử dụng bởi hơn hai triệu nhà nghiên cứu để thúc đẩy công trình quan trọng từ thiết kế enzyme tới phát hiện thuốc", Hassabis cho biết.
+ Hassabis sinh tại London, là con trai trong gia đình có bố là người Hy Lạp - Cyprus và mẹ là người Singapore.
+ Hassabis bắt đầu chơi cờ vua khi mới 4 tuổi và trở thành kiện tướng năm 13 tuổi.

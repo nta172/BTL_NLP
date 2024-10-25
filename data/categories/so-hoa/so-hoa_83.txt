@@ -1,22 +1,50 @@
-Viettel trở thành nhà mạng đầu tiên công bố thương mại hóa 5G sáng 15/10, phủ sóng tại khu vực trung tâm của 63 tỉnh thành.
- Trong sự kiện kỷ niệm 20 năm thành lập sáng 15/10 ở Hà Nội, Viettel tuyên bố trở thành doanh nghiệp đầu tiên cung cấp dịch vụ 5G tại Việt Nam, sau sáu tháng đấu giá thành công quyền sử dụng khối băng tần B1 (2500-2600 MHz) với số tiền 7.
-533 tỷ đồng.
- Viettel cho biết đã lắp đặt hơn 6.
-500 trạm BTS, phủ sóng 100% "thủ phủ" của 63 tỉnh thành, các khu công nghiệp, khu du lịch, cảng biển, sân bay, bệnh viện, đại học.
- Tốc độ mạng có thể đạt 1 Gbps, gấp 10 lần so với 4G hiện nay và độ trễ gần như bằng 0. Nhà mạng cũng triển khai đồng thời trên hai nền tảng kiến trúc 5G NSA (Non-stand Alone) và 5G SA (Stand Alone).
- Ông Tào Đức Thắng, Chủ tịch kiêm Tổng giám đốc tập đoàn Viettel, cho biết Việt Nam từ chỗ đi sau trong việc tiếp cận 2G, 3G, 4G, nay đã có thể song hành với thế giới trong ứng dụng công nghệ mới nhất của cuộc cách mạng công nghiệp 4.
-0, nằm trong top 5 nước có thể sản xuất thiết bị 5G. "Một tương lai mới của di động sẽ bắt đầu từ hôm nay", ông Thắng nói.
- Hiện nhà mạng cung cấp 11 gói cước trả trước khởi điểm từ 135 nghìn đồng, và 8 gói cước trả sau từ 200 nghìn đồng cho khách hàng cá nhân. Người đang sở dụng thiết bị hỗ trợ 5G có thể đăng ký dịch vụ mà không cần đổi sim. Ngoài ra, nhà mạng cũng phát triển sẵn các Open API để cung cấp dữ liệu, khả năng cấu hình và tương tác với mạng 5G theo chuẩn GSMA cho cộng đồng phát triển ứng dụng tại Việt Nam và trên thế giới. "Điều này giúp nhà phát triển ứng dụng dễ dàng sáng tạo trên nền tảng 5G", đại diện nhà mạng nói.
- Trong khi đó, khách hàng doanh nghiệp được cung cấp hơn 130 kịch bản sử dụng (use case) là các ứng dụng và giải pháp thuộc các lĩnh vực sản xuất công nghiệp, smart city, giao thông vận tải - logistics, nông nghiệp, y tế, giáo dục, năng lượng.
- Các giải pháp được "may đo" theo từng nhu cầu riêng, tích hợp công nghệ cloud, AI, IoT trên nền 5G với khả năng kết nối mật độ lớn, cũng được giới thiệu. "Mạng 2G hướng tới mục tiêu mỗi người dân sở hữu một điện thoại di động, 4G là mỗi người dân sở hữu một điện thoại thông minh, còn 5G sẽ hướng đến mỗi người dân sở hữu một smartphone siêu tốc độ - siêu kết nối", ông Cao Anh Sơn, Tổng giám đốc Viettel Telecom, nói. Mạng 5G được kỳ vọng sẽ góp phần giải quyết những vấn đề lớn của xã hội, xây dựng xã hội số, kỷ nguyên thông minh tại Việt Nam.
- Viettel bắt đầu thử nghiệm 5G từ năm 2019 trên nền tảng 4G, gọi là 5G NSA (Non-stand Alone).
- Giữa năm nay, họ tiếp tục thử nghiệm mạng 5G độc lập (SA).
- So với 5G NSA, ngoài cung cấp dịch vụ truyền tải dữ liệu tốc độ cao, 5G SA đáp ứng yêu cầu về độ trễ siêu thấp, khoảng 1ms, gấp 20 lần 4G truyền thống, giúp cung cấp các dịch vụ cần sự phản hồi tức thì.
- Trong khi đó, cuối tuần trước, MobiFone thông báo "đang tập trung triển khai các công việc, sẵn sàng cho thương mại hóa 5G".
- Dự kiến, người dùng có thể trải nghiệm dịch vụ 5G từ tháng 11.
- Vinaphone cũng cho biết đang thực hiện chương trình sử dụng thử 5G, diễn ra từ 13/10 đến 15/11. Nếu sở hữu điện thoại 5G, khi đi qua các khu vực có sóng, người dùng sẽ nhận được tin nhắn mời trải nghiệm dịch vụ.
- Họ sẽ được tặng 50 GB data để dùng thử đường truyền tốc độ cao trong 30 ngày.
- Công nghệ 5G bắt đầu được triển khai thương mại trên thế giới cách đây 5 năm, phổ biến nhất là tại Trung Quốc, Mỹ... trong khi nhiều nước khác vẫn đang trong giai đoạn thử nghiệm.
- Đối với người dùng phổ thông, sự khác biệt lớn nhất của công nghệ 5G là tốc độ tối đa ở điều kiện lý tưởng đạt 10 Gbps.
- Trong thực tế, một số thử nghiệm với 5G tại Việt Nam cho tốc độ tải xuống có thể đạt 1 Gbps, cao hơn 10 lần mạng 4G ở cùng địa điểm. Ngoài ra, lợi thế của mạng thế hệ mới là độ trễ siêu thấp và khả năng hỗ trợ số lượng lớn thiết bị, thúc đẩy nhiều ứng dụng như xe tự hành, điều khiển từ xa thiết bị phẫu thuật, trải nghiệm thực tế ảo và thực tế tăng cường...
- Tuy nhiên, do tần số được sử dụng cho 5G ở Việt Nam đều là các tần số lớn, trạm 5G có độ phủ nhỏ hơn, buộc các nhà mạng phải triển khai số lượng trạm nhiều hơn.
+MacBook Pro dùng chip M3 Pro, M3 Max là mẫu laptop hiếm hoi trên thị trường vừa có hiệu năng mạnh, cân nặng vừa phải và thời lượng pin tốt.
+ Apple bắt đầu bán MacBook Pro dùng chip M3 Pro và M3 Max đầu năm nhưng sau đó gây bất ngờ khi tung ra chip M4 mới hồi tháng 6.
+ Giới công nghệ dự đoán chip M4 sẽ sớm được đưa vào MacBook Pro, do đó nhiều người băn khoăn giữa việc nên mua MacBook Pro M3 hay chờ MacBook Pro M4 thời gian tới.
+ Trong lúc chờ phiên bản mới, MacBook Pro dùng chip M3 Pro, M3 Max gần như không có đối thủ trên thị trường hiện tại.
+ Sau hơn 9 tháng sử dụng, phiên bản được thử nghiệm là MacBook Pro 16 inch dùng chip M3 Max dung lượng RAM 48 GB vẫn cho thấy hiệu năng mạnh như những ngày đầu.
+ Tính ổn định của hệ thống là điểm mạnh lớn, tương tự các sản phẩm khác của Apple.
+ Với hệ điều hành vừa được nâng cấp macOS Sequoia, một số tính năng giúp tận dụng màn hình cỡ lớn, như nhiều tùy chọn chia cửa sổ làm việc, hỗ trợ đa nhiệm tốt hơn hay điều khiển màn hình iPhone từ MacBook.
+ Nếu đang sử dụng MacBook Pro với chip M2, người dùng không có nhiều lý do để nâng cấp lên M3.
+ Tuy nhiên, nếu lần đầu mua dòng Pro hoặc đang dùng thế hệ đầu tiên, phiên bản M3 Max là lựa chọn đáng giá.
+ Thực tế cho thấy M3 Max không hơn nhiều M2 Max, nhưng vượt xa M1 Max và M3 thường.
+ Ví dụ, điểm đa nhân của M3 Max với công cụ đo hiệu năng Cinebech 2024 là 1.
+679, còn M2 Max và M3 là 1.
+028 và 620 tương ứng.
+ Điểm GPU thể hiện sự vượt trội của M3 Max với 12.
+890 điểm, trong khi M2 Max là 5.
+892 và M3 là 3.
+356 điểm.
+ Chip M3 Pro và M3 Max đem đến định nghĩa "Pro" thực sự cho dòng laptop của Apple.
+ Khi sử dụng Final Cut Pro hoặc Premier Pro, thời gian render video 4K trên M3 Max nhanh gấp đôi M3 thường trên dòng Air.
+ Với những nhà sáng tạo nội dung, thường xuyên cần xử lý hình ảnh, video chất lượng cao, MacBook Pro là lựa chọn phù hợp hơn nhiều so với dòng Air thông thường.
+ Apple có thể "chậm chân" về tính năng AI, nhưng với phần cứng, hãng có sự chuẩn bị tốt về chip xử lý AI.
+ Dòng M3 với hai phiên bản cao nhất M3 Max và M3 Pro là những chip máy tính đầu tiên sản xuất trên tiến trình 3 nm.
+ Tất cả đều có Neutral Engine hỗ trợ xử lý tác vụ AI nhanh hơn 60% so với M1.
+ Đây có thể coi là tiền để nếu người dùng chờ đợi các tính năng Apple Intelligence cũng như cần xử lý AI trực tiếp trên thiết bị sau này.
+ Trong cùng tầm giá 100 triệu đồng, một số laptop Windows có thể đạt điểm hiệu năng tương đương MacBook Pro 16 inch dùng chip M3 Max, nhưng gần như không có thời lượng pin dài như sản phẩm của Apple.
+ Những máy cấu hình mạnh chạy hệ điều hành của Microsoft thường không tối ưu hóa cho tính di động, đòi hỏi một củ sạc cỡ lớn để duy trì hiệu năng mạnh và pin khó vượt mốc 4-5 tiếng sử dụng liên tục.
+ Sau gần một năm, "sức khỏe pin" của chiếc MacBook Pro thử nghiệm dùng chip M3 Max vẫn còn ở mức 94% với tần suất sử dụng gần như hàng ngày.
+ Pin đủ cho 8 tiếng làm việc liên tục, trong đó một phần ba thời gian xem video, chỉnh ảnh, dựng video và dùng trình duyệt web Chrome vốn được cho là ngốn pin hơn so với Safari mặc định.
+ Khi chỉ sử dụng các tác vụ nhẹ hơn, máy đạt mốc trên 10 tiếng.
+ Mẫu MacBook Pro dùng chip M3 Max tạo ấn tượng ban đầu tốt về hiệu năng chơi game.
+ Trong thử nghiệm game Resident Evil 4, cài đặt độ phân giải ở mức tối đa 3.
+456 x 2.
+234 pixel, đồ họa mức cao, máy chạy ổn định 85-90 khung hình/giây.
+ Trong một số cảnh phức tạp, thông số này có thể giảm còn 70, nhưng ở cảnh tĩnh đơn giản có thể lên 120.
+ Tuy nhiên, sau hơn 9 tháng sử dụng, số game "nặng" tương thích tốt cho Mac chưa tăng đáng kể.
+ Giao diện, cách sử dụng để truy cập game hay cài đặt chưa thân thiện như hệ điều hành Windows.
+ Ngoài ra, với người yêu thích và lựa chọn máy tính MacBook, game cũng không phải là ưu tiên hàng đầu.
+ Apple nhiều năm "loay hoay" tìm kiếm màu sắc mới cho MacBook.
+ Ngoài màu cơ bản là xám và bạc, những màu được giới thiệu sau đó như xanh đen, đen midnight đều được nhận xét "thảm họa" khi sử dụng thực tế quá bám vân tay và gần như chỉ đẹp khi mới bóc hộp hoặc được lau chùi kỹ càng.
+ Màu đen không gian (Space Black) mới của MacBook Pro chưa hoàn hảo nhưng đã thể hiện tốt hơn.
+ Bề mặt vẫn bám vân tay nhưng không quá lộ và dễ lau chùi, không bệt hẳn vào vỏ như với màu xanh đen.
+ Nhờ kỹ thuật anod hóa mới, màu đen của MacBook Pro đã tốt hơn khá nhiều so với màu đen midnight trên MacBook Air cũ.
+ Năm 2024 tiếp tục chứng kiến tấm nền OLED "đổ bộ" lên loạt laptop Windows mới ra mắt thị trường.
+ Tiêu chuẩn chung về hiển thị trên laptop tầm trung, cận cao cấp đã được nâng tầm nhưng MacBook Pro 16 inch vẫn nằm trong top đầu về khả năng hiển thị hiện tại.
+ Như với phiên bản 16 inch, máy sử dụng màn hình Liquid Retina XDR độ phân giải 3.
+456 x 2.
+234 pixel, độ tương phản 1.
+000.
+000:1, hiển thị một tỷ màu, dải màu rộng P3, công nghệ True Tone và tần số quét tối đa 120 Hz.
+ Màn hình Liquid Retina XDR có thể hiển thị nội dung SDR sáng hơn 20% so với trước, với mức tối đa 600 nit, tăng từ 500 nit ở thế hệ trước.

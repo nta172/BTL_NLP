@@ -1,2 +1,21 @@
-Trong thử nghiệm, điện thoại kết nối 5G cần chưa đến 20 giây để tải ứng dụng có dung lượng 1,2 GB, tốc độ đo bằng Speedtest cao hơn hàng chục lần 4G. - Mạng 5G cho tốc độ cao vượt trội, nhưng chưa ổn định trong giai đoạn đầu triển khai. Kết quả đo có thể chênh lệch ở những địa điểm cách nhau vài chục mét. - Tốc độ tải của 5G cao hơn nhiều tốc độ tối đa mạng 4G đạt được. - Ở những khu vực mạng 5G đạt tốc độ cao, kết nối 4G có xu hướng yếu hơn mức trung bình. - Tốc độ đường download cao hơn nhiều lần tốc độ upload. - Với các tác vụ như lướt web, mạng xã hội, 4G đủ nhanh và không khác biệt lớn với 5G.
- Chênh lệch thấy rõ khi tải những file dung lượng lớn, điện thoại sử dụng 5G có thể hoàn thành trong hơn 10 giây với ứng dụng hơn 1 GB.
+Hàng trăm sinh viên xếp hàng dài chờ trải nghiệm các hoạt động giải trí, chơi game, nhận quà tại gian hàng FPT Telecom trong sự kiện VMC ngày 19-22/10.
+ Gian hàng FPT Telecom đặt tại tầng trệt, gồm ba khu vực chính: khu check-in, khu trò chơi và khu nhận quà.
+ Gian hàng FPT Telecom đặt tại tầng trệt, gồm ba khu vực chính: khu check-in, khu trò chơi và khu nhận quà.
+ Từ 8h sáng 19/10 (đầu sự kiện), khu vực của FPT Telecom tấp nập sinh viên, game thủ đến check-in, chơi trò chơi, nhận vật phẩm, tạo không khí sôi động.
+ Từ 8h sáng 19/10 (đầu sự kiện), khu vực của FPT Telecom tấp nập sinh viên, game thủ đến check-in, chơi trò chơi, nhận vật phẩm, tạo không khí sôi động.
+ Ban tổ chức chuẩn bị mã QR và máy quẹt thẻ để sinh viên check-in, tích điểm qua các trò chơi thú vị như bắn súng, phi tiêu và boxing.
+ Ban tổ chức chuẩn bị mã QR và máy quẹt thẻ để sinh viên check-in, tích điểm qua các trò chơi thú vị như bắn súng, phi tiêu và boxing.
+ Khu trải nghiệm boxing thu hút sự chú ý của sinh viên nam, Nhiều bạn hào hứng xếp hàng chờ đợi cơ hội thể hiện sức mạnh với trò chơi đầy tính thể thao này.
+ Khu trải nghiệm boxing thu hút sự chú ý của sinh viên nam, Nhiều bạn hào hứng xếp hàng chờ đợi cơ hội thể hiện sức mạnh với trò chơi đầy tính thể thao này.
+ Khi hoàn thành các thử thách, sinh viên nhận được các phần quà như gối đi xe, túi tole, tấm lót chuột...
+ Khi hoàn thành các thử thách, sinh viên nhận được các phần quà như gối đi xe, túi tole, tấm lót chuột...
+ Đến cổ vũ bạn cùng lớp thi đấu game, nhóm sinh viên từ Đại học Công nghệ Thông tin tranh thủ check-in, chơi phi tiêu để nhận quà tại gian hàng FPT Telecom. "Mình ấn tượng nhất với tấm lót chuột in hình nhân vật Alucard, vừa đẹp vừa hữu ích cho việc học và giải trí", sinh viên Hoàng Minh chia sẻ.
+ Đến cổ vũ bạn cùng lớp thi đấu game, nhóm sinh viên từ Đại học Công nghệ Thông tin tranh thủ check-in, chơi phi tiêu để nhận quà tại gian hàng FPT Telecom. "Mình ấn tượng nhất với tấm lót chuột in hình nhân vật Alucard, vừa đẹp vừa hữu ích cho việc học và giải trí", sinh viên Hoàng Minh chia sẻ.
+ Ngoài ra, ban tổ chức cũng được hỗ trợ đường truyền mạnh mẽ, phục vụ cho việc livestream sự kiện, giúp người hâm mộ trên toàn quốc theo dõi giải đấu không gián đoạn.
+ Ngoài ra, ban tổ chức cũng được hỗ trợ đường truyền mạnh mẽ, phục vụ cho việc livestream sự kiện, giúp người hâm mộ trên toàn quốc theo dõi giải đấu không gián đoạn.
+ Giải vô địch quốc gia Mobile Legends: Bang Bang Vietnam Championship (VMC) 2024 diễn ra ngày 19-22/10 tại TP HCM với nhiều hoạt động thi đấu sôi nổi.
+ Sự kiện thu hút hàng nghìn sinh viên từ Đại học Quốc gia TP HCM và các trường lân cận.
+ Góp mặt tại Vietnam Mobile Legends Championship 2024 là minh chứng cho chiến lược lâu dài của FPT Telecom trong việc đầu tư vào lĩnh vực thể thao điện tử.
+ Giải vô địch quốc gia Mobile Legends: Bang Bang Vietnam Championship (VMC) 2024 diễn ra ngày 19-22/10 tại TP HCM với nhiều hoạt động thi đấu sôi nổi.
+ Sự kiện thu hút hàng nghìn sinh viên từ Đại học Quốc gia TP HCM và các trường lân cận.
+ Góp mặt tại Vietnam Mobile Legends Championship 2024 là minh chứng cho chiến lược lâu dài của FPT Telecom trong việc đầu tư vào lĩnh vực thể thao điện tử.

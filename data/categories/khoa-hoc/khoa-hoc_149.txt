@@ -1,17 +1,34 @@
-Các nhà khoa học phát hiện dòng hải lưu sâu ngoài khơi Mozambique thay đổi tốc độ và hướng theo mùa, đặt nhiều dấu hỏi về sự biến đổi khí hậu. Nghiên cứu do nhóm khoa học Anh, Đức, Pháp và Italy sử dụng mô hình tính toán và thiết bị đo dòng chảy âm thanh Doppler (ADCP) gắn dưới đáy biển phát hiện dòng hải lưu biển sâu biến đổi mạnh hơn nhiều so với hiểu biết trước đây. Kết quả công bố trên tạp chí Nature Geoscience.
- Tiến sĩ Mike Clare, nhà trầm tích học tại Trung tâm Hải dương học Quốc gia, Anh đồng tác giả nghiên cứu, cho biết: "Hệ thống dòng hải lưu vận hành khắp hành tinh phức tạp hơn nhiều so với mô hình sách giáo khoa".
- Các nhà khoa học sử dụng cảm biến đo dòng chảy âm thanh Doppler (ADCP) gắn dưới đáy biển.
- Công ty dầu khí Eni của Italy đã triển khai 34 ADCP trên diện tích khoảng 2.
-500 km2 ở eo biển Mozambique.
- Công ty chia sẻ dữ liệu từ thiết bị đo tốc độ và hướng dòng chảy 10 phút một lần trong 4 năm. Khi Lewis Bailey, nhà địa chất học tại Đại học Calgary, phân tích dữ liệu từ ADCP, kết quả khác với xu hướng dòng chảy hướng Bắc ổn định đến mức ông tự hỏi liệu mình có sai sót.
- Tuy nhiên thực tế cho thấy dòng chảy đáy biển thường tăng tốc, chậm lại và thậm chí đảo chiều.
- Bailey cho biết: "Chúng tôi rất ngạc nhiên khi thấy dòng chảy biến đổi ngay cả giữa các điểm neo đậu khá gần nhau".
- Clare nói: "Tất cả các nhà địa chất tham gia dự án đều kinh ngạc trước sự biến đổi này".
- Các nhà nghiên cứu tìm hiểu nguyên nhân gây ra sự biến đổi cho thấy dòng chảy thay đổi theo mùa và chu kỳ thủy triều.
- ADCP và các mô hình đáy biển bị xói mòn cho thấy dòng chảy trên sườn biển mở thường hướng bắc. Nhưng trong các hẻm núi ngầm, dòng chảy thường đảo chiều, chảy lên hoặc xuống theo chiều dài của chúng.
- Các nhà khoa học suy đoán thủy triều và địa hình đáy biển là nguyên nhân chính tạo nên đặc điểm dòng chảy.
- Trước đó một nghiên cứu của Trường Đại học Rutgers (Mỹ) công bố trên tạp chí Science cũng chỉ ra dòng chảy của biển đóng vai trò quan trọng tương đương trong việc điều chỉnh khí hậu của Trái Đất.
- Trong nghiên cứu, các nhà khoa học cho biết phần làm mát chính của Trái Đất và băng lục địa nằm phía Bán Cầu Bắc 2,7 triệu năm trước đã xảy ra đồng thời với một sự chuyển hướng dòng chảy của đại dương - kéo nhiệt và khí CO2 trong biển Đại Tây Dương, di chuyển chúng xuyên dưới đáy biển sâu từ phía Bắc tới phía Nam cho tới khi nhiệt và khí carbonic được giải phóng ra ở biển Thái Bình Dương.
- Các nhà khoa học tin rằng, hệ thống băng tải đại dương (các dòng hải lưu ở dưới sâu) đã thay đổi cùng thời điểm với một sự mở rộng thể tích các sông băng tại Bắc bán cầu cũng như hạ thấp đáng kể mực nước biển.
- Đó là băng Nam Cực, họ lập luận, đã cắt đứt trao đổi nhiệt tại mặt biển và đẩy nó xuống nước sâu.
- Họ tin rằng điều này đã gây ra biến đổi khí hậu toàn cầu. Nghiên cứu chứng minh rằng, các biến đổi về phân bố nhiệt giữa các lưu vực biển là rất quan trọng để hiểu về biến đổi khí hậu tương lai.
+Viện hàn lâm Khoa học Hoàng gia Thụy Điển tại Stockholm dự kiến công bố giải Nobel Vật lý lúc 16h45 ngày 8/10 (giờ Hà Nội).
+ Theo thông lệ, Viện Thông tin Khoa học (ISI) thuộc công ty phân tích Clarivate hàng năm sẽ đưa ra danh sách Citation Laureates gồm những nhà nghiên cứu có sức ảnh hưởng sâu rộng, thường xuyên được trích dẫn, có đóng góp lớn tương đương với những người từng nhận giải Nobel.
+ Danh sách này được nhiều chuyên gia sử dụng để dự đoán những người có khả năng nhận giải thưởng danh giá trong tương lai.
+ Kể từ năm 2002, khi Clarivate bắt đầu công bố danh sách Citation Laureates hàng năm, 75 người trong danh sách đã đoạt giải Nobel.
+ Danh sách Citation Laureates năm nay gồm 22 nhà khoa học và nhà kinh tế xuất chúng đang làm việc tại 6 quốc gia.
+ Cụ thể, 11 người ở Mỹ, 6 người ở Anh, 2 người ở Thụy Sĩ.
+ Mỗi nước Đức, Israel và Nhật Bản có một người góp mặt trong danh sách.
+ Trong lĩnh vực vật lý, ISI đưa ra 3 công trình nghiên cứu với 6 nhà khoa học có đóng góp nổi bật.
+ Đầu tiên là bộ ba Pablo Jarillo-Herrero, Allan H.
+ MacDonald và Rafi Bistritzer với những đóng góp tiên phong về mặt lý thuyết và thực nghiệm cho vật liệu graphene hai lớp xoắn góc ma thuật và những thiết bị lượng tử moiré liên quan.
+ Giáo sư Bistritzer tại Trường Vật lý Thiên văn thuộc Đại học Tel Aviv (Israel) chuyên nghiên cứu lý thuyết về các vật liệu hai chiều phức tạp hình thành nhờ xếp lớp những tấm mỏng chồng lên nhau.
+ Với graphene hai lớp, ông đã chứng minh rằng góc xoắn 1,1 độ - gọi là "góc ma thuật" - khiến các electron giảm tốc và gần như dừng lại, làm thay đổi cơ bản các đặc tính điện tử của vật liệu.
+ Phát hiện này đánh dấu sự khởi đầu của lĩnh vực mới mang tên Twistronics - một lĩnh vực đột phá hứa hẹn mang lại những kiến thức khoa học mới và những phát triển công nghệ thú vị.
+ Năm 2020, Bistritzer cùng giáo sư Allan H.
+ MacDonald từ Đại học Texas (Mỹ) và giáo sư Pablo Jarillo-Herrero từ Viện Công nghệ Massachusetts (Mỹ) được trao Giải thưởng Wolf danh giá cho thành tựu trong lĩnh vực vật lý.
+ Tiếp theo trong danh sách Citation Laureates Vật lý là David Deutsch và Peter W.
+ Shor với những đóng góp mang tính cách mạng cho điện toán và thuật toán lượng tử.
+ Deutsch, giáo sư vật lý tại Đại học Oxford (Anh), được coi là cha đẻ của điện toán lượng tử.
+ Dù không phải người đầu tiên đưa ra ý tưởng về điện toán lượng tử, ông đã khiến điện toán lượng tử trở nên đáng chú ý bằng cách chứng minh máy tính lượng tử có thể đạt lợi thế tốc độ so với máy tính cổ điển.
+ Năm 1985, David Deutsch công bố nghiên cứu mang tính đột phá giới thiệu về máy tính lượng tử phổ quát, cung cấp một bộ khung về cách máy tính lượng tử hoạt động, đặt nền móng cho sự phát triển của các thuật toán lượng tử.
+ Trong khi đó, Shor là giáo sư Toán Ứng dụng tại Viện Công nghệ Massachusetts (Mỹ).
+ Ông được biết đến với việc phát minh thuật toán Shor - thuật toán lượng tử giúp phân tích nhân tử nhanh hơn so với thuật toán tốt nhất đang có trên máy tính cổ điển.
+ Nhà khoa học cuối cùng được Clarivate tôn vinh trong lĩnh vực vật lý năm nay là Christoph Gerber, giáo sư khoa Vật lý tại Đại học Basel (Thụy Sĩ) với việc phát minh và ứng dụng kính hiển vi lực nguyên tử.
+ Gerber giới thiệu loại kính hiển vi độ phân giải cao này vào năm 1986.
+ Với kỹ thuật này, nhà nghiên cứu sẽ không quan sát vật thể qua thấu kính như với kính hiển vi quang học.
+ Thay vào đó, một loại cảm biến sẽ quét qua vật thể.
+ Kính hiển vi lực nguyên tử rất quan trọng với nhiều lĩnh vực nghiên cứu.
+ Ví dụ, các chuyên gia sử dụng nó để định vị chính xác từng nguyên tử, nhờ đó tạo ra những cấu trúc mới cho linh kiện điện tử nhỏ hoặc các loại cảm biến mới cho chẩn đoán y tế.
+ Năm ngoái, giải Nobel Vật lý được trao cho ba nhà khoa học Pierre Agostini, Ferenc Krausz và Anne L'Huillier với nghiên cứu liên quan đến hạt electron bên trong nguyên tử và phân tử.
+ Nobel là giải thưởng quốc tế do Quỹ Nobel tại Stockholm lập ra từ năm 1901 dựa trên tài sản của Alfred Nobel, nhà phát minh kiêm doanh nhân Thụy Điển.
+ Giải thưởng được trao thường niên cho những cá nhân và tổ chức có cống hiến nổi bật trong các lĩnh vực Y sinh, Hóa học, Vật lý, Văn học, Hòa bình.
+ Năm 1968, Ngân hàng Trung ương Thụy Điển lập ra Giải thưởng của Ngân hàng Thụy Điển cho Khoa học kinh tế để tưởng nhớ Nobel, còn gọi là giải Nobel Kinh tế.
+ Mỗi giải thưởng gồm huy chương, bằng chứng nhận cá nhân và một khoản tiền thưởng.
+ Từ năm 1901 - 2023, giải thưởng đã được trao 622 lần cho 1002 cá nhân và tổ chức trên thế giới.

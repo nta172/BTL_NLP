@@ -1,18 +1,25 @@
-Phiên bản đặc biệt Galaxy Z Fold Special Edition sẽ được bán ngày 25/10 tại Hàn Quốc với giá 2.
-000 USD.
- Theo công bố trên website của Samsung, Galaxy Z Fold Special Edition có thiết kế không khác biệt so với Galaxy Z Fold6 ngoài cụm camera sau và mặt lưng vân sọc.
- Điểm nổi bật là bản Special Edition mỏng hơn, với 10,6 mm khi gập và 4,9 mm khi mở, trong khi trên Z Fold6 lần lượt là 12,1 và 5,6 mm.
- Đây được đánh giá là bước tiến của hãng Hàn Quốc, dù một số điện thoại gập từ Trung Quốc đã mỏng dưới 10 mm. Máy vẫn sử dụng khung nhôm Armor Aluminum và có khả năng kháng nước IPX8. Màn hình chính của Galaxy Z Fold Special Edition có kích thước 7,99 inch, độ phân giải QXGA+ (2.
-184 x 1.
-968 pixel), độ sáng tối đa 2.
-600 nit và tần số quét động 120 Hz. Màn hình ngoài có kích thước 6,5 inch độ phân giải FHD+ (2.
-520 x 1.
-080 pixel).
- Tuy nhiên, để đạt thiết kế mỏng nhẹ, Samsung không hỗ trợ bút S Pen trên phiên bản mới.
- Camera được nâng cấp với cảm biến chính 200 megapixel, cùng góc siêu rộng 12 megapixel và ống tele 10 megapixel có khả năng zoom quang 3x, zoom số 30x.
- Camera selfie giữ thông số cũ với độ phân giải 10 megapixel ở màn hình ngoài và 4 megapixel dưới màn hình chính.
- Về cấu hình, máy sử dụng chip Snapdragon 8 Gen 3, RAM 16 GB, bộ nhớ trong 512 GB, pin 4.
-272 mAh.
- Galaxy Z Fold Special Edition có giá 2.
-020 USD và giao ngày 25/10 tại Hàn Quốc, cao hơn 500 USD so với khởi điểm của Galaxy Z Fold6 cùng dung lượng bộ nhớ.
- Ông Sung-Taek Lim, Phó chủ tịch điều hành của Samsung Electronics Korea, cho biết: "Chúng tôi giới thiệu sản phẩm tại Hàn Quốc như một lời tri ân người tiêu dùng ở nước đang dẫn đầu thị trường điện thoại gập".
+Google bỏ ra số tiền 2,7 tỷ USD để mời Noam Shazeer, một nhân viên cũ của công ty và được đánh giá là thiên tài AI, trở lại làm việc.
+ Theo WSJ, Noam Shazeer sẽ trở lại Google nhưng với vị thế mới.
+ Ông từng tham gia phát triển chatbot thông minh LaMDA - mô hình được đánh giá "có nhận thức như một đứa trẻ", nhưng rời Google năm 2021 để khởi nghiệp với startup Character.
+AI.
+ Các nguồn tin cho biết, sự trở lại của Shazeer là một phần của sự hợp tác rộng lớn hơn.
+ Shazeer và một số nhân viên chủ chốt từ startup của ông sẽ đảm nhận vai trò lãnh đạo tại Google DeepMind.
+ Dominic Perella, cố vấn pháp lý của Character.
+AI, sẽ tạm làm CEO thay thế Shazeer.
+ Việc lôi kéo tài năng Shazeer không hề rẻ.
+ WSJ cho biết Google trả khoảng 2,7 tỷ USD để tuyển lại nhân viên cũ của mình, cũng như mua cổ phần từ các nhà đầu tư, nhân viên Character.
+AI.
+ Từ tháng 8, TechCrunch đã dẫn các nguồn tin nội bộ cho biết Shazeer sẽ quay về Google.
+ Ông sẽ là một trong ba người có vai trò chỉ đạo phát triển dự án AI mới nhất của Google là Gemini.
+ Character.
+AI là công ty đứng sau mô hình AI cùng tên, cho phép người dùng tự tạo chatbot mô phỏng bất cứ ai họ muốn, dù còn sống hay đã chết.
+ Công ty do Shazeer và Daniel De Freitas thành lập tháng 9/2022, được Andreessen Horowitz (quỹ a16z) hậu thuẫn và được định giá một tỷ USD năm ngoái.
+ Theo Financial Times, Elon Musk và Mark Zuckerberg thậm chí đối đầu nhau để tìm kiếm sự hợp tác với startup này.
+ Benzinga đánh giá việc Shazeer quay lại Google có lợi cho cả hai.
+ Dù có hơn 20 triệu người dùng hoạt động hàng tháng, Character.
+AI vẫn gặp nhiều vấn đề trong việc kiếm tiền từ dịch vụ và kiểm soát hành vi người dùng.
+ Trong khi đó, Google đang chậm chân so với một số công ty khác, như OpenAI.
+ Do vậy, sự trở lại của Shazeer sẽ giúp đẩy nhanh tiến độ các dự án trí tuệ nhân tạo đang diễn ra. "Với sự có mặt của Shazeer, các mô hình ngôn ngữ lớn độc quyền của Google sẽ tăng trưởng đáng kể trong 3-5 năm tới", nhà phân tích Laura Martin nói với Benzinga.
+ Dù vậy, một số chuyên gia cũng chỉ trích các công ty lớn ở Thung lũng Silicon đang chi tiêu quá tay trong cuộc đua AI. "Rõ ràng, Noam Shazeer là người tuyệt vời trong lĩnh vực AI.
+ Tuy nhiên, anh ấy có giỏi gấp 20 lần nguời khác không?", Christopher Manning, Giám đốc Phòng thí nghiệm AI Stanford viết trên X.
+ Google chưa đưa ra bình luận.

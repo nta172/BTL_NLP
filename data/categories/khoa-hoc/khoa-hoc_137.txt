@@ -1,11 +1,17 @@
-Lỗ thủng tầng ozone ở Nam Cực đang nhỏ lại và dự kiến sẽ hoàn toàn phục hồi vào năm 2066.
- Tầng ozone là một vùng của tầng bình lưu nằm giữa 15 và 30 km trên bề mặt Trái Đất, có nồng độ khí ozone cao so với các phần khác của bầu khí quyển.
- Bằng cách hấp thụ một số tia cực tím có hại của Mặt Trời, nó hoạt động như một chiếc khiên bảo vệ sự sống trên Trái Đất.
- Vào những năm 1970 và 1980, các nhà khoa học phát hiện một lỗ thủng lớn trong tầng ozone do tác động bởi chlorofluorocarbons (CFCs) - các hóa chất nhân tạo từng được sử dụng rộng rãi trong bình xịt, dung môi và chất làm lạnh - làm suy thoái tầng này sau khi bay lên tầng bình lưu. Năm 1987 Liên hợp quốc thông qua Nghị định thư Montreal thỏa thuận quốc tế cấm CFCs trên toàn cầu, đưa ra một kế hoạch dài hạn để loại trừ dần các chất làm suy giảm tầng ozone, làm giảm tốc độ mở rộng của lỗ thủng tầng ozone.
- Sau đó đã có 197 quốc gia, nền kinh tế phê chuẩn Nghị định thư này. Montreal được đánh giá là một trong những hiệp định quốc tế thành công nhất trong việc giải quyết vấn đề môi trường toàn cầu, giúp đạt được sự đồng thuận trên toàn thế giới để loại bỏ dần các chất gây hại cho tầng ozone như CFC. Nghiên cứu công bố năm 2023 của Đại học Otago, New Zealand, cho thấy lỗ thủng tầng ozone ở Nam Cực có diện tích tối đa lên tới 26 triệu km2, gấp khoảng 3,4 lần diện tích đất liền Australia và lượng ozone trong lõi lỗ thủng đã giảm 26% kể từ năm 2004.
- Tuy nhiên, tầng ozone rất phức tạp và sức khỏe của nó bị chi phối bởi nhiều yếu tố. Kích thước của lỗ thủng dao động theo mùa, xuất hiện vào tháng 8 và đạt kích thước tối đa vào tháng 10 trước khi đóng lại vào cuối tháng 11.
- Theo Dịch vụ Giám sát Khí quyển Copernicus của EU (CAMS), lỗ thủng trên Nam Cực phát triển muộn hơn bình thường trong năm nay do những gián đoạn trong xoáy cực gây ra bởi hai đợt nóng lên đột ngột của tầng bình lưu vào tháng 7/2024.
- Do đó, nó tương đối nhỏ so với thời điểm này trong năm.
- Tuy nhiên, dữ liệu cho thấy lỗ thủng vẫn như dự đoán và đang phục hồi. "Từ núi lửa đến biến đổi khí hậu, có rất nhiều yếu tố đóng vai trò trực tiếp hoặc gián tiếp trong việc hình thành lỗ thủng tầng ozone ở Nam Cực.
- Tuy nhiên, không có yếu tố nào ảnh hưởng lớn như các chất làm suy giảm ozone do con người tạo ra. Nghị định thư Montreal và các sửa đổi sau đó đã tạo đủ không gian cho tầng ozone bắt đầu phục hồi, và chúng ta có thể mong đợi các dấu hiệu phục hồi rõ ràng hơn trong bốn mươi năm tới", Laurence Rouil, Giám đốc CAMS tại Trung tâm Dự báo Thời tiết Tầm trung châu Âu, nói trong một tuyên bố. "Điều này cho thấy nhân loại có khả năng, thông qua hợp tác quốc tế và quyết định dựa trên khoa học, để thay đổi tác động của chúng ta lên bầu khí quyển của hành tinh".
- Giáo sư Susan Solomon (Viện Công nghệ Massachusetts) - nhà khoa học phát hiện cơ chế gây ra lỗ thủng tầng ozone ở Nam Cực và hơn 40 năm bà nỗ lực tìm cách "vá" cũng thừa nhận "lỗ hổng đang thu hẹp và tầng ozone sẽ dần khôi phục lại", bà nói với VnExpress và thêm rằng điều đó có thể xảy ra vào khoảng năm 2050.
+Nghiên cứu của Cục khảo sát địa chất Mỹ (USGS) hé lộ mỏ lithium khổng lồ ở vùng bang Arkansas có tiềm năng cách mạng hóa ngành công nghiệp xe điện toàn cầu.
+ Sử dụng công nghệ kiểm tra nước tiên tiến kết hợp học máy, các nhà nghiên cứu ước tính một khu vực ở Arkansas có trữ lượng khoảng 5 - 19 triệu tấn lithium, đủ để đáp ứng nhu cầu nhu cầu dự kiến của thế giới vào năm 2030 đối với lithium dành cho pin xe điện, Newsweek hôm 22/10 đưa tin.
+ Phát hiện tập trung vào nước muối giàu lithium ở thành hệ Smackover, vùng đáy biển cổ đại trải rộng khắp vài bang phía nam nước Mỹ.
+ Phát hiện này đặc biệt quan trọng do nó có thể giảm sự phụ thuộc của Mỹ vào vật liệu thô nhập khẩu. "Lithium là một khoáng chất thiết yếu đối với chuyển đổi năng lượng, và tiềm năng tăng sản xuất ở Mỹ để thay thế nguồn nhập khẩu có nhiều ý nghĩa đối với việc làm, sản xuất và chuỗi cung ứng", David Applegate, giám đốc của USGS, cho biết.
+ Vào thập niên 1990, Mỹ là nước sản xuất lithium lớn nhất thế giới, theo Diễn đàn kinh tế thế giới.
+ Tuy nhiên, vào năm 2021, nước này chỉ chiếm 1% lượng sản xuất toàn cầu, bất chấp vai trò của lithium trong thúc đẩy sự phát triển mạnh mẽ xe điện.
+ Lithium thường được gọi là "vàng trắng" của quá trình chuyển đổi năng lượng bởi nó có vai trò chủ chốt trong công nghệ pin mở đường cho cuộc cách mạng xanh. "Nghiên cứu của chúng tôi có thể ước tính tổng lượng lithium tồn tại ở khu vực tây nam của thành hệ Smackover tại Arkansas lần đầu tiên", Katherine Knierim, trưởng nhóm nghiên cứu, chia sẻ. "Chúng tôi ước tính có đủ lithium hòa tan ở khu vực đó để thay thế nguồn lithium nhập khẩu của Mỹ và tiến xa hơn.
+ Những ước tính này là đánh giá tại chỗ.
+ Chúng tôi chưa tính toán lượng có thể thu được dựa trên những phương pháp mới hơn nhằm khai thác lithium từ nước muối".
+ Hiện nay, nhu cầu toàn cầu đối với lithium tiếp tục tăng vọt do nhu cầu sử dụng phương tiện điện và công nghệ năng lượng tái tạo.
+ Mỹ đang dựa vào nhập khẩu để đáp ứng hơn 25% nhu cầu lithium trong nước.
+ Công ty năng lượng Exxon Mobil đã tiến hành một số bước để khai thác nguồn dự trữ hứa hẹn này.
+ Công ty đã khoan các giếng thăm dò ở Arkansas và tích cực đánh giá độ khả thi về mặt kinh tế của hoạt động khai thác lithium trong vùng.
+ Họ đặt ra nhiều mục tiêu sản xuất tham vọng, hướng tới bắt đầu khai thác vào năm 2027.
+ Năm 2030, Exxon dự định sản xuất đủ lithium để cung cấp cho hơn một triệu xe điện hàng năm.
+ Thành hệ Smackover có niên đại từ kỷ Jura, nổi tiếng với các mỏ dầu và brom.
+ Thành hệ này trải dài qua Arkansas tới Louisiana, Texas, Alabama, Mississippi và Florida.

@@ -1,12 +1,33 @@
-Động vật tại Bảo tàng Động vật học, Đại học Cambridge có thể trò chuyện với khách tham quan qua điện thoại nhờ ứng dụng trí tuệ nhân tạo Hơn 12 mẫu vật, từ gián Mỹ, dodo đến gấu trúc đỏ và bộ xương cá voi vây, sẽ được trao tặng "khả năng trò chuyện" nhờ công nghệ trí tuệ nhân tạo (AI).
- Động vật tại Bảo tàng Động vật học sẽ chia sẻ câu chuyện của chúng, thậm chí cả trải nghiệm sau khi chết.
- Được trang bị giọng nói và tính cách riêng, các mẫu vật có thể trò chuyện bằng giọng nói hoặc văn bản qua điện thoại của khách tham quan.
- Công nghệ này cho phép chúng mô tả thời gian sống trên Trái Đất và những thử thách gặp phải, với hy vọng đảo ngược sự thờ ơ của con người đối với cuộc khủng hoảng đa dạng sinh học. Jack Ashby, trợ lý giám đốc bảo tàng, cho biết nhiều bảo tàng sử dụng AI theo nhiều cách khác nhau, nhưng "đây là ứng dụng đầu tiên cho phép các mẫu vật tự nói lên quan điểm của mình". "Một phần của thử nghiệm là xem liệu việc cho động vật tiếng nói riêng có khiến mọi người nghĩ khác về chúng hay không. Liệu có thể thay đổi nhận thức của công chúng về một con gián bằng cách cho nó một giọng nói?", Jack Ashby nói.
- Dự án do Nature Perspectives, một công ty đang xây dựng các mô hình AI để tăng cường kết nối giữa con người và thế giới tự nhiên, phát triển.
- Đối với mỗi mẫu vật, AI được cung cấp thông tin chi tiết về nơi sinh sống, môi trường sống tự nhiên, cách nó được đưa vào bộ sưu tập, cùng với tất cả thông tin về loài mà nó đại diện.
- Các mẫu vật thay đổi giọng điệu và ngôn ngữ để phù hợp với độ tuổi của người đối thoại và có thể trò chuyện bằng hơn 20 ngôn ngữ, bao gồm tiếng Tây Ban Nha và tiếng Nhật.
- Thú mỏ vịt có giọng Australia, gấu trúc đỏ có giọng Himalaya, và vịt trời có giọng Anh.
- Thông qua các cuộc trò chuyện trực tiếp, Ashby hy vọng khách tham quan sẽ học được nhiều hơn những gì có trên nhãn của mẫu vật.
- Các cuộc trò chuyện giữa khách tham quan và mẫu vật sẽ được phân tích để hiểu rõ hơn về thông tin mà mọi người muốn biết.
- AI gợi ý một số câu hỏi, chẳng hạn như hỏi cá voi vây "hãy kể cho tôi nghe về cuộc sống ở đại dương", nhưng khách tham quan có thể hỏi bất cứ điều gì họ muốn.
- Ashby chia sẻ: "Khi bạn nói chuyện với những động vật này, chúng thực sự hiện lên như những cá thể có tính cách riêng, đó là một trải nghiệm rất kỳ lạ.
+Từ năm 1974, các nhà khảo cổ làm việc ở lăng mộ Tần Thủy Hoàng tại Tây An, Thiểm Tây có nhiều phát hiện giúp tăng cường hiểu biết về vị hoàng đế nổi tiếng trong lịch sử Trung Quốc.
+ Hố thứ nhất được phát hiện vào năm 1874 khi các nông dân địa phương đang khoan giếng.
+ Sau đó, các nhà khảo cổ học tìm thấy hố hai và ba ở phía bắc của nó năm 1976, tạo thành cụm hố vệ tinh ở cách mộ chính của Tần Thủy Hoàng khoảng 1,5 km.
+ Ba hố có diện tích lần lượt là 14.
+260, 6.
+000 và 520 m2, chứa khoảng 8.
+000 chiến binh đất nung và ngựa, hơn 100 cỗ xe mô hình và hơn 40.
+000 vũ khí bằng đồng.
+ Đội quân đất nung được sắp xếp theo hàng ngũ quân đội, với 3 khu và một trung tâm chỉ huy.
+ Sự sắp đặt này tượng trưng cho đội quân bảo vệ Hàm Dương, kinh đô của nước Tần dưới thời trị vì của hoàng đế Tần Thủy Hoàng.
+ Việc phát hiện các hố chứa đội quân đất nung cung cấp nhiều chủ đề nghiên cứu về nhà Tần như loại binh lính, trang bị, cách tổ chức sắp xếp quân đội, kỹ thuật sản xuất chiến binh đất nung và vũ khí.
+ Năm 1978, các nhà khảo cổ học tìm thấy hai cỗ xe và ngựa bằng đồng cỡ lớn ở phía tây của gò đất khổng lồ phía trên ngôi mộ chính của Tần Thủy Hoàng.
+ Chúng được đặt trong quan tài bằng gỗ nhưng đã bị nghiền thành nhiều mảnh khi phát hiện.
+ Tuy nhiên, nhiều bộ phận vẫn nguyên vẹn, nhờ đó các học giả có thể phục dựng sau 8 năm.
+ Cỗ xe và ngựa bằng đồng được làm phỏng theo hình dạng của xe ngựa thật.
+ Tuy kích thước chỉ nhỏ bằng một nửa, chúng mô phỏng tỉ mỉ từng chi tiết nhỏ nhặt của vật thật.
+ Những cỗ xe phát hiện trước đây làm từ gỗ và đã mục nát ở thời điểm khai quật.
+ Phát hiện cỗ xe bằng đồng cho phép mọi người quan sát bản sao xe ngựa cổ đại của hoàng thất.
+ Chúng nằm trong số những cỗ xe ngựa bằng đồng cổ, lớn và bảo quản tốt nhất từng tìm thấy ở Trung Quốc, cung cấp hình ảnh tham khảo quan trọng cho các học giả khi nghiên cứu hoạt động luyện kim và công nghệ sản xuất đồng dưới thời nhà Tần.
+ Năm 2000, một hố vệ tinh nằm ở tường ngoài của lăng mộ chứa 46 tượng thủy cầm bằng đồng, bao gồm thiên nga, sếu đầu đỏ và ngỗng thiên nga, cùng với 15 tượng gốm.
+ Các loài thủy cầm được khắc họa ở tư thế sống động, một số đang kiếm ăn trong khi số khác đang nghỉ ngơi.
+ Vài con sếu ngậm vật thể giống côn trùng trong miệng, như thể chiếc mỏ sắc nhọn của chúng vừa rời khỏi mặt nước sau khi bắt mồi.
+ Toàn bộ cảnh tượng rất giống một vùng nước, nơi thủy cầm nô đùa và săn côn trùng ở bờ sông.
+ Nhiều nhà khảo cổ suy đoán tượng gốm tượng trưng cho nhạc công chơi nhạc cụ và thủy cầm được thuần hóa để nhảy theo điệu nhạc.
+ Là đồ vật mai táng, chúng có thể giúp giải trí cho hoàng đế và thể hiện sự đa dạng văn hóa của nhà Tần.
+ Từ năm 2013, các cuộc khai quật diễn ra ở ngôi mộ phía tây mộ chính của Tần Thủy Hoàng.
+ Đây là ngôi mộ vệ tinh trong tổ hợp lăng mộ.
+ Trong nhiều năm, nhóm khảo cổ khai quật hành lang trong mộ, phòng mai táng và 3 hố chôn xe ngựa, tìm thấy một cỗ xe 4 bánh quý hiếm.
+ Ngôi mộ có diện tích 1.
+900 m2, chứa lượng lớn đồ gốm, vại đồng, đồ tạo tác bằng ngọc bích, sắt, vàng và bạc.
+ Những con lạc đà bằng vàng và bạc ở phòng mai táng thuộc hàng cổ nhất Trung Quốc.
+ Các nhà khảo cổ cho biết dù chủ nhân ngôi mộ vẫn là điều bí ẩn, hiện nay đây là một trong những ngôi mộ dành cho quý tộc nhà Tần có địa vị cao nhất từng được phát hiện và khai quật.
+ Ngôi mộ cung cấp nhiều thông tin hữu ích về tập tục chôn cất của quý tộc nhà Tần.

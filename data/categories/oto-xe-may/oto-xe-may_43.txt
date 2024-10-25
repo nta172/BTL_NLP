@@ -1,19 +1,38 @@
-Số xe Toyota sản xuất trong tháng 8 là 709.
-571, giảm 11,2% so với cùng kỳ năm ngoái.
- Toyota cho biết hôm 27/9, sản lượng toàn cầu của hãng (gồm cả thương hiệu con Lexus) trong tháng 8 giảm 11,2% so với cùng kỳ năm trước, xuống còn 709.
-571 xe, đánh dấu tháng giảm thứ 7 liên tiếp. Nguyên nhân do sản xuất bị đình trệ, một phần vì bê bối thử nghiệm an toàn, một phần vì mưa bão. Nếu so với sản lượng 804.
-610 xe của tháng 7, thì số xe của tháng 8 giảm 12,55%.
- Trong đó, sản lượng Toyota tại Nhật giảm 22,2%, xuống còn 185.
-680 xe do việc sản xuất các mẫu xe Corolla Fielder, Corolla Axio và Yaris Cross vẫn bị đình chỉ sau khi bị dừng vào tháng 6.
- Sản lượng bên ngoài Nhật Bản của hãng cũng giảm 6,5% xuống còn 523.
-891 xe, sau đợt triệu hồi Grand Highlander và Lexus TX ở Bắc Mỹ.
- Tính theo quốc gia, mức giảm sản lượng lớn nhất của Toyota trong tháng 8 là ở Anh, giảm 45,6%, tiếp theo là Kenya (-28,8%), Nam Phi (-28,7%), và Nhật Bản (-22,2%).
- Trong khi đó, một số quốc gia ghi nhận mức tăng vọt về sản lượng của Toyota như CH Czech với 131,8%.
- Ở những quốc gia có tỷ lệ tăng hai con số, có Pakistan (76,6%), Việt Nam (60,9%), Philippines (58%), hay Myanmar (50%).
- Bê bối chất lượng trong nước, cùng với sự cạnh tranh gay gắt ở Trung Quốc cũng tác động tiêu cực đến doanh số toàn cầu của hãng, với mức giảm 3,1% xuống còn 826.
-863 xe.
- Toyota bán được 109.
-505 xe tại Nhật Bản, giảm 9,1%.
- Doanh số tại Trung Quốc giảm 13,5% do các đối thủ nội địa cung cấp xe điện giá cả phải chăng hơn tiếp tục giành thị phần từ các nhà sản xuất ôtô Nhật Bản.
- Doanh số ở các thị trường ngoài Nhật giảm 2,1% xuống còn 717.
-358 chiếc.
+Mẫu SUV điện siêu sang cấu hình 4 chỗ, cửa đóng/mở tự động, trang bị nhiều công nghệ và tiện nghi.
+ Thương hiệu xe sang Đức Mercedes giới thiệu Maybach EQS 680 SUV tại triển lãm riêng của hãng "The Avantgarde 2024" ở Hà Nội ngày 10/10.
+ Phiên bản Maybach của EQS bổ sung vào dải sản phẩm thuần điện của hãng gồm Mercedes EQB, EQE SUV, EQS, EQS SUV.
+ Kích thước của EQS 680 SUV không khác biệt so với EQS 500 SUV.
+ Thiết kế ngoại thất đặc trưng thương hiệu "ngôi sao 3 cánh".
+ Mặc ca-lăng đen, bề mặt tản nhiệt giả Black Panel đi kèm các nan crôm chạy dọc tạo hình 3D.
+ Đây cũng là lần đầu tiên, mặt ca-lăng làm kín.
+ Cụm đèn pha tích hợp đèn LED ban ngày tạo một dải chạy ngang đầu xe.
+ Đèn hậu LED độc quyền thương hiệu, tạo hình xoắn ốc và trang trí thêm các chi tiết crôm trên cửa cốp.
+ Ngoại hình sơn hai tông màu đặc trưng Maybach.
+ Bên thân xe nổi bật với bộ mâm nguyên khối thiết kế độc quyền với kích thước 22 inch.
+ Điểm nhấn của mẫu xe điện nằm ở cửa trước và sau đóng mở tự động là trang bị tiêu chuẩn, hoặc có thể đóng/mở từ xa.
+ Đặc biệt, cửa phía người lái sẽ tự động đóng lại ngay khi đạp chân phanh.
+ Cabin Maybach EQS 680 SUV tràn ngập công nghệ và tiện ích.
+ Điểm nhấn cho hành khách hàng ghế trước là màn hình MBUX Hyperscreen tiêu chuẩn và được thiết kế riêng cho dòng Mercedes-Maybach trên cả ba màn hình.
+ Màn hình TFT 12,3 inch sau vô-lăng.
+ Màn hình cảm ứng giải trí OLED 17,7 inch và màn hình giải trí cảm ứng OLED 12,3 inch cho ghế phụ.
+ Hai màn hình 11,6 inch cho hàng ghế sau.
+ Hỗ trợ kết nối Apple CarPlay/Android Auto không dây.
+ Nội thất cấu hình 4 chỗ với ghế sau phong cách hạng thương gia.
+ Hệ thống điều hòa, lọc không khí và bụi mịn cao cấp.
+ Hai màn hình giải trí cho hàng ghế sau.
+ Các cổng sạc có thể đóng mở bằng điện.
+ Hệ thống âm thành vòm 15 loa Burmester.
+ Hệ thống đèn viền đặc trưng của hãng xe Đức với 253 bóng LED độc lập và 64 tùy chọn hiệu ứng ánh sáng.
+ Ngoài ra, xe còn sử dụng nhiều vật liệu tái chế, và vật liệu bền vững.
+ Maybach EQS 680 SUV trang bị hai môtơ điện, công suất 658 mã lực, mô-men xoắn 955 Nm, dẫn động 4 bánh toàn thời gian 4Matic.
+ Theo kết quả thử nghiệm, xe tăng tốc từ 0-100 km/h trong 4,4 giây, tốc độ tối đa 210 km/h.
+ Xe trang bị nhiều chế độ lái như Eco, Sport, Off-road, Individual và Maybach (thay cho Comfort tiêu chuẩn).
+ Hệ thống treo khí nén.
+ Hỗ trợ đánh lái bánh sau với góc tối đa 10 độ.
+ Nuôi môtơ điện là gói pin lithium-ion 118 kWh có phạm vi hoạt động 559-611 km.
+ Sạc pin AC tiêu chuẩn 22 kW.
+ Thời gian sạc đầy bình AC 11 kW trong 6,25 giờ.
+ Trong khi sạc nhanh DC 200 kW từ 10-80% pin trong 31 phút.
+ Mercedes-Maybach EQS 680 SUV nhập khẩu bán ra tại thị trường Việt Nam giá 7,61 tỷ đồng.
+ Triển lãm riêng của Mercedes mang tên "The Avantgarde 202" diễn ra tại Hà Nội từ ngày 11-13/10.
+ Thương hiệu xe sang Đức mang đến triển làm gần 30 mẫu xe với giá trị hơn 150 tỷ đồng.

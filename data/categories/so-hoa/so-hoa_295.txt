@@ -1,27 +1,17 @@
-FPT Telecom được vinh danh ở hạng mục về hạ tầng số, A-IoT, sản xuất phân phối thiết bị viễn thông tại lễ công bố Top 10 doanh nghiệp công nghệ số, hôm 21/9. Lễ công bố "Top 10 doanh nghiệp công nghệ số xuất sắc Việt Nam 2024" do Hiệp hội Phần mềm và Dịch vụ Công nghệ Thông tin Việt Nam (VINASA) tổ chức.
- Trong đó, ba sản phẩm, dịch vụ trong hệ sinh thái số của FPT Telecom được vinh danh.
- Đồng thời, đơn vị cũng được công nhận vào nhóm câu lạc bộ doanh nghiệp nghìn tỷ.
- Cụ thể, đơn vị được vinh danh ở ba hạng mục là top 10 doanh nghiệp cung cấp hạ tầng số; top 10 doanh nghiệp A-IoT và top 10 doanh nghiệp sản xuất, phân phối thiết bị viễn thông, công nghệ thông tin.
- Với hạng mục top 10 doanh nghiệp cung cấp hạ tầng số, FPT Telecom ghi dấu ấn qua việc xây dựng cơ sở hạ tầng kỹ thuật số tiên tiến.
- Hiện tại đơn vị đang sở hữu 4 trung tâm dữ liệu quy mô lớn đạt chuẩn quốc tế tại Việt Nam.
- Trong đó, tiêu biểu là Fornix HCM01 với sức chứa đạt 770 tủ rack, tăng 60 tủ so với thời gian đầu hoạt động.
- Fornix HN02 có những cải tiến với việc mở rộng diện tích mỗi tầng lên 1.
-250 m2, trên tổng quy mô 8 tầng, tăng khả năng hoạt động lên 1.
-250 tủ rack. Những nâng cấp này giúp tăng khả năng phục vụ đồng thời giảm rủi ro, đảm bảo tính liên tục và hiệu quả trong hoạt động của các hệ thống dữ liệu.
- Các trung tâm dữ liệu của FPT Telecom tuân thủ các tiêu chuẩn quốc tế như Tier 3 của Uptime Institute, ITIL, ISO 9001:2008.
- Hiện tại, các trung tâm này đáp ứng nhu cầu của doanh nghiệp tài chính ngân hàng, chứng khoán, vận tải, công nghệ, truyền thông...
- Với hạng mục top 10 doanh nghiệp A-IoT, FPT được vinh danh nhờ hệ sinh thái FPT Life với hai sản phẩm là Camera AI và SmartHome.
- Đây là những đơn vị sản phẩm chiến lược của FPT Telecom, tập trung vào các sản phẩm về an toàn, an ninh và tiết kiệm năng lượng.
- Trong đó, FPT Camera cung cấp giải pháp giám sát an ninh cho hộ gia đình và doanh nghiệp, với toàn bộ phần cứng, phần mềm đến dịch vụ triển khai, bảo trì đều được phát triển và cung cấp bởi FPT Telecom.
- Các sản phẩm này đều tiên phong ứng dụng công nghệ Cloud, AI, IoT, để tạo trải nghiệm an toàn, bảo mật và thông minh. Một trong những điểm nổi bật là giải pháp FPT Camera AI Retail với công nghệ People Counting tích hợp AI giúp thống kê lưu lượng khách hàng ra vào cửa hàng.
- Thông qua việc xử lý AI, hệ thống sẽ phát hiện có người đi vào, theo dõi quỹ đạo di chuyển và nhận diện, loại trừ nhân viên, từ đó đếm được số lượng đi vào cửa hàng.
- Theo doanh nghiệp, độ chính xác của dữ liệu hơn 90%.
- FPT Smart Home là thương hiệu nhà thông minh cung cấp các giải pháp, thiết bị và dịch vụ tự sản xuất, giúp kết nối và tự động hóa điều khiển các thiết bị trong ngôi nhà.
- Ở hạng mục cuối cùng, FPT Telecom được xướng tên nhờ những giải pháp, sản phầm về công nghệ thông tin.
- Trong đó nổi bật là Ultra Fast - giải pháp ứng dụng công nghệ dữ liệu lớn và trí tuệ nhân tạo giúp tối ưu chất lượng đường truyền Internet.
- Ultra Fast có khả năng tối ưu tốc độ đường truyền, giúp giảm tỷ lệ rớt tới 4 lần, độ trễ tới 16 ms khi chơi game đối kháng. Ngoài ra, với bộ thiết bị chuẩn Wi-Fi 6, hệ thống mạng Mesh, doanh nghiệp cũng có thể tối ưu đường truyền Wi-Fi cho người dùng.
- Đơn vị còn có F-Safe - giải pháp để bảo vệ an toàn truy cập cho trẻ em. Ngoài ba hạng mục nằm trong nhóm top 10 Việt Nam, FPT Telecom cũng năm thứ ba liên tiếp vào nhóm doanh nghiệp nghìn tỷ, do VINASSA bình chọn.
- Đại diện doanh nghiệp đánh giá kết quả trên đến từ nỗ lực sáng tạo và cam kết trong việc mang đến những giải pháp công nghệ đáp ứng nhu cầu ngày càng cao của thị trường. "Điều này cũng khẳng định vị thế và cho thấy năng lực của công ty trên thị trường công nghệ, cả trong nước và quốc tế", đại diện đơn vị nhận định.
- Đơn vị cũng khẳng định sẽ tiếp tục nghiên cứu, phát triển nhiều giải pháp mới cho quá trình chuyển đổi số. Ngoài ra, các sản phẩm, giải pháp sẽ song hành với mục tiêu phát triển bền vững cho người dùng, doanh nghiệp và ngành công nghệ thông tin, viễn thông Việt Nam.
- Chương trình Top 10 Doanh nghiệp Công nghệ số xuất sắc Việt Nam là hoạt động thường niên với mục đích bình chọn, vinh danh các doanh nghiệp trong ngành công nghiệp ICT theo từng lĩnh vực.
- Qua đó, sự kiện kết nối, giới thiệu các doanh nghiệp tới các đối tác, khách hàng trong nước và quốc tế.
+Những nhóm tin tặc như Polaris, SharpPanda, Spring Dragon bị phát hiện thực hiện nhiều cuộc tấn công mạng vào hệ thống tại Việt Nam.
+ Thông tin được ông John Lu, Phó giám đốc điều hành tại TeamT5 - công ty Đài Loan chuyên về thu thập thông tin và săn lùng mối nguy, đề cập tại hội nghị bảo mật Zero Trust ngày 18/9 ở Hà Nội.
+ Theo ông Lu, các lỗ hổng ngày càng được khai thác để thực hiện tấn công mạng vào nhiều doanh nghiệp và tổ chức trên khắp thế giới.
+ Riêng tại Việt Nam, hệ thống theo dõi của TeamT5 phát hiện nhiều chiến dịch tận dụng các lỗ hổng để thực hiện tấn công có chủ đích (APT) trong nửa đầu 2024.
+ Điển hình trong đó là nhóm Polaris, hay Mustang Panda, tấn công vào lĩnh vực truyền thông, năng lượng, viễn thông, thông qua mã độc PlugX.
+ Nhóm SharpPanda với mã độc SharpM nhắm vào các hệ thống, sử dụng các tên miền mạo danh các đơn vị truyền thông trong nước như Baomoi, Congly, Viettime.
+ Trong khi đó, Spring Dragon được phát hiện tấn công nhiều hệ thống thuộc khối viễn thông, công nghệ thông tin.
+ Theo ông Lu, các nhóm tin tặc này khai thác nhiều lỗ hổng 0-day từ các hệ thống mạng, trong đó có những hệ thống của chính các công ty bảo mật, cho thấy tầm quan trọng của việc triển khai chiến lược Zero Trust.
+ Chiến lược này, hiểu đơn giản là "không tin ai, không tin điều gì và luôn phải xác minh".
+ Khi triển khai, cách làm này có thể được thể hiện trong một số khía cạnh như: luôn giả định có vi phạm, giám sát liên tục, đặc quyền truy cập cần thiết lập ở mức tối thiểu, mã hóa đầu cuối, quản lý danh tính...
+ Tại sự kiện, ông Nguyễn Kỳ Văn, đại diện nhà phân phối giải pháp bảo mật Netpoleon tại Việt Nam, cho rằng chiến lược Zero Trust thường xoay quanh năm trụ cột chính gồm: người dùng, thiết bị, mạng lưới, ứng dụng và dữ liệu.
+ Cách tiếp cận phù hợp với các tổ chức trong nước sẽ bắt đầu từ việc xác định đối tượng, tài sản trong hệ thống theo mức độ quan trọng để triển khai trước, sau đó mở rộng theo thời gian và cần thực hiện một cách liên tục đến khi triển khai đầy đủ. "Zero Trust là một quá trình thực hiện chứ không phải mua sản phẩm nào về dùng mà có", ông nhấn mạnh, khuyến nghị các tổ chức sớm triển khai chiến lược, trong bối cảnh tấn công mạng ngày càng tinh vi, có thể để lại hậu quả nghiêm trọng.
+ Về các cuộc tấn công APT vào Việt Nam, ngày 13/9, Cục An toàn thông tin - Bộ Thông tin và Truyền thông cho biết qua quá trình theo dõi đã phát hiện xu hướng tấn công mã hóa tống tiền (ransomware) tăng cao thời gian gần đây.
+ Một số hệ thống thông tin của cơ quan, tổ chức, doanh nghiệp tại Việt Nam bị sự cố, gây gián đoạn hoạt động và thiệt hại về vật chất.
+ Một số chiến dịch tấn công APT của các nhóm tấn công Mallox Ransomware, Lazarus và Mustang Panda đã được phát hiện.
+ Ví dụ chiến dịch của Lazarus sử dụng ứng dụng giả mạo nền tảng họp video để phát tán nhiều chủng mã độc, Mustang Panda khai thác VSCode để nhắm mục tiêu.
+ Trước đó, hồi tháng 8, nhóm StormBamboo được phát hiện khai thác ISP để tấn công diện rộng. "Các đơn vị cần chủ động rà soát máy chủ, máy trạm, toàn bộ hệ thống giám sát theo các chỉ báo mà Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) cung cấp để xử lý sớm rủi ro trong hệ thống, liên tục cập nhật chỉ báo về tấn công mạng, đặc biệt là các chỉ báo đã được chia sẻ từ NCSC", Cục khuyến nghị.

@@ -1,15 +1,42 @@
-Trường Đại học FPT tập huấn cách ứng dụng trí tuệ nhân tạo vào giảng dạy STEM cho hơn 3.
-000 giáo viên THPT tại Bình Định và TP HCM. Ngày 13/10, trường triển khai chương trình "STEM education in AI era - Giáo dục STEM trong kỷ nguyên Trí tuệ nhân tạo" tại đồng thời hai tỉnh thành cho các thầy cô của gần 300 trường.
- Tại đây, trường Đại học FPT triển khai 6 nội dung, gồm: Ứng dụng AI trong việc giảng dạy THPT, Teachable Machine - Khai phá sức mạnh AI, Micro:bit - Khám phá thế giới IoT, Data Visualization - Phân tích và trực quan hóa dữ liệu với Python, Raspberry Pi Car - Xe tự hành trí tuệ nhân tạo, MIT App Inventor - Xây dựng ứng dụng điện thoại (mobile app).
- Đồng thời, trường trao bộ STEM Kit cho đại diện các trường THPT tham gia khóa học nhằm cung cấp các công cụ cần thiết giúp giáo viên và học sinh khám phá, thực hành kiến thức về công nghệ, STEM.
- Các bộ này do tài trợ 100%, thể hiện cam kết bền vững của đơn vị trong việc đồng hành cùng các trường THPT mở rộng cơ hội tiếp cận công nghệ cho học sinh, nâng cao chất lượng giảng dạy STEM tại Việt Nam.
- Trường Đại học FPT bắt đầu triển khai dự án này từ tháng 6, góp phần hiện thực hóa chủ trương của Bộ Giáo dục và Đào tạo, đồng thời, đáp ứng nhu cầu của các Sở Giáo dục và Đào tạo trong việc nâng cao năng lực giảng dạy STEM cho giáo viên THPT.
- Đại diện trường chia sẻ, trường Đại học FPT triển khai chương trình này như một hoạt động thúc đẩy giáo dục cộng đồng.
- Đơn vị muốn góp phần trang bị thêm kiến thức và kỹ năng chuyên môn trong các lĩnh vực công nghệ mới như STEM, AI cho thầy cô giáo THPT, từ đó, áp dụng vào giảng dạy.
- Đồng thời, học sinh có thể tiếp cận sớm với những công nghệ tiên tiến trong STEM.
- Trong thời gian qua, trường khởi xướng và thực hiện nhiều chương trình cộng đồng ý nghĩa như bồi dưỡng kiến thức, kỹ năng ứng dụng công nghệ thông tin và truyền thông cho cán bộ, công chức, viên chức; củng cố kiến thức tiếng Anh cho học sinh THPT; đưa âm nhạc truyền thống vào trường học.
- Trước đó, trường Đại học FPT đã tổ chức chương trình tập huấn "Ứng dụng AI trong giảng dạy THPT".
- Qua đó, hơn 10.
-000 giáo viên nòng cốt từ 18 tỉnh thành được đào tạo về các ứng dụng công nghệ AI mới nhất.
- Đây là bước khởi đầu quan trọng trong việc hỗ trợ giáo viên tiếp cận với những công nghệ tiên tiến, nâng cao chất lượng giảng dạy và phát triển kỹ năng cần thiết trong thời đại số.
- Trong bối cảnh trí tuệ nhân tạo ngày càng trở thành nền tảng trong mọi lĩnh vực, Trường Đại học FPT định hướng đẩy mạnh các chương trình giáo dục sáng tạo, đưa công nghệ hiện đại vào giảng dạy và hợp tác chặt chẽ với cộng đồng.
+Từ sinh viên Đại học Bách khoa Đà Nẵng, Kim Phụng, 34 tuổi, trải qua gần 10 năm học tập và nghiên cứu ở Mỹ, trước khi trở thành giảng viên Đại học bang New York -Albany.
+ Lại Thị Kim Phụng, quê gốc Quảng Nam, hiện làm việc tại khoa An ninh mạng của trường này (SUNY-Albany), với vai trò Assistant professor.
+ Đây là bậc đầu tiên trong ba bậc giáo sư ở Mỹ.
+ SUNY-Albany được xếp ở vị trí thứ 7 về ngành An ninh nội địa và Quản lý tình huống khẩn cấp, theo US News 2024.
+ Hướng nghiên cứu chính của Phụng là ứng dụng học máy và trí tuệ nhân tạo trong bảo mật dữ liệu.
+ Phụng nói luôn thích tìm hiểu sâu về mỗi vấn đề, nên xác định theo hướng nghiên cứu từ ngày là sinh viên ngành Điện tử - Viễn thông ở trường Đại học Bách khoa, Đại học Đà Nẵng.
+ Khi đó, cô tham gia nhiều cuộc thi nghiên cứu khoa học sinh viên, từng đạt giải ba toàn quốc cuộc thi "Thiết kế vi mạch điện tử" do các trường đại học và Công ty bán dẫn, vi mạch Texas Instruments tổ chức.
+ Ngoài ra, Phụng tham gia nghiên cứu cùng thầy cô ở những đề tài chuyên sâu về công nghệ khoa học máy tính trong xử lý hình ảnh và tín hiệu camera.
+ Năm cuối đại học, Phụng đỗ học bổng nghiên cứu của Đại học Công nghệ Nanyang, Singapore.
+ Bảy tháng nghiên cứu vi mạch dưới sự hướng dẫn của giáo sư ở đây là một bước ngoặt, mở ra định hướng du học của cô. "Mình vẫn nhớ sự háo hức khi lần đầu ngồi máy bay sang nước ngoài, rồi được xem và chạm vào những công nghệ tiên tiến của thế giới", Phụng nhớ lại.
+ Năm 2015, Phụng theo học chương trình thạc sĩ ở Đại học bang Oregon, Mỹ, ngành Khoa học máy tính.
+ Cô cho rằng sự khác biệt hoàn toàn về đời sống cũng như văn hóa học tập, làm việc ở nước ngoài sẽ thỏa mãn đam mê thử thách của mình.
+ Những tháng đầu tiên ở Mỹ khá chật vật, chủ yếu vì Phụng chưa biết quản lý thời gian hiệu quả.
+ Cả ngày học và nghiên cứu, Phụng ăn uống thất thường, khiến sức khỏe đi xuống.
+ Dù vậy, cô chưa từng nghĩ bỏ cuộc. "Thường lúc mình cảm thấy muốn từ bỏ là đạt 90% mục tiêu rồi, nên mình lại cố gắng tiếp", Phụng nhìn nhận.
+ Tại đây, Phụng nghiên cứu tiếp về phần mềm phân tích hình ảnh dùng học máy.
+ Lên bậc tiến sĩ, Phụng đi theo hướng chuyên sâu vào bảo mật thông tin, tăng chất lượng dự báo và độ tin cậy cho các hệ thống máy tính.
+ Các nghiên cứu của cô có thể ứng dụng trong xử lý hình ảnh hay ngôn ngữ tự nhiên, y tế, tài chính, quản lý mạng xã hội...
+ Cùng lúc, Phụng thực tập ở Adobe - một trong những hãng phần mềm hàng đầu thế giới.
+ Cô tìm tòi áp dụng các phương pháp học sâu và trí tuệ nhân tạo trong đọc hiểu và phân tích văn bản, đồng thời hỗ trợ quá trình xin cấp bằng sáng chế về bảo mật thông tin.
+ Năm ngoái, Phụng và cộng sự được Hiệp hội phát triển Trí tuệ nhân tạo thế giới (AAAI), trao giải top 12 bài báo xuất sắc, với đề tài XRand: Differentially Private Defense against Explanation-Guided Attacks.
+ Nhóm của cô đề xuất giải pháp tăng cường bảo mật cho hệ thống và giảm thiểu nguy cơ bị tấn công bởi phần mềm độc hại thông qua các hệ thống giải thích trí tuệ nhân tạo.
+ Phụng nói đây là giải thưởng đầu tiên trong sự nghiệp của cô.
+ Trước đó, hội nghị nhận được hơn 8.
+700 bài báo. "Giải thưởng không chỉ là một sự ghi nhận, mà còn là động lực lớn để mình tiếp tục nghiên cứu", Phụng chia sẻ.
+ Song song đó, Phụng tích cực giảng dạy và hướng dẫn sinh viên, bước đầu thực hiện ước mơ làm nhà giáo.
+ Cô thường chia sẻ bí quyết để công việc đạt hiệu quả tốt hơn, hay cách vượt qua khó khăn trong nghiên cứu.
+ Gần đây, cô cũng giúp một số sinh viên Việt Nam chuẩn bị hồ sơ du học.
+ Phụng tâm đắc với việc này, bởi thấy đây là cách để truyền cảm hứng học tập cho các bạn trẻ, như những gì bố mẹ và chị mình đang làm. "Cũng là thích nghề giáo, nhưng thay vì học làm giáo viên, mình lại dành 15 năm để học làm giáo sư", Phụng nói.
+ Với những kinh nghiệm này, Phụng "đánh liều" ứng tuyển vị trí Assistant professor ở nhiều đại học, mà không qua chương trình sau tiến sĩ.
+ Qua vòng lọc hồ sơ và phỏng vấn trực tuyến, cô vào danh sách rút gọn (short-list) ở bảy trường.
+ Phụng đã thuyết trình về các nghiên cứu của mình, gặp gỡ ban lãnh đạo và nhiều giảng viên, sinh viên ở từng trường.
+ Cô cho hay mỗi cuộc gặp khoảng 30 phút, liên tiếp từ 9 giờ sáng đến 5 giờ chiều.
+ Bữa tối cũng được tận dụng để trường đánh giá khả năng hòa nhập của ứng viên.
+ Có lần, Phụng phải tham gia phỏng vấn liên tiếp ở SUNY-Albany và Đại học Công nghệ Michigan, cách nhau 9 tiếng bay. "Đó là hai tháng khốc liệt nhất.
+ Dù áp lực và mệt mỏi, nhưng lúc nào mình cũng phải giữ được năng lượng tràn trề trên khuôn mặt", Phụng nói. "Chuyên môn không là chưa đủ để có công việc tốt tại Mỹ".
+ Trúng tuyển cả bảy trường, Phụng chọn SUNY-Albany, thuộc danh sách R1 - top các trường đầu tư mạnh nhất cho nghiên cứu ở Mỹ.
+ Nhiều năm làm việc cùng Phụng, TS Nguyễn Thị Khánh Hồng, giảng viên trường Đại học Sư phạm Kỹ thuật Đà Nẵng, đánh giá đồng nghiệp hiền lành, chỉn chu và luôn nghiêm túc, nhiệt tình trong công việc.
+ Cô thường xuyên nhận được sự hỗ trợ của bạn trong chuyên môn. "Bạn hay cập nhật kiến thức AI giúp mình làm mới bài giảng", TS Hồng cho biết.
+ Hiện tại, ngoài tập trung nghiên cứu và giảng dạy, Kim Phụng còn ấp ủ kế hoạch xây dựng các chương trình học bổng, thúc đẩy hợp tác giữa một số đại học trong và ngoài nước.
+ Nhìn lại hành trình của mình, Phụng nói 10 năm qua đã giúp cô trưởng thành về nhiều mặt, nhất là trong cân bằng giữa công việc và đời sống. "Dù công việc bây giờ vất vả hơn trước, nhưng mình vẫn dành thời gian nấu ăn, chăm sóc bản thân, đi chơi và tụ tập bạn bè", Phụng nói.
+ Sở trường của cô là các món ăn xứ Quảng.

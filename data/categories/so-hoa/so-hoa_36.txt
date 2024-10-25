@@ -1,14 +1,19 @@
-Nivdia kỷ niệm 25 năm ngày ra mắt GeForce 256 - GPU đầu tiên trên thế giới, giữa bối cảnh vốn hoá công ty đạt 3,4 nghìn tỷ USD, vượt qua Microsoft và sắp đuổi kịp Apple.
- GeForce 256, công bố năm 1999, được đánh giá không đơn thuần là một card đồ họa mà đã đặt nền tảng cho những tiến bộ của game và máy tính sau này. "GeForce 256 có thể giảm tải cho CPU, cho phép các nhà phát triển tích hợp nhiều chi tiết hơn vào trò chơi mà không làm giảm hiệu suất", Tom’s Hardware nhận định.
- Theo các nhà phân tích, việc giới đầu tư đặt cược vào nhu cầu mạnh mẽ đối với bộ xử lý AI Blackwell thế hệ tiếp theo là động lực lớn cho Nvidia tiếp tục tăng giá trị, với giá trị cổ phiếu có thể đạt 165 USD, theo công ty nghiên cứu TD Cowen.
- Dòng chip mới chuyên dùng cho các hệ thống AI, có giá dự kiến từ 30.
-000 đến 40.
-000 USD, được cho là "đang được đặt hàng một cách điên rồ".
- Theo CNBC, Nvidia giống như những người bán cuốc xẻng ở thời kỳ cơn sốt đào vàng, khi cung cấp công cụ cho các hệ thống AI - xu hướng mới trong thời đại kỹ thuật số.
- Từ những ông lớn như Microsoft, Meta, Google và Amazon đến các công ty nhỏ đều xếp hàng để mua những bộ GPU mạnh mẽ nhằm dẫn đầu trong cơn sốt.
- Ở thị trường chip đào tạo AI có khả năng suy luận, Nvidia chiếm 95% thị phần, theo hãng nghiên cứu Mizuho.
- Các nhà phân tích cũng dự đoán nhu cầu xây dựng trung tâm dữ liệu AI sẽ giúp doanh thu hàng năm của Nvidia tăng gấp đôi, lên gần 126 tỷ USD. Nvidia thành lập năm 1993 bởi ba kỹ sư Jensen Huang, Chris Malachowsky và Curtis Priem - những người dự đoán khi máy tính phát triển sẽ cần những bộ xử lý đồ họa (GPU) phức tạp.
- Ván cược được đền đáp khi năm 2000, họ giành hợp đồng lớn đầu tiên: sản xuất chip cho máy chơi game Xbox của Microsoft. Kể từ đó, Nvidia được chú ý hơn nhờ các sản phẩm GPU cho máy tính. Khi làn sóng khai thác tiền số diễn ra, công ty lại tiếp tục hưởng lợi nhờ cơn khát card đồ họa.
- Đầu 2022, hãng công bố H100 - bộ xử lý đồ họa GPU mạnh nhất từng chế tạo và vẫn là một trong những chip đắt nhất hiện nay với giá 40.
-000 USD. Khi đó, giới chuyên gia nhận định Nvidia chọn sai thời gian công bố, bởi các doanh nghiệp đang tìm cách thắt chặt chi tiêu và sa thải nhân sự.
- Tuy nhiên, thực tế đã chứng minh ngược lại khi OpenAI ra mắt ChatGPT và trào lưu AI bùng nổ trên thế giới.
+Nhiều người dùng cho biết điện thoại của họ, kể cả iPhone 16 và các phiên bản thế hệ cũ, gặp tình trạng hao pin sau khi cập nhật iOS 18.
+ Theo hàng loạt phản ánh trên diễn đàn Reddit, cộng đồng Hỗ trợ Apple và trang công nghệ MacRumors, nhiều điện thoại từ đời mới nhất là iPhone 16 đến những phiên bản cũ hơn đang chạy iOS 18 đã gặp vấn đề về pin.
+ Trước đó, khi iOS 18 chính thức phát hành ngày 17/9, một số người bắt đầu phản ánh và nói "hối hận" khi lên hệ điều hành mới vì pin sụt nhanh hơn bình thường.
+ Khi đó, chuyên gia Kingsley-Hughes cho rằng nếu chưa thực sự cần thiết, người dùng nên đợi thêm vài ngày, hoặc chờ phiên bản ổn định tiếp theo của iOS 18 rồi mới cập nhật hệ điều hành.
+ Tuy nhiên, sau một tháng, tình trạng này vẫn tiếp diễn.
+ Một người phàn nàn trên MacRumors: "Thật thất vọng với tuổi thọ pin của iPhone 16 Pro Max mới.
+ Chỉ sau thời gian ngắn, sức khỏe pin xuống 99%.
+ Thời gian sử dụng giữa các lần sạc cũng chỉ bằng 50-60% so với chiếc 15 Pro Max tôi đã sử dụng một năm".
+ Một số cho biết việc hao pin diễn ra khi điện thoại ở chế độ chờ. "Dù tôi đã tắt tính năng màn hình luôn bật AOD và kích hoạt giới hạn khung hình trong tùy chọn truy cập, việc hao pin vẫn không được khắc phục", một người dùng nói trên Reddit. "Tôi nâng cấp từ iPhone 12 lên iPhone 16 Pro chủ yếu vì pin và loa.
+ Tuy nhiên, dù Apple quảng cáo sản phẩm mới có pin tốt hơn, iPhone 16 Pro tiêu hao 10-15% pin khi để qua đêm mà không làm gì cả", một thành viên trên MacRumors cho hay.
+ Sự cố xảy ra cả với iPhone cũ hơn chạy iOS 18.
+ Một số cho biết vấn đề được cải thiện phần nào với bản cập nhật iOS 18.
+0.
+1 và iOS 18.
+1 beta.
+ Apple chưa đưa ra bình luận. iOS 18 tương thích với các mẫu iPhone ra mắt từ năm 2018, như iPhone XS và XR về sau.
+ Đây là một trong những đợt cập nhật lớn nhất dành cho iOS khi Apple bổ sung nhiều tính năng theo hướng cá nhân hóa giao diện, như có thể đặt các icon ứng dụng ở nhiều vị trí trên màn hình chính, tùy biến kích thước biểu tượng trên Trung tâm điều khiển.
+ Nền tảng cũng lần đầu hỗ trợ nhắn tin RCS.
+ Tuy nhiên, tính năng Apple Intelligence chưa có mặt.

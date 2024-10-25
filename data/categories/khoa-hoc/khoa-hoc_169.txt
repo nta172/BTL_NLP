@@ -1,15 +1,16 @@
-Máy in 3D tự động mới cao 12 mét, nặng 75 tấn, giúp phun các lớp sợi carbon để chế tạo nhanh tên lửa Neutron, dự kiến phóng năm 2025.
- Rocket Lab, công ty có trụ sở tại Mỹ, đang tạo ra những bước tiến lớn trong lĩnh vực du hành vũ trụ với tên lửa tải trọng trung bình Neutron, New Atlas hôm 20/10 đưa tin.
- Ban đầu, quá trình chế tạo Neutron bao gồm việc đặt hàng trăm lớp và hàng nghìn feet vuông (1 feet bằng 0,3 mét) sợi carbon được lên khuôn bằng tay, đòi hỏi một đội ngũ lớn làm việc nhiều tuần để hoàn thành.
- Giờ đây, với Máy đặt sợi tự động (AFP) mới của Rocket Lab, công việc này có thể hoàn thành chỉ trong một ngày.
- AFP giống như một máy in 3D tự động cao 12 mét, nặng 75 tấn, phun ra những lớp sợi carbon với tốc độ 100 mét mỗi phút.
- Thay vì in từng mảnh, cỗ máy đặt các tấm sợi carbon theo nhiều hướng, từng lớp một, tạo độ bền chắc và độ cứng cho mỗi cấu trúc.
- Với khả năng di chuyển theo phương ngang tới 30 mét, AFP có thể chế tạo những mảnh lớn nhất - phần liên tầng dài 28 mét và phần vỏ bảo vệ của tên lửa Neutron.
- Cỗ máy cũng đảm nhận việc rải các lớp của tầng đầu tiên (đường kính 7 mét) và bồn chứa của tầng thứ hai (đường kính 5 mét). Khi chế tạo một mảnh, hệ thống kiểm tra tự động tích hợp trong máy sẽ rà quét để phát hiện khiếm khuyết hoặc sai sót trong cấu trúc composite carbon và tạm dừng để cảnh báo người vận hành trước khi chế tạo lớp tiếp theo.
- Rocket Lab dự kiến việc sử dụng AFP giúp tiết kiệm hơn 150.
-000 giờ lao động để chế tạo Neutron, giúp mẫu tên lửa này trở nên rẻ hơn, sản xuất nhanh và dễ dàng hơn.
- Công ty dự định phóng tên lửa Neutron đầu tiên vào năm 2025.
- Theo Rocket Lab, sau khi hoàn thiện, Neutron sẽ trở thành tên lửa bằng vật liệu composite lớn nhất lịch sử.
- Tên lửa dự kiến cao 43 m, đường kính 7 mét, có sức chở 13 tấn lên quỹ đạo Trái Đất thấp (LEO) và có thể tái sử dụng.
- Trong khi đó, hệ thống tên lửa Starship của SpaceX chủ yếu làm từ thép không gỉ, Starliner của Boeing chủ yếu sử dụng hợp kim nhôm.
- Ban đầu, SpaceX đã cân nhắc sử dụng vật liệu composite CF cho Starship, nhưng cuối cùng chọn thép không gỉ vì hiệu quả về chi phí, khả năng chịu nhiệt và độ bền.
+Gạch thủy tinh mới được sản xuất bằng công nghệ in 3D, có thể liên kết với nhau như các khối Lego và tháo dỡ để tái chế nhiều lần.
+ Các kỹ sư tại Viện Công nghệ Massachusetts (MIT) phát triển gạch thủy tinh in 3D có độ chắc chắn tương đương bêtông, New Atlas hôm 20/9 đưa tin.
+ Evenline, công ty của MIT, đã phát triển máy in 3D đặc biệt có thể dùng thủy tinh nóng chảy làm nguyên liệu.
+ Trong quá trình in gạch, Michael Stern, nhà sáng lập Evenline, cùng các đồng nghiệp sử dụng thủy tinh soda-lime, loại vật liệu dùng trong đa số xưởng thổi thủy tinh.
+ Theo nhóm kỹ sư, gạch thủy tinh có thiết kế hình số 8, phù hợp với những cấu trúc cong.
+ Chúng cũng có hai chốt nhỏ dưới đáy để liên kết với nhau giống như các khối Lego.
+ Sau khi in gạch, nhóm kỹ sư đặt chúng vào máy ép thủy lực công nghiệp để kiểm tra xem chúng chịu được lực bao nhiêu.
+ Kết quả, gạch thủy tinh bền chắc gần tương đương với các khối bêtông.
+ Việc gạch cấu tạo từ nhiều lớp và có tính năng liên kết dưới đáy giúp chúng trở nên cứng chắc hơn.
+ Nhóm nghiên cứu cũng đã xây một bức tường nhỏ bằng gạch để kiểm chứng.
+ Bài nghiên cứu về quá trình phát triển và thử nghiệm gạch thủy tinh được xuất bản trên tạp chí Glass Structures and Engineering.
+ Loại gạch mới có nhiều lợi ích môi trường.
+ Đầu tiên, chúng được làm từ thủy tinh tái chế.
+ Thứ hai, sau khi hoàn thành nhiệm vụ, chúng có thể được tháo dỡ và tái cấu trúc thành hình dạng mới.
+ Cuối cùng, nếu không phù hợp với một dự án xây dựng, gạch thủy tinh có thể được nung chảy và in 3D thành hình dạng khác. "Tôi rất hào hứng với việc mở rộng không gian thiết kế và sản xuất cho các vật liệu thách thức với đặc tính thú vị, ví dụ như thủy tinh với những đặc tính quang học và khả năng tái chế.
+ Miễn là thủy tinh không bị nhiễm bẩn, bạn có thể tái chế nó gần như vô hạn", Kaitlyn Becker, phó giáo sư kỹ thuật cơ khí tại MIT, cho biết.

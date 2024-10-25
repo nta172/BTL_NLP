@@ -1,20 +1,14 @@
-Gần nửa trong số 500 doanh nghiệp được khảo sát sẵn sàng trả lương nhân sự mảng Al cao hơn vị trí khác 10-20%; 18% công ty trả cao hơn 20-50%.
- Báo cáo Thực trạng nhân sự và tuyển dụng ngành công nghệ thông tin (IT) trong làn sóng Trí tuệ nhân tạo (Al) giai đoạn 2024-2025 do VietnamWorks inTech thuộc Navigos Group vừa công bố cung cấp thông tin tổng quan về tác động của Al đến thị trường lao động IT tại Việt Nam. Khảo sát thực hiện trên 1.
-500 ứng viên tại Hà Nội, Đà Nẵng, TP HCM và một số tỉnh thành cùng 500 doanh nghiệp trong tháng 7-8. Kết quả cho thấy lương của nhân sự mảng Al cao hơn hẳn so với các vị trí khác.
- Cụ thể gần 44% doanh nghiệp trả hơn 10-20% và trên 18% đơn vị trả lương cao hơn 20-50%.
- Hơn một nửa doanh nghiệp ưu tiên tuyển nhân sự có kỹ năng dùng công cụ về AI bởi đã nhận ra tầm quan trọng của kỹ năng AI trong bối cảnh công nghệ phát triển.
- Tình hình nhân sự IT tại Đà Nẵng ổn định nhất, trong khi TP HCM và Hà Nội có tỷ lệ cắt giảm cao, lần lượt gần 17,7% và 18,6%.
- So với năm ngoái, doanh nghiệp giảm tỷ lệ cắt giảm IT nhưng lại tăng quy mô nhân sự trong năm nay.
- Phần lớn doanh nghiệp cho biết tăng khoảng 5-30% nhân sự lĩnh vực này.
- Doanh nghiệp tuyển dụng IT chủ yếu từ ngành gia công phát triển phần mềm, kinh doanh thương mại, sản xuất kỹ thuật, tư vấn công nghệ... Nhìn chung, nhân sự công nghệ thông tin vẫn chịu ảnh hưởng hậu làn sóng cắt giảm lao động diện rộng sau đại dịch.
- 60% được khảo sát cho biết bị thôi việc trong năm trước vẫn chưa tìm được việc mới trong năm nay, cao gấp rưỡi so với tỷ lệ tương tự ở nhóm nhân sự chủ động thôi việc.
- Trong khi đó, nhóm chủ động thường chuẩn bị kỹ lưỡng trước khi rời đi, có mối quan hệ nghề nghiệp nên ít đối mặt với thách thức hơn.
- Tỷ lệ tìm được việc mới phù hợp và hài lòng ở nhóm này chiếm trên 24% và 17,5%. Nhiều nhân sự IT vì thế sẵn sàng đảm nhận thêm khối lượng công việc hoặc đa nhiệm hơn để có được việc mới. "Con số tăng 10% so với năm trước, cho thấy sự cạnh tranh trên thị trường việc làm ngày càng gay gắt", báo cáo nhận định.
- Cạnh tranh gay gắt cùng tìm việc khó khăn khiến tỷ lệ nhảy việc thấp ở mức 32%.
- Song 65% được khảo sát cho biết đang hoặc có kế hoạch tìm việc mới trong 6-12 tháng tới, tạo nên triển vọng sôi động hơn trong ngành này.
- Ba yếu tố ứng viên quan tâm nhất là mức lương bằng hoặc cao hơn vị trí cũ, cơ hội thăng tiến và mức độ ổn định, nhất là mặt tài chính công ty.
- Hình thức làm việc tại văn phòng vẫn chiếm 73% song xu hướng làm việc linh hoạt đang phổ biến hơn trong ngành này.
- Hơn 19% nhân sự chọn hình thức hybrid - tức kết hợp làm việc văn phòng với từ xa và gần 8% làm việc từ xa hoàn toàn.
- AI đã và đang trở thành trợ thủ đắc lực của nhân sự công nghệ thông tin khi hơn 80% khảo sát cho biết họ đang sử dụng AI hỗ trợ công việc và gần 60% trong số đó sử dụng mỗi ngày.
- Các trang tuyển dụng vẫn là nơi ứng viên tìm việc phổ biến, song báo cáo ghi nhận có sự dịch chuyển qua mạng xã hội. Khoảng 4,4% ứng viên và 2,4% doanh nghiệp được khảo sát cho biết dùng Threads để tiếp cận nhau.
- Quản lý sản phẩm và giám đốc sản phẩm là hai vị trí khó tuyển nhất khi các doanh nghiệp cho rằng ứng viên chưa đáp ứng yêu cầu. Khảo sát về xu hướng tuyển dụng nhân sự IT từ nay đến hết năm 2025 cho thấy doanh nghiệp ưu tiên kinh nghiệm làm việc và dự án đã thực hiện của ứng viên; chú trọng vào kỹ năng lập trình, sáng tạo; trong khi thiết kế CV độc đáo và hình ảnh cá nhân chuyên nghiệp là hai yếu tố người sử dụng lao động ít quan tâm hơn.
+Từ 14/1 đến 12/2/2025, máy bay đến và đi từ Tân Sơn Nhất được tăng tần suất khai thác lên 46 chuyến mỗi giờ để đáp ứng nhu cầu đi lại của hành khách dịp Tết.
+ Cục Hàng không Việt Nam vừa quyết định điều chỉnh giờ hạ, cất cánh tại sân bay Tân Sơn Nhất dịp Tết Nguyên đán Ất Tỵ.
+ Sân bay được khai thác từ 42 chuyến hiện nay lên 46 chuyến mỗi giờ vào ban ngày và buổi tối.
+ Ban đêm (từ 0h đến 5h) được tăng từ 32 chuyến lên 42 chuyến mỗi giờ.
+ Tại nhà ga nội địa, Cục Hàng không Việt Nam cho phép máy bay cất cánh sảnh A từ 13 lên 15 chuyến bay, tại sảnh B từ 11 lên 13 chuyến mỗi giờ.
+ Máy bay nội địa hạ cánh được tăng từ 21 lên 22 chuyến mỗi giờ.
+ Tân Sơn Nhất hiện phải giới hạn khai thác tối đa 42 chuyến bay mỗi giờ do hạ tầng chỉ đáp ứng tối đa 3.
+600 hành khách dù đường cất hạ cánh có thể tăng năng lực khai thác.
+ Việc điều chỉnh linh hoạt giờ bay và tối ưu hóa các hoạt động tại nhà ga là một trong những giải pháp để giải quyết vấn đề này.
+ Cục Hàng không Việt Nam cho biết điều chỉnh kế hoạch bay sớm tại Tân Sơn Nhất sẽ giúp các hãng hàng không xây dựng kế hoạch khai thác, phục vụ hành khách dịp Tết; đồng thời các hãng có kế hoạch bổ sung, tăng máy bay để cung cấp cho thị trường nhiều loại vé với mức giá rẻ, hợp lý.
+ Vietnam Airlines Group đã công bố bán sớm gần 1,5 triệu chỗ cho giai đoạn từ 13/1 đến 12/2/2025.
+ Các đường bay cao điểm tập trung giữa 3 thành phố lớn Hà Nội, Đà Nẵng, TP HCM với nhiều tỉnh thành như Hải Phòng, Vinh, Thanh Hóa, Huế, Quy Nhơn, Nha Trang.
+ Đây là đợt mở bán vé đầu tiên, hãng sẽ theo dõi nhu cầu thị trường, nguồn lực đội tàu bay, phân bổ slot từ Cục Hàng không Việt Nam để mở bán các đợt tiếp theo.
+ Cục Hàng không Việt Nam khẳng định sẽ quản lý chặt chẽ việc sử dụng slot (giờ cất, hạ cánh) của các hãng để đảm bảo sử dụng hiệu quả, khai thác tối đa năng lực hạ tầng cảng.

@@ -1,16 +1,16 @@
-Gần 60% số người tham gia một khảo sát mới nhất cho biết họ cân nhắc mua một chiếc ôtô Trung Quốc.
- Theo khảo sát, sự hoài nghi của người Đức đối với các thương hiệu Trung Quốc ở mức thấp, đặc biệt là ở những tài xế trẻ tuổi.
- Có 74% người thuộc độ tuổi 30-39 và 72% người ở độ tuổi 18-29 có thể cân nhắc mua xe từ các nhà sản xuất Trung Quốc.
- Trong khi đó, chỉ có 31% trong số những người trên 70 tuổi đồng ý.
- Đặc biệt, khi xét đến dòng xe thuần điện, có tới 80% số người được hỏi cân nhắc mua xe Trung Quốc.
- Giá cả thấp là lý do chính để mua ôtô thương hiệu Trung Quốc.
- Có 83% người được hỏi nêu ra giá cả là yếu tố quyết định, tiếp theo là công nghệ tiên tiến (55%) và thiết kế hấp dẫn (37%).
- Đa số những người không nghĩ tới việc mua ôtô Trung Quốc cho biết họ có những lo ngại chung về xe Trung Quốc (54%), cùng với mạng lưới đại lý và xưởng dịch vụ còn khiêm tốn (40%), chất lượng kém (39%) và khả năng bảo vệ dữ liệu (26%).
- Hầu hết những người dự định mua xe sẽ có thể thực hiện trong vòng ba năm tới, bất kể nhà sản xuất nào, và lên kế hoạch mua xe chạy xăng (34%).
- Tỷ lệ tiềm năng 25% khách hàng cho biết họ muốn mua xe hybrid. Ngược lại, chỉ 20% muốn mua xe thuần điện trong ba năm tới.
- Dù thị phần của các nhà sản xuất Trung Quốc tại Đức vẫn nhỏ, chỉ chiếm 1,18% số xe đăng ký mới trong năm 2023 với các thương hiệu như BYD, Aiways, Nio, Chery hoặc Lynk & Co, ADAC nhận thấy giá niêm yết của các thương hiệu này thường thấp hơn so với đối thủ châu Âu.
- Tuy nhiên, câu lạc bộ ôtô cũng chỉ ra rằng giá trị bán lại và chi phí dịch vụ của ôtô Trung Quốc là khó dự đoán.
- Trong các bài kiểm tra xe của ADAC, các thương hiệu Trung Quốc đạt điểm cao về mức độ an toàn và chất lượng gia công tốt.
- Tuy nhiên, hệ thống hỗ trợ lái và điều hòa không khí của một số mẫu xe hoạt động không hiệu quả.
- Trong khi đó, tại thị trường Trung Quốc, các nhà sản xuất ôtô Đức đang đối mặt với sự sụt giảm doanh số trong khi thương hiệu nội địa Trung Quốc đang gia tăng thị phần.
- Điều này góp phần vào cuộc khủng hoảng hiện nay mà các nhà sản xuất ôtô Đức đang phải đối mặt.
+Waymo hợp tác với Hyundai để phát triển robotaxi Ioniq 5 và dự kiến chạy thử vào cuối 2025.
+ Waymo và Hyundai đã ký kết thỏa thuận hợp tác chiến lược kéo dài nhiều năm, nhằm tích hợp hệ thống lái tự động thế hệ thứ 6 của Waymo - Waymo Driver - vào dòng xe điện Ioniq 5.
+ Trước đó, Waymo và Geely đã hợp tác vào năm 2021 để giới thiệu mẫu xe điện Zeekr.
+ Tuy nhiên, bối cảnh hiện nay thúc đẩy hãng xe tự lái Mỹ tìm kiếm phương án dự phòng an toàn hơn.
+ Hyundai Ioniq 5 hiện được sản xuất tại Mỹ và sẽ được đưa vào đội xe Waymo One.
+ Các cuộc thử nghiệm dự kiến bắt đầu vào cuối năm 2025 và sẽ bắt đầu cung cấp dịch vụ cho khách hàng trong những năm tiếp theo.
+ Ioniq 5 có thể chiếm phần lớn đội xe của Waymo trong tương lai.
+ Mặc dù chưa xác nhận, các hãng đặt mục tiêu sản xuất xe điện tự lái với số lượng lớn qua nhiều năm.
+ Ban đầu, Waymo sử dụng dòng van động cơ hybrid Chrysler Pacifica và dần không còn sử dụng.
+ Tiếp theo, Waymo chuyển sang SUV Jaguar I-Pace.
+ Hiện hãng xe tự lái đang thử nghiệm các mẫu van của hãng Trung Quốc Zeekr tại San Francisco.
+ Hợp tác với Waymo diễn ra vào thời điểm quan trọng đối với Hyundai.
+ Hãng đã dành nhiều năm và hàng tỷ USD để thành lập liên doanh ôtô tự lái mang tên Motional cùng nhà cung cấp Aptiv (Mỹ).
+ Tuy nhiên, Aptiv đã rút khỏi Motional đầu năm nay, buộc Hyundai phải hành động để lấp đầy khoảng trống tài chính.
+ Motional đã trải qua cuộc tái cấu trúc lớn dẫn đến hàng trăm nhân viên bị sa thải, và giám đốc điều hành Karl Iagnemma đã từ chức vào tháng 9.
+ Một phiên bản tự lái khác của Ioniq 5 cũng đang được thử nghiệm với Avride (Mỹ), công ty tách ra từ Yandex, và sẽ sớm có mặt trong hệ thống của Uber.

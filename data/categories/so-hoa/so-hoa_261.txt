@@ -1,17 +1,65 @@
-iFixit chấm điểm sửa chữa cao nhất cho bộ bốn iPhone 16 nhờ ba thay đổi quan trọng trong thiết kế và linh kiện.
- Theo iFixit, công ty chuyên sửa chữa thiết bị di động, bốn phiên bản iPhone 16 đạt 7/10 điểm về khả năng dễ sửa, cao gần gấp đôi mức 4/10 của thế hệ iPhone 15.
- Có ba yếu tố chính để dòng điện thoại mới đạt điểm cao.
- Thứ nhất là sử dụng pin vỏ thép trên iPhone 16 Pro và 16 Pro Max. iFixit cho biết pin cứng, thay cho pin mềm, sẽ không bị đâm thủng một cách vô tình bởi dụng cụ như tua vít, do đó ít có khả năng gây cháy nổ hơn, đồng thời giảm đáng kể nguy cơ hỏng pin.
- Thứ hai, Apple thay đổi loại keo dính, giúp người dùng tháo pin đơn giản hơn.
- Hướng dẫn sửa chữa pin của Apple cung cấp cho các kỹ thuật viên AASP cho thấy việc gỡ kết dính có thể được thực hiện bằng dòng điện của viên pin 9v.
- Thứ ba là khả năng tháo rời iPhone từ cả mặt trước và sau, giúp việc tiếp cận linh kiện dễ dàng.
- Thiết kế này đã xuất hiện từ iPhone 14 và 14 Plus, nhưng giờ mới xuất hiện trên dòng Pro. iFixit gọi những thay đổi trên là bước tiến lớn, hỗ trợ quy trình sửa chữa iPhone nhất quán và dễ thao tác.
- Trước đó, trong sự kiện ngày 9/9, Apple đã giới thiệu thiết kế của hai mẫu iPhone thường nhằm cải tiến hiệu suất, được gọi là Thermal Design. "Thiết kế iPhone 16 và 16 Plus đã được tái cấu trúc, cho phép trang bị viên pin lớn hơn, khả năng phân tán nhiệt tốt hơn, đồng thời giúp thay pin dễ dàng hơn", Apple cho hay.
- Bên cạnh đó, tính năng Trợ lý sửa chữa của Apple cũng cho phép kỹ thuật viên của hãng và người tự sửa chữa có thể hiệu chỉnh và xác nhận sự phù hợp của linh kiện trên iPhone.
- Đại diện iFixit cho biết khi thử nghiệm trên iPhone 15, chương trình này chưa hoạt động tốt nhưng rất mượt trên iPhone 16, chỉ cần một chạm để hiệu chỉnh tất cả linh kiện cùng lúc.
- Bộ bốn iPhone 16 ra mắt ngày 9/9, trong đó, iPhone 16 và 16 Plus thay đổi thiết kế camera, trang bị nút Action thay cho phím gạt chế độ âm lượng, camera chính nâng lên 48 megapixel.
- Hai mẫu Pro có màn hình lớn hơn trước 0,2 inch, camera góc siêu rộng nâng độ phân giải lên 48 megapixel.
- Cả bốn đều có nút chụp mới.
- Apple trang bị chip A18 cho iPhone 16 tiêu chuẩn và A18 Pro cho iPhone 16 dòng Pro.
- Tại Việt Nam, iPhone 16 có giá khởi điểm 23 triệu cho dung lượng 128 GB, còn 16 Pro Max từ 35 triệu đồng cho bộ nhớ 256 GB, cao nhất 47 triệu đồng cho bản 1 TB.
- Sản phẩm chính hãng sẽ đến tay người dùng vào ngày 27/9.
+Smartwatch tầm giá 5-8 triệu đồng của Garmin, Amazfit, Huawei, Samsung, Oppo, Xiaomi có thiết kế đẹp, pin dài, hỗ trợ AI và luyện tập chuyên sâu.
+ Model này sử dụng màn hình AMOLED 1,5 inch, độ sáng 2.
+000 nit hỗ trợ chế độ nhìn ban đêm.
+ T-Rex 3 có thể theo dõi 177 hoạt động thể thao, hỗ trợ AI giúp cá nhân hoá chương trình luyện tập và đánh giá thể chất và trợ lý ảo sử dụng công nghệ GPT-4o.
+ Tính năng mới đáng giá của sản phẩm là hỗ trợ bản đồ ngoại tuyến, dữ liệu GPS có thể được tuỳ chọn tắt, hoặc sao lưu tạm thời để đảm bảo tính riêng tư.
+ Pin của T-Rex 3 có thể kéo dài 27 ngày, còn khi mở GPS đạt thời lượng pin tối đa 180 giờ, giảm xuống 42 giờ nếu người dùng kích hoạt chế độ chính xác cao.
+ Thời gian sạc đầy pin là 3 giờ.
+ Model này sử dụng màn hình AMOLED 1,5 inch, độ sáng 2.
+000 nit hỗ trợ chế độ nhìn ban đêm.
+ T-Rex 3 có thể theo dõi 177 hoạt động thể thao, hỗ trợ AI giúp cá nhân hoá chương trình luyện tập và đánh giá thể chất và trợ lý ảo sử dụng công nghệ GPT-4o.
+ Tính năng mới đáng giá của sản phẩm là hỗ trợ bản đồ ngoại tuyến, dữ liệu GPS có thể được tuỳ chọn tắt, hoặc sao lưu tạm thời để đảm bảo tính riêng tư.
+ Pin của T-Rex 3 có thể kéo dài 27 ngày, còn khi mở GPS đạt thời lượng pin tối đa 180 giờ, giảm xuống 42 giờ nếu người dùng kích hoạt chế độ chính xác cao.
+ Thời gian sạc đầy pin là 3 giờ.
+ GT5 series trang bị cảm biến TruSense thế hệ mới.
+ Ngoài tính năng đo sức khoẻ quen thuộc như nhịp tim, nồng độ oxy trong máu, chu kỳ kinh nguyệt của phụ nữ hay nhiệt độ cơ thể, thiết bị có thêm tính năng đo Sức khỏe cảm xúc.
+ Watch GT5 chạy hệ điều hành HarmonyOS.
+ Bên cạnh các môn thể thao quen thuộc, GT5 năm nay hỗ trợ chơi golf và hiển thị bản đồ theo thời gian thực khi chạy bộ.
+ Riêng bản Watch GT5 Pro 46 mm đạt chuẩn EN13319 của châu Âu, hỗ trợ tính năng lặn 40 m.
+ Watch GT5 bản 46 mm có thể sử dụng liên tục trong 14 ngày, còn bản 41 và 42 mm cho thời gian sử dụng liên tục 7 ngày.
+ GT5 series trang bị cảm biến TruSense thế hệ mới.
+ Ngoài tính năng đo sức khoẻ quen thuộc như nhịp tim, nồng độ oxy trong máu, chu kỳ kinh nguyệt của phụ nữ hay nhiệt độ cơ thể, thiết bị có thêm tính năng đo Sức khỏe cảm xúc.
+ Watch GT5 chạy hệ điều hành HarmonyOS.
+ Bên cạnh các môn thể thao quen thuộc, GT5 năm nay hỗ trợ chơi golf và hiển thị bản đồ theo thời gian thực khi chạy bộ.
+ Riêng bản Watch GT5 Pro 46 mm đạt chuẩn EN13319 của châu Âu, hỗ trợ tính năng lặn 40 m.
+ Watch GT5 bản 46 mm có thể sử dụng liên tục trong 14 ngày, còn bản 41 và 42 mm cho thời gian sử dụng liên tục 7 ngày.
+ Oppo Watch X có thiết kế tròn cổ điển thay vì vuông như thế hệ trước.
+ Sản phẩm có vỏ thép không gỉ cùng mặt kính shaphire, đạt chuẩn quân đội MIL-STD-810H của Mỹ, kháng bụi IP68, kháng nước 5ATM.
+ Watch X sử dụng màn hình AMOLED 1,43 inch với mặt đồng hồ 47 mm.
+ Máy tích hợp chip xử lý Snapdragon W5 Gen1, RAM 2 GB và bộ nhớ trong 32 GB.
+ Model này chạy hệ điều hành WearOS 4 với giao diện RTOS nên có nhiều ứng dụng và tính năng thông minh hơn các đối thủ.
+ Sản phẩm hỗ trợ hơn 100 chế độ luyện tập thể thao.
+ Thời lượng pin là 100 giờ ở chế độ thông minh và 12 ngày sử dụng ở chế độ tiết kiệm, thời gian sạc đầy pin là 60 phút.
+ Oppo Watch X có thiết kế tròn cổ điển thay vì vuông như thế hệ trước.
+ Sản phẩm có vỏ thép không gỉ cùng mặt kính shaphire, đạt chuẩn quân đội MIL-STD-810H của Mỹ, kháng bụi IP68, kháng nước 5ATM.
+ Watch X sử dụng màn hình AMOLED 1,43 inch với mặt đồng hồ 47 mm.
+ Máy tích hợp chip xử lý Snapdragon W5 Gen1, RAM 2 GB và bộ nhớ trong 32 GB.
+ Model này chạy hệ điều hành WearOS 4 với giao diện RTOS nên có nhiều ứng dụng và tính năng thông minh hơn các đối thủ.
+ Sản phẩm hỗ trợ hơn 100 chế độ luyện tập thể thao.
+ Thời lượng pin là 100 giờ ở chế độ thông minh và 12 ngày sử dụng ở chế độ tiết kiệm, thời gian sạc đầy pin là 60 phút.
+ Smartwatch của Xiaomi có thiết kế mặt tròn với vỏ bằng thép không gỉ và viền bezel có thể tháo lắp.
+ Sản phẩm có một kích thước 47 mm với màn hình AMOLED 1,43 inch, phù hợp người dùng có cổ tay to.
+ Thiết bị chạy HyperOS ít tính năng thông minh, nhưng hỗ trợ cả iOS và Android.
+ Model này được trang bị cảm biến nhịp tim PPG 12 kênh thế hệ mới giúp theo dõi nhịp tim 24 giờ, SpO2, theo dõi giấc ngủ… Đồng hồ Xiaomi hỗ trợ hơn 150 chế độ luyện tập, nhiều hơn phiên bản Watch S1 vốn có 115 chế độ.
+ Máy trang bị định vị băng tần kép với hệ thống vệ tinh gồm GPS, GLONASS, Galileo, Beidou và QZSS.
+ Watch S3 có thời lượng sử dụng tối đa 15 ngày ở chế độ thường và 5 ngày khi bật AOD.
+ Smartwatch của Xiaomi có thiết kế mặt tròn với vỏ bằng thép không gỉ và viền bezel có thể tháo lắp.
+ Sản phẩm có một kích thước 47 mm với màn hình AMOLED 1,43 inch, phù hợp người dùng có cổ tay to.
+ Thiết bị chạy HyperOS ít tính năng thông minh, nhưng hỗ trợ cả iOS và Android.
+ Model này được trang bị cảm biến nhịp tim PPG 12 kênh thế hệ mới giúp theo dõi nhịp tim 24 giờ, SpO2, theo dõi giấc ngủ… Đồng hồ Xiaomi hỗ trợ hơn 150 chế độ luyện tập, nhiều hơn phiên bản Watch S1 vốn có 115 chế độ.
+ Máy trang bị định vị băng tần kép với hệ thống vệ tinh gồm GPS, GLONASS, Galileo, Beidou và QZSS.
+ Watch S3 có thời lượng sử dụng tối đa 15 ngày ở chế độ thường và 5 ngày khi bật AOD.
+ Forerunner 165 là smartwatch tầm trung chuyên chạy bộ của Garmin.
+ Sản phẩm có thiết kế vỏ nhựa cùng dây cao su, không cao cấp và đẹp như các đối thủ nhưng nhẹ 39 gram - ưu điểm người chơi chạy bộ thích ở sản phẩm.
+ Thiết bị dùng màn hình AMOLED kích thước 1,2 inch cho chất lượng hiển thị tốt hơn thế hệ trước dùng màn hình MiP.
+ Forerunner 165 có thể theo dõi và cảnh báo khi nhịp tim quá cao do vận động cùng các chỉ số sức khỏe khác như theo dõi hoạt động, chất lượng giấc ngủ, mức độ căng thẳng, oxy trong máu, nhịp thở, năng lượng cơ thể.
+ Ngoài hỗ trợ định vị vệ tinh GPS, Glonass, Galileo, kết nối Bluetooth, ANT+ và Garmin Pay, phiên bản còn cho phép phát nhạc từ Spotify không cần smartphone.
+ Forerunner 165 có pin 14 ngày ở chế độ đồng hồ thông minh và tối đa 30 tiếng ở chế độ GPS.
+ Thời lượng pin của sản phẩm khoảng 20 ngày ở chế độ tiết kiệm pin và 11 ngày ở chế độ thường.
+ Forerunner 165 là smartwatch tầm trung chuyên chạy bộ của Garmin.
+ Sản phẩm có thiết kế vỏ nhựa cùng dây cao su, không cao cấp và đẹp như các đối thủ nhưng nhẹ 39 gram - ưu điểm người chơi chạy bộ thích ở sản phẩm.
+ Thiết bị dùng màn hình AMOLED kích thước 1,2 inch cho chất lượng hiển thị tốt hơn thế hệ trước dùng màn hình MiP.
+ Forerunner 165 có thể theo dõi và cảnh báo khi nhịp tim quá cao do vận động cùng các chỉ số sức khỏe khác như theo dõi hoạt động, chất lượng giấc ngủ, mức độ căng thẳng, oxy trong máu, nhịp thở, năng lượng cơ thể.
+ Ngoài hỗ trợ định vị vệ tinh GPS, Glonass, Galileo, kết nối Bluetooth, ANT+ và Garmin Pay, phiên bản còn cho phép phát nhạc từ Spotify không cần smartphone.
+ Forerunner 165 có pin 14 ngày ở chế độ đồng hồ thông minh và tối đa 30 tiếng ở chế độ GPS.
+ Thời lượng pin của sản phẩm khoảng 20 ngày ở chế độ tiết kiệm pin và 11 ngày ở chế độ thường.

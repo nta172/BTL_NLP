@@ -1,33 +1,17 @@
-Tablet ra mắt cuối tháng 9 của Huawei, Samsung và Xiaomi có màn hình lớn, chip xử lý tốt trong tầm giá, hỗ trợ bút cảm ứng. MatePad SE 11 có thiết kế phẳng, vuông vắn với vỏ kim loại nguyên khối thay vì khung sườn bo cong như trên các mẫu tablet của Huawei trước đây.
- Thiết bị mỏng 6,9 mm và nặng 475 gram.
- Sản phẩm trang bị chip Snapdragon 685, RAM 6 GB và bộ nhớ trong 128 GB.
- Hệ điều hành Harmony OS 2.
-0 có khả năng cài đặt Play Store để sử dụng ứng dụng Android và dịch vụ của Google với tính năng GBox.
- Pin của MatePad SE 11 có dung lượng 7.
-700 mAh, sạc nhanh 22,5 W. MatePad SE 11 có thiết kế phẳng, vuông vắn với vỏ kim loại nguyên khối thay vì khung sườn bo cong như trên các mẫu tablet của Huawei trước đây.
- Thiết bị mỏng 6,9 mm và nặng 475 gram.
- Sản phẩm trang bị chip Snapdragon 685, RAM 6 GB và bộ nhớ trong 128 GB.
- Hệ điều hành Harmony OS 2.
-0 có khả năng cài đặt Play Store để sử dụng ứng dụng Android và dịch vụ của Google với tính năng GBox.
- Pin của MatePad SE 11 có dung lượng 7.
-700 mAh, sạc nhanh 22,5 W.
- Tablet mới thừa hưởng thiết kế từ MatePad Pro với mặt lưng bằng kim loại.
- Huawei vẫn sử dụng thiết kế bo tròn ở phần khung viền trong khi các máy tính bảng cao cấp gần đây đã chuyển sang vát phẳng.
- Sản phẩm sử dụng màn hình IPS LCD có kích thước 11,5 inch, độ phân giải 2.
-800 x 1.
-840 pixel và tốc độ làm mới 144 Hz.
- Điểm nhấn là công nghệ PaperMatte với khả năng chống loá, cho cảm giác sử dụng bút thật hơn.
- Bút M-Pencil thế hệ thứ ba của Huawei có thiết kế tương tự Apple Pencil.
- Tablet mới thừa hưởng thiết kế từ MatePad Pro với mặt lưng bằng kim loại.
- Huawei vẫn sử dụng thiết kế bo tròn ở phần khung viền trong khi các máy tính bảng cao cấp gần đây đã chuyển sang vát phẳng.
- Sản phẩm sử dụng màn hình IPS LCD có kích thước 11,5 inch, độ phân giải 2.
-800 x 1.
-840 pixel và tốc độ làm mới 144 Hz.
- Điểm nhấn là công nghệ PaperMatte với khả năng chống loá, cho cảm giác sử dụng bút thật hơn.
- Bút M-Pencil thế hệ thứ ba của Huawei có thiết kế tương tự Apple Pencil.
- Bộ đôi Galaxy Tab S10 của Samsung không thay đổi về thiết kế so với thế hệ trước nhưng chất liệu nhôm Armor Aluminium được cải tiến cứng hơn. Máy giữ khả năng chống nước IP68.
- Galaxy Tab S10+ và Tab S10 Ultra trang bị màn hình Dynamic AMOLED 2X tần số quét 120 Hz, kích cỡ lần lượt 12,4 và 14,6 inch.
- Phiên bản S10+ có một camera trước, trong khi mẫu Ultra dùng màn hình tai thỏ với hai camera.
- Bộ đôi Galaxy Tab S10 của Samsung không thay đổi về thiết kế so với thế hệ trước nhưng chất liệu nhôm Armor Aluminium được cải tiến cứng hơn. Máy giữ khả năng chống nước IP68.
- Galaxy Tab S10+ và Tab S10 Ultra trang bị màn hình Dynamic AMOLED 2X tần số quét 120 Hz, kích cỡ lần lượt 12,4 và 14,6 inch.
- Phiên bản S10+ có một camera trước, trong khi mẫu Ultra dùng màn hình tai thỏ với hai camera.
+Chip A18 Pro trên iPhone 16 Pro có điểm sức mạnh cao hơn Apple M1 trang bị trên iPad và máy Mac.
+ Kết quả đo hiệu suất của chip mới được đăng lên trang của Geekbench ngày 12/9 cho thấy sản phẩm có điểm hiệu suất đơn nhân 3.
+429, trong khi đa nhân là 8.
+790.
+ Mã sản phẩm là iPhone17,1 cho thấy đây là iPhone 16 Pro, sử dụng chip A18 Pro.
+ Chip này khác biệt với A18 khi có thêm một lõi GPU, nên nếu chỉ xét riêng CPU, điểm này có thể tương đương các mẫu iPhone 16 khác do có chung thông số.
+ Điểm hiệu suất này cao hơn 15-20% so với A17 Pro trên iPhone 15 Pro và cao hơn 30% so với A16 Bionic, phù hợp với các tuyên bố của Apple trong ngày ra mắt.
+ Trong khi đó, kết quả đo trung bình của iPad Air M1 trên Geekbench vào khoảng 8.
+351 điểm, thấp hơn 5% so với mẫu iPhone mới. iPad Air sử dụng chip M1, chip máy tính đầu tiên do Apple phát triển, ra mắt năm 2020, ban đầu được dùng trên máy tính Mac trước khi đưa sang các sản phẩm như iPad.
+ Theo 9to5Mac, điểm trên các công cụ đo không phải lúc nào cũng phản ánh đúng hiệu suất trong các tác vụ thực tế, nhưng đã cho thấy sự tiến bộ trong việc phát triển chip của Apple. "Chúng ta đang ở giai đoạn có thể mang một chiếc máy với sức mạnh của M1 ngay trong túi của mình, chỉ bốn năm sau khi chip đó ra mắt", trang này nhận xét.
+ Bên cạnh đó, các chuyên gia cho rằng đây là "điều đáng tiếc" khi người dùng chưa thể khai thác nhiều hơn sức mạnh của chip ngoài phạm vi một chiếc điện thoại.
+ So sánh với Samsung, hãng Hàn Quốc cho phép người dùng tận dụng sức mạnh của smartphone thông qua các công cụ như DeX để biến điện thoại thành một chiếc máy tính. "Có thể điều đó sẽ làm giảm doanh số của iPad hoặc Mac vì iPhone mạnh hơn, dễ mang theo và có màn hình ngày càng lớn", người dùng Augusto Galindo bình luận.
+ Ngoài CPU, bộ bốn iPhone mới cũng được nâng cấp RAM lên 8 GB, theo thông tin từ Phó chủ tịch Apple Johny Srouji, tương đương phiên bản cấu hình thấp nhất của một số MacBook M1.
+ Bộ bốn iPhone 16 ra mắt trong sự kiện It's Glowtime rạng sáng 10/9. iPhone 16 và 16 Plus thay đổi thiết kế camera, trang bị nút Action thay cho phím gạt chế độ âm lượng, camera chính nâng lên 48 megapixel.
+ Hai mẫu Pro có màn hình lớn hơn trước 0,2 inch, camera góc siêu rộng nâng độ phân giải lên 48 megapixel.
+ Cả bốn đều có nút chụp mới.
+ Apple trang bị chip A18 cho iPhone 16 tiêu chuẩn và A18 Pro cho iPhone 16 dòng Pro. iPhone 16 sẽ lên kệ tại Việt Nam từ ngày 27/9.

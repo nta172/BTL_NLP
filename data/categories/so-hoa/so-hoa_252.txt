@@ -1,18 +1,35 @@
-Lực lượng bảo vệ tỷ phú Elon Musk gồm 20 vệ sĩ, trong đó một số người có vũ trang, cùng một chuyên gia y tế.
- Truyền thông Mỹ cho biết nhóm an ninh của Elon Musk đặt mật danh cho ông là "Voyager" (Người du hành), trùng tên với nhiệm vụ thám hiểm không gian nổi tiếng của NASA, và ông không bao giờ ra đường mà thiếu đội ngũ bảo vệ này.
- Đây được coi là biện pháp bảo đảm an ninh phù hợp với người giàu nhất thế giới và đang sở hữu khối tài sản hơn 250 tỷ USD, vốn có thể khiến Musk đối diện với nhiều mối đe dọa. Musk từng thích ra đường mà không có người hộ tống mọi lúc mọi nơi.
- Tuy nhiên, ông bắt đầu tăng cường biện pháp bảo vệ từ năm 2014, gồm triển khai đội ngũ an ninh để làm các công việc vặt, đánh giá mối nguy hiểm và nghiên cứu những người bị coi là "kẻ đeo bám không phù hợp".
- Chi phí cho lực lượng bảo vệ Musk trong tháng 1/2016 là khoảng 163.
-000 USD.
- Con số này ngày càng tăng tỷ lệ thuận với khối tài sản và địa vị của ông.
- Các vệ sĩ luôn theo sát Musk cả khi ông đi vệ sinh.
- Errol, cha của Elon Musk, nói ông lo ngại cho an toàn của con trai "ngay cả khi nó có 100 cận vệ ở xung quanh".
- Tỷ phú Mỹ cũng tăng cường an ninh cho nhà riêng của ông Errol tại Nam Phi, gồm lắp đặt hệ thống máy quay, hàng rào điện và triển khai người bảo vệ để giám sát liên tục. Musk không ngần ngại đề cập những nguy cơ an ninh nhắm vào ông.
- Tại cuộc họp cổ đông thường niên của Tesla hồi tháng 6, tỷ phú Mỹ nói "hai kẻ điên" đã dọa giết ông trong những tháng qua.
- Elon Musk hồi năm 2022 từng bí mật mua một căn nhà sau khi địa chỉ nhà riêng của ông được công bố. Một người hàng xóm nói nhà của tỷ phú Mỹ được bảo đảm an ninh nghiêm ngặt 24/7. Musk cũng tìm cách đánh sập những tài khoản Twitter chuyên theo dõi hành trình máy bay riêng của mình.
- Báo cáo được Tesla nộp lên Ủy ban Chứng khoán Mỹ (SEC) cho thấy họ phải trả 2,4 triệu USD cho công ty bảo đảm an ninh của Musk trong năm 2023, cùng khoảng 500.
-000 USD trong hai tháng đầu năm nay.
- Tuy nhiên, đó chỉ là một phần trong những chi phí an ninh của tỷ phú Mỹ.
- Elon Musk không phải tỷ phú công nghệ duy nhất đầu tư nhiều tiền cho an ninh. Meta từng trả 24 triệu USD cho chi phí bảo đảm an ninh cá nhân của CEO Mark Zuckerberg trong năm 2023, chủ yếu là tại nhà riêng và trong các chuyến đi lại riêng tư.
- Apple cũng chi hơn 820.
-000 USD để bảo vệ an toàn cho CEO Tim Cook, cùng hơn 1,6 triệu USD chi phí đi lại của cá nhân ông.
+Qualcomm đã tạo ra xung đột với Arm khi mua lại công ty thiết kế chip Nuvia và phát triển kiến trúc chip riêng.
+ Ngày 22/10, Qualcomm công bố chip mới Snapdragon 8 Elite, sử dụng kiến trúc Oryon thay vì Arm Cortex.
+ Một ngày sau, Bloomberg đưa tin Arm sẽ hủy giấy phép sử dụng kiến trúc chip đối với Qualcomm và công ty Mỹ có 60 ngày để chuẩn bị.
+ Ngày 23/10, Arm xác nhận đã gửi thông báo đến Qualcomm, nói bước đi này là "sự cần thiết trong việc bảo vệ hệ sinh thái vô song mà Arm và các đối tác quan trọng đã xây dựng trong hơn 30 năm".
+ Trong khi đó, Qualcomm cho rằng Arm đang cố sử dụng "nhiều lời đe dọa vô căn cứ nhằm ép buộc đối tác lâu năm và tăng phí bản quyền".
+ Arm Holdings, công ty thiết kế chip có trụ sở tại Anh và thuộc sở hữu SoftBank (Nhật Bản), nổi tiếng với kiến trúc Arm hiện có trên phần lớn chip xử lý di động.
+ Còn Quacomm là hãng nắm thị phần chip cho smartphone và thiết bị di động lớn nhất thế giới.
+ Cả hai là đối tác lâu năm khi hầu hết chip của Qualcomm, như Snapdragon, đều dùng kiến trúc Arm.
+ Ở chiều ngược lại, việc bán bản quyền cho Qualcomm giúp Arm thu bộn tiền.
+ Tuy nhiên, mối quan hệ trở nên xấu đi từ năm 2021, khi nhà sản xuất chip Mỹ chi 1,4 tỷ USD mua lại Nuvia, công ty do ba cựu nhân viên Apple thành lập năm 2019 và sở hữu công nghệ lõi Oryon.
+ Lõi Oryon hiện có mặt trong chip Snapdragon X dành cho laptop, và mới nhất là Snapdragon 8 Elite cho smartphone, cũng như chip cho kính và đồng hồ thông minh.
+ Tuy nhiên trên thực tế, Oryon không phải kiến trúc hoàn toàn mới bởi nó vẫn dựa trên kiến trúc Arm v8.
+7-A, thay vì lõi Cortex "Vanilla" đang tồn tại trên hầu hết chip Snapdragon.
+ Dù vậy với lõi này, Qualcomm không còn phụ thuộc nhiều vào Arm.
+ Theo Android Headlines, trước khi bán mình, Nuvia đã có thỏa thuận riêng với Arm, trong đó có điều khoản cấp phép.
+ Khi Nuvia về tay Qualcomm, Arm không đồng ý chuyển nhượng giấy phép theo kiểu "gián tiếp" như vậy và yêu cầu đàm phán lại hợp đồng.
+ Không có buổi đàm phán nào diễn ra sau đó.
+ Arm tuyên bố nếu nhà sản xuất chip Mỹ không tuân thủ các yêu cầu của mình, những thiết kế đã cấp phép với Nuvia sẽ bị hủy.
+ Năm 2022, công ty gửi đơn kiện Qualcomm lên tòa án liên bang ở Delaware (Mỹ), dự kiến phiên xét xử diễn ra vào tháng 12 năm nay.
+ Trong khi đó, giấy phép Arm cấp cho Nuvia cũng bị chấm dứt vào tháng 2/2023 khi các bên không tìm được tiếng nói chung.
+ Tuần này, Arm tiếp tục tuyên bố đình chỉ các thỏa thuận cấp phép thiết kế chip với Qualcomm.
+ Trong vòng 60 ngày tới, nếu hai bên không đi đến thống nhất, Qualcomm có thể phải ngừng bán chip có lõi Oryon tùy chỉnh, gồm Snapdragon 8 Elite và dòng Snapdragon X.
+ Các mẫu như Snapdragon 8 Gen 3 trở về trước sẽ không bị ảnh hưởng vì sử dụng lõi Arm Cortex.
+ Trong khi đó, Qualcomm tỏ ra không quan tâm đến mối đe dọa từ Arm.
+ Họ gọi đây là "thủ đoạn tuyệt vọng" trong bối cảnh vụ kiện sắp diễn ra, đồng thời tự tin về tính không hợp lệ của thông báo hủy bỏ trong vòng 60 ngày.
+ Arm cho biết họ đã "chuẩn bị đầy đủ" cho phiên tòa tháng 12 và "tin tưởng vào phán quyết có lợi" cho công ty.
+ Android Authority đánh giá việc hủy thỏa thuận cấp phép thiết kế chip có thể khiến Qualcomm thiệt hại nặng.
+ Snapdragon của Qualcomm và một số mẫu chip khác đang sử dụng kiến trúc Arm, tạo ra doanh thu 39 tỷ USD.
+ Qualcomm có thể đối mặt với việc dừng bán hàng, đi kèm hàng loạt tranh chấp pháp lý về sau.
+ Vấn đề thậm chí ảnh hưởng sâu rộng hơn với thị trường di động.
+ Việc thiếu chip Qualcomm cao cấp nhất có thể khiến thị trường này rơi vào tình thế khó khăn liên quan đến sự gián đoạn sản xuất và khả năng hoạt động liền mạch của thiết bị chạy chip Snapdragon trong tương lai.
+ Một số chuyên gia cho rằng động thái của Arm là "đòn gió" để chiếm ưu thế trước phiên tòa. "Vụ kiện có khả năng kết thúc bằng một giấy phép mới, cấp cho Qualcomm quyền tùy chỉnh kiến trúc Arm nhưng với phí bản quyền cao hơn mức Nuvia đã trả", hai nhà phân tích Tamlin Bason và Kunjan Sobhani của Bloomberg bình luận.
+ Theo Android Headlines, diễn biến của sự việc sẽ còn nhiều bất ngờ, nhưng tin rằng Qualcomm sẽ sớm chuyển sang kiến trúc của riêng mình hoặc thúc đẩy sự phát triển của kiến trúc nguồn mở RISC-V, vốn là sáng kiến của Qualcomm và Google nhằm ủng hộ hệ sinh thái phần cứng di động công bằng hơn.
+ Trong quá khứ, Qualcomm cũng không xa lạ với các vụ tranh chấp liên quan đến cấp phép bản quyền.
+ Năm 2019, công ty chiến thắng Apple, buộc nhà sản xuất iPhone bồi thường 31 triệu USD vì vi phạm sáng chế về kết nối Internet, quy trình xử lý đồ họa và thuật toán giúp ứng dụng có thể tải dữ liệu nhanh hơn.

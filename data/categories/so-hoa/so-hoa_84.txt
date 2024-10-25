@@ -1,25 +1,21 @@
-Sau khi Viettel ra gói cước 5G, Vinaphone và MobiFone cũng công bố chương trình trải nghiệm cho người dùng trong tháng 10 và 11. MobiFone là nhà mạng mới nhất tham gia vào cuộc đua 5G.
- Trong thông báo cuối tuần này, nhà mạng cho biết "đang tập trung triển khai các công việc, sẵn sàng cho thương mại hóa 5G".
- Dự kiến, người dùng có thể trải nghiệm dịch vụ 5G từ tháng 11.
- Trong khi đó, Vinaphone cho biết chương trình sử dụng thử 5G sẽ diễn ra từ 13/10 đến 15/11. Nếu đang sở hữu điện thoại 5G, khi đi qua các khu vực có sóng, người dùng sẽ nhận được tin nhắn mời trải nghiệm dịch vụ.
- Họ sẽ được tặng 50 GB data để dùng thử đường truyền tốc độ cao trong 30 ngày. Kế hoạch thử nghiệm miễn phí của Vinaphone được thực hiện hai ngày trước khi Viettel chính thức thương mại hoá 5G.
- Trong thư gửi đến giới truyền thông, nhà mạng cho biết sẽ giới thiệu các sản phẩm dịch vụ 5G vào ngày 15/10, nhân kỷ niệm 20 năm thành lập.
- Thực tế thời gian qua, Viettel Telecom đã âm thầm triển khai chương trình dùng thử, trước khi công bố gói cước 5G với giá từ 135.
-000 đồng.
- Theo kế hoạch, Viettel sẽ triển khai 5G đồng loạt tại 63 tỉnh thành, nhưng chưa có thông tin về các khu vực cụ thể sẽ được phủ sóng.
- Vinaphone và MobiFone cũng chưa chia sẻ về những điểm sẽ tiến hành thử nghiệm.
- Trong thông báo mới, VNPT khẳng định sẽ hoàn thành lắp đặt hơn 3.
-000 trạm phát sóng 5G cho Vinaphone trên cả nước, nhấn mạnh việc phủ sóng ở các khu vực đô thị và trung tâm kinh tế lớn trên toàn quốc.
- Trong khi đó, MobiFone cho biết đang triển khai mô hình hợp tác chia sẻ hạ tầng với các nhà mạng có băng tần 5G phù hợp. "Việc hợp tác không chỉ giúp tối ưu hóa nguồn lực mà còn đem lại cho khách hàng những trải nghiệm tốt nhất", đại diện nhà mạng nói.
- Từ năm 2020, cả ba nhà mạng đều đã tiến hành thử nghiệm mạng 5G, nhưng chưa thương mại hóa.
- Đến tháng 3, quá trình này mới đi đến những bước cuối cùng, khi Viettel và VNPT đấu giá thành công tần số 5G, còn MobiFone vào tháng 7.
- Theo quy định, doanh nghiệp trúng đấu giá phải triển khai dịch vụ trong vòng 12 tháng kể từ ngày được cấp phép và sau hai năm phải có tối thiểu 3.
-000 trạm phát sóng 5G.
- Theo chiến lược hạ tầng của Bộ Thông tin và Truyền thông, đến năm 2025, 100% tỉnh, thành phố, các khu công nghệ cao, khu công nghệ thông tin tập trung, trung tâm nghiên cứu phát triển, đổi mới sáng tạo, khu công nghiệp, nhà ga, cảng biển, sân bay quốc tế sẽ có dịch vụ di động 5G.
- Tốc độ tối thiểu của mạng này cần đạt 100 Mbps.
- Công nghệ 5G bắt đầu được triển khai thương mại trên thế giới cách đây 5 năm, mở ra kỷ nguyên siêu kết nối, cung cấp sức mạnh cho Internet vạn vật (IoT) và thúc đẩy các mô hình đòi hỏi tốc độ cao.
- Đối với người dùng phổ thông, sự khác biệt lớn nhất của công nghệ 5G là tốc độ tối đa ở điều kiện lý tưởng đạt 10 Gbps.
- Trong thực tế, một số thử nghiệm với 5G tại Việt Nam cho tốc độ tải xuống có thể đạt 1 Gbps, cao hơn 10 lần mạng 4G ở cùng địa điểm. Ngoài ra, lợi thế của mạng thế hệ mới là độ trễ siêu thấp và khả năng hỗ trợ số lượng lớn thiết bị, thúc đẩy nhiều ứng dụng như xe tự hành, điều khiển từ xa thiết bị phẫu thuật, trải nghiệm thực tế ảo và thực tế tăng cường...
- Tuy nhiên, do tần số được sử dụng cho 5G ở Việt Nam đều là các tần số lớn, trạm 5G có độ phủ nhỏ hơn, buộc các nhà mạng phải triển khai số lượng trạm nhiều hơn.
- Để sử dụng, ngoài đăng ký gói cước, người dùng cần có thiết bị với công nghệ mạng thế hệ mới.
- Các điện thoại cao cấp từ iPhone 12, Galaxy S20 Ultra, Galaxy Z Fold2 trở về sau đã hỗ trợ 5G. Nhiều mẫu Android tầm trung và giá rẻ ra mắt khoảng 2-3 năm gần đây cũng đã trang bị kết nối này.
+Asus Zenbook S14 trang bị chip Core Ultra 7 Series 2 đầu tiên ở Việt Nam với khả năng xủ lý AI 120 TOPs, thời lượng pin tối đa 27 tiếng.
+ Phiên bản Zenbook S14 OLED, bắt đầu bán ra thị trường trong nước, trang bị Intel Core Ultra 7 Series 2, chip đầu tiên trên laptop tại Việt Nam có công suất thoát nhiệt tối đa (TDP) 28 W và sức mạnh tính toán 120 TOPS (nghìn tỷ phép tính mỗi giây) cho các ứng dụng AI, RAM 32 GB và ổ SSD 1 TB.
+ Đây là cấu hình thuộc hàng cao nhất trong phân khúc ultrabook và laptop của Asus, cũng là model đầu tiên dùng chip Intel đạt chuẩn Copilot+ PC ở Việt Nam, cho phép người dùng trải nghiệm tính năng AI tạo sinh như trả lời câu hỏi, tóm tắt nội dung, tạo video tự động, chỉnh sửa hình ảnh....
+ Chip xử lý mới cũng giúp thời lượng sử dụng của model này lên 27 giờ với viên pin dung lượng 72 Wh.
+ Phiên bản Zenbook S14 OLED, bắt đầu bán ra thị trường trong nước, trang bị Intel Core Ultra 7 Series 2, chip đầu tiên trên laptop tại Việt Nam có công suất thoát nhiệt tối đa (TDP) 28 W và sức mạnh tính toán 120 TOPS (nghìn tỷ phép tính mỗi giây) cho các ứng dụng AI, RAM 32 GB và ổ SSD 1 TB.
+ Đây là cấu hình thuộc hàng cao nhất trong phân khúc ultrabook và laptop của Asus, cũng là model đầu tiên dùng chip Intel đạt chuẩn Copilot+ PC ở Việt Nam, cho phép người dùng trải nghiệm tính năng AI tạo sinh như trả lời câu hỏi, tóm tắt nội dung, tạo video tự động, chỉnh sửa hình ảnh....
+ Chip xử lý mới cũng giúp thời lượng sử dụng của model này lên 27 giờ với viên pin dung lượng 72 Wh.
+ Thiết kế của Zenbook S14 không khác biệt so với thế hệ trước ngoài việc tăng kích thước màn hình.
+ Vỏ máy làm bằng kim loại với lớp phủ Ceraluminum kết hợp giữa nhôm và gốm, được cải tiến giúp tăng độ bền và cứng hơn trước, khả năng chống bám vân tay, trầy xước cũng được cải thiện.
+ Thiết kế của Zenbook S14 không khác biệt so với thế hệ trước ngoài việc tăng kích thước màn hình.
+ Vỏ máy làm bằng kim loại với lớp phủ Ceraluminum kết hợp giữa nhôm và gốm, được cải tiến giúp tăng độ bền và cứng hơn trước, khả năng chống bám vân tay, trầy xước cũng được cải thiện.
+ Zenbook S14 sử dụng màn hình Lumia OLED 14 inch độ phân giải 3K cùng tần số quét 120 Hz, cao hơn so với mức 13,3 inch độ phân giải 2,8K và 60 Hz của thế hệ trước.
+ Màn hình đạt chuẩn Pantone và chứng nhận DisplayHDR True Black 500 cùng khả năng hiển thị 100% dải màu DCI-P3.
+ Tuy nhiên, độ sáng chỉ 600 nit nên việc sử dụng ngoài trời nắng chưa tốt.
+ Zenbook S14 sử dụng màn hình Lumia OLED 14 inch độ phân giải 3K cùng tần số quét 120 Hz, cao hơn so với mức 13,3 inch độ phân giải 2,8K và 60 Hz của thế hệ trước.
+ Màn hình đạt chuẩn Pantone và chứng nhận DisplayHDR True Black 500 cùng khả năng hiển thị 100% dải màu DCI-P3.
+ Tuy nhiên, độ sáng chỉ 600 nit nên việc sử dụng ngoài trời nắng chưa tốt.
+ Máy không hỗ trợ màn hình cảm ứng như dòng Zenbook S13 nên bản lề không mở 180 độ, nhưng có cơ chế nâng lên khỏi mặt bàn giúp tản nhiệt tốt hơn và không che đi phần loa được bố trí ở mặt dưới máy.
+ Máy không hỗ trợ màn hình cảm ứng như dòng Zenbook S13 nên bản lề không mở 180 độ, nhưng có cơ chế nâng lên khỏi mặt bàn giúp tản nhiệt tốt hơn và không che đi phần loa được bố trí ở mặt dưới máy.
+ Sản phẩm có giá 45 triệu đồng tại Việt Nam, nằm chung phân khúc với các mẫu Ultrabook mỏng nhẹ nổi bật như LG Gram 14 inch, Macbook Air M3.
+ Sản phẩm có giá 45 triệu đồng tại Việt Nam, nằm chung phân khúc với các mẫu Ultrabook mỏng nhẹ nổi bật như LG Gram 14 inch, Macbook Air M3.

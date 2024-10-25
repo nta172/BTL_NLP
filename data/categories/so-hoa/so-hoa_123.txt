@@ -1,11 +1,15 @@
-Số bình chọn thứ 7 của Sản phẩm tôi yêu 2024 có chủ đề về máy rửa chén sấy khô, bắt đầu từ 12h ngày 10/10.
- Cuộc đua "Máy rửa chén sấy khô được yêu thích nhất" có sự tham gia của 5 sản phẩm chính hãng gồm Comfee CDWEF1533GB-WU-VN, Hitachi HDF-F158CVGB, LG LDT14BLA4, Junger Leopard DWJ-143 và Samsung DW60CG550FSGSV.
- Chương trình sẽ kéo dài đến hết ngày 20/10.
- Các sản phẩm trong danh sách đề cử được đánh giá cao về công nghệ, khả năng rửa nhanh, khử khuẩn, sấy khô và đa dạng tiện ích. Năm máy rửa chén có giá từ 15 triệu đến 25 triệu đồng. Kết quả bình chọn được tính hoàn toàn dựa trên lượt đánh giá của độc giả.
- Các sản phẩm có mặt trong danh sách đề cử phải đáp ứng tiêu chí: được giới thiệu trong vòng một năm qua tại Việt Nam; trang bị công nghệ mới, nổi bật; có thiết kế, tính năng và hiệu năng ấn tượng.
- Độc giả bình chọn nhanh và chính xác nhất mẫu máy rửa chén thắng giải, đồng thời dự đoán gần đúng nhất số người có cùng đáp án sẽ nhận được phần quà từ ban tổ chức là nồi chiên không dầu Lumias MF721650.
- Ở số thứ 6 với chủ đề điều hòa thông minh diệt khuẩn được yêu thích nhất, mẫu Aqua UV Smart AQA-RUV10XAW2 đã giành được số lượt bình chọn cao nhất.
- Sản phẩm tôi yêu được VnExpress tổ chức thường niên từ 2020, là chương trình khởi động cho Tech Awards.
- Sản phẩm tôi yêu 2024 bắt đầu từ 18/7 và mỗi số bình chọn kéo dài trong 10 ngày với chủ đề khác nhau liên quan đến đồ gia dụng, thiết bị và phụ kiện điện tử.
- Các sản phẩm đạt giải được trao chứng nhận trong Lễ trao giải Tech Awards 2024, dự kiến tổ chức vào tháng 1/2025 tại TP HCM.
- Tech Awards là chương trình bình chọn thường niên từ 2012 của VnExpress Số Hóa, dành cho các sản phẩm và thương hiệu công nghệ nổi bật, được bán chính hãng trong năm tại thị trường Việt Nam. Kết quả chung cuộc của các sản phẩm và thương hiệu được tính dựa trên 40% lượt bình chọn của độc giả và 60% điểm đánh giá của ban giám khảo.
+Honey Badger của công ty MAB Robotics nằm trong số ít mẫu robot bốn chân có khả năng đi bộ hoàn toàn dưới nước.
+ Trong video công bố trên YouTube ngày 15/10, Honey Badger đi bằng bốn chân dưới đáy hồ bơi, điều hầu hết chó robot tương tự chưa thực hiện được do hạn chế về khả năng chống nước.
+ Robot của MAB Robotics (Ba Lan) không dùng chân vịt, bánh lái nhưng vẫn cho cảm giác mạnh mẽ, năng động và tốc độ cao - yếu tố TechCrunch đánh giá "không thường thấy ở các hệ thống tinh vi" như vậy.
+ Tuy nhiên, thay vì tự hành, Honey Badger vẫn được điều khiển bằng dây.
+ Trong khi đó, các mẫu robot chó của Boston Dynamics, Ghost Robotics hay Unitree Robotics đã có thể tự hành thông qua nguồn pin tích hợp.
+ Ngoài ra, độ sâu tối đa robot này có thể di chuyển cũng không được tiết lộ.
+ Trong bài viết trên LinkedIn sau đó, Jakub Bartoszek, nhà đồng sáng lập kiêm CEO của MAB Robotics, nói Honey Badger là kết quả sau nhiều năm nghiên cứu. "Việc phát triển hệ thống di chuyển có khả năng vượt qua những thách thức của địa hình dưới nước là hành trình khó khăn nhưng hấp dẫn.
+ Chúng tôi rất hào hứng với những ứng dụng nó có thể thực hiện trong thực tế", Bartoszek cho biết.
+ Cũng theo ông, Honey Badger có thể được sử dụng cho tìm kiếm cứu nạn khi thiên tai, thảm họa tự nhiên hoặc ở những địa điểm khó tiếp cận mà không cần sự hiện diện của con người.
+ Ông cho biết robot sẽ sớm tích hợp pin cùng các tính năng thông minh cho nhiều mục đích khác nhau.
+ Năm 2022, Ghost Robotics cũng phát triển một robot hình chó có khả năng bơi.
+ Mẫu robot lưỡng cư này có tên Vision 60 Quadruped Uncrewed Ground Vehicle (Q-UGV), trang bị hệ thống đẩy dưới nước Nautical Autonomous Unmanned Tail (NAUT) do công ty Onyx Industries sản xuất, có thể di chuyển qua con suối nông với các cảm biến phía trên mặt nước.
+ Không quân Mỹ đang sử dụng robot Vision 60 để tuần tra quanh căn cứ không quân Tyndall tại Florida.
+ Robot bốn chân đang được nhiều công ty phát triển.
+ Chúng được kỳ vọng có thể thay con người trong nhiều lĩnh vực từ dân sự đến quân sự nhờ độ linh hoạt, di chuyển dễ dàng trong các địa hình, môi trường khác nhau.

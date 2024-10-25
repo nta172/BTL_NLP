@@ -1,20 +1,13 @@
-Hai mẫu iPhone 15 của Apple dẫn đầu về số lượng máy xuất xưởng nửa đầu năm, trong đó 15 Pro Max đứng thứ nhất.
- Theo dữ liệu của công ty nghiên cứu Omdia về sản lượng smartphone trong 6 tháng đầu 2024, iPhone 15 Pro Max đứng đầu với 21,8 triệu máy.
- Đây là năm thứ hai liên tiếp dòng Pro Max đứng đầu, sau khi iPhone 14 Pro Max cũng là smartphone phổ biến nhất đầu 2023. "Sự phổ biến của dòng iPhone đắt tiền nhất tiếp tục gia tăng ngay cả trong giai đoạn lạm phát cao kéo dài", Omdia đánh giá. "Dù lạm phát khiến người dùng hạn chế chi tiêu, điều ngược lại đang xảy ra khi ngày càng nhiều người chọn Pro Max cao cấp, vốn có giá từ 1.
-199 đến 1.
-599 USD".
- Trong khi đó, iPhone 15 đứng thứ hai về sản lượng, với 17,8 triệu máy. iPhone 15 Pro giữ vị trí thứ tư với 16,9 triệu chiếc.
- Còn iPhone 15 Plus không thu hút khi chỉ đạt 3,7 triệu, đứng thứ 28 trên toàn cầu.
- Omdia dự đoán, với việc iPhone 16 đã ra mắt và sắp bán ra, xu hướng mua các mẫu Pro Max sẽ tiếp tục tăng. Nhiều khả năng iPhone 16 Pro Max sẽ trở thành mẫu phổ biến nhất năm sau.
- Điều tương tự cũng dự kiến diễn ra với iPhone 16, mẫu được bổ sung nút bấm mới, chạy chip A18 mới nhất thay vì dùng chip cũ hơn một đời như trên iPhone 15.
- Cũng theo bảng xếp hạng, smartphone phổ biến thứ ba là Samsung Galaxy A15 với 17,3 triệu máy xuất xưởng.
- Với mức 129 USD, đây được xem là một trong những smartphone 4G có giá hấp dẫn nhất hiện nay.
- Biến thể 5G của điện thoại này, Galaxy A15 5G, có giá 199 USD, đứng thứ bảy với 12,2 triệu chiếc.
- Galaxy S24 Ultra ra mắt đầu năm của Samsung là mẫu smartphone đứng thứ năm với 12,6 triệu chiếc. Nửa đầu năm ngoái, Galaxy S23 Ultra chỉ đạt 9,6 triệu chiếc. iPhone 13, mẫu smartphone ba năm tuổi, đã vượt iPhone 14 (1,4 triệu chiếc) để đứng thứ 6 với 12,5 triệu máy.
- Hiện có giá khoảng 599 USD, iPhone 13 được đánh giá là có thể tạo sự hấp dẫn cho người mới chuyển qua hệ sinh thái Apple, hoặc những người có nhu cầu về smartphone không quá cao.
- Hai mẫu điện thoại phổ biến thứ tám và thứ mười là Xiaomi 13C và Samsung Galaxy A05 đều khoảng 80 USD.
- Cả hai đều có thông số khá tương đồng: là máy 4G, có cùng độ phân giải màn hình, RAM mức cơ bản 4 GB, hai camera sau 50 megapixel và 2 megapixel cùng dung lượng pin 5.
-000 mAh.
- Tuy nhiên, Omdia dự báo doanh số smartphone toàn cầu sẽ giảm trong nửa cuối năm sau thời gian tăng trưởng đầu năm. "Doanh số smartphone đã tăng trưởng hơn một năm qua, nhưng dự kiến chậm lại do nhu cầu bị dồn nén từ đại dịch đã được đáp ứng và sự không chắc chắn của nền kinh tế có thể tiếp diễn", ông Jusy Hong, Giám đốc nghiên cứu cấp cao của Omdia, cho biết.
- Hồi giữa năm, thống kê do hãng nghiên cứu thị trường Counterpoint Research công bố cho thấy iPhone 15 Pro Max cũng là mẫu bán chạy nhất thế giới khi chiếm 4,4% thị phần điện thoại thông minh toàn cầu trong ba tháng đầu năm.
- Bốn vị trí tiếp theo lần lượt thuộc về iPhone 15 (4,3%), iPhone 15 Pro (3,7%), iPhone 14 (1,9%) và Galaxy S24 Ultra (1,9%).
+Một YouTuber tích hợp thành công ChatGPT lên mẫu máy tính cầm tay Texas Instruments TI-84 và gọi nó là "thiết bị gian lận tối thượng".
+ Đầu tháng 9, ChromaLock, YouTuber kiêm modder - chỉ người chuyên sửa đổi phần cứng, phần mềm để thực hiện một chức năng không do nhà thiết kế đưa ra - đã đăng hình ảnh chiếc máy tính TI-84 được can thiệp phần cứng để có thể tích hợp ChatGPT và thực hiện hàng loạt tính năng thông minh.
+ Trong video chia sẻ trên YouTube, ChromaLock cho biết đã gắn thêm một bộ vi điều khiển wifi Seeed Studio XIAO-ESP32-C3 cùng một số vi mạch khác để kết nối không dây qua thiết bị khác, cũng như truyền phần mềm cần thiết sau này.
+ Linh kiện có thể dễ dàng mua trên các trang thương mại điện tử.
+ Toàn bộ ẩn bên trong, còn vẻ ngoài của thiết bị không thay đổi.
+ Phần mềm cũng được thiết kế để nội dung có thể hiển thị trên màn hình máy tính cầm tay.
+ Cuối cùng, ChromaLock truyền dữ liệu từ PC lên thiết bị đích.
+ Trong video, modder này đã thực hiện một số tính năng mới mà một chiếc TI-84 thông thường không có, như giải toán và truy vấn thông tin qua ChatGPT, xem ảnh dạng đơn sắc, chơi game rắn săn mồi.
+ Nhiều chức năng cũng đang được xây dựng, như duyệt web, chức năng email, phát video và thậm chí truy cập Discord.
+ Hiện phần mềm đã được chia sẻ trên GitHub và được mô tả là "bản mod cho máy tính TI-84 Plus Silver Edition và TI-84 Plus C Silver Edition, cung cấp truy cập Internet và thêm các tính năng khác, như hỗ trợ camera".
+ Theo Tom's Hardware, thiết bị của ChromaLock khá thú vị khi mở ra nhiều chức năng mới cho một máy tính bỏ túi phổ biến như TI-84.
+ Dù vậy, như tên gọi "thiết bị gian lận tối thượng", nó có thể bị học sinh lạm dụng trong kỳ thi.
+ Với ngoại hình không khác gì chiếc TI-84 thông thường, giáo viên khó phát hiện điểm bất thường.

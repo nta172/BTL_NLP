@@ -1,14 +1,15 @@
-Chip A18 Pro trên iPhone 16 Pro có điểm sức mạnh cao hơn Apple M1 trang bị trên iPad và máy Mac. Kết quả đo hiệu suất của chip mới được đăng lên trang của Geekbench ngày 12/9 cho thấy sản phẩm có điểm hiệu suất đơn nhân 3.
-429, trong khi đa nhân là 8.
-790. Mã sản phẩm là iPhone17,1 cho thấy đây là iPhone 16 Pro, sử dụng chip A18 Pro.
- Chip này khác biệt với A18 khi có thêm một lõi GPU, nên nếu chỉ xét riêng CPU, điểm này có thể tương đương các mẫu iPhone 16 khác do có chung thông số.
- Điểm hiệu suất này cao hơn 15-20% so với A17 Pro trên iPhone 15 Pro và cao hơn 30% so với A16 Bionic, phù hợp với các tuyên bố của Apple trong ngày ra mắt.
- Trong khi đó, kết quả đo trung bình của iPad Air M1 trên Geekbench vào khoảng 8.
-351 điểm, thấp hơn 5% so với mẫu iPhone mới. iPad Air sử dụng chip M1, chip máy tính đầu tiên do Apple phát triển, ra mắt năm 2020, ban đầu được dùng trên máy tính Mac trước khi đưa sang các sản phẩm như iPad.
- Theo 9to5Mac, điểm trên các công cụ đo không phải lúc nào cũng phản ánh đúng hiệu suất trong các tác vụ thực tế, nhưng đã cho thấy sự tiến bộ trong việc phát triển chip của Apple. "Chúng ta đang ở giai đoạn có thể mang một chiếc máy với sức mạnh của M1 ngay trong túi của mình, chỉ bốn năm sau khi chip đó ra mắt", trang này nhận xét.
- Bên cạnh đó, các chuyên gia cho rằng đây là "điều đáng tiếc" khi người dùng chưa thể khai thác nhiều hơn sức mạnh của chip ngoài phạm vi một chiếc điện thoại.
- So sánh với Samsung, hãng Hàn Quốc cho phép người dùng tận dụng sức mạnh của smartphone thông qua các công cụ như DeX để biến điện thoại thành một chiếc máy tính. "Có thể điều đó sẽ làm giảm doanh số của iPad hoặc Mac vì iPhone mạnh hơn, dễ mang theo và có màn hình ngày càng lớn", người dùng Augusto Galindo bình luận. Ngoài CPU, bộ bốn iPhone mới cũng được nâng cấp RAM lên 8 GB, theo thông tin từ Phó chủ tịch Apple Johny Srouji, tương đương phiên bản cấu hình thấp nhất của một số MacBook M1.
- Bộ bốn iPhone 16 ra mắt trong sự kiện It's Glowtime rạng sáng 10/9. iPhone 16 và 16 Plus thay đổi thiết kế camera, trang bị nút Action thay cho phím gạt chế độ âm lượng, camera chính nâng lên 48 megapixel.
- Hai mẫu Pro có màn hình lớn hơn trước 0,2 inch, camera góc siêu rộng nâng độ phân giải lên 48 megapixel.
- Cả bốn đều có nút chụp mới.
- Apple trang bị chip A18 cho iPhone 16 tiêu chuẩn và A18 Pro cho iPhone 16 dòng Pro. iPhone 16 sẽ lên kệ tại Việt Nam từ ngày 27/9.
+Số bình chọn thứ 7 của Sản phẩm tôi yêu 2024 với sự tham gia của 5 mẫu máy rửa chén sẽ đóng cổng vào 0h ngày 21/10.
+ Vòng bình chọn "Máy rửa chén sấy khô được yêu thích nhất" diễn ra từ 10/10 đến hết 20/10.
+ Cuộc đua có sự tham gia của 5 sản phẩm chính hãng gồm Comfee CDWEF1533GB-WU-VN, Hitachi HDF-F158CVGB, LG LDT14BLA4, Junger Leopard DWJ-143 và Samsung DW60CG550FSGSV.
+ Các sản phẩm trong danh sách đề cử được đánh giá cao về công nghệ, khả năng rửa nhanh, khử khuẩn, sấy khô và đa dạng tiện ích.
+ Năm máy rửa chén có giá từ 15 triệu đến 25 triệu đồng.
+ Kết quả bình chọn được tính hoàn toàn dựa trên lượt đánh giá của độc giả.
+ Các sản phẩm có mặt trong danh sách đề cử phải đáp ứng tiêu chí: được giới thiệu trong vòng một năm qua tại Việt Nam; trang bị công nghệ mới, nổi bật; có thiết kế, tính năng và hiệu năng ấn tượng.
+ Độc giả bình chọn nhanh và chính xác nhất mẫu máy rửa chén thắng giải, đồng thời dự đoán gần đúng nhất số người có cùng đáp án sẽ nhận được phần quà công nghệ từ ban tổ chức là nồi chiên không dầu Lumias MF721650.
+ Ở số thứ 6 với chủ đề điều hòa thông minh diệt khuẩn được yêu thích nhất, mẫu Aqua UV Smart AQA-RUV10XAW2 đã giành được số lượt bình chọn cao nhất.
+ Sản phẩm tôi yêu được VnExpress tổ chức thường niên từ 2020, là chương trình khởi động cho Tech Awards.
+ Sản phẩm tôi yêu 2024 bắt đầu từ 18/7 đến 4/11.
+ Mỗi số kéo dài trong 10 ngày với chủ đề khác nhau liên quan đến đồ gia dụng, thiết bị và phụ kiện điện tử.
+ Các sản phẩm đạt giải được trao chứng nhận trong Lễ trao giải Tech Awards 2024, dự kiến tổ chức vào tháng 1/2025 tại TP HCM.
+ Tech Awards là chương trình bình chọn thường niên từ 2012 củaVnExpress Số Hóa, dành cho các sản phẩm và thương hiệu công nghệ nổi bật, được bán chính hãng trong năm tại thị trường Việt Nam.
+ Kết quả chung cuộc của các sản phẩm và thương hiệu được tính dựa trên 40% lượt bình chọn của độc giả và 60% điểm đánh giá của ban giám khảo.

@@ -1,11 +1,20 @@
-Đại học Thành phố Dublin, được coi "Thung lũng Silicon của châu Âu", sẽ đào tạo nguồn nhân lực công nghệ cao trong lĩnh vực AI cho Đại học FPT.
- Trong khuôn khổ chuyến thăm cấp Nhà nước theo lời mời của Tổng thống Ireland Michael D.
- Higgins, Tổng Bí thư, Chủ tịch nước Tô Lâm và đoàn đại biểu cấp cao Việt Nam đã chứng kiến lễ trao văn kiện hợp tác của một số trường đại học và doanh nghiệp Việt Nam với phía Ireland ngày 3/10.
- Trong đó, FPT công bố hợp tác với ADAPT Research Center - Đại học Thành phố Dublin, thuộc top 50 đại học trẻ tốt nhất thế giới, trong việc đào tạo nguồn nhân lực công nghệ cao trong lĩnh vực AI.
- Theo đại diện FPT, Đại học Thành phố Dublin sẽ cử giảng viên sang Việt Nam đào tạo AI cho sinh viên Đại học FPT Đà Nẵng và triển khai các tọa đàm trao đổi kinh nghiệm giảng dạy với giảng viên trẻ. Ngoài ra, trường này cũng sẽ cung cấp học bổng cho giảng viên trẻ của Đại học FPT làm tiến sĩ về AI và các khóa thực tập ngắn hạn cho sinh viên chuyên ngành AI. "Hợp tác với Đại học Thành phố Dublin mở ra chương mới trong hoạt động đào tạo kỹ sư AI của FPT. Nếu đào tạo được một triệu kỹ sư AI, Việt Nam sẽ thuộc nhóm quốc gia tiên tiến", ông Trương Gia Bình, Chủ tịch FPT, nói.
- Cũng tại sự kiện, ông Nguyễn Văn Khoa, Tổng giám đốc FPT và ông Chris Davis, Giám đốc điều hành Kyndryl - công ty cung cấp hạ tầng CNTT trong danh sách Fortune 500, cũng trao thỏa thuận khung về việc hợp tác trong lĩnh vực chuyển đổi số, phát triển ứng dụng trí tuệ nhân tạo.
- Theo đó, hai bên sẽ hợp tác chuyển đổi số cho khách hàng trong lĩnh vực ngân hàng, bảo hiểm, bán lẻ....tại Ireland.
- Trước đó, FPT và Kyndryl đã cùng mở rộng tập khách hàng tại các thị trường như Mỹ, Nhật, Anh, Đức. "Chúng tôi đánh giá đây là thị trường tiềm năng và coi đây là cơ hội để FPT phô diễn năng lực và khẳng định sự trưởng thành tại Ireland nói riêng và thị trường châu Âu nói chung", ông Khoa nói.
- Ireland được ví như "Thung lũng Silicon của châu Âu", nơi có văn phòng của nhiều doanh nghiệp công nghệ lớn trên thế giới như Meta, Google.
- Tại châu Âu, FPT có mạng lưới văn phòng tại 9 quốc gia và là đối tác chuyển đổi số của hơn 150 doanh nghiệp.
- Tập đoàn cũng thực hiện các thương vụ M&A như mua lại RWE IT Slovakia, thành viên của tập đoàn năng lượng hàng đầu châu Âu RWE, hay AOSIS - công ty tư vấn CNTT của Pháp.
+Tác động từ lệnh cấm xuất khẩu bán dẫn của Mỹ đối với Trung Quốc đang gây khó khăn đáng kể cho ASML.
+ ASML, công ty sản xuất thiết bị quang khắc hàng đầu thế giới có trụ sở tại Hà Lan, vô tình để lộ báo cáo tài chính sớm vào ngày 16/10.
+ Hãng sau đó cho biết là do "lỗi kỹ thuật".
+ Theo CNBC, rò rỉ này đã cung cấp cái nhìn đầu tiên về ảnh hưởng của những hạn chế xuất khẩu từ Mỹ đối với doanh thu của ASML tại Trung Quốc.
+ Trong khi đó, Reuters đánh giá báo cáo có thể "gây chấn động thị trường chip toàn cầu".
+ Cụ thể, ASML cho biết doanh thu của hãng vượt kỳ vọng với 7,5 tỷ euro (8,15 tỷ USD), nhưng đơn đặt hàng chỉ đạt 2,6 tỷ euro (2,83 tỷ USD), thấp hơn nhiều so với ước tính 5,6 tỷ euro từ Sàn chứng khoán London (LSEG).
+ Công ty Hà Lan cũng dự đoán doanh thu năm 2025 sẽ nằm trong khoảng từ 30 tỷ đến 35 tỷ euro (32,7 tỷ đến 38,1 tỷ USD), thấp hơn so với dự kiến trước đó.
+ Trong báo cáo được tiết lộ sớm, ông Roger Dassen, Giám đốc tài chính của ASML, nói doanh thu từ Trung Quốc sẽ giảm vào năm sau do hạn chế xuất khẩu từ Mỹ. "Chúng ta đều đọc báo chí và thấy có những đồn đoán xung quanh kiểm soát xuất khẩu.
+ Điều này khiến chúng tôi phải thận trọng hơn về doanh số bán hàng tại Trung Quốc", ông nói.
+ Sau khi thông tin được tiết lộ, vốn hóa ASML đã bốc hơi hơn 50 tỷ USD.
+ ASML đóng vai trò quan trọng trong chuỗi cung ứng chip toàn cầu với các máy in quang khắc cực tím tiên tiến, được sử dụng bởi nhiều hãng sản xuất chip lớn nhất thế giới.
+ Tuy nhiên, đầu năm nay, việc Mỹ cấm các công ty có sử dụng công nghệ của nước này bán hàng cho Trung Quốc khiến ASML mất đi thị trường rộng lớn.
+ Trước đó, công ty Hà Lan vẫn bán các mẫu máy quang khắc cực tím sâu DUV cho Trung Quốc.
+ Báo cáo tài chính của công ty Hà Lan cho thấy 29% doanh thu đến từ Trung Quốc.
+ Doanh số bán hàng sang nước này tăng mạnh trong ba quý đầu năm do khách hàng cố gắng mua máy DUV trước khi các hạn chế xuất khẩu được áp dụng.
+ Phó giáo sư Chris Miller tại trường Fletcher thuộc Đại học Tufts và tác giả cuốn sách Chip War, nhận định Trung Quốc vẫn là thị trường rất quan trọng đối với ASML dù hãng không còn được bán hàng ở đây.
+ Ông dự đoán công ty vẫn có một nguồn doanh thu đáng kể thông qua việc nước này nhập máy móc quang khắc theo con đường gián tiếp.
+ Nói với CNBC, các nhà phân tích tại Bank of America nhận định ASML đang đối mặt với "sự suy giảm mạnh mẽ" từ Trung Quốc, với con số có thể "dần về 0".
+ Đồng tình với quan điểm này, Abishur Prakash, người sáng lập công ty tư vấn The Geopolitical Business có trụ sở tại Toronto, cho rằng doanh thu của ASML sẽ giảm rất mạnh khi công ty bị "hạn chế nghiêm trọng" bởi kiểm soát xuất khẩu cũng như khi các doanh nghiệp bán dẫn Trung Quốc tự chủ được máy quang khắc. "Giống như Intel, ASML phụ thuộc sâu sắc vào Trung Quốc", Prakash nói.
+ ASML chưa đưa ra bình luận.

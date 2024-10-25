@@ -1,19 +1,18 @@
-Ecovacs cho biết robot hút bụi của hãng đã được nâng cấp phần mềm, ngăn tình trạng chiếm quyền điều khiển, phát ra những lời nói khiếm nhã thời gian qua.
- Theo Ecovacs, tình huống một model của hãng bị điều khiển từ xa liên quan đến công cụ hack phức tạp, đòi hỏi quyền truy cập vật lý và hỗ trợ kỹ thuật từ nhà nghiên cứu.
- Trong khi đó, hiện tượng nhiều robot hút bụi bỗng dưng chửi thề thực tế xuất phát từ một vụ rò rỉ dữ liệu của bên thứ ba tại Mỹ, khiến tài khoản của các thiết bị IoT bị lộ, trong đó có của Ecovacs.
- Thừa nhận sự cố gây lo ngại, Ecovacs gửi lời xin lỗi tới người dùng và khẳng định đã nâng cấp phần mềm để phòng ngừa vấn đề bảo mật nói trên với các dòng robot hút bụi, trừ Deebot X2. Model này đã có bản nâng cấp tăng cường bảo mật liên quan đến quyền xem video trực tiếp hồi tháng 8 và sẽ tiếp tục được cập nhật trong tháng 11 để khắc phục hoàn toàn lỗi.
- Đại diện Hợp Long, nhà phân phối Ecovacs tại Việt Nam, cho biết chưa ghi nhận trường hợp người dùng Deebot X2 trong nước bị ảnh hưởng.
- Tuy nhiên, công ty khuyến cáo người dùng luôn cập nhật bản firmware mới nhất.
- Ecovacs Deebot X2 là robot hút bụi đầu tiên trên thị trường sử dụng cảm biến Lidar thể rắn giúp máy có thiết kế mỏng, không có "cục u" phía trên như đa số đối thủ ở phân khúc cao cấp.
- Đây cũng là lý do máy được chọn làm sản phẩm mẫu trong một số cuộc thi hack vào thiết bị gia dụng thông minh, robot hút bụi trên thế giới. Máy ra mắt tháng 8/2023 tại thị trường Việt Nam với giá 24,9 triệu đồng và hiện đã có bản nâng cấp Deebot X5.
- Theo ChannelNews, các công ty bảo mật đánh giá hầu hết robot hút bụi trang bị hệ thống cảm biến Lidar đều có thể bị tấn công bởi những tin tặc có chuyên môn cao.
- Hàng loạt nhà sản xuất lớn trên thế giới như Ecovacs, LG, Samsung, iRobot, Roborock đều đối mặt với rủi ro này khi trang bị Lidar cho sản phẩm.
- Giá trị lớn nhất của Lidar là sự chính xác trong khả năng xác định không gian, giúp robot nhận biết nơi nào có thể đi đến, chỗ nào có đồ nội thất hay vật cản, góp phần tạo lộ trình lau dọn nhanh chóng và không bỏ sót vị trí nào trong nhà.
- Để làm điều đó, công nghệ Lidar (Light Detection and Ranging) sử dụng cảm biến để robot hút bụi tính toán hướng di chuyển và tránh vật cản trên đường đi thông qua khả năng tự đo khoảng cách đến vật thể. Ngoài ra, robot cần thêm một camera và phần mềm điều khiển, kết nối với thiết bị qua Bluetooth hoặc wifi.
- Đây cũng là điểm yếu bị tin tặc nhắm vào.
- Ví dụ, theo điều tra liên quan đến sản phẩm điện tử gia dụng LG, công ty bảo mật Check Point Software phát hiện hàng loạt máy trong nhà có kết nối với ứng dụng SmartThinQ - phần mềm quản lý thiết bị gia dụng của LG, như máy giặt, máy sấy, tủ lạnh, máy rửa bát, máy hút bụi đều có thể bị điều khiển trái phép. Nguyên nhân bắt đầu từ một lỗ hổng trong quy trình đăng nhập của LG bị khai khác, giúp tin tặc chiếm quyền điều khiển camera trên thiết bị và xem mọi hoạt động trong nhà theo thời gian thực.
- Theo chuyên gia, cách tốt nhất để phòng chống tin tặc tấn công và kiểm soát robot hút bụi cũng như các thiết bị thông minh có camera khác là thường xuyên cập nhật bản vá phần mềm từ nhà sản xuất.
- Theo báo cáo của Market Reports World, iRobot và Ecovacs là hai hãng robot hút bụi lớn nhất thế giới tính theo thị phần.
- Hai nhà sản xuất này cùng với Xiaomi, Roborock và Narwal hiện chiếm đến 70% thị phần toàn cầu.
- Hầu hết công ty robot hút bụi lớn trong ngành có trụ sở tại Trung Quốc.
- 80% sản phẩm bán ra toàn cầu cũng được lắp ráp tại quốc gia đông dân nhất thế giới.
+Chiếc iPhone 4s bị khóa 80.
+000 tiếng và chủ nhân của nó quyết định chờ, thay vì khôi phục cài đặt gốc vì tiếc video thú cưng trong máy.
+ Tài khoản Inanna trên Douyin chia sẻ video dài 40 giây về quá trình mở khóa điện thoại iPhone sau 10 năm bị khóa và lập tức gây sốt trên các mạng xã hội Trung Quốc.
+ Chiếc iPhone 4s được sử dụng vào năm 2015, nhưng sau khi Inanna mua smartphone mới, bố mẹ cô cố mở khóa điện thoại và nhập sai mã nhiều lần khiến nó bị khóa thời gian dài, theo ETtoday. "Màn hình khóa khi đó hiển thị thời gian chờ là 80.
+000 tiếng, tức khoảng 10 năm", cô nói.
+ Dù rất sốc, Inanna quyết định không khôi phục cài đặt gốc điện thoại vì tiếc các video quay chú mèo đã qua đời lưu trữ trong máy.
+ Sau gần 10 năm, Inanna chợt nhớ đến điện thoại cũ và mua cáp để sạc lại cho máy. iPhone 4s vẫn sử dụng cáp 30pin thay vì Lightning hay USB-C trên loạt iPhone 15, iPhone 16.
+ Khi bật nguồn thành công, cô ngạc nhiên thấy thời gian chờ còn 288 phút.
+ May mắn sau nhiều năm, cô vẫn nhớ mật khẩu và có thể truy cập bên trong.
+ Quá phấn khích trước việc này, cô đã quay lại quá trình và tải lên Douyin. iPhone có tính năng bảo mật khi tăng dần thời gian chờ nếu nhập sai mã nhiều lần.
+ Điện thoại quên mật khẩu bắt buộc phải khôi phục cài đặt gốc (mất toàn bộ dữ liệu bên trong) mới có thể tái sử dụng.
+ Trong trường hợp quên tài khoản icloud đăng nhập bên trong, iPhone cũng bị vô hiệu hóa hoàn toàn.
+ Tuy nhiên, nhiều người dùng trước đây phàn nàn khi thời gian chờ để mở khóa quá lâu, có người lên tới 50 năm.
+ Đây là lý do Apple thay đổi cơ chế quản lý khóa màn hình gần đây.
+ Trên hệ điều hành iOS 18, chủ nhân có thể nhập sai ba lần đầu, từ lần thứ tư thời gian chờ là một phút, sau đó tăng dần lên 5 phút, một tiếng...
+ Sau 10 lần nhập sai, điện thoại sẽ bị khóa vĩnh viễn.
+ Apple cho biết cách thức này nhằm duy trì quyền riêng tư và bảo mật của người dùng, đồng thời ngăn các hành vi ác ý trên điện thoại.
+ Do đó, người dùng cũng được khuyên nên sao lưu dữ liệu thường xuyên để đề phòng các trường hợp xấu.

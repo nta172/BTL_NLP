@@ -1,29 +1,33 @@
-Mẫu siêu xe đầu bảng của McLaren có thiết kế cửa cánh chim, công suất 1.
-258 mã lực và giới hạn 399 chiếc toàn thế giới.
- Sau F1 và P1, W1 xuất hiện nhằm tiếp nối truyền thống với danh nghĩa siêu xe đầu bảng của McLaren.
- W1 sử dụng động cơ 4 lít V8 tăng áp kép công suất 916 mã lực ở vòng tua 9.
-200 vòng/phút.
- Và giống P1, W1 sử dụng hệ thống hybrid, với mô-tơ điện công suất 342 mã lực.
- Trên thực tế, hệ thống hybrid mới nhẹ hơn 40 kg so với chiếc P1 trong khi công suất gần gấp đôi.
- Tổng công suất 1.
-258 mã lực và mô-men xoắn 1.
-340 Nm, khiến W1 trở thành chiếc xe mạnh nhất mà hãng xe Anh từng sản xuất. Khối pin 1.
-384 kWh, đủ để W1 di chuyển 2,6 km ở chế độ hoàn toàn bằng điện.
- Với công suất lớn, hộp số DCT 8 cấp với hệ thống đảo chiều điện tử E-Reverse, W1 có thể tăng tốc 0-100 km/h trong 2,7 giây, 0-200 km/h trong 5,8 giây và đạt 300 km/h trong chưa đầy 12,8 giây.
- Tốc độ tối đa 350 km/h biến chiếc xe trở thành chiếc McLaren nhanh nhất.
- Xe sử dụng bộ khung liền khối McLaren Aerocell mới, hệ thống treo lấy từ xe đua Công thức 1, hệ thống phanh và hệ thống lái thủy lực.
- Để giảm trọng lượng, McLaren không sử dụng hệ dẫn động 4 bánh mà hệ dẫn động cầu sau.
- Do đó W1 không nặng hơn P1, với trọng lượng 1.
-399 kg.
- Hệ thống phanh McLaren Carbon Ceramic Racing+ với 6 pít-tông phía trước và 4 pít-tông phía sau, đĩa phanh 15,4 inch có lớp gốm tăng độ bền và chịu nhiệt tốt hơn.
- Phanh được làm mát giống xe đua F1 và góp phần tạo lực ép xuống mặt đường.
- Bộ lốp tiêu chuẩn Pirelli P Zero Trofeo RS kèm vành 19 inch phía trước và 20 inch phía sau.
- Tùy chọn lốp P Zero R và P Zero Winter 2.
- W1 có hai chế độ gồm DRS và Race.
- Ở DRS, lực ép xuống mặt đường của W1 còn 20% so với mẫu Senna.
- Phần đầu xe có một cặp cánh gió mở theo hình vòng cung để đưa không khí vào gầm xe nhưng tự động thu lại ở tốc độ thấp.
- Ở chế độ Race, xe tự động hạ gầm 37 mm phía trước và 17,7 mm phía sau, đồng thời kích hoạt tính năng Active Long Tail, kéo dài đuôi xe thêm 294 mm, tạo lực ép ở phần đuôi gấp 5 lần.
- Tổng thể có thể tạo ra lực ép xuống mặt đường lên tới 1.
-000 kg. Nội thất tối giản, tập trung tối đa vào người lái.
- Ghế cố định đúc theo khung xe, bàn đạp bằng nhôm và vô-lăng có thể điều chỉnh với tư thế.
- Vô-lăng phẳng cả phần đỉnh và đáy, bổ sung hai nút bấm cho chức năng DRS và Boost. Màn hình giải trí trung tâm 8 inch tích hợp Apple Carplay và hai cổng USB, phía dưới là hai hộc để cốc, hộc chứa đồ dung tích 116 lít ở sau ghế, đủ không gian cho hai chiếc túi hoặc hai mũ bảo hiểm. Ngoài ra bộ phận cá nhân hóa MSO cho phép khách tùy chọn các chi tiết bằng sợi carbon với lớp hoàn thiện bóng, nút bấm đèn trên vô-lăng, chất liệu da, màu sắc. McLaren cho biết W1 sẽ có giá khởi điểm 2,1 triệu USD, giới hạn 399 chiếc và đã được đặt hết trước khi ra mắt.
+Nhiều tài xế cho biết thời gian gần đây ôtô thường bị dính đinh trên cao tốc Hà Nội - Hải Phòng đoạn qua tỉnh Hải Dương.
+ Nguyễn Thụ (Hà Nội) cho biết đang lái xe 120 km/h trên cao tốc này thì nghe tiếng xì lớn như bóng bay bị châm thủng, đoạn qua địa phận Hải Dương, hôm 25/9.
+ Bị lệch lái, nhưng tài xế vẫn kịp dìu xe vào làn khẩn cấp, kiểm tra thấy lốp trước bên lái đã hết sạch hơi.
+ Thụ tạm thay lốp dự phòng để di chuyển tiếp.
+ Khi tới cửa hàng sửa chữa lốp gần đó, thợ tháo lốp ra thì phát hiện một lỗ tròn lớn đặc trưng của những xe bị đinh cắm.
+ Lốp bị xì hơi bất ngờ nên một phần thành lốp cũng bục vỡ từ bên trong.
+ Đem câu chuyện của mình lên một nhóm chuyên về ôtô, Thụ nhận được rất nhiều phản hồi tương tự.
+ Nhiều tài xế cho biết "lo nơm nớp" vì mỗi lần đi cao tốc đều sợ dính đinh, đặc biệt khi qua địa phận Hải Dương.
+ Anh Thụ kể chỉ riêng thời điểm anh bị dính đinh, khi ghé vào làn khẩn cấp có ba xe khác gặp hoàn cảnh tương tự.
+ Đại diện ban quản lý đường cao tốc Hà Nội - Hải Phòng cho biết, sau khi tiếp nhận được thông tin từ các tài xế, đã kiểm tra, rà soát nhưng không phát hiện có vật sắc nhọn hay hiện tượng nhiều đinh trên đường.
+ Đơn vị cũng sẽ tiếp tục tăng cường công tác dọn dẹp, vệ sinh mặt đường toàn tuyến, đặc biệt là các vị trí thuộc địa bàn tỉnh Hải Dương, đồng thời báo cáo lên Cục CSGT và công an tỉnh.
+ Cục CSGT cho biết đã tiếp nhận thông tin về việc "nhiều tài xế bị dính đinh, lo ngại có hiện tượng rải đinh trên đường cao tốc Hà Nội - Hải Phòng" và sẽ tiến hành làm rõ sự việc.
+ Trong khi ban quản lý cho biết không phát hiện đinh, nhiều tài xế nói tình trạng này diễn ra nhiều tháng nay.
+ Đồng thời, trên lan can đường sát làn khẩn cấp ở những đoạn có đinh luôn sẵn những dòng chữ ghi rõ số điện thoại của dịch vụ sửa chữa lốp hoặc cẩu xe, cứu hộ. "Nếu gọi những số điện thoại này sẽ nhận được báo giá trên trời", một số người phản ánh.
+ Tài xế Ngọc Hùng cho biết, hồi đầu tháng 9, anh mới thay lốp được vài ngày, bơm đúng tiêu chuẩn, nhưng vừa vào đường cao tốc thì bị nổ.
+ Khi gọi dịch vụ cứu hộ, anh phải trả 1,2 triệu đồng cho công việc đơn giản là thay lốp dự phòng.
+ Trong khi đó, nhiều người khác cho biết từng phải vá lốp với giá 500.
+000-800.
+000 đồng, tức cao gấp 10 lần giá thông thường.
+ Sau những vụ tai nạn vì dừng trên đường khẩn cấp, nhiều tài xế lo ngại việc ngồi trên đường cao tốc thay lốp cũng có thể bị xe khác đâm vào, nên thường chấp nhận gọi cứu hộ dù tốn thêm nhiều tiền. "Tôi biết rằng để họ di chuyển từ xưởng lên đường cao tốc vá xe thì chi phí phải tăng thêm, nhưng không nghĩ tới 10 lần.
+ Mà số điện thoại lại có sẵn trên lan can đường như vậy", Duy Hà, một tài xế thường xuyên di chuyển trên đường cao tốc Hà Nội - Hải Phòng, từng phải dùng dịch vụ vá lốp, cho biết.
+ Tài xế Phan Khiên cho biết chỉ trong một thời gian ngắn gần đây, anh đã bị dính đinh tới hai lần, và đều là những chiếc đinh đã được bẻ đôi tạo thành góc vuông.
+ Với kiểu đinh này, chỉ cần bánh xe lăn qua sẽ lập tức bị cắm.
+ Một số tài xế khác thì gặp những mảnh sắt được cắt nhọn hai đầu.
+ Một loại đinh khác cũng thường gặp là đinh vít, vì thân đinh có cạnh nhọn, dễ cắm.
+ Để đảm bảo an toàn khi lưu thông trên đường cao tốc, nếu chẳng may bị dính đinh, các tài xế cần bình tĩnh, vì thông thường lốp sẽ không nổ mạnh mà xì hơi từ từ.
+ Sau khi đưa xe vào làn khẩn cấp, cần đặt tam giác phản quang hoặc chóp nón phía sau xe theo chiều xe chạy.
+ Những người khác trên xe nếu không có nhiệm vụ, nên đứng ra phía sau lan can để đảm bảo an toàn.
+ Khi kiểm tra, nếu lốp không bị xuống hơi, hoặc xuống hơi chậm, có thể tiếp tục di chuyển và ra khỏi cao tốc ở lối gần nhất để tìm kiếm nơi sửa chữa.
+ Nếu bị xuống hơi nhanh, có lốp dự phòng, tốt nhất nên thay lốp.
+ Đây là kỹ năng cơ bản mà các tài xế nên tự trang bị.
+ Nếu không có lốp dự phòng, gọi số cứu hộ do ban quản lý cung cấp trên đường cao tốc, hoặc tìm kiếm các cơ sở uy tín, tham khảo giá nhiều nơi để lựa chọn mức giá phù hợp nhất.
+ Trong lúc chờ đợi, mọi thành viên trên xe cần đứng ra phía sau lan can đường để đảm bảo an toàn.

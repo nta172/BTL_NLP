@@ -1,13 +1,13 @@
-Đại diện Cục Viễn thông cho biết các nhà mạng đang triển khai cơ sở hạ tầng cần thiết để chuẩn bị cho thương mại hóa 5G.
-  Tại hội thảo về chuyển đổi số ngày 30/9 ở Hà Nội, ông Nguyễn Phong Nhã, Phó Cục trưởng Viễn thông, cho biết mạng 5G dự kiến được các nhà mạng triển khai trước ở những khu vực mạng 4G không còn đủ khả năng đáp ứng. Ngoài ra, 5G cũng được ưu tiên ở một số khu công nghiệp, khu công nghệ cao, nơi mạng kết nối thế hệ mới có thể mang lại giá trị nhờ tốc độ cao và độ trễ thấp.
- Đại diện Cục Viễn thông không tiết lộ thời gian cụ thể, nhưng nói việc này có thể diễn ra ngay cuối năm nay, muộn nhất là tháng 4/2025.
- Đây cũng là thời hạn các doanh nghiệp viễn thông phải thực hiện theo cam kết trước khi đấu giá băng tần hồi tháng 3.
- Theo ông Nhã, kết quả đấu giá với tổng số tiền hơn 12 nghìn tỷ đồng cho ba khối băng tần đã "minh chứng cho cam kết của doanh nghiệp trong việc đầu tư vào công nghệ 5G". "Những tháng qua, các doanh nghiệp viễn thông cũng đầu tư hạ tầng để chuẩn bị cho 5G", ông nói.
- Tuy nhiên, việc triển khai gần đây bị ảnh hưởng bởi bão Yagi.
- Sau khi bão qua, các doanh nghiệp đã quay trở lại đẩy mạnh đầu tư cho hạ tầng 5G.
- Theo một số nguồn tin trong ngành, mạng 5G thương mại đầu tiên có thể ra mắt ngay trong tháng 10. Nokia tháng trước cũng khẳng định sẽ triển khai thiết bị 5G cho một nhà mạng "trong năm nay".
- Tại sự kiện, một nhà cung cấp thiết bị 5G khác là Ericsson cho biết từ năm 2019 đã tham gia vào các dự án thử nghiệm 5G với các công ty viễn thông trong nước. "Chúng tôi luôn sẵn sàng hỗ trợ thương mại hóa 5G tại Việt Nam", bà Rita Mokbel, Chủ tịch Ericsson Việt Nam, nói.
- Theo bà, hãng có thể hỗ trợ chuyển đổi liền mạch từ 4G sang 5G, tối ưu hóa hiệu suất mạng và khai thác giá trị từ các hạ tầng phù hợp với nhu cầu đặc thù của Việt Nam.
- Việc triển khai 5G dự kiến bao gồm mạng riêng (private network) cho các ngành như sản xuất và logistics, thành phố thông minh, đồng thời cung cấp mạng không dây cố định (fixed wireless access) để đem đến Internet tốc độ cao cho những khu vực khó triển khai mạng cáp quang truyền thống.
- Bà Mokbel cũng gợi ý Việt Nam có thể tìm hiểu và học hỏi mô hình của Ấn Độ, một trong những nước triển khai 5G nhanh nhất thế giới với độ bao phủ 90% trong 21 tháng.
- Thống kê của Ericsson cho thấy Ấn Độ nâng hạng từ vị trí 86 lên 16 trong bảng xếp hạng hiệu suất mạng toàn cầu, với 198 triệu thuê bao 5G, mỗi thuê bao trung bình sử dụng 23 GB mỗi tháng.
+Dahua Dual Hero D1 và Picoo D1 nằm trong số những camera an ninh không dây đầu tiên tại Việt Nam dùng ống kính kép, quay hai góc cùng lúc.
+ Ống kính kép đang trở thành xu hướng mới trên thị trường camera an ninh khi khắc phục nhược điểm về "góc chết" so với camera một ống kính thông thường.
+ Thiết kế này trước đây chỉ có trên camera dành cho doanh nghiệp, cơ quan nhà nước, công trình công cộng nhưng nay đã xuất hiện ở sản phẩm dân dụng tầm giá một triệu đồng.
+ Các thương hiệu đầu tiên phát hành sản phẩm này tại Việt Nam là Dahua, Imou và Ezviz.
+ Trong khi đó, tại thị trường lớn nhất là Trung Quốc, hầu hết thương hiệu đều đã tung ra camera "hai mắt" từ đầu năm.
+ Camera an ninh ống kính kép thường có một "mắt" ít linh hoạt hơn, đóng vai trò theo dõi góc quay cố định. "Mắt" còn lại có cơ chế xoay linh hoạt 350 độ để bắt chuyển động, phát hiện cháy hoặc di chuyển theo hướng điều khiển của người dùng.
+ Cách này giúp hệ thống luôn ghi nhận đủ hình ảnh ở các góc, không bỏ lỡ tình huống quan trọng.
+ Thế hệ camera hai ống kính của Dahua gồm hai dòng là Dual Hero D1 sử dụng trong nhà và Dual Picoo D1 có thiết kế chống thời tiết khắc nghiệt sử dụng ngoài trời.
+ Mỗi dòng chia hai loại độ phân giải 3 megapixel và 5 megapixel cho cả hai ống kính.
+ Camera wifi mới của Dahua cũng tích hợp công nghệ AI để nhận biết, phân biệt giữa người, vật nuôi và phương tiện.
+ Hệ thống sẽ liên tục cập nhật để giảm tình trạng cảnh báo giả, sử dụng được cho các khu vực chuyên biệt như gara xe, trước cửa ra vào hay trong nhà.
+ Ngoài giám sát, dòng Dual hỗ trợ đàm thoại hai chiều với loa ngoài tích hợp.
+ Khi phát hiện bất thường, camera phát cảnh báo bằng âm thanh, ánh sáng, đồng thời gửi thông báo đến điện thoại người dùng thông qua ứng dụng điều khiển DMSS.

@@ -1,20 +1,25 @@
-Vượt qua 4.
-700 startup trên khắp thế giới, AI Hay và Kompato AI của các nhà sáng lập Việt được Amazon chọn để hỗ trợ phát triển.
- Tại sự kiện AWS Cloud Day Vietnam ở Hà Nội tuần này, Amazon Web Services (AWS) cho biết việc hỗ trợ sẽ bắt đầu từ cuối tháng 9.
- Hai công ty được nhận "AWS credit" trị giá tương đương một triệu USD để xây dựng, huấn luyện, thử nghiệm và ra mắt giải pháp AI tạo sinh.
- Chương trình kéo dài 10 tuần tại trụ sở chính của Amazon ở Mỹ. Khi hoàn thành, họ sẽ có khả năng xây dựng một sản phẩm hoàn chỉnh và được giới thiệu tại một trong những sự kiện khởi nghiệp lớn nhất hiện nay của hãng là re:Invent vào cuối năm.
- AI Hay là mạng xã hội được thiết kế dạng hỏi đáp, ứng dụng AI để đưa ra câu trả lời cho người dùng.
- Theo các nhà sáng lập, sản phẩm ứng dụng các mô hình ngôn ngữ lớn và được tùy chỉnh theo văn hóa Việt Nam.
- Trung bình hàng tháng, AI này xử lý khoảng 10.
-000 câu hỏi, tương đương 300 câu mỗi ngày.
- Trong khi đó, Kompato AI thuộc Trusting Social được đánh giá tiên phong trong ứng dụng AI vào nền tảng Quản lý Tài khoản cho các tổ chức cho vay tiêu dùng.
- Việc chọn startup là một phần trong kế hoạch trị giá 230 triệu USD của AWS nhằm thúc đẩy phát triển ứng dụng AI toàn cầu, tập trung vào dự án khởi nghiệp trong giai đoạn đầu. Năm nay, họ sẽ hỗ trợ 80 công ty trong hơn 4.
-700 đơn đăng ký từ 129 quốc gia, tức tỷ lệ 1,7%.
- Đông Nam Á có ba dự án được chọn, hai trong số đó là của người Việt.
- Theo bà Priya Lakshmi, Giám đốc Kinh doanh Khởi nghiệp của AWS khu vực ASEAN, quy trình tuyển chọn không chỉ tập trung vào sử dụng AI sáng tạo, mà còn nhấn mạnh sức mạnh nền tảng của các nhóm, khả năng mang lại giá trị thực sự cho người dùng, khả năng mở rộng ra toàn cầu.
- Các startup được xem xét kinh nghiệm, thành tích của nhóm sáng lập, sau đó đánh giá mức độ phù hợp và trưởng thành của sản phẩm trên thị trường. Ngoài ra, điểm cộng đến từ việc các dự án có những nhân sự giỏi về máy học và khoa học dữ liệu.
- Tiếp đến là quá trình đánh giá năng lực kỹ thuật và mô hình kinh doanh. "Chúng tôi tự hào khi có ba công ty khởi nghiệp từ Đông Nam Á, đặc biệt là từ Việt Nam.
- Đây là minh chứng cho chất lượng và tiềm năng của các công ty khởi nghiệp trong khu vực này", bà Lakshmi nói.
- Trần Đức, CEO của AI Hay, nói việc được AWS hỗ trợ có thể giúp công ty đẩy nhanh quá trình phát triển AI và nâng tầm giải pháp của công ty.
- AWS cho biết sẽ thúc đẩy dự án phát triển thành một nền tảng khám phá tri thức tiên tiến, được hỗ trợ bởi Mô hình ngôn ngữ lớn (LLM).
- Trong khi đó, tiến sĩ Nguyễn An Nguyên, CEO của Kompato AI, cho rằng đây là cơ hội để giới thiệu cách AI tạo sinh có thể tạo nên những phương thức sáng tạo mới. "Chương trình này cũng giúp Kompato AI mở rộng giải pháp của mình sang khu vực châu Á và châu Mỹ", ông Nguyên nói.
+Người dùng Indonesia chưa thể mua iPhone 16 do nước này yêu cầu Apple bổ sung khoản đầu tư để đủ điều kiện.
+ Đến ngày 12/10, iPhone 16 vẫn chưa xuất hiện trên trang web về TKDN của Bộ Công nghiệp Indonesia, đồng nghĩa sản phẩm chưa thể lên kệ tại thị trường này.
+ TKDN là điều kiện về tỷ lệ nội địa hóa của Indonesia, trong đó sản phẩm bán tại nước này phải có một tỷ lệ thành phần xuất xứ trong nước nhất định.
+ Với sản phẩm điện tử như smartphone, tỷ lệ này tối thiểu 35%. "iPhone 16 vẫn chưa thể vào thị trường Indonesia vì Apple đang trong quá trình lấy chứng chỉ TKDN, một trong những điều kiện nhập khẩu điện thoại", Bộ trưởng Công nghiệp Indonesia Agus Gumiwang Kartasasmita nói ngày 8/10.
+ Ông cho biết hãng điện thoại Mỹ từng có giấy phép, nhưng đã hết hạn và Indonesia đang yêu cầu gia hạn bằng việc bổ sung khoản đầu tư.
+ Theo báo chí địa phương, Apple cam kết đầu tư 1,71 nghìn tỷ IDR (110 triệu USD) và mới thực hiện 1,48 nghìn tỷ IDR, tức còn 240 tỷ INR (15,4 triệu USD). "Sau khi họ tuân thủ, chúng tôi sẽ cấp giấy phép bán iPhone 16.
+ Tất cả dựa trên sự công bằng cho các nhà đầu tư có cam kết cao vào Indonesia", CNBC Indonesia dẫn lời ông Agus, cho rằng đây là khoản "tương đối nhỏ" so với những gì Apple có thể thu được từ thị trường gần 300 triệu dân này.
+ Theo Channelnewsasia, yêu cầu của Indonesia đã gây ra những ý kiến trái chiều từ người dùng trong nước.
+ Nhiều người nói Apple và các công ty cần tuân thủ quy định khi hoạt động tại đây.
+ Trong khi đó, số khác cho rằng quy định phức tạp cản trở việc tiếp cận công nghệ của người dùng, khiến họ phải mua iPhone 16 từ thị trường Singapore, Malaysia và mang lại lợi nhuận cho những nước đó.
+ Trang này dẫn chứng iPhone 16 tại Singapore có giá trung bình 1.
+000 USD, nhưng người dân Indonesia đang phải chi thêm 155 USD để sở hữu dưới dạng máy "xách tay".
+ Có ba phương án để một hãng đạt điều kiện TKDN tại Indonesia, gồm có kế hoạch sản xuất thiết bị, kế hoạch sáng tạo ứng dụng, hoặc kế hoạch phát triển đổi mới sáng tạo trong nước.
+ Apple chọn phương án thứ ba, thông qua xây dựng các học viện cho nhà phát triển.
+ Theo ông Agus, Apple "không nên chỉ thành lập học viện", mà cần mở nhà máy hoặc trung tâm nghiên cứu và phát triển.
+ Khi đó, hãng sẽ có tỷ lệ TKDN 40% và các sản phẩm dễ dàng vào thị trường.
+ Apple là hãng điện thoại lớn duy nhất chưa có nhà máy ở Indonesia, trong khi Samsung và các công ty Trung Quốc như Xiaomi, Oppo, Vivo đều đã sản xuất điện thoại tại đây.
+ Tuy nhiên, giải thích trên CNBC Indonesia, Budi Arie Setiadi, Bộ trưởng Thông tin và Truyền thông Indonesia cho biết Apple đề nghị được ưu đãi "tương tự họ đã nhận được tại Việt Nam", trong đó có ưu đãi về thuế nếu đảm bảo cung cấp được hàng trăm nghìn việc làm.
+ Theo ông Budi, yêu cầu này "quá lớn" và có thể khiến các hãng khác đòi hỏi tương tự. "Điều đó không thể", Budi nói.
+ Trả lời trang tin này ngày 11/10, Apple khẳng định "đã đầu tư đáng kể và tiếp tục phát triển" tại Indonesia. "Chúng tôi có cam kết lớn với Indonesia và rất nhiệt tình trong việc đưa ngay các sản phẩm mới nhất của mình, bao gồm iPhone 16 đến với khách hàng", hãng này nói.
+ Trong chuyến thăm của CEO Tim Cook đến Indonesia hồi tháng 4, CEO Apple đã khai trương học viện thứ tư ở nước này tại Bali, đồng thời "cân nhắc thiết lập sản xuất".
+ Khi thăm Việt Nam trước đó, Tim Cook cho biết Apple đã chi 400.
+000 tỷ đồng cho khoảng 150 nhà cung cấp tại Việt Nam từ 2019 tới nay, đồng thời cam kết mua nhiều hơn linh phụ kiện do đối tác sản xuất trong nước, hỗ trợ Việt Nam trong lĩnh vực đổi mới sáng tạo.
+ Hãng không có nhà máy sản xuất trực tiếp ở Việt Nam, nhưng thông qua hơn 70 nhà máy của đối tác sản xuất thiết bị gốc với hơn 250.
+000 lao động, chuyên cung cấp linh kiện điện tử như bảng điện, camera, màn hình và lắp ráp hoàn thiện sản phẩm cho Apple.

@@ -1,28 +1,19 @@
-Giải Nobel Hóa học 2024 được trao cho ba nhà khoa học David Baker, Demis Hassabis, John Jumper với nghiên cứu về protein lúc 11h45 ngày 9/10 giờ địa phương (16h45 ngày 9/10 giờ Hà Nội).
- Viện Hàn lâm Khoa học Hoàng gia Thụy Điển công bố chủ nhân của giải Nobel Hóa học năm 2024 gồm: David Baker, 62 tuổi, Giáo sư tại Đại học Washington, Mỹ; Demis Hassabis, 48 tuổi, là CEO của Google DeepMind tại Anh và John Jumper, 39 tuổi, là nghiên cứu cấp cao tại Google DeepMind, Anh.
- Họ được vinh danh nhờ những đóng góp trong nghiên cứu protein, công cụ hóa học độc đáo của sự sống.
- David Baker gặt hái thành công trong việc xây dựng những loại protein hoàn toàn mới, một thành tích gần như bất khả thi.
- Demis Hassabis và John Jumper phát triển mô hình trí tuệ nhân tạo (AI) giúp lý giải vấn đề tồn tại suốt 50 năm: dự đoán cấu trúc phức tạp của protein. Những phát hiện này có tiềm năng khổng lồ.
- Tính đa dạng của sự sống kiểm chứng khả năng tuyệt vời của các protein trong vai trò công cụ hóa học.
- Chúng điều khiển và thúc đẩy mọi phản ứng hóa học tạo nên nền tảng của sự sống.
- Protein cũng đóng vai trò như hormone, hợp chất tín hiệu, kháng thể và khối xây dựng của những loại mô khác nhau. "Một trong những phát hiện được công nhận năm nay liên quan đến xây dựng các protein độc đáo.
- Phát hiện còn lại hoàn thành giấc mơ từ 50 năm trước là dự đoán cấu trúc protein từ chuỗi axit amin.
- Cả hai phát hiện đều mở ra những tiềm năng to lớn", Heiner Linke, chủ tịch Hội đồng Nobel Hóa học, chia sẻ.
- Protein thường gồm 20 axit amin khác nhau, có thể được mô tả như những khối xây dựng sự sống. Năm 2003, David Baker thành công sử dụng những khối này để thiết kế một protein mới không giống bất cứ protein nào khác. Kể từ đó, nhóm nghiên cứu của ông liên tục tạo ra những protein sáng tạo, bao gồm protein có thể dùng làm dược phẩm, vaccine, vật liệu nano và cảm biến siêu nhỏ.
- Phát hiện thứ hai liên quan đến việc dự đoán cấu trúc protein.
- Trong protein, các axit amin liên kết với nhau thành những chuỗi dài xếp lại tạo thành cấu trúc ba chiều, mang ý nghĩa quyết định với chức năng của protein.
- Từ những năm 1970, các nhà nghiên cứu đã cố gắng dự đoán cấu trúc protein từ trình tự axit amin, nhưng điều này cực kỳ khó.
- Sau đó một đột phá đáng kinh ngạc diễn ra. Năm 2020 Demis Hassabis và John Jumper tạo ra mô hình AlphaFold2.
- Với sự hỗ trợ của mô hình AI này, họ có thể dự đoán cấu trúc của tất cả 200 triệu protein mà giới nghiên cứu đã nhận dạng.
- Từ sau đột phá đó, AlphaFold2 được sử dụng bởi hơn hai triệu người từ 190 nước.
- Trong số hàng loạt ứng dụng khoa học, các nhà nghiên cứu có thể hiểu rõ hơn tình trạng kháng kháng sinh và tạo ra ảnh enzyme có thể phân hủy nhựa.
- Sự sống không thể tồn tại mà không có protein.
- Việc chúng ta có thể dự đoán cấu trúc protein và thiết kế protein sẽ đem lại lợi ích lớn nhất cho nhân loại.
- Giải thưởng năm nay trị giá 11 triệu krona Thụy Điển (khoảng 1.
-060.
-800 USD), trong đó một nửa dành cho David Baker, nửa còn lại dành cho Demis Hassabis và John Jumper. Năm ngoái, giải Nobel Hóa học được trao cho ba nhà khoa học Moungi G.
- Bawendi, Louis E.
- Brus và Alexei I.
- Ekimov với nghiên cứu nghiên cứu chấm lượng tử, những bộ phận nhỏ nhất của công nghệ nano, ứng dụng truyền ánh sáng từ TV và đèn LED, chiếu sáng mô ung thư cho bác sĩ phẫu thuật. Nobel là giải thưởng quốc tế do Quỹ Nobel tại Stockholm lập ra từ năm 1901 dựa trên tài sản của Alfred Nobel, nhà phát minh kiêm doanh nhân Thụy Điển.
- Giải thưởng được trao thường niên cho những cá nhân và tổ chức có cống hiến nổi bật trong các lĩnh vực Y sinh, Hóa học, Vật lý, Văn học, Hòa bình. Năm 1968, Ngân hàng Trung ương Thụy Điển lập ra Giải thưởng của Ngân hàng Thụy Điển cho Khoa học kinh tế để tưởng nhớ Nobel, còn gọi là giải Nobel Kinh tế. Mỗi giải thưởng gồm huy chương, bằng chứng nhận cá nhân và một khoản tiền thưởng không cố định.
- Từ năm 1901 - 2023, giải thưởng đã được trao 622 lần cho 1002 cá nhân và tổ chức trên thế giới.
+Từng là tàu chở khách lớn nhất Mỹ, SS United States có thể được đánh chìm làm rạn san hô nhân tạo, mang lại lợi ích kinh tế, môi trường.
+ SS United States, tàu chở khách mang tính lịch sử và từng là một biểu tượng xa xỉ của Mỹ, có thể sẽ sớm "an nghỉ" dưới đáy vịnh Mexico, Interesting Engineering hôm 2/10 đưa tin.
+ Hạt Okaloosa, bang Florida, đã ký thỏa thuận sơ bộ để đánh chìm con tàu và biến nó thành rạn san hô nhân tạo lớn nhất thế giới.
+ Được chế tạo vào năm 1952, SS United States dài khoảng 300 m, dài hơn Titanic 30 m và từng là tàu chở khách lớn nhất ở Mỹ.
+ Nó lập kỷ lục với tốc độ đáng kinh ngạc và gây ấn tượng khi vượt Đại Tây Dương ngay trong chuyến đi biển đầu tiên.
+ SS United States do kiến trúc sư hải quân nổi tiếng William Francis Gibbs thiết kế và được chế tạo bằng công nghệ tiên tiến nhất thời đó.
+ Chính phủ Mỹ đã tài trợ mạnh tay cho quá trình đóng tàu với ý định chuyển đổi nó thành tàu vận tải quân sự nếu cần.
+ Các đặc điểm tốc độ và tính an toàn cao của SS United States chịu ảnh hưởng từ thiết kế tàu quân sự.
+ Đây cũng là một trong những tàu an toàn và nhanh nhất thời đó.
+ Hoàn toàn không có gỗ trong các khu vực hành khách do Gibbs lo ngại về nguy cơ cháy nổ.
+ Sự phát triển của ngành hàng không và nhiều yếu tố khác dẫn đến việc SS United States "nghỉ hưu" vào năm 1969, chỉ sau 17 năm phục vụ.
+ Một số chủ sở hữu đã cố gắng chuyển đổi con tàu thành bảo tàng hoặc điểm thu hút du lịch nhưng không thành công.
+ Kết quả là nó bị bỏ hoang suốt nhiều thập kỷ.
+ Hiện tại, giải pháp đề xuất là đánh chìm SS United States, biến nó thành rạn san hô nhân tạo ngoài khơi bờ biển Florida.
+ Giải pháp này được coi là cơ hội để bảo tồn con tàu, đồng thời mang lại lợi ích cho môi trường và kinh tế địa phương.
+ Sau khi chìm xuống nước, SS United States sẽ gia nhập mạng lưới hơn 500 rạn san hô nhân tạo trong khu vực.
+ Vai trò mới của SS United States sẽ là một điểm thu hút lặn biển và câu cá, có thể đem về hàng triệu USD mỗi năm cho ngành du lịch địa phương.
+ Ngoài tiềm năng kinh tế, việc chuyển đổi tàu thành rạn san hô còn có lợi cho sinh vật biển.
+ Các rạn san hô nhân tạo cung cấp nơi trú ẩn và sinh sản cho nhiều loài, gia tăng đa dạng sinh học và nâng cao sức khỏe tổng thể của hệ sinh thái biển.

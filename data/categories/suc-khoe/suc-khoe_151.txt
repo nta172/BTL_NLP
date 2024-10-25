@@ -1,23 +1,23 @@
-Bộ Y tế quy định thuốc kê đơn tối đa 5 ngày nhưng nhiều người dân vẫn mua được thuốc dù cầm đơn cũ.
- Thông tin được ông Nguyễn Hữu Trọng, Tổng thư ký Hội Tin học y tế Việt Nam, chia sẻ tại Hội thảo Phát triển thị trường dược phẩm trong nước - Giải pháp từ chuyển đổi số, do báo Tuổi trẻ tổ chức ngày 19/10, tại Hà Nội. "Tình trạng bán, mua thuốc không đơn rất phổ biến, kể cả các loại thuốc kê đơn, thuốc kháng sinh, làm gia tăng tình trạng kháng kháng sinh", ông Trọng nói, thêm rằng thực tế việc sử dụng đơn thuốc giấy không thể quản lý được bán thuốc theo đơn.
- Ông chỉ ra 3 bất cập lớn khi kê đơn thuốc giấy dù kê bằng máy tính trên phần mềm hay viết tay trên sổ y bạ.
- Thứ nhất, đơn thuốc giấy không xác minh được tính chính xác của đơn, có thật hay không, người kê đơn hay cơ sở xuất đơn có đủ thẩm quyền hay không.
- Bên cạnh đó, đơn thuốc giấy cũng không thể xác nhận được cập nhật trạng thái đơn (đã bán/mua thuốc toàn phần hay một phần), dẫn đến tình trạng người dân sử dụng đơn thuốc nhiều lần, cơ sở bán lẻ bán thuốc nhiều lần cùng một đơn.
- Cuối cùng, đơn thuốc giấy sẽ không quản lý được thời hạn đơn, trong khi quy định hiện nay thuốc kê đơn tối đa là 5 ngày (kể từ ngày kê đơn) nhưng nhiều người dân vẫn mua được thuốc dù cầm đơn thuốc cả nhiều năm trước. Nhiều trường hợp, chữ bác sĩ trên đơn thuốc kê tay như "đánh đố" người bệnh, dược sĩ, điều này có thể dẫn đến việc bán sai loại thuốc, dùng sai liều, ảnh hưởng sức khỏe.
- Vì vậy, ông Trọng cho rằng việc xây dựng hệ thống bán thuốc và quản lý đơn thuốc theo đơn quốc gia, bất kể thuốc được kê tại cơ sở y tế công lập, tư nhân, bệnh viện hay phòng khám, là cần thiết.
- Điều này giúp đảm bảo minh bạch đơn thuốc, sử dụng thuốc an toàn cho người dân, quản lý hành nghề của bác sĩ...
- Hiện nay, Bộ Y tế đã triển khai hệ thống đơn thuốc quốc gia giúp việc quản lý đơn thuốc minh bạch.
- Trong đó, hệ thống quản lý thuốc kê đơn có đầy đủ mã cơ sở khám chữa bệnh, mã bác sĩ, mã đơn thuốc - những dữ liệu này được liên thông, tập trung trên hệ thống quản lý thuốc kê đơn.
- Dự kiến, mỗi năm hệ thống này có thể lưu trữ tới 600 triệu đơn thuốc.
- Tuy nhiên, sau 2 năm triển khai, đến nay, mới chỉ có 200 triệu đơn thuốc được liên thông từ hơn 20.
-000 cơ sở khám chữa bệnh và hơn 100.
-000 bác sĩ được cấp mã. "Hệ thống đã có, tuy nhiên chưa được thực hiện hiệu quả", ông Trọng nói, dẫn chứng trên toàn quốc, chỉ có khoảng 1.
-000 bệnh viện đang thực hiện liên thông đơn thuốc Quốc gia, đạt gần 70%.
- Hơn 460 bệnh viện chưa triển khai liên thông.
- Số cơ sở khám chữa bệnh và bác sĩ được cấp mã đơn chỉ chiếm khoảng một nửa số cơ sở và người kê đơn thuốc trên toàn quốc.
- Đối với nhóm trạm y tế hay cơ sở y tế tư nhân càng ít ỏi hơn.
- Vì vậy, ông Trọng cho rằng cần giám sát việc bán thuốc điện tử theo quy định, đồng thời tuyên truyền người dân mua thuốc theo đơn.
- Chính phủ cần ban hành hoặc sửa đổi bổ sung các chế tài xử phạt đủ để cơ sở khám chữa bệnh và bán thuốc phải thực hiện.
- Tại hội thảo, ông Chu Đăng Trung, Trưởng phòng pháp chế - hội nhập, Cục Quản lý dược (Bộ Y tế), cho biết, trong dự thảo sửa đổi bổ sung Luật Dược 2016 có nhiều điểm mới.
- Trong đó, có quản lý chặt chẽ giá thuốc nhằm bình ổn thị trường thuốc theo quy định của Luật Giá 2023 và đảm bảo tính đặc thù của Luật Dược.
- Các biện pháp quản lý giá thuốc là niêm yết giá bán buôn, giá bán lẻ thuốc, bình ổn giá và hiệp thương giá theo quy định của pháp luật về giá.
+Tôi kết hôn 4 năm chưa có con, tinh dịch đồ không có tinh trùng, vô sinh, xét nghiệm di truyền phát hiện mắc hội chứng Klinefelter.
+ Hội chứng Klinefelter là tình trạng bất thường nhiễm sắc thể (NST) gây thiểu năng sinh dục và vô sinh ở nam giới.
+ Ở nam giới bình thường, bộ NST có 46 NST với cặp NST giới tính là XY.
+ Nam giới mắc hội chứng Klinefelter có hai hoặc nhiều hơn nhiễm sắc thể X trong bộ NST (XXY).
+ Nguyên nhân của tình trạng này có thể là di truyền hoặc lỗi đột biến ngẫu nhiên do sự không phân tách của nhiễm sắc thể X trong quá trình phân bào hình thành giao tử.
+ Tuổi người mẹ cao cũng là một trong những nguy cơ làm tăng bất thường trong quá trình phân bào.
+ Có thêm một NST X dẫn tới ảnh hưởng đến khả năng sản xuất tinh trùng, xơ hóa tinh hoàn, giảm khả năng sinh tinh, gây bất thường ở cơ quan sinh dục và vô sinh.
+ Số NST X tăng lên kéo theo mức độ tàn tật về trí tuệ và dị tật cũng tăng.
+ Trước đây, hầu hết trường hợp được chỉ định xin tinh trùng để có con, tức đứa trẻ sinh ra không cùng huyết thống với bố.
+ Hiện, tìm kiếm tinh trùng cho nam giới mắc Klinefelter không quá khó khăn nhờ phương pháp micro-TESE (vi phẫu tích mô tinh hoàn tìm tinh trùng).
+ Với hệ thống kính vi phẫu hiện đại, bác sĩ có thể "đào sâu" mọi ngóc ngách trong tinh hoàn để tìm những ống sinh tinh tiềm năng chuyển đến phòng labo.
+ Bằng hệ thống kính hiển vi độ phóng đại 300 lần, chuyên viên phôi học tìm kiếm những tinh binh khỏe mạnh rồi thực hiện kỹ thuật tiêm tinh trùng vào bào tương noãn (ICSI) để thụ tinh tạo phôi.
+ Để tối ưu tỷ lệ thành công, bạn có thể được chỉ định kỹ thuật micro-TESE song song cùng ngày chọc hút noãn của vợ.
+ Vợ của bạn sẽ được chuẩn bị niêm mạc tử cung đủ điều kiện, chuyển phôi vào lòng tử cung giúp đậu thai.
+ Nam giới mắc hội chứng Klinefelter thường khởi phát suy sinh dục sớm.
+ Do đó, phát hiện và điều trị kịp thời, khi khả năng sinh tinh chưa cạn kiệt hoàn toàn, giúp tăng tỷ lệ tìm thấy tinh trùng và có con của chính mình.
+ Bạn nên đến Trung tâm Hỗ trợ sinh sản để được khám toàn diện về mặt lâm sàng và thực hiện các xét nghiệm chuyên sâu cần thiết khác về chỉ số nội tiết, di truyền, hình ảnh học...
+ Về lâu dài, bạn có thể phải đối mặt với nhiều vấn đề về sức khỏe khác như tăng nguy cơ mắc các rối loạn liên quan đến kháng insulin như đái tháo đường type 2, gan nhiễm mỡ, huyết khối tắc mạch, rối loạn lipid máu, bệnh mạch máu ngoại vi...
+ Mật độ xương cũng có những ảnh hưởng tiêu cực, tỷ lệ loãng xương cao hơn, nguy cơ đối mặt với những khối u ác tính cũng tăng lên.
+ Tại Trung tâm Hỗ trợ sinh sản, Bệnh viện Đa khoa Tâm Anh TP HCM, ngoài việc cố gắng giúp người bệnh có con, các bác sĩ còn tư vấn và hướng dẫn người bệnh cải thiện chất lượng cuộc sống.
+ Nam giới mắc Klinefelter thường có tầm vóc cao, tinh hoàn nhỏ và nữ hóa tuyến vú.
+ Trường hợp có các dấu hiệu bất thường, nghi ngờ, kết hôn sau một năm chưa có con cần đến Trung tâm Hỗ trợ sinh sản để được khám, chẩn đoán chính xác, điều trị sớm.
+ Nam giới chưa kết hôn hoặc chưa có đủ con nên cân nhắc phương pháp trữ đông tinh trùng bảo tồn khả năng sinh sản, giảm nguy cơ phải xin tinh trùng hiến tặng trong tương lai.

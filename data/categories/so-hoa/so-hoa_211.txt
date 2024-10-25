@@ -1,15 +1,19 @@
-Để mua iPhone 16 ngay trong ngày mở bán, nhiều người Việt sang Singapore, Thái Lan, đảo Đài Loan xếp hàng từ 19/9.
- Tại Thái Lan, quy trình diễn ra tương tự ở Apple Store Central World.
- Đây là địa điểm mới được nhiều người Việt lựa chọn bởi chi phí thấp và thời gian di chuyển ngắn hơn.
- Tại Thái Lan, quy trình diễn ra tương tự ở Apple Store Central World.
- Đây là địa điểm mới được nhiều người Việt lựa chọn bởi chi phí thấp và thời gian di chuyển ngắn hơn.
- Tuấn Anh (Hà Nội) cho biết anh không đăng ký trước, nên khi đến được thông báo iPhone 16 Pro và 16 Pro Max màu titan sa mạc đã hết hàng.
- Các phiên bản còn lại vẫn còn và có thể nhận máy luôn.
- Đến 8h, những chiếc iPhone 16 đầu tiên được bán ra và nhanh chóng đưa về Việt Nam, sớm nhất vào 12h tại TP HCM.
- Theo một số cửa hàng kinh doanh iPhone xách tay, những máy đầu tiên đang được bán với giá 70 triệu đồng cho bản 1 TB màu titan sa mạc.
- Hôm nay cũng là ngày mở đặt hàng trực tuyến iPhone 16 ở Việt Nam. Máy có giá khởi điểm 23 triệu đồng cho dung lượng 128 GB, trong khi 16 Pro Max từ 35 triệu đồng cho bộ nhớ 256 GB.
- Sản phẩm chính hãng VN/A sẽ được giao sớm nhất ngày 26-27/9.
- Đến 8h, những chiếc iPhone 16 đầu tiên được bán ra và nhanh chóng đưa về Việt Nam, sớm nhất vào 12h tại TP HCM.
- Theo một số cửa hàng kinh doanh iPhone xách tay, những máy đầu tiên đang được bán với giá 70 triệu đồng cho bản 1 TB màu titan sa mạc.
- Hôm nay cũng là ngày mở đặt hàng trực tuyến iPhone 16 ở Việt Nam. Máy có giá khởi điểm 23 triệu đồng cho dung lượng 128 GB, trong khi 16 Pro Max từ 35 triệu đồng cho bộ nhớ 256 GB.
- Sản phẩm chính hãng VN/A sẽ được giao sớm nhất ngày 26-27/9.
+Hacker chiếm quyền điều khiển robot hút bụi tại nhiều thành phố và phát những câu chửi thề qua cụm loa tích hợp trên thiết bị.
+ Daniel Swenson, luật sư tại bang Minnesota, đang xem TV bỗng thấy điều bất thường trên robot hút bụi Ecovacs Deebot X2. "Nghe giống âm thanh vô tuyến bị nhiễu hay gì đó.
+ Tôi loáng thoáng thấy tiếng nói trong loa", ông nói với ABC News.
+ Thông qua ứng dụng Ecovacs, Swenson phát hiện người lạ đang tìm cách truy cập camera và tính năng điều khiển robot từ xa.
+ Cho rằng là sự cố phần mềm, Swenson đổi mật khẩu và khởi động lại robot, sau đó ngồi xuống cùng vợ và con trai 13 tuổi.
+ Robot gần như lập tức di chuyển.
+ Lần này tiếng nói phát từ loa rất rõ, là những câu chửi thề tục tĩu mang tính phân biệt chủng tộc. "Tôi nghĩ người nói có thể là thiếu niên.
+ Có thể họ chỉ xâm nhập thiết bị để trêu đùa", Swenson kể lại sự việc diễn ra ngày 24/5.
+ Robot được gia đình Swenson đặt cùng tầng với phòng tắm chung của gia đình.
+ Ông cho rằng sự việc có thể tồi tệ hơn nếu hacker âm thầm theo dõi gia đình, thay vì phát ra những câu chửi để cho thấy robot đã bị xâm nhập. "Tôi bị sốc, sợ hãi và ghê tởm", Swenson nói.
+ Con trai ông chưa hiểu rõ mức độ nghiêm trọng của sự việc, nhưng luật sư Mỹ quyết định không mạo hiểm và vứt robot vào garage, không bao giờ bật lại.
+ Sự việc tương tự xảy ra ở hàng loạt thành phố Mỹ trong vài ngày hồi tháng 5, khi hacker chiếm quyền điều khiển và phát những câu nói khiếm nhã bằng loa tích hợp trên thiết bị.
+ Tất cả sản phẩm bị tấn công đều là Deebot X2 của Ecovacs có trụ sở tại Trung Quốc.
+ Cùng ngày robot của Swenson bị tấn công, một chiếc Deebot X2 khác đã truy đuổi chó của một gia đình quanh ngôi nhà ở thành phố Los Angeles.
+ Nó được điều khiển từ xa và liên tục phát ra những bình luận xúc phạm.
+ Không rõ tổng cộng bao nhiêu thiết bị đã bị kiểm soát.
+ Ecovacs nói không có dấu hiệu cho thấy các tài khoản bị xâm nhập thông qua lỗ hổng trong hệ thống của công ty.
+Các nhà nghiên cứu an ninh từng cảnh báo Ecovacs về lỗ hổng trên robot và ứng dụng điều khiển, nghiêm trọng nhất là vấn đề với kết nối Bluetooth, cho phép người lạ điều khiển robot từ khoảng cách 100 m.
+ Tuy nhiên, mức độ phân tán rộng của đợt tấn công mới cho thấy một lỗ hổng khác đã bị khai thác.

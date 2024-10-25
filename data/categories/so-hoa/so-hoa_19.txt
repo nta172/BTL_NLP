@@ -1,29 +1,12 @@
-Galaxy S24 FE, phiên bản giá tốt của dòng S24, được nâng cấp chip xử lý, pin và hỗ trợ AI tạo sinh. Màn hình máy tăng kích thước lên 6,7 inch, bằng S24+ thay cho 6,4 inch của thế hệ trước.
- Sản phẩm vẫn dùng tấm nền Dynamic AMOLED 2X, độ phân giải Full HD+, tần số quét 120 Hz và cảm biến vân tay ẩn dưới màn hình. Màn hình máy tăng kích thước lên 6,7 inch, bằng S24+ thay cho 6,4 inch của thế hệ trước.
- Sản phẩm vẫn dùng tấm nền Dynamic AMOLED 2X, độ phân giải Full HD+, tần số quét 120 Hz và cảm biến vân tay ẩn dưới màn hình.
- Thiết kế của S24 FE thừa hưởng từ "đàn anh" S24 với khung sườn bằng kim loại bản to và được làm phẳng, giúp máy nhìn mạnh mẽ và cứng cáp hơn nhưng cảm giác cầm không tốt bằng thiết kế bo cong. Mặt lưng kính Gorilla Glass Victus+ tốt nhất hiện nay, khả năng chống nước IP68 cũng cao nhất trong phân khúc. Máy có bốn màu xanh ngọc, xanh lơ, xám và đen.
- Thiết kế của S24 FE thừa hưởng từ "đàn anh" S24 với khung sườn bằng kim loại bản to và được làm phẳng, giúp máy nhìn mạnh mẽ và cứng cáp hơn nhưng cảm giác cầm không tốt bằng thiết kế bo cong. Mặt lưng kính Gorilla Glass Victus+ tốt nhất hiện nay, khả năng chống nước IP68 cũng cao nhất trong phân khúc. Máy có bốn màu xanh ngọc, xanh lơ, xám và đen.
- Galaxy S24 FE chạy Android 14 với giao diện OneUI 6.
-1.
- Samsung cho biết model này sẽ được cập nhật phần mềm và bảo mật trong 7 năm, vượt xa các đối thủ.
- Điểm nhấn của S24 FE là hỗ trợ đầy đủ tính năng AI tạo sinh của Samsung như Circle to Search - nhấn giữ nút Home và khoanh tròn thứ cần tìm kiếm), Live Translate - dịch trực tiếp giọng nói cho các cuộc gọi và đã hỗ trợ một số ứng dụng của bên thứ ba.
- Galaxy S24 FE chạy Android 14 với giao diện OneUI 6.
-1.
- Samsung cho biết model này sẽ được cập nhật phần mềm và bảo mật trong 7 năm, vượt xa các đối thủ.
- Điểm nhấn của S24 FE là hỗ trợ đầy đủ tính năng AI tạo sinh của Samsung như Circle to Search - nhấn giữ nút Home và khoanh tròn thứ cần tìm kiếm), Live Translate - dịch trực tiếp giọng nói cho các cuộc gọi và đã hỗ trợ một số ứng dụng của bên thứ ba.
- Cụm ba camera sau có thông số giống thế hệ trước, gồm camera chính 50 megapixel chống rung quang học OIS, góc siêu rộng 12 megapixel và ống tele 8 megapixel hỗ trợ zoom quang 3x.
- Tuy nhiên, chất lượng ảnh tốt hơn nhờ chip xử lý mới và Samsung đưa công nghệ ProVisual từ dòng cao cấp vào dòng FE.
- Công nghệ này kết hợp Nightography (AI ISP cải thiện ảnh chụp thiếu sáng) với công nghệ nhận biết vật thể giúp tối ưu hóa màu sắc khi chụp Super HDR.
- Cụm ba camera sau có thông số giống thế hệ trước, gồm camera chính 50 megapixel chống rung quang học OIS, góc siêu rộng 12 megapixel và ống tele 8 megapixel hỗ trợ zoom quang 3x.
- Tuy nhiên, chất lượng ảnh tốt hơn nhờ chip xử lý mới và Samsung đưa công nghệ ProVisual từ dòng cao cấp vào dòng FE.
- Công nghệ này kết hợp Nightography (AI ISP cải thiện ảnh chụp thiếu sáng) với công nghệ nhận biết vật thể giúp tối ưu hóa màu sắc khi chụp Super HDR.
- Samsung đưa AI tạo sinh vào việc hậu kỳ ảnh hay video, với các tính năng như Generative Edit giúp di chuyển hay loại bỏ chủ thể không mong muốn, Portrait Studio giúp tạo ảnh chân dung theo nhiều phong cách.
- Với video, người dùng có thể tạo hiệu ứng slow-motion từ bất cứ video bình thường nào thông qua tính năng Instant Slow-mo.
- Samsung đưa AI tạo sinh vào việc hậu kỳ ảnh hay video, với các tính năng như Generative Edit giúp di chuyển hay loại bỏ chủ thể không mong muốn, Portrait Studio giúp tạo ảnh chân dung theo nhiều phong cách.
- Với video, người dùng có thể tạo hiệu ứng slow-motion từ bất cứ video bình thường nào thông qua tính năng Instant Slow-mo.
- Galaxy S24 FE bán tại Việt Nam gồm hai phiên bản với chip Exynos 2400, RAM 8 GB và bộ nhớ trong 128 hoặc 256 GB.
-So với các đối thủ từ Xiaomi, Oppo, máy có dung lượng RAM thấp hơn nhưng Exynos 2400 có hiệu năng tốt hơn, hỗ trợ công nghệ Ray Tracing khi chơi game. Ngoài ra, S24 FE có lợi thế khi có các tính năng như Samsung Pay, DeX hay Galaxy AI.
- Galaxy S24 FE sử dụng pin 4.
-700 mAh, cao hơn thế hệ trước 200 mAh.
- Tuy nhiên, máy vẫn chỉ hỗ trợ sạc nhanh 25 W, thấp hơn các đối thủ từ Trung Quốc trang bị pin ở mức 5.
-000 mAh và sạc lên tới 120 W.
+Facebook công bố hàng loạt cập nhật, trong đó có những thay đổi sẽ đưa người dùng ra khỏi vòng tròn người thân và bạn bè.
+ Một trong các cập nhật mới trên Facebook, được Meta công bố ngày 4/10, là bổ sung các mục (tab) để hiển thị nhiều nội dung đến người dùng hơn, trong đó có đề xuất dựa trên vị trí của họ.
+ Mục Local (Địa phương) sẽ tập hợp nội dung từ các phần khác như Marketplace, nhóm và sự kiện xung quanh người dùng.
+ Tính năng này đang được thử nghiệm tại 10 thành phố của Mỹ.
+ Facebook cũng bắt đầu thử nghiệm mục Explorer (Khám phá) với tính năng tương đồng Instagram, trong đó cá nhân hóa hình ảnh, video và nội dung riêng biệt cho người dùng.
+ Công ty cho biết phần này dựa trên sở thích của người dùng và sẽ hiển thị nội dung từ "người thật và cộng đồng chuyên gia".
+ Facebook cũng bổ sung bảng feed video toàn màn hình, tập trung các định dạng video và livestream vào một chỗ, tương tự trang For You của TikTok.
+ Meta cho biết người dùng trẻ đang dành 60% thời lượng truy cập Facebook để xem video, đồng thời cam kết thay đổi đáng kể thuật toán đề xuất nội dung trong mục này.
+ Ứng dụng nhắn tin Messenger cũng được nâng cấp thông qua Messenger Communities - tính năng có nhiều nét giống Discord và Slack.
+ Nó cho phép người dùng tạo nhiều phòng chat dựa trên những đề tài khác nhau trong một nhóm lớn, ví dụ lớp đại học có thể tạo nhiều phòng chat để phát thông báo và đưa tin.
+ Sự trỗi dậy của TikTok đã thúc đẩy nhiều nền tảng mạng xã hội giảm hiển thị nội dung đăng bởi người thân, bạn bè và các mối quan hệ có sẵn của người dùng, chuyển sang những nội dung từ các tài khoản lạ mà thuật toán cho rằng người dùng có thể ưa thích.
+ Meta thời gian qua cũng thông báo sẽ thực hiện biện pháp này cho cả Facebook và Instagram, trong đó lượng nội dung được đề xuất đang ngày càng tăng lên.

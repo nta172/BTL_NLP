@@ -1,13 +1,24 @@
-Giải Nobel Vật lý được trao cho hai nhà khoa học hôm 8/10 với phát hiện đặt nền móng cho trí tuệ nhân tạo mà những công cụ phổ biến như ChatGPT sử dụng. Nhà khoa học người Anh - Canada Geoffrey Hinton và nhà vật lý người Mỹ John Hopfield trở thành học giả đoạt giải Nobel Vật lý 2024 nhờ "phát hiện và phát minh cho phép học máy với mạng nơ-ron nhân tạo. Mark van der Wilk, chuyên gia về học máy ở Đại học Oxford, cho biết mạng nơ-ron nhân tạo là một cấu trúc toán lấy cảm hứng từ não người. Não người có mạng lưới tế bào gọi là nơ-ron, phản ứng trước những kích thích bên ngoài như thứ mắt nhìn thấy hay tai nghe được thông qua truyền tín hiệu cho nhau. Khi chúng ta học hỏi, một số kết nối giữa các nơ-ron trở nên mạnh hơn trong khi số khác yếu đi. Khác với máy tính thông thường hoạt động giống như đọc một công thức hơn, mạng nơ-ron nhân tạo mô phỏng quá trình này. Nơ-ron sinh học được thay thế bằng tính toán đơn giải gọi là "nút" và kích thích mà chúng học hỏi được thay thế bằng dữ liệu huấn luyện.
- Giới nghiên cứu cho rằng điều đó cho phép mạng lưới học hỏi theo thời gian, dẫn tới sự ra đời của thuật ngữ học máy.
- Trước khi máy móc có thể học hỏi, chúng cần một đặc điểm khác của con người là trí nhớ.
- Hopfield phát triển mạng Hopfield hay còn gọi là bộ nhớ liên kết vào đầu thập niên 1980.
- Ý tưởng phía sau mạng Hopfield là khi một mạng nơ-ron nhân tạo nhận thông tin sai lệch đôi chút, nó có thể rà soát qua mô hình đã lưu trữ trước đó để tìm dữ liệu phù hợp nhất.
- Đây là một bước tiến quan trọng dẫn tới sự ra đời của AI. Năm 1985, Hinton công bố cỗ máy Boltzmann, đóng góp riêng của ông cho lĩnh vực học máy.
- Đặt theo tên nhà vật lý thế kỷ 19 là Ludwig Boltzmann, thiết kế này sử dụng yếu tố ngẫu nhiên.
- Tính ngẫu nhiên này chính là lý do công cụ tạo ảnh AI ngày nay có thể sản sinh vô số biến thể từ cùng một gợi ý.
- Hinton cũng chứng minh mạng nơ-ron càng có nhiều lớp, hành vi của nó càng phức tạp và việc học hỏi hiệu quả một hành vi mong muốn sẽ dễ dàng hơn.
- Bất chấp những ý tưởng đột phá trên, nhiều nhà khoa học mất hứng thú với học máy vào thập niên 1990.
- Học máy đòi hỏi những máy tính cực mạnh có thể xử lý lượng thông tin khổng lồ. Nó cũng cần hàng triệu ảnh chụp cho để thuật toán có thể phân biệt giữa chó và mèo. Mãi tới thập niên 2010, một làn sóng đột phá cách mạng hóa mọi thứ liên quan tới xử lý hình ảnh và ngôn ngữ tự nhiên diễn ra.
- Từ đọc ảnh scan y tế tới điều khiển xe tự lái, từ dự báo thời tiết tới tạo ra sản phẩm deepfake, những ứng dụng của AI hiện nay quá nhiều để có thể kể hết.
- Hinton từng đoạt giải Turing, giải thưởng được ví như Nobel về khoa học máy tính. Nhưng một số chuyên gia cho rằng ông xứng đáng giành giải Nobel trong lĩnh vực Vật lý do nghiên cứu khoa học mở đường cho AI. Nhà nghiên cứu người Pháp Damien Querlioz chỉ ra những thuật toán này ban đầu lấy cảm hứng từ vật lý, thông qua đặt khái niệm năng lượng vào lĩnh vực máy tính.
+Turbine trên bờ lắp đặt ở tỉnh Cát Lâm có đường kính rotor 270 m và cánh quạt dài 131 m, sản xuất đủ điện cho 160.
+000 hộ gia đình hàng năm.
+ Công ty năng lượng tái tạo Sany thuộc tập đoàn Sany, nhà sản xuất thiết bị nặng đa quốc gia, thông báo bàn giao turbine gió 15 MW tại nhà máy ở huyện Thông Du, tỉnh Cát Lâm, Trung Quốc.
+ Theo công ty, cỗ máy này ở dạng nguyên mẫu và sẽ trải qua một năm thử nghiệm để xác nhận độ tin cậy của nó, Interesting Engineering hôm 10/10 đưa tin.
+ Mẫu turbine SI-270150 là turbine gió trên bờ lớn nhất về mặt công suất một đơn vị và có đường kính rotor lớn nhất (270 m) trong số bất kỳ turbine gió trên bờ nào đã lắp đặt trên khắp thế giới tính đến nay.
+ Năm ngoái một turbine gió lớn nhất lắp đặt trên đất liền là MySE 10.
+X-23X của công ty Minyang Smart Energy có đường kính cánh quạt lên tới 230 m.
+ Turbine gió trên bờ này là sản phẩm đầu bảng chế tạo dựa trên bộ giàn 12.
+X - 16.
+X MW của Sany.
+ Nó có tuổi thọ hoạt động 25 - 30 năm.
+ Hệ thống có cánh dài 131 m, đạt diện tích quét tối đa 57.
+256 m2.
+ Với công suất lớn như vậy, chỉ riêng một turbine có thể sản xuất đủ điện để cung cấp cho 160.
+000 hộ gia đình suốt cả năm.
+ SI-270150 có thiết kế siêu nhẹ và công nghệ giảm tải sử dụng trí tuệ nhân tạo, giúp giảm thiểu tải trọng đồng thời đơn giản hóa quá trình vận chuyển đường dài.
+ Những công nghệ này giúp tăng cường hiệu suất và đảm bảo turbine có thể được chuyển tới khu vực hẻo lánh với ít thách thức hơn.
+ Hệ thống truyền lực của turbine bao gồm ổ côn kép (TRB) tích hợp hệ thống hỗ trợ trục chính, cung cấp khả năng chịu tải cao và độ ổn định, nhờ đó turbine hoạt động bền bỉ hơn trong nhiều điều kiện khác nhau.
+ Hồi tháng 1, Sany thông báo cánh quạt đầu tiên của turbine gió được sản xuất ở khu công nghiệp thông minh Bayannur.
+ Do chiều dài cánh quạt tăng lên, yêu cầu độ cứng và độ bền lớn hơn để ngăn các vấn đề như chết máy, rung và thậm chí gãy cánh cũng tăng theo.
+ Để giải quyết vấn đề, Sany phát triển thiết kế khí động tối ưu hóa cho cánh quạt turbine gió với độ dày lớn và mép sau dạng tù.
+ Thiết kế như vậy giúp cải thiện độ liền khối về mặt kết cấu của cánh quạt.
+ Sany cũng kết hợp một số công nghệ tiên tiến trong sản xuất cánh quạt, bao gồm thiết kế 3D cho mối hàn kín ở mép sau và công nghệ chần trước sợi thủy tinh, qua đó thay thế sản xuất thủ công với quy trình tự động thông minh.
+ Để nâng cao khả năng tái chế cánh quạt siêu dài và tăng độ bền vững, Sany sử dụng các bộ phận kết cấu từ polyurethane tái chế.

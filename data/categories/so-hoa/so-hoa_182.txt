@@ -1,14 +1,25 @@
-Cảnh sát Mỹ ghi nhận ngày càng nhiều vụ trộm trong đó kẻ gian đi theo xe giao hàng, đánh cắp iPhone khi nhân viên đặt chúng trước cửa nhà người nhận. Jaqueline Rosales, cư dân ở Snellville, Georgia, cho biết đã đặt 5 chiếc iPhone cho cả gia đình hồi tháng 8.
- Thế nhưng, tất cả đều bị lấy đi trong vài phút sau khi nhân viên FedEx giao hàng và được camera trước cửa ghi lại.
- Rosales nói cô đã để ý chiếc xe chạy qua chạy lại tuyến phố nơi gia đình sinh sống nhiều lần. "Tôi từng đặt những mặt hàng có giá trị cao trước đây nhưng chưa từng gặp vấn đề cho đến khi diễn ra vụ trộm iPhone", cô cho hay. "Thật kỳ lạ và đáng báo động".
- Theo cảnh sát bang Texas, "trộm hàng trước cửa nhà" liên tục xảy ra gần đây, chủ yếu nhắm vào các thiết bị có giá trị cao như iPhone.
- Trong đó, chủ yếu là điện thoại do nhà mạng AT&T cung cấp.
- Chris Brown, trung úy cảnh sát công tác tại Deer Park, Texas, nói nghi phạm dường như có thông tin nội bộ trước khi hành động. "Chúng có số theo dõi bưu kiện của AT&T", Brown nói. "Chúng tôi đang hợp tác với nhà mạng để điều tra cách nghi phạm cóđược thông tin đó". Một yếu tố khác khiến gói hàng AT&T dễ bị lấy là chính sách của nhà mạng này thường không yêu cầu chữ ký người nhận.
- Trong khi đó, Verizon và T-Mobile yêu cầu phải ký khi giao smartphone. Không chỉ ở Texas, các video từ camera an ninh cho thấy nhiều vụ trộm tương tự xảy ra ở New York, Pennsylvania, Delaware, Virginia, Michigan, Georgia hay Florida.
- Tất cả có kịch bản tương tự: tài xế FedEx giao hộp chứa iPhone từ AT&T, sau đó một người xuất hiện và lấy gói hàng ở bậc thềm nhà.
- Hành động diễn ra nhanh đến mức tài xế FedEx và tên trộm có thể giáp mặt nhau.
- Boston25News cho biết một số người dân sống tại Weston, Massachusetts đã cung cấp video trộm cắp cho cảnh sát. Một video cho thấy người đàn ông mặc đồ đen, đeo khẩu trang, kính râm và mũ bảo hiểm "đi đến một ngôi nhà, xem xét các gói hàng ở cửa, trước khi chọn chính xác gói hàng có iPhone bên trong". "Chúng biết chính xác cái gì sẽ được giao và địa điểm sẽ giao", trung úy Matt Arsenault từ Sở cảnh sát Gardner, Massachusetts, nói.
- Trong một số trường hợp, kẻ trộm đã bị bắt giữ.
- Fox26 Houston đưa tin cảnh sát Deer Park đã bắt hai thanh niên liên quan đến một loạt vụ lấy gói hàng có điện thoại iPhone 16 cuối tháng 9. Những người này thuê xe và dành hàng giờ vòng quanh các khu dân cư ở Houston. Ngày 1/10, WKRN cũng đưa tin về một vụ bắt giữ tương tự tại Tennessee. Một nhóm bị cáo buộc là thành viên của một tổ chức tội phạm chuyên thu thập thông tin vận chuyển để cung cấp cho kẻ trộm. "Ai đó có quyền truy cập vào danh sách giao hàng để lấy thông tin này", trung úy Mike Foster từ Sở cảnh sát Spring Hill dự đoán. Nói với Ars Technica, phát ngôn viên AT&T cho biết công ty vận chuyển hàng chục nghìn gói hàng mỗi ngày mà không gặp sự cố. Nhà mạng nhấn mạnh họ vẫn yêu cầu chữ ký tại một số khu vực xảy ra các vụ trộm và thường xuyên thay đổi quy trình để giảm thiểu tình trạng mất cắp. Ngoài ra, AT&T cũng đang hợp tác với cơ quan thực thi pháp luật và đơn vị vận chuyển để bảo vệ mình và khách hàng.
- Trong khi đó, FedEx cho biết công ty đang phối hợp với đối tác gửi hàng hóa có giá trị cao nhằm tăng cường biện pháp an ninh.
- Công ty khuyến cáo người nhận nên sử dụng website và ứng dụng di động của FedEx để theo dõi và kiểm soát tốt hơn thời gian, địa điểm nhận hàng.
+iOS 18 mang đến hàng chục cập nhật lớn, tăng khả năng tùy biến giao diện cho iPhone, nhưng chưa có Apple Intelligence.
+ Phiên bản chính thức đầu tiên của iOS 18 được Apple phát hành rạng sáng 17/9.
+ Hệ điều hành hỗ trợ các thiết bị ra mắt từ năm 2018, như iPhone XS và iPhone XR về sau, tương tự iOS 17.
+ Đây là một trong những đợt cập nhật lớn nhất với iOS những năm gần đây, với dung lượng hơn 4 GB trên iPhone 15 Pro Max.
+ Trong phần giới thiệu, Apple đưa ra gần 20 thay đổi lớn với các thiết bị, trong đó tập trung vào khả năng cá nhân hóa giao diện.
+ Người dùng có thể tùy ý đặt vị trí cho các icon ứng dụng trên màn hình chính thay vì phải đặt theo hàng ngang như trước.
+ Các icon có thể tăng kích thước bằng cách loại bỏ tên bên dưới, đồng thời thay đổi màu sắc như mong muốn.
+ Trung tâm điều khiển không cố định các biểu tượng như trước đây, cho phép người dùng tùy biến kích thước biểu tượng, thêm nút điều khiển cho ứng dụng từ bên thứ ba, đồng thời gom các nút điều khiển theo từng nhóm và vuốt nhiều lần để tìm ra chức năng mong muốn.
+ Thậm chí, một thanh tìm kiếm cũng được đưa vào để người dùng tìm chức năng điều khiển mong muốn.
+ Một trong những thay đổi thu hút sự chú ý khi được giới thiệu tại WWDC 2024 hồi tháng 6 là Tin nhắn và Ghi chú. iOS 18 chính thức hỗ trợ nhắn tin RCS, cho phép người dùng khi nhắn với những người không có iPhone vẫn có thể nhận được nội dung đa phương tiện như ảnh, video, thông báo đã đọc.
+ Mục Ghi chú hỗ trợ thêm bản ghi âm thanh, thêm tùy chỉnh về màu sắc của chữ.
+ Ngoài ra, người dùng cũng có thể nhập các biểu thức và được tính toán ngay trong ứng dụng.
+ Với ứng dụng Ảnh, Apple gọi đây là bản cập nhật lớn nhất từ trước đến nay, với thay đổi về bố cục xem ảnh được đơn giản hóa, đồng thời nhiều tính năng tự động sắp xếp ảnh được thêm vào.
+ Ứng dụng sẽ tự động sắp xếp thư viện ảnh theo chủ đề được đánh giá hữu ích với người dùng, như các chủ đề về thú cưng, chuyến đi, lọc riêng các ảnh chụp màn hình, ảnh QR, ảnh tài liệu.
+ Ứng dụng cũng tích hợp sẵn tính năng làm chậm với các video có tốc độ khung hình cao.
+ Về quyền riêng tư, người dùng có thể khóa ứng dụng để bảo vệ thông tin nhạy cảm, yêu cầu Face ID, Touch ID hoặc mật khẩu để mở; lựa chọn chia sẻ từng phần trong danh bạ với các ứng dụng, cải thiện tính năng Bluetooth bảo mật hơn.
+ Trình duyệt Safari cho phép ẩn các mục gây xao lãng, như quảng cáo trong trang web.
+ Ngoài ra, iOS 18 cũng mang đến một số thay đổi về mật khẩu khi bổ sung ứng dụng Mật khẩu để xem toàn bộ thông tin đăng nhập; đồng bộ mật khẩu bằng iCloud; thay đổi giao diện ứng dụng Ví; thêm tính năng tạo lộ trình trên Bản đồ; tương tác Siri rảnh tay bằng cách cách gật đầu hoặc lắc đầu.
+ Apple cũng hỗ trợ tính năng chia sẻ màn hình SharePlay cho phép thao tác trên màn hình của người khác hoặc xin phép điều khiển iPhone của người khác từ xa.
+ Bên cạnh các thay đổi trên, một tính năng từng được hãng giới thiệu tại WWDC nhưng chưa được triển khai là Apple Intelligence.
+ Tính năng này, dành cho ngôn ngữ tiếng Anh, dự kiến ra mắt cuối năm nay.
+ Để cập nhật, người dùng có thể thực hiện ngay trên iPhone, bằng cách vào Cài đặt > Cài đặt chung > Cập nhật phần mềm.
+ Trước khi cập nhật, nên tạo bản sao lưu cho thiết bị, cắm sạc hoặc sạc đầy pin, kết nối đến mạng wifi ổn định.
+ Ngoài iOS 18, Apple cũng tung ra bản cập nhật iOS 17.
+7 cho người chưa muốn lên 18, chủ yếu là sửa lỗi bảo mật.

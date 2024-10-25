@@ -1,13 +1,17 @@
-Sau thành công bắt tầng đẩy Super Heavy bằng "đũa" hôm 13/10, SpaceX lên kế hoạch tương tự với tầng trên Starship vào năm sau.
- SpaceX đã làm nên lịch sử ngành hàng không vũ trụ trong chuyến bay thử nghiệm thứ 5 của tên lửa Starship hôm 13/10. Khoảng 7 phút sau khi phóng, tầng đẩy đầu tiên của tên lửa - Super Heavy, đã quay trở lại bệ phóng và được bắt bởi cánh tay robot hay còn gọi là "đũa" của tháp phóng.
- Theo Elon Musk, người sáng lập kiêm Tổng giám đốc SpaceX, công ty đặt mục tiêu thực hiện tương tự với tầng trên Starship, cao 50 m, trong những tháng tới.
- Trong bài đăng trên X hôm 15/10, ông Musk nói: "Hy vọng đầu năm sau, chúng tôi cũng sẽ bắt được tầng trên".
- SpaceX đang phát triển Starship, cao 122 m và có thể tái sử dụng hoàn toàn, để đưa người và hàng hóa lên Mặt Trăng và Sao Hỏa, cũng như thực hiện nhiều nhiệm vụ không gian khác.
- Việc bắt Starship tại tháp phóng có thể không áp dụng cho tất cả các nhiệm vụ của tên lửa.
- Ví dụ, tầng trên sẽ đưa người lên bề mặt Mặt Trăng và Sao Hỏa, nếu mọi việc diễn ra theo đúng kế hoạch, những chuyến đi này có lẽ sẽ yêu cầu hạ cánh thẳng đứng bằng động cơ đẩy với sự hỗ trợ của chân đế.
- Tuy nhiên, SpaceX cũng dự định phóng nhiều nhiệm vụ Starship lên quỹ đạo Trái Đất - ví dụ: để tiếp tục xây dựng mạng lưới vệ tinh băng thông rộng Starlink khổng lồ và giúp tiếp nhiên liệu cho các tàu Starship khác hướng tới các hành tinh xa xôi.
- Hạ cánh trên bệ phóng là hợp lý cho những tàu này, cho phép chúng bay đến và đi từ quỹ đạo Trái Đất một cách nhanh chóng và hiệu quả.
- Starship là hệ thống phóng với tham vọng đưa con người tới sao Hỏa lần đầu tiên của giám đốc điều hành SpaceX Elon Musk.
- Hệ thống phóng bao gồm phương tiện phóng Super Heavy và tàu vũ trụ Starship ở bên trên.
- Tên lửa đẩy nằm ở tầng đầu tiên và tàu vũ trụ chở người và hàng hóa nằm ở tầng thứ hai. Nhiệm vụ của tên lửa là đưa tàu Starship tới một điểm trên quỹ đạo, sau đó tàu Starship sẽ bay tiếp bằng động cơ của nó trong khi tên lửa quay trở lại Trái Đất.
- Cả hai bộ phận đều có thể tái sử dụng. NASA đã chọn tàu Starship để đưa phi hành gia đáp xuống Mặt Trăng trong chương trình Artemis. Khi tàu Starship thực hiện hành trình tới Mặt Trăng, nó sẽ phải ở trên quỹ đạo gần Trái Đất trong lúc SpaceX phóng các phương tiện hỗ trợ riêng biệt để tiếp nhiên liệu cho tàu. Nhiệm vụ chở phi hành gia đáp xuống Mặt Trăng sẽ diễn ra sớm nhất vào năm 2026.
+Thay vì lưu trữ năng lượng như pin thông thường, pin sao Hỏa tạo ra điện nhờ liên tục phản ứng với những chất trong khí quyển.
+ Đảm bảo nguồn năng lượng ổn định cho căn cứ, xe tự hành và các thiết bị là một trong những vấn đề chính cần giải quyết nếu con người muốn thám hiểm và cư trú trên sao Hỏa.
+ Nhóm nhà khoa học từ Đại học Khoa học và Công nghệ Trung Quốc đưa ra giải pháp là một loại pin đặc biệt được thiết kế để khai thác khí quyển sao Hỏa, Interesting Engineering hôm 8/10 đưa tin. "Cách này làm giảm đáng kể trọng lượng pin, giúp nó trở nên phù hợp hơn cho các nhiệm vụ không gian", nhóm nghiên cứu viết.
+ Sao Hỏa là một hành tinh khắc nghiệt với thành phần khí quyển phức tạp, chứa nhiều CO2 (95,32%), nitơ (2,7%), argon (1,6%), oxy (0,13%) và CO (0,08%).
+ Hành tinh này cũng trải qua sự chênh lệch nhiệt độ lớn, khoảng 60 độ C, giữa ngày và đêm.
+ Nghiên cứu xuất bản trên tạp chí Science Bulletin, chứng minh tính khả thi của việc sử dụng "pin sao Hỏa" trong điều kiện thực tế của hành tinh này.
+ Nhóm nghiên cứu cho biết, loại pin mới có thể sử dụng trực tiếp các khí trong khí quyển sao Hỏa làm nguồn nhiên liệu, tương tự cách một tế bào pin nhiên liệu hoạt động.
+ Thay vì lưu trữ năng lượng như pin thông thường, pin sao Hỏa tạo ra điện bằng cách liên tục phản ứng với các hóa chất, miễn là có sẵn nhiên liệu.
+ Khi xả, các điện cực của pin tương tác với những khí trên sao Hỏa, tạo ra phản ứng hóa học sản xuất điện.
+ Khi hết năng lượng, pin có thể được sạc lại bằng năng lượng Mặt Trời hoặc năng lượng hạt nhân để duy trì hoạt động.
+ Dao động nhiệt độ lớn trên sao Hỏa có thể là một thách thức, nhưng loại pin mới được thiết kế để vượt qua điều này.
+ Thậm chí nó có thể hoạt động liên tục nhiều tháng với chu kỳ sạc - xả kéo dài 1.
+375 giờ (khoảng hai tháng trên sao Hỏa).
+ Nhóm nghiên cứu đã mô phỏng sự biến đổi nhiệt độ khắc nghiệt của hành tinh đỏ để kiểm tra hiệu suất của pin.
+ Kết quả, pin có thể hoạt động ở điểm đóng băng 0 độ C và đạt mật độ năng lượng 373,9 Wh/kg ở mức nhiệt này.
+ Quá trình sạc và xả của pin bao gồm sự hình thành và phân rã lithium carbonate, trong khi một lượng nhỏ oxy và CO trong khí quyển sao Hỏa hoạt động như chất xúc tác, giúp tăng tốc đáng kể quá trình chuyển đổi CO2.
+ Trong tương lai, các nhà khoa học sẽ tập trung phát triển pin sao Hỏa thể rắn với khả năng vượt qua những thách thức về áp suất thấp và nhiệt độ dao động, mở đường cho các hệ thống thám hiểm không gian tiên tiến hơn.

@@ -1,11 +1,22 @@
-Nghiên cứu của các nhà khoa học cho thấy một số loại thuốc kháng sinh khi dùng cùng sữa có thể giảm hiệu quả, đặc biệt là nhóm điều trị nhiễm khuẩn.
- Thuốc kháng sinh uống - như dạng viên hoặc dạng lỏng - cần được hấp thụ vào máu để hoạt động hiệu quả.
- Tuy nhiên, khi dùng cùng với các sản phẩm từ sữa như sữa, phô mai hoặc sữa chua, một số loại kháng sinh không được hấp thụ như mong đợi.
- Theo nghiên cứu sự hấp thụ của một loại kháng sinh gọi là demeclocycline (tên Declomycin) vào máu giảm đến 83% khi dùng cùng sữa so với khi dùng với nước và bữa ăn không có sữa.
- Demeclocycline được sử dụng để điều trị nhiễm khuẩn đường hô hấp, như viêm phổi. Một nghiên cứu được công bố trên tạp chí European Journal of Pharmacology phát hiện, khi thuốc điều trị ung thư tuyến tiền liệt estramustine (có tên Emcyt) được dùng cùng sữa, nó tạo thành một phức hợp với canxi làm cho cơ thể khó hấp thụ thuốc hơn. Một nghiên cứu khác, được công bố trên tạp chí Acta Pharmacologica et Toxicologica, phát hiện rằng thuốc sotalol (có tên Betapace), được sử dụng để điều trị nhịp tim không đều, cũng kết hợp với canxi.
- Sự kết hợp này làm giảm sự hấp thụ và hiệu quả của thuốc khi dùng cùng sữa. Một nghiên cứu khác cho thấy khi ciprofloxacin được dùng cùng sữa, mức độ thuốc trong máu giảm khoảng 30% đến 36% so với khi dùng cùng nước. Loại kháng sinh này được sử dụng để điều trị một loạt các bệnh, từ viêm phổi đến lậu.
- Có ít dữ liệu hơn về tác động của các sản phẩm sữa khác, nhưng các nghiên cứu nói chung cho thấy chúng cũng làm giảm mức độ kháng sinh trong máu.
- Sữa cản trở sự hấp thụ của các loại thuốc này được các nhà khoa học lý giải do chúng chứa nhiều ion canxi và magiê, được gọi là "ion". Những ion này có thể kết hợp với một số loại kháng sinh, tạo ra một "hợp chất không hòa tan", theo Anastasiya Shor, trợ lý giáo sư tại Touro College of Pharmacy ở New York, chia sẻ qua email với Live Science.
- Các hợp chất không hòa tan không tan trong nước, và nếu một loại thuốc không thể tan trong chất lỏng bên trong ruột, nó không thể được hấp thụ vào máu.
- Vì vậy, khi các ion canxi và magiê có mặt trong ruột, chúng hiệu quả giữ lại các phân tử kháng sinh ở đó. Lượng kháng sinh vào máu do đó giảm đáng kể, làm giảm hiệu quả của thuốc trong toàn bộ cơ thể.
- Tương tác này với các sản phẩm từ sữa chỉ xảy ra với một số loại kháng sinh nhất định, đặc biệt là những loại thuộc hai nhóm: tetracyclines và fluoroquinolones. Nó không ảnh hưởng đến tất cả các loại kháng sinh. "Để đảm bảo thuốc kháng sinh hoạt động như mong muốn, bệnh nhân nên uống thuốc 2 giờ trước hoặc 6 giờ sau khi tiêu thụ các sản phẩm từ sữa", Shor nói. "Điều này giảm thiểu tiếp xúc giữa canxi và kháng sinh trong đường tiêu hóa, và đảm bảo bệnh nhân nhận được lợi ích tối đa từ thuốc".
+Một nhóm nhà nghiên cứu Anh kết hợp hai công nghệ không dây có sẵn để lập kỷ lục truyền dữ liệu không dây ở 938 gigabit/giây (Gbps).
+ Các nhà khoa học truyền dữ liệu qua không trung ở tốc độ lên tới 938 gigabit/giây (Gbps), lập kỷ lục mới về tốc độ truyền không dây.
+ Kỷ lục mới rất gần với một terabit/giây (Tbps), tương đương với tải một bộ phim 4K Ultra HD 30 gigabyte (GB) trong 0,26 giây.
+ Để so sánh, quá trình tải sẽ mất khoảng 17 - 29 phút nếu sử dụng kết nối 5G thông thường ở Mỹ, có tốc độ từ 140 đến 230 megabit/giây (Mbps).
+ Tại Anh, tốc độ 5G trung bình vào khoảng 100 Mbps, có nghĩa tốc độ truyền dữ liệu mà nhóm nghiên cứu đạt được nhanh gấp 9.
+380 lần.
+ Các nhà khoa học đạt được kỷ lục mới nhờ kết hợp công nghệ vô tuyến và quang học lần đầu tiên, cho phép họ sử dụng bước sóng tần số vô tuyến (RF) lên tới 150 gigahertz (GHz).
+ Họ mô tả phương pháp trong nghiên cứu công bố hôm 15/10 trên tạp chí Lightwave Technology.
+ Phần lớn kết nối 5G truyền dữ liệu ở tần số hẹp dưới 6 GHz.
+ Nhưng những băng tần này có độ nghẽn cao, có nghĩa tốc độ thường chậm hơn nhiều tốc độ tối đa trên lý thuyết của mạng 5G là 20 Gbps.
+ Nhưng tốc độ truyền 6G trong tương lai nhiều khả năng có tần số cao hơn băng tần 5G hẹp, giúp mạng lưới liên lạc khai thác tốc độ cao hơn nhiều.
+ Những băng tần này bao gồm tần số "băng tần trung và cao" từ 7 tới 24 GHz, cùng với "tần số cận terahertz" từ 90 tới 300 GHz, theo Hiệp hội nhà cung cấp di động toàn cầu (GSA). "Những hệ thống liên lạc không dây hiện nay đang chật vật đáp ứng nhu cầu ngày càng tăng đối với truy cập dữ liệu tốc độ cao", tác giả nghiên cứu Zhixin Liu, giáo sư kỹ thuật điện ở Đại học London (UCL) tại Anh, cho biết. "Giải pháp của chúng tôi là sử dụng nhiều tần số sẵn có hơn để tăng băng thông, đồng thời duy trì chất lượng tín hiệu cao và cung cấp độ linh hoạt trong tiếp cận các nguồn tần số khác nhau.
+ Kết quả là mạng lưới không dây siêu nhanh và đáng tin cậy, vượt qua hạn chế tốc độ giữa người sử dụng ở đầu cuối và Internet".
+ Phương pháp mới lần đầu tiên kết hợp hai công nghệ không dây có sẵn là điện tử tốc độ cao và quang tử sóng milimet.
+ Công nghệ sau sử dụng ánh sáng để tạo ra tín hiệu tần số vô tuyến sóng millimet.
+ Hệ thống lai này cho phép truyền không dây lượng lớn dữ liệu qua băng tần có thể sử dụng ở các hệ thống tương lai như 6G.
+ Nhóm nghiên cứu kết hợp máy phát tín hiệu từ dạng số tới dạng liên tục, hoạt động ở dải 5 - 75 GHz với máy phát tín hiệu vô tuyến dựa trên ánh sáng, cho phép truyền dữ liệu qua nhiều tần số giữa 75 và 150 GHz.
+ Tổng băng thông 145 GHz gấp 5 lần so với hệ thống dùng để đạt kỷ lục thế giới về truyền không dây trước đó.
+ Công nghệ lai này có thể dùng để truyền tín hiệu không dây từ các cột ở nơi đông dân để mọi người có thể sử dụng tốc độ cao từ điện thoại di động.
+ Nó cũng cho phép nhiều người sử dụng mạng không dây ở những nơi như buổi hòa nhạc lớn mà không bị nghẽn mạng hay tốc độ chậm.
+ Các nhà khoa học mới chỉ thử nghiệm hệ thống trong phòng thí nghiệm, nhưng họ lên kế hoạch sản xuất một nguyên mẫu có thể dùng trong bối cảnh thương mại.
+ Nếu thành công, họ hy vọng có thể tích hợp công nghệ mới trên thiết bị thương mại trong vòng 5 năm tới.

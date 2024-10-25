@@ -1,14 +1,31 @@
-Nhiều người dùng cho biết điện thoại của họ, kể cả iPhone 16 và các phiên bản thế hệ cũ, gặp tình trạng hao pin sau khi cập nhật iOS 18.
- Theo hàng loạt phản ánh trên diễn đàn Reddit, cộng đồng Hỗ trợ Apple và trang công nghệ MacRumors, nhiều điện thoại từ đời mới nhất là iPhone 16 đến những phiên bản cũ hơn đang chạy iOS 18 đã gặp vấn đề về pin.
- Trước đó, khi iOS 18 chính thức phát hành ngày 17/9, một số người bắt đầu phản ánh và nói "hối hận" khi lên hệ điều hành mới vì pin sụt nhanh hơn bình thường. Khi đó, chuyên gia Kingsley-Hughes cho rằng nếu chưa thực sự cần thiết, người dùng nên đợi thêm vài ngày, hoặc chờ phiên bản ổn định tiếp theo của iOS 18 rồi mới cập nhật hệ điều hành.
- Tuy nhiên, sau một tháng, tình trạng này vẫn tiếp diễn. Một người phàn nàn trên MacRumors: "Thật thất vọng với tuổi thọ pin của iPhone 16 Pro Max mới.
- Chỉ sau thời gian ngắn, sức khỏe pin xuống 99%.
- Thời gian sử dụng giữa các lần sạc cũng chỉ bằng 50-60% so với chiếc 15 Pro Max tôi đã sử dụng một năm". Một số cho biết việc hao pin diễn ra khi điện thoại ở chế độ chờ. "Dù tôi đã tắt tính năng màn hình luôn bật AOD và kích hoạt giới hạn khung hình trong tùy chọn truy cập, việc hao pin vẫn không được khắc phục", một người dùng nói trên Reddit. "Tôi nâng cấp từ iPhone 12 lên iPhone 16 Pro chủ yếu vì pin và loa.
- Tuy nhiên, dù Apple quảng cáo sản phẩm mới có pin tốt hơn, iPhone 16 Pro tiêu hao 10-15% pin khi để qua đêm mà không làm gì cả", một thành viên trên MacRumors cho hay.
- Sự cố xảy ra cả với iPhone cũ hơn chạy iOS 18. Một số cho biết vấn đề được cải thiện phần nào với bản cập nhật iOS 18.
-0.
-1 và iOS 18.
-1 beta.
- Apple chưa đưa ra bình luận. iOS 18 tương thích với các mẫu iPhone ra mắt từ năm 2018, như iPhone XS và XR về sau.
- Đây là một trong những đợt cập nhật lớn nhất dành cho iOS khi Apple bổ sung nhiều tính năng theo hướng cá nhân hóa giao diện, như có thể đặt các icon ứng dụng ở nhiều vị trí trên màn hình chính, tùy biến kích thước biểu tượng trên Trung tâm điều khiển. Nền tảng cũng lần đầu hỗ trợ nhắn tin RCS.
- Tuy nhiên, tính năng Apple Intelligence chưa có mặt.
+Mẫu điều hòa CFS-10VCB1 tập trung khả năng tiết kiệm điện, là sản phẩm đầu tiên của Comfee đạt nhãn năng lượng 5 sao theo tiêu chuẩn mới, áp dụng từ tháng 4/2025.
+ TCVN 7830:2021 là tiêu chuẩn năng lượng mới từ Viện cơ khí năng lượng và mỏ Vinacomin đưa ra.
+ Tiêu chuẩn này sẽ áp dụng cho toàn bộ thị trường điều hòa từ 1/4/2025, vạch ra những yêu cầu cao hơn cho các thiết bị về khả năng tiết kiệm điện.
+ Để đón đầu tiêu chuẩn này, Comfee thời gian qua liên tục chú trọng phát triển các dòng điều hòa thế hệ mới, chú trọng tiết kiệm điện năng.
+ Nổi bật là các sản phẩm thuộc dòng Comfee Air Series đều đạt mức hiệu suất năng lượng CSPF cao, dao động ở mức 5,7-6,01.
+ Trong đó, mẫu CFS-10VCB1 có công suất làm lạnh 10.
+000 BTU, chỉ số CSPF 6,01, đạt nhãn 5 sao theo tiêu chuẩn năng lượng mới TCVN 7830:2021.
+ Nhãn năng lượng là quy định bắt buộc với các sản phẩm điều hòa, giúp người dùng biết được mức tiêu hao điện năng trong quá trình sử dụng.
+ Trước đây, hầu hết các hãng đều sử dụng nhãn theo tiêu chuẩn quốc gia TCVN 7830:2015, ra đời cách đây 10 năm.
+ Với quy chuẩn này, điều hòa chỉ cần có chỉ số CSPF trên 4,2 là đạt 5 sao.
+ Theo chuyên gia, gần như điều hòa có máy nén biến tần Inverter là sẽ đạt mức này.
+ Do đó, để tăng tính phân loại sản phẩm, Việt Nam sẽ áp dụng tiêu chuẩn mới là TCVN 7830:2021.
+ Để đạt nhãn 5 sao, điều hòa phải có chỉ số CSPF trên 5,2.
+ CSPF là viết tắt viết tắt của Cooling Seasonal Performance Factor hay chỉ số hiệu suất lạnh toàn mùa.
+ Một cách dễ hiểu, chỉ số này càng cao, điều hòa càng sử dụng điện hiệu quả, tiết kiệm hơn.
+ Tại Việt Nam, chỉ số CSPF có trên nhãn dán thiết bị gia dụng như điều hòa được kiểm nghiệm độc lập và thực tế trong các phòng thử nghiệm của Viện cơ khí năng lượng và mỏ Vinacomin.
+ Với việc đạt chuẩn mới trước thời hạn áp dụng, điều hòa Comfee cho thấy sự đầu tư nhằm đón đầu yêu cầu mới, đáp ứng tốt hơn trải nghiệm người dùng.
+ Các sản phẩm của hãng cũng trang bị thêm tính năng Eco.
+ Với chế độ này, điều hòa sẽ hoạt động với mức tiêu thụ điện năng tiết kiệm, khoảng 1,61 kW cho mỗi đêm (8 tiếng, theo tiêu chuẩn phòng thí nghiệm) Điều này giúp gia chủ giảm chi phí hóa đơn điện hàng tháng.
+ Ngoài ra, thương hiệu cũng hỗ trợ người dùng quản lý điện năng tiêu thụ thông qua ứng dụng Smarthome trên di động.
+ Chủ nhà có thể chủ động theo dõi lượng điện sử dụng từng ngày, cài đặt mức điện năng tiêu thụ tối đa cho phép và nhận cảnh báo nếu vượt quá.
+ Đây là cách để chủ động quản lý, tính toán chi phí trong gia đình.
+ Bên cạnh tiết kiệm điện, sản phẩm của hãng cũng được đầu tư, trang bị nhiều tính năng thông minh, phục vụ cuộc sống hiện đại.
+ Chẳng hạn, dòng điều hòa CFS-10VCB1 có thể điều khiển bằng giọng nói thông qua ứng dụng SmartHome.
+ Ứng dụng còn cho phép cài đặt nhiệt độ theo thời gian, tùy theo nhu cầu ở mỗi thời điểm.
+ Máy cũng có cảm biến, giúp theo dõi, điều chỉnh nhiệt độ quanh vị trí ngồi của người dùng đúng theo mức cài đặt.
+ Không chỉ làm lạnh, dòng sản phẩm Comfee Air Series còn có thể làm sạch không khí.
+ Công nghệ Ionizer diệt khuẩn bằng ion âm, ức chế các tác nhân gây hại cho sức khỏe như nấm mốc, virus.
+ Với những ưu điểm trêm, Comfee đạt nhiều giải thưởng trong nước và quốc tế.
+ Trong đó, hãng nhận giải thưởng của Red Dot Design Award tại Đức 2023, được IF Design Award 2024 vinh danh.
+ Gần nhất, thương hiệu nhận giải thưởng Điều hoà thông minh tiết kiệm điện được yêu thích nhất, tại Sản phẩm tôi yêu, thuộc khuôn khổ Tech Award 2024.

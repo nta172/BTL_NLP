@@ -1,10 +1,24 @@
-Những cỗ máy trạm ThinkStation của Lenovo có khả năng chạy mô hình ngôn ngữ lớn và đào tạo AI, có giá khởi điểm hơn 100 triệu đồng.
- Bốn mẫu máy trạm ThinkStation được đưa về Việt Nam lần này gồm PX, P8, P7 và P5, trong đó cao cấp nhất là PX và P7, giá khởi điểm 125 triệu và 141 triệu đồng cho cấu hình cơ bản.
- Tại lễ ra mắt ở Hà Nội, ông Nguyễn Văn Giáp, CEO Lenovo Việt Nam, cho biết AI đang có vai trò quan trọng trong chiến lược kinh doanh hiện đại của nhiều doanh nghiệp.
- Bên cạnh việc ứng dụng AI, nhiều bên còn muốn tự xây dựng hệ thống AI riêng, phục vụ việc phân tích dự đoán, cải thiện hiệu quả hoạt động. "Khi AI tạo nên cuộc cách mạng chuyển đổi trong mô hình kinh doanh, nhu cầu về giải pháp điện toán tích hợp AI mạnh mẽ trở nên thiết yếu", đại diện hãng nói.
- P7 trang bị bộ xử lý Xeon W 56 lõi, hỗ trợ ba khe cắm kép cho GPU Nvidia RTX 6000 Ada.
- Trong khi đó, PX sử dụng bộ vi xử lý Xeon Scalable thế hệ 4, với120 lõi, hỗ trợ tối đa bốn khe cắm kép cho GPU RTX 6000 Adam, bộ nhớ DDR5 đến 2 TB. Nếu trang bị thêm linh kiện, sản phẩm có thể có giá 200-300 triệu đồng. Lenovo cho biết cấu hình trên sẽ "tăng tốc khả năng xử lý dữ liệu cho các mô hình ngôn ngữ lớn (LLM), xử lý các tác vụ AI, khoa học dữ liệu, thực tế ảo hỗn hợp".
- Theo DigitalEngineering247, máy trạm chạy AI đang trỗi dậy nhờ những lợi thế so với việc chạy trên nền tảng đám mây.
- Ưu điểm của chúng là tính linh hoạt, tiết kiệm chi phí nếu chạy trong thời gian dài, đồng thời đảm bảo được các rủi ro an ninh mạng. Máy trạm AI thường yêu cầu sức mạnh tính toán mạnh kết hợp cùng phần cứng chuyên dụng để xử lý hiệu quả các thuật toán phức tạp và tập dữ liệu lớn.
- Cấu hình cơ bản của một thiết bị dạng này cần CPU mạnh, nhiều GPU, RAM 32 GB trở lên, kèm bộ lưu trữ tốc độ cao và hệ thống làm mát.
- Trên thế giới, ngoài Lenovo P series, một số dòng máy đang được dùng trong các tác vụ AI có thể kể đến Nvidia DGX Station, Dell Precision, HP Z8 Fury.
+Máy nhắn tin bị coi là lạc hậu, nhưng vẫn duy trì thị trường khoảng 1,6 tỷ USD, nhờ khả năng truyền tin rẻ và đơn giản.
+ Hàng nghìn máy nhắn tin của nhóm vũ trang Hezbollah phát nổ trên khắp Lebanon ngày 17/9, khiến 12 người thiệt mạng và hơn 2.
+900 người bị thương.
+ Sự việc được đánh giá giáng đòn mạnh vào mạng lưới liên lạc được bảo mật của Hezbollah.
+ Loạt vụ nổ cũng cho thấy sức ảnh hưởng của máy nhắn tin - thiết bị lạc hậu trong thời đại của iPhone và điện thoại Android, sau giai đoạn hoàng kim trong thập niên 1990.
+ Dù lượng người dùng giảm mạnh, nó vẫn được coi là phương thức liên lạc trọng yếu ở nhiều lĩnh vực, như chăm sóc sức khỏe và ứng phó khẩn cấp, nhờ độ bền cao và thời lượng pin dài.
+ Máy nhắn tin bắt đầu trở thành phương thức liên lạc cá nhân từ những năm 1950.
+ Thiết bị thường được dùng bởi những người cần duy trì liên lạc 24/7 như bác sĩ, nhân viên cấp cứu hoặc an ninh để đảm bảo kết nối ở mọi nơi mà không cần điện thoại cố định hoặc di động. "Đây là cách rẻ và hiệu quả để truyền thông điệp một chiều, không cần hồi đáp, đến lượng lớn người dùng.
+ Nó được dùng để thông báo thời gian, địa điểm và mục đích điều động nhân lực", một bác sĩ làm việc lâu năm tại bệnh viện hàng đầu của Anh cho hay và nói máy nhắn tin vẫn được bác sĩ và y tá sử dụng rộng rãi trên khắp nước này.
+ Dịch vụ Y tế Quốc gia Anh (NHS) triển khai khoảng 130.
+000 máy nhắn tin trong năm 2019, chiếm hơn 10% tổng số máy trên toàn thế giới.
+ Bác sĩ làm tại khoa cứu thương luôn mang theo máy nhắn tin trong ca trực.
+ Nhiều chiếc có thể phát tiếng còi hú, sau đó phát thông điệp bằng giọng nói đến các nhóm khác nhau, nhằm triệu tập đầy đủ đội ngũ y tế để phản ứng với tình huống khẩn cấp. "Điều này là bất khả thi với điện thoại di động", bác sĩ giấu tên cho hay.
+ Nguồn tin am hiểu vấn đề cho biết Viện Xuồng cứu hộ Quốc gia Hoàng gia Anh (RNLI), cơ quan phụ trách xuồng cứu hộ lớn nhất nước này, đang sử dụng máy nhắn tin để phát báo động tới các đơn vị trực ứng cứu.
+ Một nguồn tin nói với AFP rằng Hezbollah chủ yếu sử dụng thiết bị "để triệu tập các tay súng đến tiền tuyến, thông báo cho quan chức hành chính hoặc nhân viên y tế khi cần thiết, cảnh báo về máy bay không người lái", coi đây là phương thức giúp họ đối phó hiệu quả với những biện pháp trinh sát công nghệ cao của Israel.
+ Máy chỉ nhận dữ liệu một chiều qua sóng vô tuyến, khiến chúng gần như không bị theo dõi.
+ Trong khi đó, điện thoại di động luôn phát dữ liệu đến mạng viễn thông để tìm cột thu phát sóng gần nhất và duy trì kết nối, dễ bị giám sát hơn nhiều.
+ Máy nhắn tin cũng không được trang bị công nghệ định vị hiện đại như GPS, khiến nhiều nhóm tội phạm, đặc biệt là tội phạm buôn ma túy ở Mỹ, rộng rãi trong quá khứ. "Tuy vậy, tội phạm giờ dùng điện thoại di động nhiều hơn.
+ Chúng thường mua điện thoại rẻ tiền, có thể vứt bỏ sau vài lần sử dụng và đổi sang máy mới để gây khó khăn cho nỗ lực truy dấu.
+ Tôi không biết có nhóm nào còn dùng máy nhắn tin không", Ken Gray, cựu đặc vụ có 24 năm thâm niên tại Cục Điều tra Liên bang Mỹ (FBI), cho hay.
+ Thị trường máy nhắn tin toàn cầu từng là nguồn doanh thu chủ chốt cho các công ty như Motorola, có giá trị khoảng 1,6 tỷ USD trong năm 2023.
+ Con số này chỉ là một phần rất nhỏ so với mức 500 tỷ USD của thị trường smartphone cùng kỳ.
+ Dù vậy, nhu cầu sử dụng máy nhắn tin đang tăng lên, khi số lượng bệnh nhân và người cao tuổi gia tăng, đòi hỏi biện pháp liên lạc hiệu quả giữa các lĩnh vực trong ngành y tế.
+ Báo cáo của Cognitive Market Research công bố hồi tháng 4 dự báo mức tăng trưởng hàng năm 5,9% trong giai đoạn 2023-2030, trong đó hai thị trường lớn nhất thế giới sẽ là Bắc Mỹ và châu Âu với doanh thu lần lượt 528 triệu và 496 triệu USD.

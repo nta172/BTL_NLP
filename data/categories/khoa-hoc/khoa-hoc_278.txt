@@ -1,16 +1,16 @@
-Caenorhabditis elegans, loài giun chỉ dài một milimet với 959 tế bào là vật không thể thiếu ở nhiều phòng thí nghiệm trên khắp thế giới. Khi các nhà khoa học đoạt giải Nobel Y sinh hoặc Hóa học, họ thường cảm ơn gia đình và đồng nghiệp, có thể là trường đại học hoặc bất cứ ai tài trợ cho nghiên cứu của họ. Năm nay, khi nhà sinh vật học phân tử Gary Ruvkun nhận giải thưởng danh giá nhất trong sự nghiệp, ông đã dành vài phút khen ngợi đối tượng thí nghiệm: một lùi giun tròn nhỏ có tên khoa học Caenorhabditis elegans.
- Đây không phải lần đầu tiên C. elegans được cảm ơn nhờ hỗ trợ nghiên cứu đoạt giải.
- Giải thưởng của tiến sĩ Ruvkun thực chất là giải Nobel thứ 4 dành cho nghiên cứu về C. elegans, củng cố vai trò to lớn của loài giun tròn này trong phát hiện khoa học. Những con giun tròn dài một milimet đã giúp giới khoa học tìm hiểu cách tế bào khỏe mạnh được chỉ đạo để tự hủy và cách quá trình trở nên bất ổn ở bệnh AIDS, đột quỵ và bệnh thoái hóa.
- Đó là chủ đề của nghiên cứu đoạt giải Nobel Y sinh năm 2002.
- Các học giả tự nhận là "người giun" được hội đồng Nobel năm 2006 ghi nhận nhờ phát hiện sự câm lặng gene, nền tảng cho một lớp thuốc hoàn toàn mới.
- Hai năm sau, giải Nobel Hóa học được trao cho các nhà khoa học sử dụng giun tròn để phát minh "đèn lồng" tế bào cho phép giới sinh vật học quan sát cơ chế hoạt động bên trong tế bào. Mỗi lần nhận giải, học giả đều cảm ơn C. elegans vì đóng góp của chúng, dù phát biểu nổi tiếng nhất có lẽ đến từ Sydney Brenner. "Không nghi ngờ gì, nhân vật thứ tư đoạt giải Nobel năm nay là Caenorhabditis elegans", ông chia sẻ trong một bài giảng ở Stockholm. "Nó xứng đáng với mọi sự tôn vinh, nhưng tất nhiên nó sẽ không thể chia sẻ tiền thưởng".
- Tiến sĩ Brenner thường được cho là che đẻ của nghiên cứu về C. elegans.
- Ông góp phần khiến C. elegans trở nên phổ biến ở các phòng thí nghiệm trên khắp thế giới, sau khi dành gần một thập kỷ săn tìm mô hình nghiên cứu hoàn hảo.
- C. elegans được đặt theo từ "thanh nhã" trong tiếng Latinh bởi cách chúng di chuyển theo hình sóng uốn lượn. Một trong những đặc điểm nổi bật của loài giun này là tính đơn giản, cho phép nhà khoa học kiểm tra các giả thuyết về khái niệm sinh học cơ bản trong mô hình dễ hiểu.
- Giun tròn C. elegans chỉ có 959 tế bào, một con số dễ xử lý so với hàng nghìn tỷ tế bào ở người.
- Số phận của mỗi tế bào rất dễ theo dõi bởi giun C. elegans trở nên trong suốt dưới ánh đèn của kính hiển vi và trải qua mọi giai đoạn phát triển chỉ trong 3 ngày.
- Chúng là động vật đầu tiên có hệ gene được giải mã hoàn toàn vào năm 1998, vài năm trước khi các nhà khoa học có thể làm điều tương tự với ruồi và chuột.
- Giun C. elegans cũng không đắt đỏ, dễ lưu trữ và tự sinh sản.
- Giun cái có tinh trùng hoạt động, cho phép chúng tự thụ tinh.
- Tiến sĩ Kimble thừa nhận phần lớn thành công của nghiên cứu đến từ thực tế các nhà khoa học làm việc với giun tròn thường chia sẻ tài nguyên và hợp tác.
- Tiến sĩ Ruvkun ở Trường Y Harvard và người đồng nhận giải với ông là Victor Ambros, giáo sư y học phân tử ở Trường Y UMass Chan, chia sẻ phát hiện với nhau, cho phép họ xâu chuỗi cơ chế của microARN. Nếu không, nghiên cứu đoạt giải của họ có thể bị trì trệ nhiều năm, thậm chí nhiều thế kỷ.
+Máy tính mới chỉ sử dụng một photon duy nhất và có thể vận hành ở nhiệt độ phòng, đánh dấu cột mốc lớn trong công nghệ lượng tử.
+ Nhóm nghiên cứu dẫn đầu bởi giáo sư Chuu Chih-sung từ Khoa Vật lý và Trung tâm Khoa học lượng tử và Công nghệ thuộc Đại học Quốc gia Thanh Hoa (NTHU) phát triển máy tính lượng tử nhỏ nhất thế giới, chỉ sử dụng một photon duy nhất, Taipei Times hôm 17/10 đưa tin.
+ Nghiên cứu mới xuất bản trên tạp chí Physical Review Applied.
+ Chuu cho biết, họ đã giải quyết những trở ngại chính trong việc phát triển máy tính lượng tử, gồm chi phí năng lượng cao và môi trường vận hành ở nhiệt độ cực thấp.
+ Photon là hạt năng lượng điện từ nhỏ nhất, và nhóm nghiên cứu đã tìm ra cách mã hóa thông tin trong 32 time-bin, hay chiều, của một photon duy nhất.
+ Photon có thể được giữ trong một trạng thái lượng tử ổn định kể cả ở nhiệt độ phòng, theo Chuu.
+ Máy tính lượng tử thường dễ bị mất thông tin và gặp lỗi tính toán do những rung động hoặc từ trường.
+ Tuy nhiên, photon có phạm vi truyền rộng hơn và ít bị nhiễu hơn, mang lại lợi thế độc đáo khi phát triển máy tính lượng tử thương mại.
+ Máy tính truyền thống thực hiện tính toán trên bảng mạch, trong khi máy tính lượng tử truyền thông tin qua các photon và tính toán nhờ vật lý lượng tử.
+ Đơn vị nhỏ nhất của thông tin kỹ thuật số trong máy tính truyền thống là chữ số nhị phân hay bit, chỉ thể hiện được 0 hoặc 1.
+ Tuy nhiên, bit lượng tử hay qubit, có thể xử lý cả 0 và 1.
+ Đặc tính này gọi là chồng chập lượng tử.
+ Chồng chập cho phép máy tính lượng tử xử lý những phép toán phức tạp, ví dụ như phân tích một số thành các số nguyên tố hoặc tìm kiếm dữ liệu lớn, nhanh hơn máy tính truyền thống đến 100 triệu lần.
+ Kao Wei-yuan, hiệu trưởng NTHU, nhận xét, nghiên cứu mới là cột mốc quan trọng cho máy tính lượng tử vì thiết bị nhỏ gọn và có thể vận hành ở nhiệt độ phòng.
+ Ông lưu ý, khác với những máy tính trong phòng thí nghiệm máy tính lượng tử hàng đầu của Mỹ, thiết bị nhỏ dựa trên photon mới không yêu cầu hệ thống làm mát đồ sộ, một bước tiến đáng chú ý trong lĩnh vực công nghệ lượng tử.
+ Máy tính lượng tử photon cuối cùng sẽ có rất nhiều ứng dụng, bao gồm phát triển thuốc, tối ưu hóa hậu cần, bảo mật dữ liệu và trí tuệ nhân tạo (AI), theo giáo sư Mou Chung-yu, giám đốc Trường Khoa học thuộc NTHU.

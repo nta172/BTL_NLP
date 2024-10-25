@@ -1,23 +1,21 @@
-Jony Ive, nhà thiết kế huyền thoại tạo nên kiểu dáng của iPhone và nhiều thiết bị Appple, đã gặp Sam Altman để xây dựng thiết bị AI mới. Jony Ive nói với New York Times rằng ông đã gặp CEO OpenAI Sam Altman tại một nhà hàng ở San Francisco sau sự sắp xếp của Brian Chesky, CEO Airbnb và cũng là một người thân thiết với Altman.
- Cuộc gặp diễn ra năm ngoái, nhưng hiện mới công khai.
- Trong buổi gặp, Altman và Ive bàn về cách tạo ra thiết bị điện toán AI mới, đồng tình về việc công nghệ này có thể làm được nhiều việc hơn cho người dùng so với phần mềm truyền thống, chẳng hạn tóm tắt và ưu tiên tin nhắn, hoặc xử lý các yêu cầu phức tạp như đặt vé du lịch.
- Tuy nhiên, việc thống nhất ý kiến không được thực hiện trong lần gặp này.
- Cả hai sau đó ăn tối nhiều lần nữa trước khi đồng ý xây dựng một sản phẩm AI thế hệ mới, với LoveFrom của Ive đảm nhiệm khâu thiết kế.
- Dù vậy, chi tiết về sản phẩm không được tiết lộ.
- Đến nay, dự án đã huy động được một số tiền nhất định, chủ yếu đến từ sự đóng góp của Ive và Emerson Collective, công ty của bà Powell Jobs, vợ cố CEO Apple Steve Jobs.
- Dự án hướng mục tiêu huy động được một tỷ USD từ các nhà đầu tư công nghệ cho đến hết năm.
- Bên cạnh đó, Ive cũng đã chuẩn bị cơ sở hạ tầng cho dự án mới cũng như tuyển dụng nhân sự.
- Vào tháng 2, ông chi hơn 60 triệu USD cho tòa nhà rộng khoảng 3.
-000 mét vuông có tên Little Fox Theater, nằm gần trụ sở của LoveFrom, đồng thời tuyển khoảng 10 người, trong đó có hai cựu nhân viên Apple là Tang Tan, từng đảm nhiệm vai trò giám sát quá trình phát triển iPhone, và Evans Hankey, người kế nhiệm Ive ở bộ phận thiết kế Apple.
- Dự án đang được phát triển trong bí mật.
- Các bên vẫn chưa hé lộ sản phẩm sẽ là gì và khi nào được phát hành.
- Theo dự đoán của PhoneArena dựa trên thông tin đã chia sẻ, Ive và Altman có thể đang hướng tới một thiết bị "siêu AI" với mục tiêu cách mạng hóa phần mềm, có khả năng truy cập vào bất kỳ phần nào của hệ điều hành, giải phóng người dùng khỏi việc phải kiểm soát thủ công.
- Thiết bị mới thậm chí có thể sử dụng camera, cảm biến và micro để hiểu ngữ cảnh.
- Chẳng hạn, khi đang nhắc đến việc gọi cho ai đó, chỉ cần nhấc thiết bị lên, nó sẽ tự động thực hiện cuộc gọi.
- Hoặc có thể, thiết bị sẽ theo dõi người dùng chuẩn bị ra ngoài và tự động đặt xe taxi.
- Đây là điều những AI Phone như Humane AI Pin hay Rabbit R1 đang hướng tới, nhưng thiết bị của Ive có thể thực hiện tốt hơn.
- Tuy nhiên, PhoneArena cũng cho rằng thiết bị mới có thể gặp một số rào cản.
- Chẳng hạn, nhiều người lo ngại về quyền riêng tư và phản đối thiết bị số can thiệp quá sâu vào cuộc sống của họ. "Ive từng biến một thiết bị quá khổ như iPad thành sản phẩm thông dụng và được yêu thích.
- Vì thế, có lẽ ông ấy đã nắm trong tay những gì cần làm, còn chúng ta sẽ trông chờ một sản phẩm mang tính cách mạng vài năm nữa", trang này viết.
- Hồi tháng 4, The Information cho biết Altman và Ive đã chính thức hợp tác để thiết kế và sản xuất thiết bị cá nhân hỗ trợ AI tạo sinh nhưng không phải là smartphone, đồng thời tìm kiếm nguồn tài trợ cho dự án. Khi đó, một số ý kiến cho rằng nỗ lực của Ive có thể khiến LoveFrom đối đầu với Apple trong tương lai, khi hãng cũng đang tập trung phát triển AI với Apple Intelligence. Jony Ive được xem là thiên tài về thiết kế khi tham gia thiết kế hàng loạt thiết bị mang tính biểu tượng của Apple như iPhone, iPad, MacBook.
- Ông rời Apple năm 2019 sau gần ba thập kỷ làm việc.
+Thời gian nhận hồ sơ mô tả ý tưởng và sản phẩm công nghệ tham gia cuộc thi Digital Data For Life 2023 đến hết ngày 21/9.
+ Thí sinh còn một ngày để tiếp tục gửi ý tưởng, sản phẩm công nghệ thông tin phục vụ tiến trình chuyển đổi số.
+ Từ 22/9 đến 29/9, hội đồng chuyên môn sẽ duyệt hồ sơ để chọn 30- 40 hồ sơ vào Vòng sơ khảo.
+ Cuộc thi Dữ liệu với cuộc sống (Data for Life 2024) do Trung tâm Dữ liệu và dân cư, Cục Cảnh sát quản lý hành chính về trật tự xã hội (Bộ Công an); Đại học Bách khoa Hà Nội và Đài Truyền hình Việt Nam (VTV) phối hợp tổ chức.
+ Báo VnExpress là đơn vị bảo trợ truyền thông.
+ Sau hai tháng triển khai, đại diện ban tổ chức cho biết đã nhận được hơn 100 ý tưởng dự thi đến từ khắp các tỉnh thành trên cả nước, thậm chí kiều bào nước ngoài.
+ Trong đó, có những ý tưởng đã được thí sinh đưa vào triển khai thử nghiệm với kết quả khả thi.
+ Là một trong những đội thi là kiều bào Việt Nam tại nước ngoài, đội thi Mai Trang Trí đã gửi về ý tưởng "App, web quản lý phòng cháy chữa cháy".
+ Xuất phát từ nhiều vụ cháy thương tâm xảy ra trên cả nước thời gian gần đây, đội thi đã lên ý tưởng xây dựng công cụ ứng dụng app cổng thông tin web quản lý phòng cháy chữa cháy.
+ Mục tiêu của app, website này là tạo ra môi trường mở, thuận tiện cho người dân, cơ sở sản xuất kinh doanh/ doanh nghiệp và cơ quan quản lý về phòng cháy chữa cháy; khuyến khích người dân và cơ sở sản xuất kinh doanh/ doanh nghiệp tham gia vào việc theo dõi và báo cáo về các vấn đề liên quan đến cháy nổ, từ đó nâng cao chất lượng cuộc sống. "Chúng tôi kỳ vọng với ý tưởng này, các cơ quan quản lý có thể dựa vào app để đánh giá và theo dõi nguy cơ cháy nổ hiệu quả", anh Hoàng Minh Trí, thành viên đại diện nhóm chia sẻ trong bản mô tả ý tưởng gửi về cuộc thi.
+ Nhiều ý tưởng khác xoay quanh việc tìm giải pháp để chuyển đổi số cũng được gửi về cuộc thi như "Sổ tay công an số"; "Bảng điều khiển dữ liệu dân số", "Ứng dụng tìm đường thông minh cho xe ưu tiên", "Chatbot hỗ trợ tư vấn giải đáp thắc mắc về pháp luật", "Mô hình dự đoán vi phạm an toàn giao thông"...
+ Theo đại diện ban tổ chức, điểm nổi bật của cuộc thi năm nay là nhiều ý tưởng, sản phẩm gửi về cho ban tổ chức, đều ứng dụng công nghệ AI, như "Áp dụng trí tuệ nhân tạo dựng các livestreamer bot ảo hỗ trợ livestream bán hàng trên nền tảng thương mại trực tuyến"; AI hỗ trợ tìm kiếm việc làm; Người ảo AI, giải pháp cá nhân hóa trải nghiệm dịch vụ hành chính công; Ứng dụng AI vào dịch vụ bán lẻ, ngân hàng điện tử...
+ Các công nghệ hiện đại khác cũng được các thí sinh, đội thi sử dụng nhiều như Java, C++, Big Data...
+ Hầu hết ý tưởng đều lấy dữ liệu dân cư giả lập do ban tổ chức cung cấp, dữ liệu về tai nạn giao thông và camera giao thông do ban tổ chức cung cấp, nhóm dữ liệu từ các tổ chức và doanh nghiệp.
+ Bên cạnh đó là nhóm dữ liệu mở từ các nguồn hợp pháp và miễn phí trên mạng.
+ Cuộc thi Dữ liệu với cuộc sống (Data For Life 2024) nhằm tìm kiếm các ý tưởng, giải pháp, sản phẩm công nghệ thông tin từ các tài năng trẻ nhằm phục vụ phục vụ xây dựng Chính phủ số, Xã hội số và Kinh tế số.
+ Cuộc thi sẽ trải qua ba vòng, gồm sơ loại (30-40 đội), chung khảo (10 đội), từ đó sẽ trao giải cho 5 đội xuất sắc.
+ Các đội sẽ nộp bài thi trực tuyến đến hết 21/9 với bản mô tả ý tưởng, sản phẩm thể hiện lý do ra đời, cách thức vận hành, điểm nổi bật, kết quả đạt được khi ứng dụng vào thực tế.
+ Vòng chung kết dự kiến diễn ra ngày 26/11.
+ Tổng giá trị giải thưởng dự kiến là 390 triệu đồng gồm: một giải nhất 300 triệu đồng; một giải nhì 50 triệu đồng; một giải ba 30 triệu đồng; một giải khuyến khích 10 triệu đồng.
+ Đặc biệt, các sản phẩm đoạt giải nhất, nhì, ba sẽ được hỗ trợ hoàn thiện sản phẩm tại Trung tâm Đổi mới Sáng tạo - Trường Công nghệ Thông tin và Truyền thông - Đại học Bách khoa Hà Nội.

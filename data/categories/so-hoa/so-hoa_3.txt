@@ -1,10 +1,21 @@
-Apple được cho là đã nghiên cứu và phát triển nhẫn thông minh hơn 10 năm, nhưng chưa có bất kỳ kế hoạch ra mắt sản phẩm nào.
- Theo chuyên gia Mark Gurman của Bloomberg, Apple có thể đã dừng dự án nhẫn thông minh vì thiết bị này sẽ làm giảm giá trị của Apple Watch.
- Dòng đồng hồ thông minh vẫn còn tiềm năng phát triển và hãng đang nằm trong số những công ty dẫn đầu về thiết bị đeo theo dõi sức khỏe.
- Hơn 10 năm qua, nhẫn thông minh của Apple là chủ đề được nhiều nguồn tin nhắc đến và hãng cũng đã đăng ký một số bằng sáng chế liên quan, nhưng chưa có nguyên mẫu nào xuất hiện.
- Sau khi Galaxy Ring ra mắt đầu năm nay, trang ETNews cho biết Apple đã xem xét nghiêm túc về kế hoạch công bố Apple Ring, đồng thời nộp đơn xin cấp bằng sáng chế cho thiết bị đeo ngón tay hỗ trợ NFC. Một nguồn tin trong ngành nói quá trình thương mại hóa Apple Ring sẽ sớm diễn ra.
- Theo Electronic Times hồi tháng 6, Apple đang theo dõi thị trường để đánh giá liệu nhẫn thông minh có trở thành lựa chọn thay thế smartwatch nhờ việc có thể đeo lâu hơn, nhất là cho việc theo dõi giấc ngủ.
- Hiện nay, trên thị trường đã xuất hiện một số mẫu nhẫn thông minh như Oura Ring hay Helio Ring của Amazfit.
- Tuy nhiên, Samsung được cho là sẽ vượt qua các đối thủ và thống trị thị trường, nhất là sau thông tin Apple dừng dự án smart ring. Nếu thông tin trên chính xác, đây sẽ là lần thứ hai một thiết bị được chờ đón của Apple âm thầm bị hủy bỏ trong năm nay.
- Vào tháng 2, hãng đã đình chỉ dự án xe điện Project Titan sau khoảng một thập kỷ phát triển để chuyển hướng tập trung cho lĩnh vực AI.
- Hàng trăm kỹ sư phần cứng và nhà thiết kế ôtô đã chuyển sang những vị trí còn trống khác tại Apple, số khác không phù hợp bị cho nghỉ việc.
+Nếu tính riêng linh kiện, Apple cần khoảng 485 USD để sản xuất một chiếc iPhone 16 Pro Max bản 256 GB, trong khi giá bán là 1.
+199 USD.
+ Số liệu trên được công ty nghiên cứu TD Cowen công bố ngày 2/10 sau khi phân tích các thành phần bên trong mẫu iPhone mới nhất của Apple.
+ Có nghĩa, chi phí linh kiện chỉ chiếm 40% so với giá bán ra của mẫu iPhone 16 Pro Max với dung lượng bộ nhớ thấp nhất 256 GB.
+ Mức 485 USD cũng không chênh lệch nhiều so với iPhone 15 Pro Max, với chi phí linh kiện 453 USD, tương đương 38%.
+ Chi phí sản xuất (BOM) không phản ánh bức tranh toàn cảnh, vì chưa tính đến những yếu tố quan trọng khác như nghiên cứu và phát triển, lắp ráp, phân phối, marketing, giá trị thương hiệu.
+ CEO Apple Tim Cook cũng từng nói chỉ số BOM do bên thứ ba đưa ra "không gần với sự thật" và chi phí thực tế cao hơn nhiều.
+ Tuy nhiên, theo PhoneArena, danh mục vật liệu vẫn hữu ích vì giúp so sánh các thế hệ iPhone, từ đó xem việc nâng cấp phần cứng có tác động đến việc Apple phải tăng giá thiết bị qua từng năm hay không.
+ Trong dữ liệu do TD Cowen công bố, màn hình 6,9 icnh và ống kính tetraprism chiếm chi phí lớn nhất, đều 80 USD, tương đương 16%.
+ Chip xử lý A18 Pro giá 45 USD, chiếm 9%.
+ Các thành phần còn lại như RAM, modem 5G, cảm biến, pin... chiếm 2-6%.
+ Trong khi đó, phím cảm ứng lực Camera Control mới trên iPhone 16 Pro Max là 19 USD.
+ Đây là một trong các yếu tố khiến chi phí linh kiện của smartphone này cao hơn mẫu iPhone 15 Pro Max năm ngoái.
+ Ngoài iPhone 16 Pro Max, TD Cowen không công bố bảng giá vật liệu của các phiên bản iPhone 16.
+ Công ty này được thành lập năm 1918, trụ sở ở New York và chuyên về lĩnh vực dịch vụ tài chính và thanh toán toàn cầu.
+ Trong khi giá thành sản xuất cao hơn, iPhone 16 được ước tính không bán chạy bằng iPhone 15 trong giai đoạn đầu, nhất là ở Trung Quốc, do thiếu đột phá về thiết kế, trong khi Apple Intelligence chưa có mặt, cùng sự cạnh tranh khốc liệt từ Huawei.
+ Bộ bốn iPhone 16 được Apple công bố ngày 9/9.
+ Trong đó, iPhone 16 và 16 Plus thay đổi thiết kế camera, trang bị nút Action thay cho phím gạt chế độ âm lượng, camera chính nâng lên 48 megapixel.
+ Hai mẫu Pro có màn hình lớn hơn trước 0,2 inch, camera góc siêu rộng nâng độ phân giải lên 48 megapixel.
+ Cả bốn đều có nút chụp mới.
+ Apple trang bị chip A18 cho iPhone 16 tiêu chuẩn và A18 Pro cho iPhone 16 dòng Pro.

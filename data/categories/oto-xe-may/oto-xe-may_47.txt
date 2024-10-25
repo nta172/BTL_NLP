@@ -1,14 +1,12 @@
-Mẫu xe gầm cao cỡ C thế hệ thứ 4 bản nâng cấp tinh chỉnh thiết kế, tùy chọn hai hệ truyền động, bán ra nhiều thị trường.
- Hãng ôtô Nhật Bản Mitsubishi ra mắt Outlander PHEV 2025 đầu tiên cho thị trường nội địa vào cuối năm nay, sau đó đến các quốc gia khác từ đầu năm sau.
- Thay đổi đáng chú ý nhất liên quan đến hệ truyền động của Outlander PHEV với gói pin mới tăng dung lượng từ 20 kWh lên 27 kWh.
- Theo đó, mẫu gầm cao cỡ C plug-in hybrid có phạm vi hoạt động lên tới 86 km theo tiêu chuẩn WLTP khi chạy với chế độ thuần điện EV.
- Outlander PHEV 2025 trang bị động cơ hybrid sạc rời, với động cơ xăng kết hợp hai môtơ điện. Máy xăng 2,4 lít I4 hút khí tự nhiên, công suất 134 mã lực, mô-men xoắn cực đại 203 Nm. Môtơ điện đặt ở cầu trước có công suất 114 mã lực, mô-men xoắn 255 Nm. Môtơ điện ở cầu sau công suất 134 mã lực, mô-men xoắn 195 Nm.
- Tổng công suất của xe là 302 mã lực, cho phép Outlander PHEV 2025 tăng tốc 0-100 km/h trong 7,9 giây.
- Tốc độ tối đa 135 km/h khi ở chế độ EV. Nhờ tăng dung tích bình nhiên liệu lên 53 lít, xe có phạm vi hoạt động 844 km.
- Xe hỗ trợ chuẩn sạc Type2 và CHAdeMO tiêu chuẩn.
- Outlander PHEV 2025 cung cấp ba chế độ lái, gồm EV (thuần điện), Series Hybrid (hybrid nối tiếp, động cơ dẫn động máy phát) và Parallel Hybrid (máy xăng và điện hoạt động song song). Mitsubishi cho biết, hãng tinh chỉnh hệ thống S-AWC (dẫn động 4 bánh toàn thời gian) để tối đa hóa lực kéo trong mọi điều kiện đường. Ngoài ra, Outlander PHEV 2025 nâng cấp khung gầm tăng khả năng xử lý, như điều chỉnh giảm xóc, tỷ lệ lò xo.
- Hệ thống lái nhẹ hơn và tăng độ phản hồi tốt hơn ở tốc độ trung bình và cao. Lưới tản nhiệt của Outlander PHEV 2025 có thể đóng/mở tự động.
- Bánh xe đi kèm bộ mâm 20 inch thiết kế 6 chấu đặc biệt.
- Cụm đèn hậu LED tinh chỉnh. Nội thất nâng cấp với màn hình cảm ứng giải trí 12,3 inch mới thay cho màn 9 inch cũ và hệ điều hành nâng cấp.
- Hệ thống âm thanh Yamaha 12 loa mới và sạc không dây Qi. Mitsubishi Outlander PHEV 2025 sẽ công bố giá gần thời điểm bán ra vào cuối năm.
- Outlander PHEV cạnh tranh với những đối thủ cùng phân khúc như Honda CR-V, Mazda CX-5, Hyundai Tucson, Kia Sportage.
+Cruise, hãng xe tự lái thuộc General Motors, sẽ nộp phạt 1,5 triệu USD do không báo cáo tai nạn liên quan đến người đi bộ hồi tháng 10/2023.
+ Sau thông báo của Cơ quan an toàn giao thông quốc gia Mỹ (NHTSA) hôm 30/9, Cruise sẽ phải gửi cho NHTSA một kế hoạch hành động khắc phục về cách thức cải thiện việc tuân thủ báo cáo sự cố nghiêm trọng và đối mặt với các yêu cầu báo cáo nâng cao trong ít nhất hai năm.
+ Cruise cũng đang phải đứng trước các cuộc điều tra của Bộ Tư pháp Mỹ và Ủy ban Chứng khoán và Giao dịch Mỹ (SEC) sau vụ tai nạn, trong đó một chiếc robotaxi của hãng ở San Francisco đã đâm vào một người đi bộ sau khi cô gái này bị một phương tiện khác tông và kéo lê 6,1 m.
+ Vào tháng 10/2023, các nhân viên của Cruise đã cố gắng thuyết phục NHTSA không mở cuộc điều tra về vụ việc gây thương tích và gửi báo cáo mà không hề tiết lộ việc người đi bộ bị kéo lê.
+ Theo NHTSA, Cruise đã gửi một số báo cáo không đầy đủ về các vụ tai nạn liên quan đến hệ thống lái tự động, bao gồm cả hai báo cáo liên quan đến vụ tai nạn tháng 10.
+ Cơ quan này phát hiện Cruise đã bỏ sót chi tiết về vụ tai nạn nêu trên sau khi xem video mà họ yêu cầu.
+ Cruise cũng đã sửa đổi 4 báo cáo để cung cấp thêm chi tiết về các vụ tai nạn khác.
+ Cuộc điều tra của NHTSA về việc liệu Cruise có đang thực hiện các biện pháp phòng ngừa đầy đủ với robotaxi tự hành để bảo vệ người đi bộ hay không vẫn đang được tiến hành.
+ Vào tháng 8, Cruise đã triệu hồi 1.
+200 robotaxi do sự cố phanh sau cuộc điều tra của NHTSA về độ an toàn của hệ thống lái tự động.
+ Vào tháng 7, GM cho biết sẽ tạm dừng vô thời hạn kế hoạch sử dụng xe tự lái Origin không có vô-lăng.
+ Để đối phó với vụ tai nạn tháng 10/2023 và các cuộc điều tra liên quan, CEO của Cruise đã từ chức vào năm ngoái và GM sau đó công bố kế hoạch giảm chi tiêu cho đơn vị xe tự lái.

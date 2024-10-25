@@ -1,15 +1,19 @@
-Nghiên cứu mới hé lộ nguồn gốc chính xác của tiếng biotwang bí ẩn trong lòng Thái Bình Dương, được phát hiện lần đầu tiên gần rãnh Mariana.
- Các nhà nghiên cứu cuối cùng xác định nguồn gốc tiếng ồn bí ẩn đến từ rãnh đại dương sâu nhất thế giới.
- Âm thanh kỳ lạ được gọi là "biotwang" thực chất là tiếng gọi của cá voi Bryde (Balaenoptera edeni). Loài cá voi này có thể sử dụng tiếng gọi để định vị đồng loại.
- Giới khoa học lần đầu phát hiện tiếng ồn khác thường năm 2014 trong khi sử dụng tàu lượn dưới nước để tiến hành khảo sát rãnh Mariana bằng âm thanh.
- Đây là rãnh đại dương sâu nhất trên Trái Đất, trải dài hơn 2.
-400 km ở phía nam Nhật Bản và có độ sâu tối đa 10.
-935 m, theo Live Science.
- Âm thanh biotwang có thể chia thành hai phần riêng biệt, đầu tiên là âm thanh thấp giống tiếng lẩm bẩm vang vọng trong tầng nước sâu, thứ hai là âm thanh kim loại có cao độ mà các nhà nghiên cứu ví như tiếng phát ra từ tàu vũ trụ trong phim Star Trek và Star Wars. Những âm thanh này ban đầu gây bối rối cho nhà khoa học. Nhưng năm 2016, một nhóm nghiên cứu suy đoán biotwang nhiều khả năng là tiếng gọi từ cá voi tấm sừng lớn như cá voi xanh (Balaenoptera musculus) hoặc cá voi lưng gù (Megaptera novaeangliae).
- Tuy nhiên, âm thanh đó không khớp với tiếng gọi của bất kỳ loài cá voi nào đã biết.
- Trong nghiên cứu mới công bố hôm 18/9 trên tạp chí Frontiers in Marine Science, các nhà nghiên cứu cuối cùng có thể chứng minh cá voi Bryde phát ra tiếng ồn, một phần nhờ công cụ trí tuệ nhân tạo (AI) mới giúp sàng lọc hơn 200.
-000 giờ ghi âm, chứa nhiều loại âm thanh khác nhau trong đại dương. Nhóm nghiên cứu nghi ngờ cá voi Bryde đứng sau biotwang khi họ trông thấy 10 con bơi gần quần đảo Mariana và ghi hình 9 con phát ra tiếng ồn đặc trưng. "1 - 2 lần là sự trùng hợp nhưng 9 lần thì rõ ràng đó là cá voi Bryde", trưởng nhóm nghiên cứu Ann Allen, nhà hải dương học ở Trung tâm Khoa học Ngư nghiệp quần đảo Thái Bình Dương thuộc Cục quản lý Đại dương và Khí quyển Quốc gia Mỹ (NOAA), cho biết. Nhưng để chứng minh cá voi Bryde phát ra tiếng kêu, nhóm nghiên cứu đối chiếu tiếng ồn với mô hình di cư của loài vật, phân loại bản ghi âm qua nhiều năm thu thập bởi các trạm theo dõi trên khắp quần đảo Mariana và khu vực xung quanh.
- Họ tăng tốc quá trình bằng cách sử dụng AI để biến biotwang thành hình ảnh, gọi là ảnh phổ, qua đó dễ dàng phân biệt những tiếng ồn khác nhờ thuật toán học máy. Nghiên cứu cũng nhận thấy biotwang chỉ có thể nghe được ở tây bắc Thái Bình Dương, dù cá voi Bryde sinh sống trên khu vực rộng hơn, chứng tỏ chỉ có một quần thể cá voi chuyên biệt phát ra âm thanh.
- Dữ liệu cũng hé lộ sự tăng vọt của biotwang năm 2016, khi nhiệt độ đại dương tăng do sự kiện El Nino làm tăng số lượng Bryde ghé qua khu vực.
- Các nhà nghiên cứu vẫn chưa rõ tại sao tiếng kêu nghe kỳ lạ như vậy.
- Họ sẽ cần thêm dữ liệu để kết luận chắc chắn.
+Hươu hoang dã sinh sôi với số lượng hàng trăm nghìn con đang trở thành vấn đề khiến chủ đất, nông dân, tổ chức môi trường đau đầu tìm cách đối phó.
+ Victoria là bang có quần thể hươu hoang dã lớn nhất Australia.
+ Tuy nhiên, các chủ đất và tổ chức môi trường đang kêu gọi chính quyền bang ngừng các quy định bảo vệ hươu hoang dã do số lượng hươu tăng vọt đang gây thiệt hại cho nông nghiệp và môi trường địa phương, Guardian hôm 19/9 đưa tin.
+ Jordan Crook, cán bộ ở Hiệp hội Vườn quốc gia Victoria, cho rằng việc xếp hươu vào nhóm vật gây hại cùng với cáo, thỏ và lợn sẽ giúp bang Victoria thống nhất với những nơi khác ở Australia. "Hươu hoang dã đang lan rộng khắp bang ở tốc độ nhanh chóng, phá hủy môi trường sống quan trọng đối với các loài nguy cấp như rừng mưa và đầm lầy trên núi cao, đồng thời ảnh hưởng nặng nề tới sản xuất nông nghiệp và trở thành mối đe dọa trên đường.
+ Đã đến lúc coi hươu hoang dã là loài xâm hại, đầu tư vào kiểm soát khoa học hiệu quả và xóa sổ quần thể hươu nếu có thể", Crook nói.
+ Hiện nay, hươu là loài được bảo vệ cùng với những loài bản xứ khác theo Đạo luật Động vật hoang dã, gây khó khăn cho những người muốn kiểm soát số lượng của chúng.
+ Trong lá thư gửi cơ quan nông nghiệp và môi trường, hơn 100 chủ đất, tổ chức môi trường và viện nghiên cứu hàng đầu kêu gọi thay đổi xếp loại của hươu từ loài cần bảo vệ thành động vật gây hại.
+ Điều này sẽ cung cấp sự minh bạch cho việc kiểm soát tác động của chúng.
+ Tiến sĩ Alex Maisey, nhà sinh thái học ở Đại học La Trobe, cho biết hươu hoang dã đang hủy hoại các rừng mưa ôn đới như rừng Sherbrooke trên dãy Dandenong.
+ Hươu tàn phá hơn 90% cây de vàng ở vài nơi trong rừng Sherbrooke thông qua gặm vỏ cây và truyền nấm gây thối rễ.
+ Tán cây bị hư hại khiến nhiều khu vực vốn ẩm ướt và râm mát trở nên khô héo.
+ Quần thể hươu hoang dã ở Victoria thuộc hàng lớn nhất Australia, theo Hội đồng loài xâm hại, với số lượng ước tính từ hàng trăm nghìn đến hơn một triệu con.
+ Trong khi đó, thợ săn đã tiêu diệt khoảng 137.
+090 con hươu vào năm 2023.
+ Tom Guthrie, một nông dân chăn cừu ở vùng Grampians của bang Victoria, cho rằng số lượng hươu đã vượt ngoài tầm kiểm soát.
+ Hươu gây thiệt hại lớn cho nông dân.
+ Chúng dễ dàng nhảy lên hàng rào, gặm cây cỏ quý hiếm, phá hoại vườn nho và ăn nho chất lượng cao.
+ Tuy nhiên, Hiệp hội hươu Australia không ủng hộ thay đổi xếp loại của hươu từ động vật hoang dã sang loài gây hại.
+ Một phát ngôn viên của cơ quan môi trường Victoria cho biết kế hoạch quản lý hươu trên cả bang đang được tiến hành và xếp loại hiện nay không ảnh hưởng tới nỗ lực kiểm soát chúng.

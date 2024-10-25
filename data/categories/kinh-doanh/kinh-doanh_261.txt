@@ -1,17 +1,20 @@
-OpenAI - công ty mẹ ChatGPT - kết thúc vòng gọi vốn mới nhất, huy động được 6,6 tỷ USD từ các nhà đầu tư như Microsoft hay Nvidia. Ngày 2/10, OpenAI thông báo hoàn thành thêm một vòng huy động vốn.
- Theo đó, nhà đầu tư rót vào đây 6,6 tỷ USD, định giá OpenAI ở mức 157 tỷ USD.
- Họ hiện là một trong các công ty tư nhân giá trị nhất thế giới.
- Vòng gọi vốn thu hút nhiều cái tên nổi bật, như Microsoft và Nvidia.
- Trong đó, Microsoft là doanh nghiệp hậu thuẫn mạnh nhất cho OpenAI đến nay.
- Giám đốc Tài chính OpenAI Sarah Friar cũng cho biết trước các nhân viên rằng công ty này sẽ có cơ chế mua lại cổ phiếu của họ sau vòng gọi vốn.
- Tuy nhiên, thời gian và các chi tiết khác chưa được tiết lộ, nguồn tin của Reuters cho biết.
- Đầu năm nay, công ty này cho phép một số nhân viên bán cổ phiếu khi hãng được định giá 86 tỷ USD.
- OpenAI đang trên đà đạt 3,6 tỷ USD doanh thu năm nay, với khoản lỗ hơn 5 tỷ USD.
- Hãng dự báo doanh thu năm tới lên 11,6 tỷ USD, nguồn tin của Reuters cho biết.
- Vòng gọi vốn diễn ra đúng thời điểm công ty này tái cấu trúc và thay đổi lãnh đạo.
- Hãng cho biết vẫn theo đuổi trí tuệ nhân tạo tổng quát (AGI), nhằm phát triển các hệ thống vượt trí thông minh của con người.
- Họ sẽ thương mại hóa và nỗ lực đạt lợi nhuận.
- Danh tiếng và định giá của OpenAI tăng nhanh chóng hai năm gần đây, sau khi ra mắt ChatGPT.
- Hiện tại, chatbot này có 250 triệu người dùng thường xuyên mỗi tuần.
- Định giá của OpenAI tăng từ 14 tỷ USD năm 2021 lên 157 tỷ USD hiện tại.
- Doanh thu cũng tăng từ 0 lên 3,6 tỷ USD, vượt xa kỳ vọng ban đầu của các lãnh đạo.
+Hai ngân hàng CBBank, Oceanbank chiều nay được chuyển giao bắt buộc về Vietcombank và MB.
+ Họp báo về hoạt động ngành ngân hàng quý III, chiều 17/10, ông Nguyễn Đức Long, Phó chánh thanh tra Cơ quan Thanh tra giám sát (Ngân hàng Nhà nước), cho biết chiều nay sẽ diễn ra lễ chuyển giao hai ngân hàng bắt buộc là Ngân hàng Xây dựng (CBBank) và Ngân hàng Đại Dương (OceanBank).
+ Trong đó, Ngân hàng Ngoại Thương Việt Nam (Vietcombank) nhận chuyển giao CBBank, còn Ngân hàng Quân Đội (MB) nhận OceanBank.
+ Hai ngân hàng khác là Ngân hàng Dầu khí Toàn cầu (GPBank) và Ngân hàng Đông Á (DongA Bank) dự kiến sẽ tiếp tục hoàn thiện phương án và chuyển giao trong tương lai.
+ Về quyền lợi của người gửi tiền, ông Long khẳng định sẽ được đảm bảo "trước, trong và sau quá trình chuyển giao".
+ Mục tiêu chuyển giao để đưa các ngân hàng yếu kém quay về hoạt động bình thường, khắc phục lỗ lũy kế, đảm bảo các quy định về an toàn hoạt động.
+ Oceanbank xuất thân là Ngân hàng nông thôn Hải Hưng.
+ Sau khi được ông Hà Văn Thắm tham gia mua lại cổ phần, nhà băng này chuyển đổi mô hình sang ngân hàng đô thị, đổi tên thành Ngân hàng Đại Dương vào 2007.
+ Sau sự kiện ông Thắm bị bắt, Oceanbank được Ngân hàng Nhà nước mua lại giá 0 đồng và Vietinbank hỗ trợ quản trị.
+ Còn CBBank tiền thân là Ngân hàng nông thôn Rạch Kiến, được chuyển đổi lên mô hình đô thị năm 2006 với tên gọi là Đại Tín (TrustBank).
+ Năm 2013, Tập đoàn Thiên Thanh đã cùng một số cổ đông tham gia góp vốn và tái cấu trúc Trust Bank, đổi tên thành Ngân hàng Xây dựng Việt Nam (VNCB).
+ Đến 2015, Ngân hàng Nhà nước mua lại VNCB với giá 0 đồng, được Vietcombank tham gia hỗ trợ, quản trị điều hành, sau đó đổi tên thương hiệu thành CBBank.
+ Trước đó, tại đại hội cổ đông thường niên các năm gần đây, lãnh đạo của MB và Vietcombank từng chia sẻ, việc nhận chuyển giao bắt buộc không yêu cầu nhà băng nhận chuyển giao phải bỏ tiền mua, do đây là đơn vị yếu kém trong diện tái cơ cấu đã được mua lại 0 đồng.
+ Để xử lý khoản lỗ lũy kế của ngân hàng 0 đồng, lãnh đạo MB nói biện pháp quan trọng nhất vẫn là sự hỗ trợ của Ngân hàng Nhà nước.
+ Theo đó, ngân hàng nhận chuyển giao sẽ được vay với lãi suất 0% trong thời gian tái cơ cấu, được phép tăng trưởng quy mô cao hơn.
+ Nếu tái cơ cấu không thành công, ngân hàng nhận chuyển giao không thể trả lại ngân hàng 0 đồng cho Nhà nước, nhưng có thể bán đi như một khoản đầu tư hoặc IPO chuyển thành ngân hàng cổ phần, lãnh đạo MB cũng từng chia sẻ thêm.
+ Theo lãnh đạo Vietcombank, tổ chức nhận chuyển giao sẽ có quyền định đoạt, xử lý ngân hàng chuyển giao bắt buộc: nếu tìm được tổ chức nước ngoài phù hợp, có thể bán tổ chức nhận chuyển giao, duy trì hoặc có phương án khác như chuyển đổi, cải cách, chẳng hạn như chuyển sang ngân hàng số.
+ Còn nếu tái cơ cấu thành công, ngân hàng 0 đồng có thể sáp nhập vào ngân hàng nhận chuyển giao bắt buộc là Vietcombank, MB.
+ Oceanbank và CBBank là hai ngân hàng cùng được Ngân hàng Nhà nước mua lại giá 0 đồng trong năm 2015.
+ Ngoài Oceanbank và CBBank, hiện còn một ngân hàng 0 đồng khác là GPBank và hai ngân hàng thuộc diện kiểm soát đặc biệt DongABank và SCB.

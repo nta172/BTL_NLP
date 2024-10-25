@@ -1,19 +1,25 @@
-Siphonophore là động vật khác thường bao gồm nhiều tổ chức đơn lẻ gọi là zooid, mỗi zooid có một chức năng riêng biệt dù giống hệt nhau về mặt di truyền.
- Siphonophore (Thủy tức ống) có tên Siphonophora sống ở mọi đại dương trên khắp thế giới, chuyên ăn loài giáp xác nhỏ, giáp xác chân chèo và cá.
- Sinh vật biển kỳ lạ này có thể dài hơn cá voi xanh, động vật lớn nhất trên Trái Đất, đạt chiều dài lên tới 46 m, theo Live Science.
- Có khoảng 175 loài siphonophore sống ở vùng biển sâu trong tất cả đại dương. Nhiều loài siphonophore trông giống sợi dây dài nhưng vài loài như sứa lửa (Physalia physalis) có độc trông giống sứa.
- Dù siphonophore có thể giống một động vật đơn độc, nó thực chất là một quần thể bao gồm những tổ chức đơn lẻ gọi là zooid, mỗi zooid giữ một chức năng riêng.
- Vài zooid chuyên bắt mồi và tiêu hóa thức ăn trong khi zooid khác cho phép quần thể sinh sản hoặc bơi. Một zooid không thể tự sống sót do chúng chuyên thực hiện một chức năng, do đó phụ thuộc lẫn nhau để hình thành phần thân.
- Siphonophore phát triển từ một zooid nở từ trứng thụ tinh.
- Zooid đầu tiên này phát triển vùng sinh trưởng, từ đó zooid mới mọc lên.
- Siphonophore tự nhân bản vô tính để tạo ra ngày càng nhiều zooid.
- Siphonophore ăn một loạt động vật biển nhỏ, bao gồm sinh vật phù da, cá và giáp xác. Những loài zooid sử dụng chất độc để bắt mồi có zooid trang bị các xúc tu nhỏ chứa chất độc gây tê liệt.
- Để săn mồi, chúng tung xúc tu đốt và khiến con mồi bất động trước khi kéo thức ăn vào miệng.
- Các nhà sinh vật học hải dương từng ghi hình một siphonophore kiếm ăn ở phía tây Australia năm 2020.
- Họ phát hiện loài siphonophore (Praya dubia) khổng lồ dài 45,7 m tạo ra vòng xoắn chết chóc để bẫy con mồi mất cảnh giác. Nhiều siphonophore cũng phát quang sinh học và tạo ra ánh sáng thông qua phản ứng hóa học để thu hút con mồi.
- Dù phần lớn loài phát sáng màu xanh lá cây hoặc xanh dương, một loài siphonophore thuộc chi Erenna là động vật không xương sống đầu tiên phát sáng màu đỏ.
- Phát quang sinh học màu đỏ rất hiếm gặp do bước sóng ngắn của màu xanh lá cây và xanh dương truyền xa hơn ở biển và hữu ích về mặt tiến hóa hơn đối với động vật biển.
- Theo bài báo công bố năm 2005 trên tạp chí Science của nhà sinh vật học hải dương Steven Haddock ở Viện nghiên cứu thủy cung vịnh Monterey, ánh sáng màu đỏ màu có thể giúp thu hút cá bởi chúng nhầm quầng sáng màu đỏ đến từ tảo trong dạ dày của con mồi như giáp xác chân chèo.
- Siphonophore thường trở thành mồi săn của rùa biển hoặc cá lớn.
- Tuy nhiên, vài loài có thể sử dụng xúc tu đốt để tự vệ trước động vật săn mồi.
- Chúng cũng là mục tiêu đi săn của loài giáp xác nhỏ li ti trong suốt tên phronima, có thể cắn xuyên qua siphonophore để sống bên trong cơ thể khiến chúng chết dần.
+Phanh ôtô điện dùng vật liệu thông minh, ứng dụng IoT giám sát rừng… là các nghiên cứu về sản xuất bền vững nhà khoa học Việt chia sẻ với học giả quốc tế.
+ Các kết quả nghiên cứu được chia sẻ tại hội nghị toàn cầu về sản xuất bền vững (GCSM 2024) lần 20 tổ chức từ 9 - 11/10 tại Bình Dương với sự tham gia của 200 nhà khoa học trong nước và quốc tế chia sẻ hơn 100 nghiên cứu về các sản phẩm, vật liệu, quy trình, hệ thống sản xuất bền vững.
+ Các nghiên cứu định hướng giảm sử dụng nguồn năng lượng hóa thạch, thúc đẩy ứng dụng các nguồn năng lượng mới, vật liệu mới, các công nghệ chống biến đổi khí hậu, phát triển kinh tế xanh trong đời sống và sản xuất.
+ Tại hội nghị, nhóm tác giả trường Đại học Việt Đức và trường Đại học Công nghiệp TP HCM chia sẻ nghiên cứu loại phanh lắp đặt trong ôtô điện sử dụng vật liệu thông minh giúp tăng trải nghiệm lái với tài xế.
+ Nghiên cứu sinh Nguyễn Duy Hưng (trường Đại học Việt Đức) cho biết, so với xe xăng dầu, vô lăng xe điện mang lại cảm giác lái ít hơn.
+ Cụ thể khi vào cua vô lăng xe điện không có độ nặng nhất định như xe xăng.
+ Theo nhóm nghiên cứu, cảm giác lái rất quan trọng giúp tài xế cảm nhận được góc lái dựa vào độ nặng của vô lăng để điều khiển xe vượt qua địa hình khó khăn.
+ Từ thực tế này nhóm chế tạo hộp phanh từ lắp đặt trên hệ thống lái của xe điện.
+ Phanh từ có các hợp chất thông minh được tạo ra từ các lưu chất từ của kim loại và các phụ gia xúc tác.
+ Khi dòng điện đi qua phanh càng lớn sẽ tạo lực lớn truyền lên vô lăng để tạo ra độ nặng cần thiết giúp tăng cảm giác lái cho tài xế. "Hệ thống phanh từ giúp người lái xe điện sẽ có cảm giác đánh lái tương tự như xe xăng giúp họ điều khiển xe tốt hơn", Hưng nói.
+ Nghiên cứu của nhóm đang ở giai đoạn mô phỏng và tính toán hoạt động phanh từ trên hai cầu dẫn động trước.
+ Sắp tới nhóm phát triển hệ thống phanh này trên cả bốn cầu dẫn động và thử nghiệm cho người lái xe sử dụng thử để đánh giá.
+ Nhóm định hướng ứng dụng hệ thống phanh từ này cho các hãng sản xuất xe điện lớn hiện nay.
+ Nhóm nghiên cứu tại trường Đại học FPT cơ sở TP HCM giới thiệu về hệ thống IoT cảnh báo các nguy cơ cháy, lũ quét, sạt lở... trong rừng theo thời gian thực.
+ Hệ thống sử dụng các cảm biến nhiệt độ, độ ẩm đất, độ ẩm không khí và lượng mưa để thu thập dữ liệu.
+ Nguồn dữ liệu này được thu thập và quản lý bởi một phần mềm dưới dạng website hoặc ứng dụng di động.
+ Khi các chỉ số vượt ngưỡng quy định, hệ thống phát cảnh báo nguy cơ cháy rừng cho người quản lý để xử lý kịp thời.
+ Hệ thống này được nhóm đánh giá chi phí thấp, vận hành đơn giản nhưng cung cấp dữ liệu chính xác, theo thời gian thực để giám sát rừng hiệu quả.
+ Tại hội nghị, nhiều nghiên cứu của các nhà khoa học quốc tế về sản xuất bền vững nhận được nhiều sự quan tâm của cộng đồng.
+ Nhóm tác giả Viện Công nghệ Karlsruhe (Đức) chia sẻ nghiên cứu bộ phận của động cơ điện làm bằng vật liệu tái chế, thân thiện môi trường.
+ Nhà khoa học viện này cũng đề xuất các công nghệ tái chế pin nhiên liệu hydro đã qua sử dụng, đóng góp cho phát triển kinh tế tuần hoàn.
+ Tiếp đến nhà khoa học Đại học Cranfield (Anh) giới thiệu về nghiên cứu tối ưu hóa các công đoạn sản xuất máy bay giúp tiết kiệm chi phí, nguyên liệu...
+ TS Hà Thúc Viên, Phó hiệu trưởng trường Đại học Việt Đức đánh giá, hội nghị là dịp kết nối và phát triển mạng lưới học thuật toàn cầu, mở ra cơ hội hợp tác trong giảng dạy, nghiên cứu của nhà khoa học.
+ Ông mong muốn các nhà khoa học đánh giá và đề xuất các giải pháp công nghệ sử dụng tài nguyên hiệu quả, giải quyết những thách thức con người gặp phải và hướng đến phát triển công nghiệp xanh.
+ Các công trình chất lượng tại GCSM 2024 sẽ được tuyển chọn và xuất bản trong bộ sách "Lecture Notes in Mechanical Engineering" do Nhà xuất bản Springer phát hành.

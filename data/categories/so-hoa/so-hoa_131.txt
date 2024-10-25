@@ -1,14 +1,19 @@
-Google reCAPTCHAv2, một trong những hệ thống captcha phổ biến, bị AI "qua mặt" khi xác thực trên Internet.
- Trong bài viết đăng trên arXiv - nền tảng chuyên chia sẻ nghiên cứu được tuyển lựa kỹ càng, nhóm do Andreas Plesner, nghiên cứu sinh tiến sĩ tại Đại học ETH Zurich, đứng đầu đã chứng minh AI có thể vượt cơ chế xác thực reCAPTCHAv2 nổi tiếng của Google.
- Captcha được phát triển bởi các nhà khoa học tại Đại học Carnegie Mellon và IBM từ năm 2000, nhằm yêu cầu người dùng phải chứng minh họ không phải là bot trên Internet.
- Chúng thường là các số và chữ cái bị biến dạng, hoặc các hình ảnh khác nhau, và người dùng phải nhập chính xác theo yêu cầu để xác thực.
- Captcha được xem là bức tường bảo vệ giúp website không bị phần mềm tự động tấn công.
- Trong phiên bản reCAPTCHAv2, người dùng cần nhận diện các vật thể xuất hiện trong hình, như cầu, đèn giao thông, xe đạp, ôtô, tàu thuyền.
- Để vượt qua, nhóm của Plesner sử dụng mô hình nhận dạng đối tượng You Only Look Once (YOLO).
- Đây là một bot từng được sử dụng để gian lận trong game nhờ khả năng phát hiện vật thể theo thời gian thực, cũng như hoạt động hiệu quả với hệ thống có sức mạnh phần cứng hạn chế.
- Ban đầu, nhóm sử dụng mô hình được huấn luyện từ 14.
-000 hình ảnh giao thông. Kết quả là với captcha chứa ảnh thuộc thể loại này, tỷ lệ nhận diện thành công là 100%. Nhóm sau đó đưa vào nhiều dữ liệu đa dạng hơn với 13 danh mục ảnh phổ biến. Mô hình hoạt động thành công với 9/13 danh mục. Mức độ giải captcha ban đầu chỉ đạt 69% với ảnh xe máy, nhưng sau đó tỷ lệ tăng lên nhờ khả năng tự học hỏi của AI. Nếu khó xác định, AI sẽ yêu cầu hệ thống chuyển sang captcha mới cho đến khi vượt qua. "Bằng các thử nghiệm chi tiết, chúng tôi đã chứng minh các hệ thống tự động sử dụng công nghệ AI tiên tiến, như YOLO, có thể giải mã thành công captcha dựa trên hình ảnh", Plesner nói. "Phát hiện này đặt dấu hỏi về độ tin cậy của captcha trong việc phân biệt con người và bot. Nói cách khác, cơ chế captcha hiện tại có thể không còn 'miễn dịch' trước AI".
- Trước đó, hầu hết mô hình nhận diện hình ảnh chỉ thành công khoảng 70%.
- Theo Tom's Hardware, nghiên cứu mới đặt ra thách thức trong việc xác thực bot trên Internet, cũng như cho thấy sự tiến bộ mạnh mẽ của các mô hình máy học.
- Google đã chuyển sang reCAPTCHAv3 từ năm 2018 với khả năng phân tích các tương tác người dùng, từ đó loại bỏ sự can thiệp của bot hiệu quả hơn.
- Dù vậy, theo Ars Technica, hàng triệu website toàn cầu vẫn dùng reCAPTCHAv2, khiến chúng có nguy cơ bị các phần mềm tự động tấn công.
+CEO OpenAI Sam Altman cho rằng AI siêu thông minh vượt con người có thể xuất hiện trong khoảng vài nghìn ngày nữa. "Trong những thập kỷ tới, chúng ta sẽ có thể làm được những điều mà trước đây ông cha ta cho là phép thuật", Altman mở đầu bài viết trên blog ngày 24/9. "Theo thời gian, con người mở ra ngày càng nhiều khả năng mới.
+ Chúng ta hiện có thể hoàn thành những điều mà các bậc tiền bối cho là không thể".
+ Theo CEO OpenAI, thế hệ đi trước đã tạo ra nền tảng về sự thông minh.
+ Tuy nhiên, sự xuất hiện của AI sẽ là công cụ để giải quyết những khó khăn, đồng thời đưa ra các giải pháp mới chưa được nghĩ đến trước đây.
+ Chẳng hạn, AI giờ có thể đóng vai trò như gia sư ảo được cá nhân hóa cho bất cứ môn học nào, hoặc trợ lý chăm sóc sức khỏe theo từng cá nhân.
+ Nó cũng có thể hỗ trợ nghiên cứu tìm giải pháp hoặc các hợp chất mới.
+ Với những gì AI đã làm được, Altman tin siêu trí tuệ nhân tạo, hay AGI, sẽ sớm xuất hiện. "Có thể chúng ta sẽ có siêu trí tuệ trong vài nghìn ngày nữa.
+ Có thể mất nhiều thời gian hơn, nhưng tôi tin chúng ta sẽ đạt được điều đó", ông viết.
+ Cũng theo Altman, nhờ công nghệ, loài người đã lần lượt đi qua thời kỳ đồ đá đến thời kỳ nông nghiệp, sau đó là công nghiệp.
+ Giờ đây, nhân loại đang trên con đường đến thời kỳ trí tuệ, được mở ra bằng máy tính, năng lượng và ý chí của con người.
+ CEO OpenAI cho rằng để đạt được mục tiêu trên, AI cần được phổ cập đến nhiều người, nếu không nó chỉ là một nguồn tài nguyên rất hạn chế, là công cụ chủ yếu dành cho người giàu.
+ Để làm được, các công ty cần giảm chi phí xây dựng.
+ Đối với nguy cơ AI có thể gây ra cho nhân loại, Altman tin mọi thứ đều có hai mặt và loài người có thể kiểm soát được. "Chúng ta cần hành động khôn ngoan, nhưng cũng cần có sự tin tưởng.
+ Đây không phải câu chuyện hoàn toàn tích cực, nhưng chúng ta cần tìm ra cách vượt qua những rủi ro trước mắt", ông cho biết thêm.
+ Sam Altman và OpenAI đang trên hành trình tạo ra AGI - hệ thống có thể học mọi tri thức, có nhận thức, vượt qua trí thông minh của con người và đang khiến nhiều chuyên gia lo ngại.
+ Ngày 12/9, công ty giới thiệu mô hình OpenAI o1, tên mã Strawberry, với khả năng xử lý câu hỏi phức tạp và "khả năng lập luận thực sự".
+ Theo Business Insider, sự xuất hiện của o1 đang khiến "ranh giới phân chia trí thông minh con người với trí thông minh nhân tạo ngày càng trở nên hẹp hơn".
+ Altman từng nhiều lần đề cập đến AGI.
+ Đầu năm nay, ông dự đoán loại hình siêu AI này sẽ sớm xuất hiện, đồng thời cho biết bản thân cảm thấy "hơi đáng sợ" vì trí tuệ nhân tạo phát triển quá nhanh.

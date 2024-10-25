@@ -1,28 +1,15 @@
-Lần đầu tiên, General Motors bán nhiều xe điện và hybrid hơn ôtô chạy xăng tại thị trường lớn nhất thế giới, trong quý III.
- General Motors (GM) đạt cột mốc quan trọng khi lần đầu tiên bán xe điện (EV) và hybrid sạc điện (PHEV) tại Trung Quốc nhiều hơn so với số xe động cơ đốt trong.
- Trong quý III, các mẫu xe điện hóa của GM chiếm 53% tổng doanh số.
- GM và các liên doanh đã giao hơn 426.
-000 xe tại Trung Quốc trong ba tháng vừa qua, tăng 14% so với quý II.
- Trong đó, hơn 224.
-000 là EV và PHEV.
- Doanh số xe năng lượng mới (NEV) của GM tăng 60,7% so với 2023 và tăng 14,3% so với quý II, đạt tốc độ tăng trưởng cao nhất kể từ quý III/2022.
- Tuy nhiên, tổng doanh số vẫn giảm 21% so với 2023 do dòng xe chạy xăng ngày càng ít phổ biến tại Trung Quốc.
- Trong đó, liên doanh SAIC-GM-Wuling chiếm tới 77% tổng doanh số quý III của hãng tại Trung Quốc, với 328.
-000 xe.
- Các mẫu EV nhỏ gọn của liên doanh này, bao gồm Wuling Hongguang Mini EV và Wuling Bin Guo EV, đạt hơn 130.
-000 xe.
- Cùng thời điểm, các thương hiệu con của GM là Chevrolet bán được 8.
-000 xe, Cadillac là 21.
-000, và Buick 67.
-000, với tổng doanh số của cả ba thương hiệu này chưa đến 100.
-000.
- GM không phải là hãng duy nhất gặp khó khăn tại thị trường ôtô lớn nhất thế giới.
- Hãng Đức BMW vừa thông báo giảm dự báo cả năm 2024 sau khi doanh số giảm 30%. Nhiều hãng khác như Mercedes, Volkswagen, Honda và Toyota cũng đang phải đối mặt với thách thức tương tự.
- Các nhà sản xuất EV Trung Quốc như BYD đang chiếm ưu thế với các mẫu xe giá rẻ như Seagull, với mức khởi điểm dưới 10.
-000 USD.
- Seagull là mẫu EV bán chạy nhất tại Trung Quốc vào tháng 8 với gần 41.
-000 chiếc bán ra.
- Tháng 9, BYD bán thêm được 43.
-425 chiếc Seagull.
- Cũng riêng trong tháng 9, BYD bán hơn 410.
-000 chiếc NEV, và cũng là tháng thứ 4 liên tiếp hãng đạt doanh số kỷ lục.
+Phiên bản mạnh mẽ nhất của Ioniq 5 tăng hiệu suất, bổ sung trang bị tiêu chuẩn, thêm tính năng drift.
+ Thương hiệu xe hơi Hàn Quốc Hyundai ra mắt Ioniq 5 N 2025 đầu tiên cho thị trường nội địa, sau đó đến các quốc gia khác.
+ Ở phiên bản mới, Ioniq 5 N tập trung vào nâng cấp hiệu suất bằng cách cải tiến phần mềm, bổ sung tính năng sau phản hồi từ khách hàng.
+ Điểm nổi bật của bản nâng cấp phần mềm là hệ thống N Drift Optimizer với 10 cấp độ hỗ trợ drift, phù hợp với kinh nghiệm của người điều khiển.
+ Đặc biệt, ở cấp 10 với nhãn Pro, cho phép người lái có kinh nghiệm drift tự do hơn.
+ Chức năng N e-Shift, mô phỏng sang số của hộp số ly hợp kép 8 cấp thông qua lẫy chuyển số.
+ Tính năng này bổ sung cho cả chế độ Eco, trước đó chỉ có ở Normal, Sport và N. "N e-Shift" bổ sung thêm hai tính năng "bộ nhớ về số (downshift)" và "hỗ trợ xuống dốc" - hoạt động tương tự như phanh động cơ.
+ Một thay đổi đáng chú ý là âm thanh của hệ thống "N Launch Control" luôn được bật, ngay cả khi "N Active Sound +" tắt.
+ Cuối cùng, các trang bị tiêu chuẩn nâng cấp như đèn pha thích ứng, khóa cửa khi xe chạy, V2L nội thất, cửa sổ an toàn cho hàng ghế sau và cảnh báo rung trên vô-lăng.
+ Ioniq 5 N 2025 trang bị hai môtơ điện sản sinh tổng công suất 641 mã lực, mô-men xoắn 770 Nm khi N Grin Boost được kích hoạt.
+ Xe sử dụng bộ pin 84 kWh mới thay cho pin 77,4 kWh ở bản cũ.
+ Hyundai Ioniq 5 N 2025 giá 57.
+700 USD tại Hàn Quốc.
+ Tại Việt Nam, Hyundai Ioniq 5 được phân phối chính hãng và lắp ráp trong nước.
+ Ioniq 5 bán ra hai phiên bản, gồm Exclusive giá 1,3 tỷ đồng và Prestige giá 1,45 tỷ đồng.

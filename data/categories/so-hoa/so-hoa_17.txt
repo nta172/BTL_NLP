@@ -1,11 +1,19 @@
-Honey Badger của công ty MAB Robotics nằm trong số ít mẫu robot bốn chân có khả năng đi bộ hoàn toàn dưới nước.
- Trong video công bố trên YouTube ngày 15/10, Honey Badger đi bằng bốn chân dưới đáy hồ bơi, điều hầu hết chó robot tương tự chưa thực hiện được do hạn chế về khả năng chống nước.
- Robot của MAB Robotics (Ba Lan) không dùng chân vịt, bánh lái nhưng vẫn cho cảm giác mạnh mẽ, năng động và tốc độ cao - yếu tố TechCrunch đánh giá "không thường thấy ở các hệ thống tinh vi" như vậy.
- Tuy nhiên, thay vì tự hành, Honey Badger vẫn được điều khiển bằng dây.
- Trong khi đó, các mẫu robot chó của Boston Dynamics, Ghost Robotics hay Unitree Robotics đã có thể tự hành thông qua nguồn pin tích hợp. Ngoài ra, độ sâu tối đa robot này có thể di chuyển cũng không được tiết lộ.
- Trong bài viết trên LinkedIn sau đó, Jakub Bartoszek, nhà đồng sáng lập kiêm CEO của MAB Robotics, nói Honey Badger là kết quả sau nhiều năm nghiên cứu. "Việc phát triển hệ thống di chuyển có khả năng vượt qua những thách thức của địa hình dưới nước là hành trình khó khăn nhưng hấp dẫn.
- Chúng tôi rất hào hứng với những ứng dụng nó có thể thực hiện trong thực tế", Bartoszek cho biết.
- Cũng theo ông, Honey Badger có thể được sử dụng cho tìm kiếm cứu nạn khi thiên tai, thảm họa tự nhiên hoặc ở những địa điểm khó tiếp cận mà không cần sự hiện diện của con người.
- Ông cho biết robot sẽ sớm tích hợp pin cùng các tính năng thông minh cho nhiều mục đích khác nhau. Năm 2022, Ghost Robotics cũng phát triển một robot hình chó có khả năng bơi. Mẫu robot lưỡng cư này có tên Vision 60 Quadruped Uncrewed Ground Vehicle (Q-UGV), trang bị hệ thống đẩy dưới nước Nautical Autonomous Unmanned Tail (NAUT) do công ty Onyx Industries sản xuất, có thể di chuyển qua con suối nông với các cảm biến phía trên mặt nước. Không quân Mỹ đang sử dụng robot Vision 60 để tuần tra quanh căn cứ không quân Tyndall tại Florida.
- Robot bốn chân đang được nhiều công ty phát triển.
- Chúng được kỳ vọng có thể thay con người trong nhiều lĩnh vực từ dân sự đến quân sự nhờ độ linh hoạt, di chuyển dễ dàng trong các địa hình, môi trường khác nhau.
+Apple được cho là đã yêu cầu đối tác cắt giảm sản lượng iPhone 16, lên đến 13 triệu máy, trong giai đoạn từ quý IV/2024 đến quý II/2025.
+ Trên blog ngày 23/10, nhà phân tích nổi tiếng Ming-Chi Kuo của công ty nghiên cứu thị trường TF International Securities, cho biết Apple đã điều chỉnh đơn hàng sản xuất điện thoại, các mẫu bị ảnh hưởng đa số là iPhone 16 và 16 Plus.
+ Việc cắt giảm diễn ra nhiều nhất trong quý IV/2024.
+ Kuo ước tính đối tác Apple sẽ xuất xưởng 80 triệu iPhone 16, giảm 8 triệu so với kế hoạch và giảm 4 triệu máy so với iPhone 15 năm ngoái.
+ Sang quý I/2025, 45 triệu iPhone 16 sẽ được lắp ráp, giảm 3 triệu so với tính toán ban đầu.
+ Đến quý II/2025, xu hướng tiếp tục diễn ra với 39 triệu máy dự kiến xuất xưởng, giảm 2 triệu so với dự tính. "Doanh thu iPhone, nhất là thế hệ iPhone 16, sẽ gặp khó khăn vào nửa đầu 2025 do nhu cầu người dùng giảm, kết hợp sự ra mắt tiềm năng của mẫu giá rẻ iPhone SE 4", Kuo đánh giá.
+ Cũng theo nhà phân tích của TF International Securities, Apple có cơ hội thành công với Apple Intelligence dù ra sau các đối thủ. "Tôi tin Apple sẽ có vị thế tốt nhất khi nói đến AI trên thiết bị di động", ông nhận định. "Xét về lâu dài, Apple Intelligence có tiềm năng trở thành dịch vụ trả phí phổ biến.
+ Tuy nhiên, iPhone trong tương lai cần đổi mới phần cứng để phù hợp với sự phát triển của AI".
+ Apple trình làng Apple Intelligence từ tháng 6, nhưng chưa có mặt trên iPhone 16.
+ AI này dự kiến được triển khai trong bản cập nhật iOS 18.
+1 tuần tới.
+ Khi CNBC liên hệ, Apple không đưa ra bình luận.
+ Không chỉ iPhone 16, Apple cũng được cho là đang cắt giảm đơn hàng Vision Pro.
+ Theo The Infomation, công ty "giảm đáng kể" sản lượng kính thông minh, thậm chí có thể ngừng sản xuất hoàn toàn cuối năm nay.
+ Một số công nhân của Luxshare, đối tác Trung Quốc chịu trách nhiệm lắp ráp Vision Pro, nói họ đang "sản xuất khoảng một nửa số lượng sản phẩm mỗi ngày so với thời kỳ cao điểm". "Việc Apple thu hẹp quy mô sản xuất Vision Pro là chiến lược hợp lý", Jacob Bourne, nhà phân tích công nghệ của Emarketer, nói với Business Insider. "Mức giá và sức hấp dẫn của sản phẩm đối với người tiêu dùng hiện không cao".
+ William Kerwin, nhà phân tích của Morningstar, cho rằng với giá 3.
+500 USD, Vision Pro không phải là sản phẩm dành cho thị trường đại chúng.
+ Dan Ives, chuyên gia phân tích của Wedbush Securities, đánh giá việc cắt giảm sản lượng là "chiến lược thông minh" trong bối cảnh xuất hiện nhiều thông tin rằng Apple đang phát triển một phiên bản kính giá rẻ.
+ Trong chia sẻ với WSJ cuối tuần trước, CEO Apple Tim Cook thừa nhận Vision Pro là sản phẩm đắt tiền, chủ yếu dành cho "người muốn sở hữu công nghệ của ngày mai ngay từ hôm nay".

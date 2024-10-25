@@ -1,10 +1,16 @@
-Sau khi iPhone 16 ra mắt, một số hãng điện thoại Trung Quốc cho biết cũng sắp giới thiệu điện thoại có nút camera chuyên dụng.
- Trên bộ bốn iPhone 16, một trong những thay đổi lớn là nút Camera Control. Ngoài hỗ trợ bấm để chụp hoặc quay video nhanh, nút này còn trang bị khả năng cảm ứng, cho phép người dùng vuốt để điều khiển camera như đổi thông số chụp, lấy nét, thu phóng. Ngay sau khi tính năng được công bố trong sự kiện Apple ngày 9/9, ít nhất ba thương hiệu Trung Quốc là Oppo, Nubia và Realme hé lộ về việc đưa tính nút camera lên điện thoại thời gian tới. "Những bộ óc vĩ đại cùng chung suy nghĩ", Chase Xu, Phó chủ tịch Realme, đăng trên X ngày 10/9, khẳng định hãng từng giới thiệu một nút bấm có tên Solid-State Button tương tự nút chụp trên iPhone 16 từ sự kiện hồi tháng 8.
- Trong video đăng trên Weibo của Xu cho thấy tính năng thực sự đã được mang lên một thiết bị, cho phép ông zoom bằng cách vuốt trên cạnh máy, tuy nhiên thao tác chưa thực sự mượt và cũng không có phần màn hình phụ để hiển thị thông tin như iPhone 16. Nhiều người kỳ vọng nút này sẽ có trên mẫu điện thoại cao cấp GT 7 Pro, tuy nhiên nhiều khả năng Realme sẽ trang bị cho các mẫu điện thoại có mức giá phổ thông hơn.
- Trong khi đó, Chủ tịch Nubia Ni Fei cũng khẳng định sẽ mang đến một "nút camera thực tế hơn" cho mẫu Z70 Ultra sắp ra mắt, với khả năng bấm một nửa để lấy nét tương tự máy ảnh chuyên nghiệp.
- Đây có thể là trang bị được nâng cấp từ Z60 Ultra, vốn đã có một nút gạt chuyên dụng để mở camera nhưng không thể chụp ảnh.
- Trước đó, từ cuối tháng 8, tài khoản chuyên đăng thông tin rò rỉ Ice Universe tiết lộ Find X8 của Oppo sẽ có một nút bấm Quick Button ở vị trí tương tự Camera Control của iPhone 16. Nút này được giới thiệu có thể "đóng băng hành động", cho thấy đây là nút chuyên cho chụp ảnh.
- Việc giới thiệu tính năng mới ngay sau khi iPhone 16 ra mắt cho thấy các hãng điện thoại Android có thể đã có thời gian nghiên cứu từ trước đó, dựa trên tin đồn hoặc rò rỉ từ chuỗi cung ứng.
- Theo Tomsguide, các hãng Android đưa ra tính năng tương tự Camera Control cho thấy đây sẽ là xu hướng điện thoại thông minh tiếp theo.
- Theo Android Authority, thực tế nút chụp ảnh chuyên dụng không mới trên smartphone. Những hãng như Nokia, HTC, Sony đã trang bị cho những mẫu Symbian, Windows Phone, hay Android của họ từ hơn một thập kỷ, trong đó Sony với Xperia 1 vẫn được duy trì qua nhiều thế hệ.
- Tuy nhiên, các nhà sản xuất thiết bị gốc Android có xu hướng "sao chép Apple". "Sẽ không ngạc nhiên khi thấy sự gia tăng của các máy Android có phím chụp ảnh vào năm 2025", trang này viết.
+Cựu tổng thống Mỹ Donald Trump thường xuất hiện cùng điện thoại iPhone với hình nền là ảnh chân dung của ông.
+ Bức ảnh chụp cùng Donald Trump được nhóm YouTuber Nelk Boys đăng trên diễn đàn Reddit ngày 22/10 cho thấy ứng viên tổng thống Mỹ đang dùng iPhone cài hình nền của chính ông.
+ Bức ảnh bị xóa sau vài tiếng đăng tải.
+ Theo Gizmodo, ảnh Trump chọn làm hình nền có vẻ là ảnh chụp ngày 19/7/2019 bởi nhiếp ảnh gia Chip Somodevilla.
+ Ông Trump được đánh giá yêu thích bức ảnh, khi nó cũng xuất hiện một số lần trước đó.
+ Ngày 5/10, thượng nghị sĩ Eric Schmitt đăng lên Facebook ảnh chụp cùng Trump trên máy bay khi cả hai đến Butler, Pennsylvania, trong đó xuất hiện chiếc iPhone với hình nền này.
+ Hình nền tương tự được phát hiện trong video Donald Trump chơi golf cuối năm 2023 do YouTuber Benny Johnson chia sẻ.
+ Theo USA Today, ông Trump được gọi là "người hâm mộ lớn của chính mình".
+ Một số chuyên gia sức khỏe từng khám bệnh cho ông và chẩn đoán ông mắc chứng tự luyến.
+ Donald Trump sử dụng iPhone làm thiết bị cá nhân.
+ Còn theo The Register, các thành viên trong chiến dịch tranh cử của ông sử dụng thiết bị cấp quân sự "không thể hack" do Green Hills Software cung cấp.
+ Bộ sản phẩm gồm điện thoại và máy tính, chạy hệ điều hành Green Hills Integrity-178B, đạt cấp độ bảo mật mức 6 - mức gần như cao nhất.
+ Cấp độ 7 ít được các công ty thực hiện do tính phức tạp cao.
+ Theo Dan O'Dowd, CEO Green Hills Software, Green Hills Integrity-178B bao gồm 10.
+000 dòng mã, được một nhóm thường xuyên kiểm tra khả năng xâm nhập để tìm lỗi. "Chúng tôi chi hàng nghìn USD để soi từng dòng mã", ông cho biết. "Mọi thứ đều an toàn".
+ Dù vậy, nền tảng vẫn bị một số chuyên gia nghi ngờ. "Bất kỳ ai tuyên bố một hệ điều hành 'không thể hack' đều không đáng tin cậy, bởi chính tuyên bố đó đã cho thấy sự vô lý", chuyên gia mật mã Bruce Schneier nói với The Register. "Không một người làm bảo mật nào dám nói như vậy, nhất là đã tham gia trong lĩnh vực này lâu năm".

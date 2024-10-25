@@ -1,16 +1,20 @@
-NASA và Nga đã xác định 50 "khu vực đáng lo ngại" trên Trạm Vũ trụ Quốc tế (ISS) trong đó vụ rò rỉ chất làm mát từ 2019 vẫn là nguy cơ hàng đầu.
- Trong khi NASA và Cơ quan vũ trụ Liên bang Nga (Roscosmos) đang giải quyết vấn đề rò rỉ trên ISS, thì đây vẫn là "rủi ro an toàn" hàng đầu đối với các phi hành gia trên tàu, theo báo cáo của Văn phòng Tổng Thanh tra (OIG) của NASA công bố vào tháng trước.
- Các quan chức NASA khi trả lời phỏng vấn trên Washington Post, cho biết họ đang theo dõi bốn vết nứt và 50 "khu vực đáng lo ngại" khác trên ISS.
- Các vết nứt đã được Roscosmos "che phủ bằng sự kết hợp của chất bịt kín và miếng vá".
- Cùng với đó các biện pháp sửa chữa vẫn đang được thực hiện.
- Tuy nhiên, khu vực rò rỉ vẫn là nguy cơ hàng đầu, ở mức 5 trên thang điểm 5, trong các đánh giá rủi ro nội bộ của NASA, theo OIG. "Chúng tôi đã nhiều lần truyền đạt sự nghiêm trọng của các vết rò rỉ, bao gồm cả khi tôi ở Nga đầu năm nay", phó giám đốc Jim Free nói thêm trong cuộc phỏng vấn.
- Vì các vết rò rỉ nằm gần cửa trạm, Free cho biết Roscosmos đã đồng ý với yêu cầu của NASA để đóng cửa trạm càng nhiều càng tốt: "Chúng tôi đã đạt được thỏa thuận họ đóng cửa vào buổi tối".
- Các phi hành gia của NASA cũng ở lại phía Mỹ của khu phức hợp quỹ đạo để gần với phương tiện thoát hiểm của họ, trong trường hợp cần phải sơ tán.
- Tuy nhiên, NASA đã nhiều lần nhấn mạnh rằng rò rỉ không gây ra mối đe dọa ngay lập tức cho các phi hành gia. "Hiện tại không ảnh hưởng đến an toàn phi hành đoàn hay hoạt động của phương tiện, nhưng là điều mọi người cần chú ý", giám đốc chương trình ISS Joel Montalbano nói trong một cuộc họp báo vào tháng 2/2024.
- ISS bị rò rỉ chất làm mát ở đoạn cuối của module Nga khi tàu vũ trụ Progress ghép nối với trạm, quản lý chương trình ISS của NASA là Joel Mantalbano thông báo hồi tháng 2 tại Trung tâm vũ trụ Kennedy.
- Theo Montalbano, khu vực đó dài khoảng 0,9 m.
- ISS dự kiến hoạt động đến 2030 để phục vụ nhu cầu nhân sự của NASA và cung cấp nghiên cứu thương mại ở quỹ đạo thấp của Trái Đất.
- Trong thập kỷ tiếp theo, NASA hy vọng sẽ có một loạt trạm không gian thương mại sẵn sàng tiếp quản hoạt động.
- OIG của NASA đang theo dõi một số rủi ro khác có thể đe dọa việc duy trì ISS lâu dài, từ một cú va chạm đột ngột của vi thiên thạch đến vấn đề chuỗi cung ứng.
- SpaceX đã được giao nhiệm vụ xây dựng một tàu vũ trụ loại Dragon lớn để loại bỏ ISS khỏi quỹ đạo, theo một hợp đồng được NASA trao đầu năm nay.
- OIG cho biết sẽ tìm hiểu thêm về lịch trình, chi phí và rủi ro liên quan đến phương tiện mới và kế hoạch dời trạm.
+Nam châm điện trở do các nhà khoa học Trung Quốc phát triển tạo ra từ trường với cường độ 42 Tesla, vượt qua kỷ lục cũ của Mỹ.
+ Nhóm nghiên cứu tại Phòng thí nghiệm Từ trường Cao thuộc Viện Khoa học Vật lý Hợp Phì, Viện Hàn lâm Khoa học Trung Quốc (CHMFL) lập kỷ lục mới khi nam châm điện trở của họ tạo ra từ trường ổn định có cường độ 42 Tesla với nguồn cung cấp điện 32,3 MW, New Atlas hôm 25/9 đưa tin.
+ Nhóm nghiên cứu cho biết, đột phá này đến từ việc đổi mới cấu trúc nam châm và tối ưu hóa quy trình sản xuất.
+ Kỷ lục trước đó về nam châm điện trở mạnh nhất là 41,4 Tesla, do Phòng thí nghiệm Từ tính Cao Quốc gia Mỹ thiết lập vào năm 2017.
+ Tuy nhiên, con số 42 Tesla vẫn kém kỷ lục nam châm lai mạnh nhất với cường độ 45,2 Tesla, cũng do CHMFL thiết lập vào năm 2022.
+ Nam châm được sử dụng rộng rãi trong cuộc sống hàng ngày, từ các thiết bị như loa, đồ chơi đến thiết bị y tế cao cấp.
+ Chúng chủ yếu gồm hai loại: nam châm vĩnh cửu và nam châm điện.
+ Nam châm vĩnh cửu làm bằng vật liệu sắt từ như sắt, niken, coban...
+ Giống như tên gọi, nam châm vĩnh cửu vẫn liên tục tạo ra từ trường sau khi được từ hóa.
+ Trong khi đó, nam châm điện làm từ cuộn dây dẫn điện và chỉ tạo ra từ trường khi có dòng điện chạy qua.
+ Điều này cho phép kiểm soát từ trường tốt hơn, có thể bật tắt theo ý muốn, thậm chí có thể thay đổi cường độ từ trường bằng cách thay đổi dòng điện chạy qua.
+ Nam châm điện có thể chia thành 3 loại là nam châm điện trở, nam châm siêu dẫn và nam châm lai.
+ Nam châm điện trở làm từ những kim loại thông thường như đồng.
+ Nhờ đó, chúng tương đối đơn giản, trong khi vẫn cung cấp khả năng điều khiển từ trường linh hoạt và nhanh chóng.
+ Tuy nhiên, chúng dễ bị nhiệt độ tác động.
+ Nam châm siêu dẫn hiệu quả hơn vì các electron có thể đi qua vật liệu mà không gặp cản trở, nhưng loại nam châm này đòi hỏi nhiệt độ cực thấp nên phức tạp và tốn nhiều năng lượng hơn.
+ Loại thứ ba, nam châm lai, là sự kết hợp giữa nam châm điện trở và nam châm siêu dẫn.
+ Nhóm nghiên cứu tại Phòng thí nghiệm Từ trường Cao đã dành 4 năm để cải tiến cấu trúc của nam châm điện trở và tối ưu hóa quy trình sản xuất.
+ Nam châm mới mạnh hơn có thể giúp giới khoa học tạo ra những điều kiện khó hơn để thực hiện thí nghiệm, nhờ đó tìm hiểu các hiện tượng và quy luật vật lý mới hơn.
+ Từ trường mạnh là yếu tố quan trọng trong nghiên cứu vật liệu, đồng thời là công cụ quan trọng cho những phát hiện mới.

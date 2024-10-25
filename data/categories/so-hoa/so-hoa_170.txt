@@ -1,8 +1,18 @@
-Apple dự kiến sản xuất chip A19 trên tiến trình 2 nm năm tới, nhưng chỉ trang bị cho iPhone 17 Pro và 17 Pro Max.
- Trang công nghệ GSMArena dẫn báo cáo mới từ chuỗi cung ứng Đài Loan cho thấy Apple sẽ ra mắt chip xử lý theo công nghệ 2 nm trong năm 2025.
- TSMC vẫn là nhà sản xuất chip cho Apple.
- Tuy nhiên, do vấn đề về sản lượng, chip 2 nm sẽ chỉ được trang bị cho hai phiên bản iPhone 17 dòng Pro.
- Theo nguồn tin từ Đài Loan, TSMC đã giới thiệu sản phẩm mới nhưng vẫn cần sự hỗ trợ của các nhà cung cấp khác để hoàn thiện chip, sẵn sàng cho việc đưa vào điện thoại thông minh.
- Các đối tác cần cung cấp vật liệu, thiết bị, tự động hóa thiết kế điện tử (EDA)..., dẫn đến việc cạnh tranh theo nhóm sản xuất.
- Dây chuyền chip trên tiến trình 2 nm của TSMC đã được lắp đặt tại nhà máy Baoshan và sẽ bắt đầu sản xuất thử nghiệm trong quý III/2024.
- TSMC dự kiến cung cấp quy trình N2 cho Apple và Nvidia nhằm giúp công ty giữ vững vị trí trước Samsung và Intel trong mảng sản xuất chip.
+Trung Quốc đang quảng bá hai máy khắc tự sản xuất, được xem là "đạt bước tiến đáng kể" trong nỗ lực tự chủ công nghệ bán dẫn.
+ Theo danh sách thiết bị quan trọng của Bộ Công nghiệp và Công nghệ Thông tin Trung Quốc (MIIT) công bố cuối tuần trước, hai máy quang khắc mới "đạt được những đột phá công nghệ quan trọng, sở hữu quyền sở hữu trí tuệ nhưng chưa được thương mại hóa".
+ MIIT không nêu tên công ty đứng sau, nhưng cho biết sử dụng công nghệ quang khắc bằng tia cực tím sâu (DUV).
+ Cụ thể, một máy DUV hoạt động ở bước sóng 193 nanomet (nm), với độ phân giải dưới 65 nm và độ chính xác chồng lớp dưới 8 nm.
+ Máy còn lại có bước sóng 248 nm, độ phân giải 110 nm và độ chính xác chồng lớp 25 nm.
+ Nếu dựa vào thông số kể trên, hai máy còn kém xa so với các lựa chọn khác trên thị trường.
+ Chẳng hạn, DUV tiên tiến nhất của ASML hoạt động ở độ phân giải dưới 38 nm và độ chính xác chồng lớp là 1,3 nm.
+ Còn nếu so với các mẫu quang khắc siêu cực tím (EUV), khoảng cách thậm chí lớn hơn, khi sử dụng ánh sáng có bước sóng chỉ 13,5 nm, gần gấp 14 lần so với bước sóng 193 nm của DUV mà Trung Quốc công bố.
+ Tuy nhiên, theo SCMP, hai cỗ máy vẫn là thành tựu lớn trong việc chế tạo thiết bị quang khắc bán dẫn của Trung Quốc.
+ Nước này đã dành nhiều năm theo đuổi tự chủ công nghệ bán dẫn, nhưng tiến bộ của họ trong việc sản xuất các hệ thống quang khắc cho sản xuất chip tiên tiến vẫn còn chậm.
+ Hiện nay, hầu hết máy quang khắc Trung Quốc đang dùng là các mẫu DUV từ ASML.
+ Theo Securities Daily, những năm qua, Bắc Kinh dành nhiều nguồn lực để thúc đẩy công ty trong nước tập trung vào những lĩnh vực chiến lược bị Mỹ cấm vận.
+ Thiết bị in thạch bản là một trong những phần yếu nhất trong chuỗi cung ứng bán dẫn của Trung Quốc.
+ Trên thế giới, lĩnh vực này do hai công ty ASML của Hà Lan và Tokyo Electron của Nhật Bản thống trị.
+ Còn theo Global Times, Shanghai Micro Electronics Equipment Group (SMEE) hiện là hy vọng lớn nhất của Trung Quốc trong việc phát triển hệ thống khắc tiên tiến.
+ Tuy nhiên, công ty này vẫn tụt hậu so với đối thủ toàn cầu và bị Mỹ đưa vào danh sách đen thương mại vào tháng 12/2022.
+ Đầu 2023, Bloomberg dẫn lời CEO ASML Peter Wennink cảnh báo chiến dịch của Mỹ có thể gây ra hậu quả khôn lường.
+ Theo ông, biện pháp kiểm soát xuất khẩu do Washington khởi xướng có thể thúc đẩy Bắc Kinh phát triển được công nghệ riêng về thiết bị sản xuất chip tiên tiến.

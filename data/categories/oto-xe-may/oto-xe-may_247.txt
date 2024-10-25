@@ -1,24 +1,20 @@
-Mẫu xe ga 155 phân khối phiên bản mới tinh chỉnh thiết kế thiên hướng off-road, phanh ABS hai kênh.
- Thương hiệu xe máy Nhật Bản Yamaha ra mắt X-Force 155 mới cho thị trường nội địa.
- X-Force 155 2025 là phiên bản mới với những tinh chỉnh về thiết kế. Mẫu X-Force 155 thực chất là sự kết hợp giữa NMax và Aerox, theo chia sẻ của nhà sản xuất.
- Thiết kế tổng thể của X-Force 155 mang ngoại hình của một mẫu xe ga cỡ lớn (maxi-scooter), kiểu dáng thể thao.
- Xe trang bị đèn pha đôi cỡ lớn, đèn hậu LED mảnh.
- Yên thiết kế liền mạch, bỏ đi kiểu phân tầng như Aerox và nâng nhẹ độ cao.
- Đây có thể điểm khác biệt giữa X-Force 155 và NMax 155.
- Điểm nhấn ở phiên bản mới của X-Force 155 nằm ở chắn bùn sau thiết kế tách biệt với thân xe.
- X-Force 155 trang bị động cơ một xi-lanh dung tích 155 phân khối, làm mát bằng dung dịch, phun xăng điện tử, kết hợp với hệ thống VVA.
- Động cơ sản sinh công suất 15 mã lực tại 8.
-000 vòng/phút, mô-men xoắn cực đại 14 Nm tại 6.
-500 vòng/phút.
- Yamaha bổ sung thêm tính năng mới như hệ thống Traction Control, giúp tăng hiệu quả bám đường và phanh ABS hai kênh.
- X-Force 155 sử dụng tay lái dạng motard, thân xe nhỏ gọn tương tự mẫu xe 125 phân khối giúp dễ dàng điều khiển trong nhiều điều kiện đường.
- Xe sở hữu kích thước dài x rộng x cao là 1.
-920 x 760 x 1.
-120 mm và chiều dài cơ sở 1.
-340 mm.
- Độ cao yên 815 mm, khoảng sáng gầm 125 mm.
- Xe có trọng lượng 130 kg, bình xăng dung tích 6,1 lít.
- Cặp bánh với vành 13 inch, kèm lốp trước 120/70 và lốp sau 130/70.
- Phanh đĩa đơn cả hai bánh.
- Theo kế hoạch, Yamaha X-Force 155 ABS 2025 bán ra tại thị trường Nhật Bản với giá 2.
-800 USD.
+Xe điện Hyundai Ioniq 5 không có gạt mưa phía sau là nguyên nhân ra đời của GeckoWiper, sáng tạo giúp một công ty gọi vốn thành công.
+ Hyundai Ioniq 5 2024 sở hữu nhiều ưu điểm như tiện nghi, không gian rộng rãi, thiết kế đẹp mắt, hiệu suất cao, phạm vi hoạt động lên đến 487 km và mức giá hợp lý.
+ Tuy nhiên, xe lại thiếu cần gạt mưa phía sau.
+ Với thiết kế đuôi xe dạng hatchback, việc kính chắn gió sau bị che khuất khi trời mưa là điều khó tránh khỏi.
+ Tuy nhiên, vấn đề nghiêm trọng hơn khi trời tuyết rơi, tầm nhìn phía sau xe sẽ bị hạn chế.
+ Mặc dù Hyundai đã bổ sung cần gạt mưa sau cho Ioniq 5 2025, vẫn còn hàng chục nghìn chiếc Ioniq 5 cũ không có cần gạt mưa, cả ở Mỹ và những thị trường khác.
+ Tuy nhiên, một giải pháp thay thế thông minh đã được phát triển.
+ Thiết bị có tên GeckoWiper, là một cần gạt mưa sau có thể tháo rời, chạy bằng pin và được kích hoạt thông qua điều khiển từ xa.
+ Được phát triển tại Thụy Sĩ bởi một kỹ sư của Tigs Design & Engineering GmbH, dự án đang được gây quỹ thông qua Kickstarter.
+ GeckoWiper hiện thu hút 77.
+000 USD tiền đầu tư với 176 lượt ủng hộ, trong khi mục tiêu ban đầu chỉ gần 12.
+000 USD, khi chiến dịch còn 26 ngày nữa mới kết thúc.
+ Cần gạt mưa có thể tháo rời này được gắn vào kính chắn gió sau bằng giác hút và cố định từ bên trong bằng nam châm để tăng độ an toàn.
+ Pin sạc tích hợp có thể kéo dài khoảng 6 tháng ở chế độ chờ và khi hết pin, chỉ cần tháo cần gạt mưa và cắm cáp USB Type-C để sạc.
+ Dự án được khởi động vào năm 2022 và những nguyên mẫu đầu tiên được sản xuất một năm sau đó.
+ Chiến dịch Kickstarter nhằm mục đích đưa sản phẩm vào sản xuất hàng loạt, với những đơn hàng đầu tiên dự kiến được giao vào tháng 2/2025.
+ Mặc dù GeckoWiper được quảng cáo là giải pháp dành cho Hyundai Ioniq 5, thiết bị này cũng có thể trang bị cho các mẫu xe không có cần gạt mưa khác như Kia EV6 và Genesis GV60 hay một số mẫu xe khác.
+ Nhà phát triển cho biết các phiên bản GeckoWiper dành riêng cho từng dòng xe đang được phát triển, với các chi tiết cụ thể như kích thước cần gạt và lưỡi gạt, lực nén, góc gạt và điểm dừng cần được tinh chỉnh cho phù hợp.
+ Giá khởi điểm của thiết bị là khoảng 500 USD (bao gồm vận chuyển trên toàn thế giới).
+ Trên Kickstarter, hiện khách hàng có thể đặt mua sản phẩm với mức giảm giá 20%, chỉ còn khoảng 435 USD.

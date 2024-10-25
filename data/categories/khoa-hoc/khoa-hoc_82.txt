@@ -1,11 +1,30 @@
-Theo lý thuyết, tinh thể nhớ của Đại học Southampton sẽ bền hơn bất cứ thiết bị lưu trữ dữ liệu nhỏ gọn nào từng được phát minh. Nhóm nghiên cứu tại Đại học Southampton lưu trữ toàn bộ bộ gene người hiện đại trong một tinh thể nhớ 5D, Science Alert hôm 23/9 đưa tin.
- Công nghệ này không hoàn toàn mới, nhưng vẫn rất ấn tượng. Năm 2011, các kỹ sư đã hoàn thiện phương pháp dùng xung laser femto giây (1 femto giây bằng 1 phần triệu tỷ giây) để tạo ra các lỗ trống nano trong vật liệu silica.
- Vị trí 3D cùng với kích thước và hướng của các cấu trúc nano cho phép chúng lưu trữ dữ liệu 5D.
- Với các lỗ trống có đường kính nhỏ tới 20 nanomet, những tinh thể lớn nhất có thể chứa hàng trăm terabyte thông tin.
- Cách phân bố giống phô mai Thụy Sĩ của những phân tử gốc oxy và silicon gần như không thay đổi theo thời gian, bất kể điều gì xảy ra.
- Dù bị đông lạnh, giẫm lên hay nung nóng 1.
-000 độ C, các lỗ vẫn có thể đọc được nếu có thiết bị phù hợp.
- Dữ liệu có thể đọc bằng kính hiển vi quang học và kính phân cực.
- Các mẫu in trên tinh thể 5D sẽ hiện lên khác nhau tùy vào góc nhìn và độ khuếch đại của kính hiển vi.
- Về lý thuyết, vật liệu này có thể tồn tại ở nhiệt độ phòng suốt hàng tỷ năm và vẫn gần như nguyên vẹn, bền hơn bất cứ thiết bị lưu trữ dữ liệu nhỏ gọn nào từng được phát minh đến nay. Làm việc với công ty công nghệ ADN Helixwork Technologies, nhóm nghiên cứu từ Đại học Southampton đã khắc một chuỗi khoảng 3 tỷ chữ cái đại diện cho bộ gene người vào một tinh thể duy nhất, tổng cộng khoảng 800 megabyte dữ liệu.
- Tinh thể này sau đó được cất giữ trong kho lưu trữ Ký ức Nhân loại ở Áo cùng với hàng trăm cuốn sách gốm khắc chữ để thế hệ sau có thể nghiên cứu. "Tinh thể nhớ 5D mở ra cơ hội cho các nhà nghiên cứu khác xây dựng một kho thông tin gene trường tồn mà từ đó, những sinh vật phức tạp như thực vật và động vật có thể được phục hồi nếu khoa học trong tương lai cho phép", Peter Kazansky, nhà vật lý quang học tại Đại học Southampton, trưởng nhóm nghiên cứu, cho biết. Ngoài viễn cảnh nhân bản con người sau tận thế, công nghệ mới cũng có thể hữu ích trong tương lai gần. Nó cung cấp phương pháp lưu trữ với chi phí hợp lý, bền vững và tiêu tốn ít năng lượng để gói gọn nhiều thông tin vào không gian nhỏ nhất.
+Nguyễn Hữu Nghĩa, sinh viên trường Đại học Việt Đức nghiên cứu giảm khối lượng càng đáp máy bay 44% giúp giảm trọng lượng, chi phí vận hành.
+ Nghiên cứu tối ưu hóa bộ phận càng đáp của tiêm kích F-16 Fighting Falcon USA của Nghĩa đoạt giải thưởng Most Improved Award - Giải cải thiện nhất năm của Altair Global Student Contest, trị giá 1.
+800 USD.
+ Cuộc thi do Altair - công ty của Mỹ chuyên cung cấp phần mềm công nghệ phân tích và lưu trữ đám mây tổ chức với quy mô toàn cầu.
+ Sân chơi được tổ chức từ tháng 5/2023 - tháng 4/2024 với hơn 1.
+000 thí sinh tham gia đến từ 18 quốc gia.
+ Nghiên cứu được Nghĩa, sinh viên năm 4, Khoa Cơ khí, trường Đại học Việt Đức thực hiện trên máy bay tiêm kích F-16 Fighting Falcon của quân đội Mỹ.
+ Theo Nghĩa, bộ phận càng đáp chiếm khoảng 5% tổng khối lượng máy bay, có thể tối ưu hóa để giảm khối lượng, để máy bay vận hành nhanh, tiết giảm chi phí nhưng vẫn đảm bảo an toàn.
+ Càng đáp nằm ở phần dưới thân có nhiệm vụ giúp máy bay chạy trên đường băng, trong quá trình cất và hạ cánh.
+ Đây là một trong những bộ phận quan trọng, phức tạp và đắt tiền.
+ Theo Nghĩa, vật liệu làm càng đáp được chế tạo từ nhiều loại hợp kim, titan, nhôm... với kỹ thuật sản xuất, gia công độ chính xác cao nhằm đảm bảo an toàn. "Các máy bay hiện đại thiết kế càng đáp với khối lượng nhẹ nhất nhưng vẫn đảm bảo tính an toàn và tốt cho việc vận hành.
+ Bộ phận này luôn được thiết kế gọn nhẹ hơn qua các thế hệ máy bay", Nghĩa nói.
+ Với càng đáp tiêm kích F-16 có nhiều bộ phận như càng chữ V, hệ thống điện, hệ thống phanh, giảm xóc, bánh xe...
+ Nghĩa tập trung tối ưu bộ phận có khối lượng nhiều nhất là càng chữ V - được ví như là xương sống càng đáp máy bay.
+ Sử dụng phần mềm thiết kế chuyên dụng, tác giả chọn mô hình tối ưu, thiết lập các điều kiện, điều chỉnh các thông số, mô phỏng và tối ưu sản phẩm.
+ Trong các công đoạn này, Nghĩa phải tìm hiểu các điều kiện về lực, moment, điểm đặt lực tác dụng lên mô hình.
+ Công đoạn này cần tính toán nhiều và sử dụng phòng thí nghiệm để đo thông số qua các cảm biến.
+ Sau đó, Nghĩa dùng phần mềm thiết lập mô phỏng chuyển động của càng đáp khi hạ cánh.
+ Dựa trên mô hình tính toán, Nghĩa nhận định càng đáp máy bay F-16 có thể tối ưu hơn 44%, tức giảm khối lượng so với phiên bản hiện tại.
+ Việc giảm khối lượng sẽ giúp giảm chi phí vận hành và nhiên liệu của máy bay.
+ Việc giảm khối lượng càng đáp được Nghĩa thực hiện trên mô hình mà vẫn đảm bảo yếu tố an toàn.
+ Em lấy ví dụ, hệ số an toàn trên máy bay khoảng 5.
+0, tức nếu thiết kế chịu tải tối đa là 1 tấn thì thực tế tải trọng 4-5 tấn, máy bay vẫn có thể chịu được.
+ Theo mô hình tính toán, thiết kế càng đáp của Nghĩa đảm bảo chỉ số an toàn.
+ Về mặt kỹ thuật, để đánh giá chính xác hơn, càng đáp phải được tính toán cùng với các chỉ số của hệ thống giảm xóc, độ biến dạng của bánh xe, các trục chuyển động...
+ Điều này giúp người nghiên cứu có thể mô phỏng sát với thực tế máy bay khi hạ cánh.
+ Nghĩa dự định sẽ thử nghiệm mô hình với vật liệu kim loại và nghiên cứu, tạo sản phẩm hoàn chỉnh có đầy đủ các hệ thống điện, hệ thống phanh, giảm xóc bằng khí nén, mô phỏng lại phiên bản càng đáp F-16 gọn nhẹ hơn.
+ Thạc sĩ Đỗ Quý Duyên, Giảng viên Khoa cơ khí, trường Đại học Việt Đức cho biết, sau khi Nghĩa thiết kế mô hình, nhà trường đã tạo điều kiện về phòng thí nghiệm, hỗ trợ sinh viên máy in 3D để tạo sản phẩm mẫu.
+ Thạc sĩ Duyên gợi ý, việc tối ưu hóa càng đáp máy bay cần có những thử nghiệm thực tế để đánh giá các chỉ số về kỹ thuật, an toàn nhằm chứng minh cơ sở lý thuyết.
+ Theo ông việc thử nghiệm trên dòng tiêm kích F-16 là rất khó do các chỉ số kỹ thuật đầu vào với càng máy bay nằm trong phạm vi bí mật quân sự.

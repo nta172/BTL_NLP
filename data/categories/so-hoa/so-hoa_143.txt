@@ -1,11 +1,79 @@
-Thiết bị Wi-Fi 7 XGSPON, do VNPT sản xuất, cho tốc độ lên đến 10 Gb/giây, độ trễ giảm 75% so với công nghệ Wi-Fi 6.
- Tại lễ ra mắt sáng 3/10, ông Nguyễn Nam Long, Phó tổng giám đốc VNPT, cho biết thiết bị sử dụng nền tảng công nghệ XGSPON Wi-Fi 7 của Qualcomm và được VNPT Technology sản xuất tại Việt Nam.
- XGSPON (XGigabit-capable Passive Optical Network) là tiêu chuẩn truyền dẫn quang học được phát triển dựa trên nền tảng của công nghệ PON, cho phép nâng tốc độ truyền dẫn dữ liệu tối đa 10 Gb/giây cả tải lên và xuống trên một đường cáp quang. "Đây là thiết bị wifi đầu tiên tại châu Á -Thái Bình Dương sử dụng công nghệ XGSPON và chúng tôi cũng là một trong những nhà mạng đầu tiên sản xuất thiết bị ra thị trường", ông Long nói, trước sự chứng kiến của Phó chủ tịch Qualcomm Technologies ST Liew.
- Sản phẩm có hai phiên bản cho nhu cầu trong gia đình và doanh nghiệp, sử dụng chipset và nền tảng Qualcomm 10G Fiber Gateway. Khi gắn thiết bị mới vào đường truyền cáp quang, về lý thuyết, người dùng cũng có thể trải nghiệm đường truyền 10 Gb/giây.
- Trong màn trình diễn tại sự kiện, thiết bị cho tốc độ cao nhất 8,7 Gb/giây với phiên bản doanh nghiệp và khoảng 3 Gb/giây cho bản dùng trong gia đình.
- Đây là tốc độ tương đối cao với một đường truyền wifi.
- Thực tế, các nhà mạng tại Việt Nam đang cung cấp gói cước cao nhất 1 Gb/giây.
- Theo đại diện VNPT, sau khi nâng cấp đường truyền và đưa ra thiết bị mới, nhà mạng "có khả năng cung cấp gói cước tốc độ đến 10 Gb/giây, độ trễ giảm 75% so với công nghệ Wi-Fi 6, cho phép đồng thời truy cập và sử dụng đến 1.
-500 thiết bị". "Với khả năng tiên tiến của Wi-Fi 7, người dùng tại Việt Nam sẽ được hưởng lợi từ tốc độ nhanh, độ trễ thấp hơn và độ tin cậy mạng được nâng cao, thiết lập một tiêu chuẩn mới cho kết nối", ông Ganesh Swaminathan, Tổng giám đốc bộ phận Hạ tầng và mạng không dây của Qualcomm Technologies, cho biết.
- Wi-Fi 7 được Liên minh Wi-Fi thế giới ra mắt chính thức đầu năm nay.
- Theo tiêu chuẩn, công nghệ mới có thể đạt tốc độ 30 Gb/giây, gấp ba lần mức 9,6 Gb/giây của Wi-Fi 6 và gần 10 lần mức 3,5 Gb/giây của Wi-Fi 5. Một số thiết bị đầu cuối đời mới như iPhone 16, Galaxy S24 cũng đã hỗ trợ công nghệ này.
+Smartphone cao cấp nhất của Samsung, Apple, Oppo, Xiaomi và Sony đều có giá trên 30 triệu đồng, trang bị phần cứng và tính năng tiên tiến nhất trên thị trường.
+ Mẫu điện thoại gập cao cấp nhất của Samsung được bán ở Việt Nam từ tháng 8.
+ Máy có thiết kế các cạnh vuông vức, ngắn và rộng hơn Z Fold5, giúp tỷ lệ màn hình hợp lý hơn.
+ Sản phẩm dùng tấm nền Dynamic AMOLED 2X tần số quét 120 Hz, chip Snapdragon 8 Gen 3, RAM 12 GB, bộ nhớ tối đa 1 TB.
+ Cụm ba camera gồm cảm biến chính 50 megapixel, ống góc siêu rộng 12 megapixel và tele 10 megapixel có zoom quang 3x.
+ Máy ảnh selfie ở màn hình ngoài độ phân giải 10 megapixel, còn bên trong 4 megapixel.
+ Dung lượng pin của Z Fold6 là 4.
+400 mAh, hỗ trợ sạc nhanh 25 W.
+ Mẫu điện thoại gập cao cấp nhất của Samsung được bán ở Việt Nam từ tháng 8.
+ Máy có thiết kế các cạnh vuông vức, ngắn và rộng hơn Z Fold5, giúp tỷ lệ màn hình hợp lý hơn.
+ Sản phẩm dùng tấm nền Dynamic AMOLED 2X tần số quét 120 Hz, chip Snapdragon 8 Gen 3, RAM 12 GB, bộ nhớ tối đa 1 TB.
+ Cụm ba camera gồm cảm biến chính 50 megapixel, ống góc siêu rộng 12 megapixel và tele 10 megapixel có zoom quang 3x.
+ Máy ảnh selfie ở màn hình ngoài độ phân giải 10 megapixel, còn bên trong 4 megapixel.
+ Dung lượng pin của Z Fold6 là 4.
+400 mAh, hỗ trợ sạc nhanh 25 W.
+ Trừ iPhone 16 Pro dung lượng 128 GB được bán chính hãng tại Việt Nam với giá 29 triệu đồng, các phiên bản bộ nhớ còn lại đều có giá trên 30 triệu đồng.
+ Trừ iPhone 16 Pro dung lượng 128 GB được bán chính hãng tại Việt Nam với giá 29 triệu đồng, các phiên bản bộ nhớ còn lại đều có giá trên 30 triệu đồng.
+ Find N3 là mẫu smartphone gập cao cấp đầu tiên của Oppo được bán tại Việt Nam.
+ Máy có thiết kế phẳng, cụm camera sau kích thước lớn chiếm gần hết mặt lưng.
+ Sản phẩm nằm trong số những điện thoại gập mỏng nhẹ nhất, với độ dày 11,7 mm khi đóng và 5,8 mm khi mở, và nặng 239 gram.
+ Màn hình trong và ngoài có kích thước 6,31 và 7,82 inch, dùng tấm nền LTPO3 OLED độ phân giải 2K, tần số quét 120 Hz.
+ Find N3 trang bị chip Snapdragon 8 Gen 2, RAM 16 GB và bộ nhớ 512 GB.
+ Cụm camera được tinh chỉnh bởi Hasselblad với cảm biến chính và góc siêu rộng cùng 48 megapixel, ống tele 64 megapixel có zoom quang 3x.
+ Sản phẩm có pin 4.
+805 mAh và sạc nhanh 67 W.
+ Find N3 là mẫu smartphone gập cao cấp đầu tiên của Oppo được bán tại Việt Nam.
+ Máy có thiết kế phẳng, cụm camera sau kích thước lớn chiếm gần hết mặt lưng.
+ Sản phẩm nằm trong số những điện thoại gập mỏng nhẹ nhất, với độ dày 11,7 mm khi đóng và 5,8 mm khi mở, và nặng 239 gram.
+ Màn hình trong và ngoài có kích thước 6,31 và 7,82 inch, dùng tấm nền LTPO3 OLED độ phân giải 2K, tần số quét 120 Hz.
+ Find N3 trang bị chip Snapdragon 8 Gen 2, RAM 16 GB và bộ nhớ 512 GB.
+ Cụm camera được tinh chỉnh bởi Hasselblad với cảm biến chính và góc siêu rộng cùng 48 megapixel, ống tele 64 megapixel có zoom quang 3x.
+ Sản phẩm có pin 4.
+805 mAh và sạc nhanh 67 W.
+ Galaxy S24 Ultra, ra mắt đầu năm nay, có thiết kế được làm phẳng hơn với khung sườn titanium.
+ Máy mang phong cách của dòng Note với bút S Pen tích hợp, màn hình LTPO 6,8 inch độ phân giải 2K cùng độ sáng 2600 nit.
+ Máy sử dụng bốn camera sau với camera chính 200 megapixel, ống kính tiềm vọng được thay bằng camera 50 megapixel zoom quang 5x.
+ S24 Ultra tích hợp chip Snapdragon 8 Gen 3, RAM 12 GB và bộ nhớ trong từ 256 GB đến 1 TGB.
+ Pin 5.
+000 mAh, hỗ trợ sạc nhanh 45 W, sạc không dây và sạc ngược.
+ Galaxy S24 Ultra, ra mắt đầu năm nay, có thiết kế được làm phẳng hơn với khung sườn titanium.
+ Máy mang phong cách của dòng Note với bút S Pen tích hợp, màn hình LTPO 6,8 inch độ phân giải 2K cùng độ sáng 2600 nit.
+ Máy sử dụng bốn camera sau với camera chính 200 megapixel, ống kính tiềm vọng được thay bằng camera 50 megapixel zoom quang 5x.
+ S24 Ultra tích hợp chip Snapdragon 8 Gen 3, RAM 12 GB và bộ nhớ trong từ 256 GB đến 1 TGB.
+ Pin 5.
+000 mAh, hỗ trợ sạc nhanh 45 W, sạc không dây và sạc ngược.
+ Sony vẫn là hãng smartphone duy nhất không đi theo xu hướng màn hình đục lỗ hay tai thỏ.
+ Màn hình máy thừa hưởng công nghệ hiển thị của TV Bravia cùng khả năng chơi nhạc chất lượng cao.
+ Ba camera sau gồm camera chính 52 megapixel, ống siêu rộng và tele cùng 12 megapixel.
+ Sony cũng sử dụng chip Snapdragon 8 Gen 3, RAM 12 GB, bộ nhớ 256 GB cho Xperia VI.
+ Pin có dung lượng 5.
+000 mAh hỗ trợ sạc không dây 15 W và sạc nhanh 30 W.
+ Sony vẫn là hãng smartphone duy nhất không đi theo xu hướng màn hình đục lỗ hay tai thỏ.
+ Màn hình máy thừa hưởng công nghệ hiển thị của TV Bravia cùng khả năng chơi nhạc chất lượng cao.
+ Ba camera sau gồm camera chính 52 megapixel, ống siêu rộng và tele cùng 12 megapixel.
+ Sony cũng sử dụng chip Snapdragon 8 Gen 3, RAM 12 GB, bộ nhớ 256 GB cho Xperia VI.
+ Pin có dung lượng 5.
+000 mAh hỗ trợ sạc không dây 15 W và sạc nhanh 30 W.
+ Xiaomi 14 Ultra, ra mắt tháng 5, có thiết kế không thay đổi nhiều so với thế hệ trước, với hai phiên bản bằng hợp kim nhôm và titanium.
+ Màn hình vẫn là LTPO AMOLED 6,73 inch độ phân giải 2K, tần số quét 120 Hz.
+ Sản phẩm tích hợp chip Snapdragon 8 Gen 3, RAM tối đa 16 GB, bộ nhớ trong cao nhất 1 TB.
+ Máy có bốn camera sau cùng độ phân giải 50 megapixel, trong đó camera chính trang bị cảm biến một inch thế hệ hai của Sony.
+ Nâng cấp lớn nhất nằm ở chip xử lý hình ảnh AISP mới, được Xiaomi tuyên bố là chip AI tạo sinh đầu tiên trên thế giới dành cho nhiếp ảnh.
+ Đây là điện thoại đầu tiên của hãng sử dụng pin silicon carbon dung lượng 5.
+300 mAh, hỗ trợ sạc nhanh có dây 90 W và không dây 80 W.
+ Xiaomi 14 Ultra, ra mắt tháng 5, có thiết kế không thay đổi nhiều so với thế hệ trước, với hai phiên bản bằng hợp kim nhôm và titanium.
+ Màn hình vẫn là LTPO AMOLED 6,73 inch độ phân giải 2K, tần số quét 120 Hz.
+ Sản phẩm tích hợp chip Snapdragon 8 Gen 3, RAM tối đa 16 GB, bộ nhớ trong cao nhất 1 TB.
+ Máy có bốn camera sau cùng độ phân giải 50 megapixel, trong đó camera chính trang bị cảm biến một inch thế hệ hai của Sony.
+ Nâng cấp lớn nhất nằm ở chip xử lý hình ảnh AISP mới, được Xiaomi tuyên bố là chip AI tạo sinh đầu tiên trên thế giới dành cho nhiếp ảnh.
+ Đây là điện thoại đầu tiên của hãng sử dụng pin silicon carbon dung lượng 5.
+300 mAh, hỗ trợ sạc nhanh có dây 90 W và không dây 80 W.
+ Smartphone của Samsung được trang bị vi xử lý Snapdragon 8 Gen 3, RAM 12 GB và bộ nhớ tối đa 512 GB.
+ Máy vẫn dùng hai camera trước, trong đó camera chính tăng lên 50 megapixel, còn góc siêu rộng 12 megapixel.
+ Pin có dung lượng 4.
+000 mAh, hỗ trợ sạc nhanh 25 W.
+ Smartphone của Samsung được trang bị vi xử lý Snapdragon 8 Gen 3, RAM 12 GB và bộ nhớ tối đa 512 GB.
+ Máy vẫn dùng hai camera trước, trong đó camera chính tăng lên 50 megapixel, còn góc siêu rộng 12 megapixel.
+ Pin có dung lượng 4.
+000 mAh, hỗ trợ sạc nhanh 25 W.

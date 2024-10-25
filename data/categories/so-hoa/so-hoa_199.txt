@@ -1,22 +1,30 @@
-Người dùng Indonesia chưa thể mua iPhone 16 do nước này yêu cầu Apple bổ sung khoản đầu tư để đủ điều kiện.
- Đến ngày 12/10, iPhone 16 vẫn chưa xuất hiện trên trang web về TKDN của Bộ Công nghiệp Indonesia, đồng nghĩa sản phẩm chưa thể lên kệ tại thị trường này.
- TKDN là điều kiện về tỷ lệ nội địa hóa của Indonesia, trong đó sản phẩm bán tại nước này phải có một tỷ lệ thành phần xuất xứ trong nước nhất định.
- Với sản phẩm điện tử như smartphone, tỷ lệ này tối thiểu 35%. "iPhone 16 vẫn chưa thể vào thị trường Indonesia vì Apple đang trong quá trình lấy chứng chỉ TKDN, một trong những điều kiện nhập khẩu điện thoại", Bộ trưởng Công nghiệp Indonesia Agus Gumiwang Kartasasmita nói ngày 8/10.
- Ông cho biết hãng điện thoại Mỹ từng có giấy phép, nhưng đã hết hạn và Indonesia đang yêu cầu gia hạn bằng việc bổ sung khoản đầu tư.
- Theo báo chí địa phương, Apple cam kết đầu tư 1,71 nghìn tỷ IDR (110 triệu USD) và mới thực hiện 1,48 nghìn tỷ IDR, tức còn 240 tỷ INR (15,4 triệu USD). "Sau khi họ tuân thủ, chúng tôi sẽ cấp giấy phép bán iPhone 16.
- Tất cả dựa trên sự công bằng cho các nhà đầu tư có cam kết cao vào Indonesia", CNBC Indonesia dẫn lời ông Agus, cho rằng đây là khoản "tương đối nhỏ" so với những gì Apple có thể thu được từ thị trường gần 300 triệu dân này.
- Theo Channelnewsasia, yêu cầu của Indonesia đã gây ra những ý kiến trái chiều từ người dùng trong nước. Nhiều người nói Apple và các công ty cần tuân thủ quy định khi hoạt động tại đây.
- Trong khi đó, số khác cho rằng quy định phức tạp cản trở việc tiếp cận công nghệ của người dùng, khiến họ phải mua iPhone 16 từ thị trường Singapore, Malaysia và mang lại lợi nhuận cho những nước đó.
- Trang này dẫn chứng iPhone 16 tại Singapore có giá trung bình 1.
-000 USD, nhưng người dân Indonesia đang phải chi thêm 155 USD để sở hữu dưới dạng máy "xách tay".
- Có ba phương án để một hãng đạt điều kiện TKDN tại Indonesia, gồm có kế hoạch sản xuất thiết bị, kế hoạch sáng tạo ứng dụng, hoặc kế hoạch phát triển đổi mới sáng tạo trong nước.
- Apple chọn phương án thứ ba, thông qua xây dựng các học viện cho nhà phát triển.
- Theo ông Agus, Apple "không nên chỉ thành lập học viện", mà cần mở nhà máy hoặc trung tâm nghiên cứu và phát triển. Khi đó, hãng sẽ có tỷ lệ TKDN 40% và các sản phẩm dễ dàng vào thị trường.
- Apple là hãng điện thoại lớn duy nhất chưa có nhà máy ở Indonesia, trong khi Samsung và các công ty Trung Quốc như Xiaomi, Oppo, Vivo đều đã sản xuất điện thoại tại đây.
- Tuy nhiên, giải thích trên CNBC Indonesia, Budi Arie Setiadi, Bộ trưởng Thông tin và Truyền thông Indonesia cho biết Apple đề nghị được ưu đãi "tương tự họ đã nhận được tại Việt Nam", trong đó có ưu đãi về thuế nếu đảm bảo cung cấp được hàng trăm nghìn việc làm.
- Theo ông Budi, yêu cầu này "quá lớn" và có thể khiến các hãng khác đòi hỏi tương tự. "Điều đó không thể", Budi nói.
- Trả lời trang tin này ngày 11/10, Apple khẳng định "đã đầu tư đáng kể và tiếp tục phát triển" tại Indonesia. "Chúng tôi có cam kết lớn với Indonesia và rất nhiệt tình trong việc đưa ngay các sản phẩm mới nhất của mình, bao gồm iPhone 16 đến với khách hàng", hãng này nói.
- Trong chuyến thăm của CEO Tim Cook đến Indonesia hồi tháng 4, CEO Apple đã khai trương học viện thứ tư ở nước này tại Bali, đồng thời "cân nhắc thiết lập sản xuất". Khi thăm Việt Nam trước đó, Tim Cook cho biết Apple đã chi 400.
-000 tỷ đồng cho khoảng 150 nhà cung cấp tại Việt Nam từ 2019 tới nay, đồng thời cam kết mua nhiều hơn linh phụ kiện do đối tác sản xuất trong nước, hỗ trợ Việt Nam trong lĩnh vực đổi mới sáng tạo.
- Hãng không có nhà máy sản xuất trực tiếp ở Việt Nam, nhưng thông qua hơn 70 nhà máy của đối tác sản xuất thiết bị gốc với hơn 250.
-000 lao động, chuyên cung cấp linh kiện điện tử như bảng điện, camera, màn hình và lắp ráp hoàn thiện sản phẩm cho Apple.
+Phiên bản thử nghiệm đầu tiên của iOS 18.
+2 bổ sung nhiều tính năng liên quan đến Apple Intelligence, trong đó có tích hợp ChatGPT.
+ Với việc chỉ tập trung cho Apple Intelligence, bản thử nghiệm iOS 18.
+2 Beta 1 (bản dựng 22C5109p) chủ yếu hướng đến các mẫu iPhone được hỗ trợ AI này, gồm hai mẫu Pro của iPhone 15 và dòng iPhone 16.
+ Ứng dụng cho phép người dùng iPhone tạo hình ảnh vui nhộn trong vài giây bằng cách nhập vào văn bản và nhận kết quả là ảnh hoạt hình hoặc minh họa.
+ Ngoài ra, người dùng có thể vẽ phác thảo và đầu ra là một bức ảnh hoàn chỉnh.
+ Bên cạnh ứng dụng độc lập, Image Playground cũng tích hợp trực tiếp vào Messages và Mail.
+ Tính năng Genmoji giúp chủ nhân iPhone có thể tạo biểu tượng cảm xúc tùy chỉnh dựa trên mô tả văn bản.
+ Theo Apple, chỉ cần nhập mô tả, Genmoji sẽ xuất hiện cùng với các tùy chọn bổ sung.
+ Giống như biểu tượng cảm xúc, Genmoji có thể được thêm vào tin nhắn, chia sẻ dưới dạng nhãn dán hoặc phản ứng trong Tapback.
+ Khi tương tác với Siri trong iOS 18.
+2, người dùng có thêm tùy chọn truy cập ChatGPT.
+ Apple cho biết Siri "tận dụng chuyên môn của ChatGPT trong trường hợp hữu ích", gồm khả năng trả lời câu hỏi về kiến thức thế giới, cũng như hiểu hình ảnh và tài liệu.
+ Người dùng có thể vô hiệu hóa lời nhắc xuất hiện mỗi khi Siri muốn chuyển lệnh cho ChatGPT.
+ Ngoài Siri, người dùng có thể đăng nhập vào tài khoản ChatGPT trong Cài đặt, dù không bắt buộc.
+ ChatGPT cũng tích hợp với Writing Tools, cho phép người dùng tạo văn bản liên quan đến chủ đề đã chọn, cũng như sử dụng các công cụ hình ảnh của ChatGPT để tạo hình ảnh "theo nhiều phong cách khác nhau".
+ Người dùng iPhone có thể nhấn và giữ nút Camera Control để kích hoạt.
+ Lúc này, họ có thể "tìm hiểu mọi thứ xung quanh" bằng cách chụp bất kỳ hình ảnh nào có vật thể cần quan tâm, sau đó tìm kiếm trên Google hoặc qua ChatGPT.
+ Chức năng này còn có thể được sử dụng cho việc xem giờ mở cửa hoặc đánh giá một nhà hàng, thêm sự kiện từ tờ rơi vào lịch hay nhanh chóng xác định giống chó từ ảnh chụp một con chó.
+ Như một phần của Apple Intelligence trong ứng dụng Notes, Apple giải thích tính năng Image Wand là: "Các bản phác thảo thô có thể được chuyển thành hình ảnh thú vị.
+ Người dùng thậm chí có thể chọn không gian trống để tạo hình ảnh bằng cách sử dụng bối cảnh từ khu vực xung quanh".
+ Trên ứng dụng Mail, Apple bổ sung những thay đổi đáng kể, gồm hệ thống tự động phân loại thư mới chia thành bốn danh mục: Chính, Giao dịch, Mới nhất và Khuyến mãi.
+ Người dùng cũng có thể gom nhóm các email từ một địa chỉ thư cụ thể, tinh chỉnh giao diện trực quan hơn.
+ Với người dùng châu Âu, Apple cho biết iOS 18.
+2 sẽ có nhiều tùy biến hơn để tuân thủ các điều luật của khu vực này, gồm tùy chọn trình duyệt thay thế, cũng như cho phéo người dùng xóa được các ứng dụng App Store, Tin nhắn, Camera, Ảnh và Safari.
+ Trong mục Cài đặt, Apple cũng bổ sung tùy chọn Giới hạn âm lượng.
+ Tính năng này cho phép người dùng đặt giới hạn về mức độ to mà loa iPhone có thể phát âm thanh cho từng danh mục như bài hát, video, phim...
+ Dù vậy, chức năng không dùng được cho gọi điện, cảnh báo khẩn cấp, báo thức hoặc các mục âm thanh liên quan đến hệ thống.
+ Ngoài ra, iOS 18.
+2 Beta 1 còn có các bổ sung gồm tiện ích Nhập dữ liệu vào Siri mới cho Trung tâm điều khiển, tính năng Xem trước trò chơi trong giao diện Apple Arcade cũng như phím tắt Tạo hình ảnh nhưng chưa hoạt động.

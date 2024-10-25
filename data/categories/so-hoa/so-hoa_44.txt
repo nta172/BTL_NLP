@@ -1,11 +1,16 @@
-Mạng lưới thông tin cứu nạn khẩn cấp ERIN tiếp nhận thông tin từ người cần cứu trợ, mạnh thường quân để điều phối việc từ thiện hiệu quả.
- ERIN là hệ thống kết nối các nguồn lực với những người cần trợ giúp trong các tình huống khẩn cấp, ứng dụng công nghệ, dữ liệu để tối ưu hóa hoạt động, giúp quá trình phản hồi diễn ra nhanh chóng và hiệu quả hơn.
- Đây cũng là đội ngũ từng xây dựng hệ thống thông tin cứu hộ miền Trung và Thầy thuốc Đồng hành giai đoạn Covid-19 trước đây. Ngày 13/9, mạng lưới chuyển hướng sang tiếp nhận, xử lý thông tin cứu nạn, cứu trợ sau bão số 3, dưới sự chỉ đạo của Trung ương Đoàn TNCS Hồ Chí Minh và đồng hành cùng Trung tâm Tình nguyện Quốc gia.
- ERIN quét thông tin trên mạng xã hội, hoặc do người dùng chủ động gọi điện đến đầu số 18006132, nhắn tin qua website.
- Sau đó, đội ngũ tình nguyện viên sẽ xác minh, đăng lên website đồng thời chuyển đến cơ quan chức năng tại địa phương.
- Theo đại diện mạng lưới, từ khi bắt đầu chạy ngày 11/9, hệ thống đã tiếp nhận, xử lý thông tin cứu nạn từ 1.
-000 người dân. Nhóm hiện có hơn 500 tình nguyện viên hoạt động online giải đáp, hỗ trợ. "Việc hỗ trợ, điều hướng thông tin sẽ giúp hoạt động cứu trợ diễn ra suôn sẻ, hiệu quả, tránh chồng chéo, dư thừa, thiếu hụt", đơn vị này nói. Nhóm phát triển cho biết người dân bị ảnh hưởng bởi bão lũ thời gian này có thể gọi đến đường dây nóng miễn phí.
- Đội cứu trợ sẽ tiếp nhận thông tin, tình trạng, làm rõ mong muốn cứu trợ và nguồn lực đang có.
- Cách làm này giúp họ có thể liên hệ ngay cả khi không có dung lượng 4G hay tiền điện thoại.
- Thông tin sau khi xác minh sẽ được chuyển đến địa phương và có thể nhận phản hồi trong khoảng 3 giờ, đồng thời cập nhật trên website bởi Trung ương Đoàn.
- Trong khi đó, các đội cứu trợ cũng có thể thông qua mạng lưới để chia sẻ thông tin và hỗ trợ điều phối, phân bổ hợp lý nhân lực và vật lực. "Trong hoàn cảnh miền Bắc đang chịu ảnh hưởng nặng nề từ bão lũ, sự hỗ trợ, chung tay của tất cả các đơn vị, các tổ chức, cá nhân có ý nghĩa vô cùng to lớn", đại diện nhóm phát triển nói.
+Các động tác mượt mà đáng kính ngạc khiến robot Optimus bị nghi có người điều khiển từ xa thay vì tự động hoàn toàn bằng AI.
+ Trong sự kiện We, Robot của Tesla tại Mỹ hôm 11/10, Elon Musk tuyên bố Optimus trong tương lai "có thể làm bất cứ điều gì bạn muốn", kể cả dắt chó đi dạo, mua đồ tạp hóa, trông trẻ, và kỳ vọng có thể bán robot với giá 20-30 nghìn USD.
+ Để trình diện khả năng của robot, Musk cho Optimus đi lại giữa đám đông, thể hiện sự khéo léo khi phục vụ đồ uống tại một quầy bar trong sự kiện.
+ Tuy nhiên, trên mạng xã hội X, một số khách tham dự bày tỏ sự ngạc nhiên về sự linh hoạt của Optimus cũng như khả năng giao tiếp với con người, dấy lên nghi vấn robot được điều khiển từ xa thay vì là một sản phẩm tự vận hành nhờ AI. "Đây không hoàn toàn là AI.
+ Con người đang hỗ trợ nó từ xa", Robert Scoble, một chuyên gia công nghệ có mặt tại bữa tiệc chia sẻ, kèm video robot này phục vụ nước cho ông.
+ Theo Scoble, quá trình đi bộ của Optimus có thể là tự động, nhưng các giao tiếp khác thì không.
+ Ông cũng đặt câu hỏi cho một robot tại sự kiện rằng nó là AI hay do con người điều khiển, và câu trả lời phát ra từ loa là "có thể có một số AI tham gia".
+ Theo các nhà phân tích, phản ứng này giống như một kiểu "văn mẫu" của những người đang cố thể hiện giống như họ ứng dụng AI chứ không phải của một công ty đang tự tin vì những tiến bộ công nghệ thực sự.
+ Ngoài ra, trong các cuộc trò chuyện với khách mời tại bữa tiệc ở môi trường ồn ào, cách trả lời và thao tác tự nhiên của Optimus được đánh giá không giống của trí tuệ nhân tạo, mà là của con người.
+ Theo Arstechnica, với tính cách của Musk, nếu sản phẩm hoạt động độc lập hoàn toàn bằng AI, chắc chắn ông sẽ khoe khoang điều đó.
+ Nhưng trong bài thuyết trình của mình, CEO này không đề cập đến việc chúng được điều khiển thế nào, có thể để tránh việc có thể bị phát hiện nói dối khi đưa robot hoạt động tại sự kiện.
+ Tesla chưa đưa ra bình luận về các ý kiến này.
+ Bên cạnh các nghi vấn, robot của Tesla vẫn được đánh giá cao khi thực hiện các chuyển động mượt mà, cho thấy phần cứng và bộ truyền động hoạt động tốt. "Xứng đáng để ăn mừng vì khả năng điều khiển từ xa với độ trễ thấp, nhưng không trung thực khi trình diễn chúng như những robot tự động", Josh Wolfe, sáng lập quỹ đầu tự Lux Capital, đánh giá.
+ Thời gian qua, robot hình người chứng kiến sự phát triển mạnh mẽ ở nhiều thị trường như Mỹ, Trung Quốc.
+ Tuy nhiên, khả năng của các thiết bị này vẫn còn nhiều hạn chế, chưa đạt đến sự tự nhiên giống con người như nhiều hãng đang quảng cáo.
+ Tại Hội nghị Robot thế giới hồi tháng 8 ở Trung Quốc, màn trình diễn của các nhân vật giống robot trên sâu khấu sự kiện cũng được cho là do con người hóa trang.

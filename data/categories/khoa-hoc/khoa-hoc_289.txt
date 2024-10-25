@@ -1,12 +1,19 @@
-Gạch thủy tinh mới được sản xuất bằng công nghệ in 3D, có thể liên kết với nhau như các khối Lego và tháo dỡ để tái chế nhiều lần.
- Các kỹ sư tại Viện Công nghệ Massachusetts (MIT) phát triển gạch thủy tinh in 3D có độ chắc chắn tương đương bêtông, New Atlas hôm 20/9 đưa tin.
- Evenline, công ty của MIT, đã phát triển máy in 3D đặc biệt có thể dùng thủy tinh nóng chảy làm nguyên liệu.
- Trong quá trình in gạch, Michael Stern, nhà sáng lập Evenline, cùng các đồng nghiệp sử dụng thủy tinh soda-lime, loại vật liệu dùng trong đa số xưởng thổi thủy tinh.
- Theo nhóm kỹ sư, gạch thủy tinh có thiết kế hình số 8, phù hợp với những cấu trúc cong.
- Chúng cũng có hai chốt nhỏ dưới đáy để liên kết với nhau giống như các khối Lego.
- Sau khi in gạch, nhóm kỹ sư đặt chúng vào máy ép thủy lực công nghiệp để kiểm tra xem chúng chịu được lực bao nhiêu. Kết quả, gạch thủy tinh bền chắc gần tương đương với các khối bêtông.
- Việc gạch cấu tạo từ nhiều lớp và có tính năng liên kết dưới đáy giúp chúng trở nên cứng chắc hơn. Nhóm nghiên cứu cũng đã xây một bức tường nhỏ bằng gạch để kiểm chứng.
- Bài nghiên cứu về quá trình phát triển và thử nghiệm gạch thủy tinh được xuất bản trên tạp chí Glass Structures and Engineering. Loại gạch mới có nhiều lợi ích môi trường.
- Đầu tiên, chúng được làm từ thủy tinh tái chế.
- Thứ hai, sau khi hoàn thành nhiệm vụ, chúng có thể được tháo dỡ và tái cấu trúc thành hình dạng mới.
- Cuối cùng, nếu không phù hợp với một dự án xây dựng, gạch thủy tinh có thể được nung chảy và in 3D thành hình dạng khác. "Tôi rất hào hứng với việc mở rộng không gian thiết kế và sản xuất cho các vật liệu thách thức với đặc tính thú vị, ví dụ như thủy tinh với những đặc tính quang học và khả năng tái chế. Miễn là thủy tinh không bị nhiễm bẩn, bạn có thể tái chế nó gần như vô hạn", Kaitlyn Becker, phó giáo sư kỹ thuật cơ khí tại MIT, cho biết.
+Bộ đồ mới giúp bảo vệ phi hành gia khỏi nhiệt độ khắc nghiệt và bụi Mặt Trăng, đồng thời tích hợp găng tay và kính che mặt chống lóa.
+ Cơ quan Không gian Có người lái Trung Quốc (CMSA) hé lộ bộ đồ vũ trụ trọng lượng nhẹ hôm 28/9 sau 4 năm nghiên cứu và phát triển.
+ Bộ đồ này được thiết kế để bảo vệ phi hành gia trong các hoạt động ngoài trời ở môi trường khắc nghiệt trên Mặt Trăng.
+ Khác với Trái Đất, Mặt Trăng không có khí quyển dày nên nhiệt độ thay đổi rất nhiều và nhanh, từ khoảng 120 độ C đến -130 độ C ở khu vực gần xích đạo.
+ Phi hành gia cũng sẽ phải đối mặt với áp suất gần ở mức chân không và bức xạ Mặt Trời cao hơn đáng kể so với khi ở Trái Đất.
+ Bộ đồ mới sẽ cho phép phi hành gia đi bộ, leo trèo, lái xe và tiến hành nghiên cứu khoa học trên bề mặt Mặt Trăng.
+ Bộ đồ làm từ vải thiết kế đặc biệt để che chắn cho phi hành gia khỏi nhiệt và bụi Mặt Trăng.
+ Nó cũng tích hợp găng tay bảo vệ và có khớp gối để người mặc di chuyển linh hoạt trong điều kiện trọng lực thấp.
+ Ngoài ra, bộ đồ còn có kính che mặt chống lóa và bảng điều khiển tích hợp hệ thống liên lạc và camera.
+ Thiết kế của bộ đồ màu trắng lấy cảm hứng từ văn hóa Trung Quốc.
+ Phần trên có những dải màu đỏ, thể hiện sự cân bằng giữa sức mạnh và sự duyên dáng, tương tự một bộ áo giáp.
+ Các dải màu đỏ ở chân tượng trưng cho đuôi tên lửa đỏ rực khi phóng.
+ Hồi tháng 4, CMSA thông báo rằng việc phát triển các hệ thống để đưa phi hành gia lên Mặt Trăng vào cuối thập kỷ này vẫn đang diễn ra đúng tiến độ.
+ Kế hoạch của Trung Quốc bao gồm hai lần phóng tên lửa Trường Chinh 10 để đưa ba phi hành gia và tàu đổ bộ lên quỹ đạo quanh Mặt Trăng.
+ Tàu vũ trụ Mộng Châu và tàu đổ bộ Lãm Nguyệt sẽ ghép nối trên quỹ đạo rồi đáp xuống bề mặt Mặt Trăng.
+ Hai phi hành gia sẽ dành vài giờ trên thiên thể này để tiến hành nghiên cứu khoa học và thám hiểm, sau đó bay lên quỹ đạo để gặp lại đồng nghiệp của mình.
+ Cuối cùng, cả ba sẽ trở về Trái Đất.
+ Mỹ cũng đang lên kế hoạch đưa con người trở lại Mặt Trăng lần đầu tiên kể từ sau Chương trình Apollo (1969 - 1972), với một nhiệm vụ dự kiến diễn ra sớm nhất vào năm 2026.
+ Đây là một phần trong chương trình Artemis của NASA nhằm thiết lập sự hiện diện lâu dài của con người trên Mặt Trăng và chuẩn bị cho những nhiệm vụ tương lai tới sao Hỏa.

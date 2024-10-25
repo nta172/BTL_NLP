@@ -1,14 +1,18 @@
-Bộ đồ mới giúp bảo vệ phi hành gia khỏi nhiệt độ khắc nghiệt và bụi Mặt Trăng, đồng thời tích hợp găng tay và kính che mặt chống lóa.
- Cơ quan Không gian Có người lái Trung Quốc (CMSA) hé lộ bộ đồ vũ trụ trọng lượng nhẹ hôm 28/9 sau 4 năm nghiên cứu và phát triển.
- Bộ đồ này được thiết kế để bảo vệ phi hành gia trong các hoạt động ngoài trời ở môi trường khắc nghiệt trên Mặt Trăng. Khác với Trái Đất, Mặt Trăng không có khí quyển dày nên nhiệt độ thay đổi rất nhiều và nhanh, từ khoảng 120 độ C đến -130 độ C ở khu vực gần xích đạo.
- Phi hành gia cũng sẽ phải đối mặt với áp suất gần ở mức chân không và bức xạ Mặt Trời cao hơn đáng kể so với khi ở Trái Đất.
- Bộ đồ mới sẽ cho phép phi hành gia đi bộ, leo trèo, lái xe và tiến hành nghiên cứu khoa học trên bề mặt Mặt Trăng.
- Bộ đồ làm từ vải thiết kế đặc biệt để che chắn cho phi hành gia khỏi nhiệt và bụi Mặt Trăng. Nó cũng tích hợp găng tay bảo vệ và có khớp gối để người mặc di chuyển linh hoạt trong điều kiện trọng lực thấp. Ngoài ra, bộ đồ còn có kính che mặt chống lóa và bảng điều khiển tích hợp hệ thống liên lạc và camera.
- Thiết kế của bộ đồ màu trắng lấy cảm hứng từ văn hóa Trung Quốc.
- Phần trên có những dải màu đỏ, thể hiện sự cân bằng giữa sức mạnh và sự duyên dáng, tương tự một bộ áo giáp.
- Các dải màu đỏ ở chân tượng trưng cho đuôi tên lửa đỏ rực khi phóng.
- Hồi tháng 4, CMSA thông báo rằng việc phát triển các hệ thống để đưa phi hành gia lên Mặt Trăng vào cuối thập kỷ này vẫn đang diễn ra đúng tiến độ. Kế hoạch của Trung Quốc bao gồm hai lần phóng tên lửa Trường Chinh 10 để đưa ba phi hành gia và tàu đổ bộ lên quỹ đạo quanh Mặt Trăng.
- Tàu vũ trụ Mộng Châu và tàu đổ bộ Lãm Nguyệt sẽ ghép nối trên quỹ đạo rồi đáp xuống bề mặt Mặt Trăng.
- Hai phi hành gia sẽ dành vài giờ trên thiên thể này để tiến hành nghiên cứu khoa học và thám hiểm, sau đó bay lên quỹ đạo để gặp lại đồng nghiệp của mình.
- Cuối cùng, cả ba sẽ trở về Trái Đất. Mỹ cũng đang lên kế hoạch đưa con người trở lại Mặt Trăng lần đầu tiên kể từ sau Chương trình Apollo (1969 - 1972), với một nhiệm vụ dự kiến diễn ra sớm nhất vào năm 2026.
- Đây là một phần trong chương trình Artemis của NASA nhằm thiết lập sự hiện diện lâu dài của con người trên Mặt Trăng và chuẩn bị cho những nhiệm vụ tương lai tới sao Hỏa.
+Tên lửa tái sử dụng chạy bằng kerosene Nebula-1 của công ty tên lửa tư nhân Deep Blue Aerospace thất bại trong thử nghiệm hạ cánh hôm 22/9.
+ Dù gặp sự cố trong giai đoạn cuối, tên lửa Nebula-1 đã hoàn thành 10 trong 11 mục tiêu của thử nghiệm cất hạ cánh thẳng đứng (VTVL) tại Nội Mông hôm 22/9.
+ Thử nghiệm được coi là sự kiện quan trọng với quá trình phát triển tên lửa tái sử dụng của Trung Quốc, vì đây là lần đầu tiên một tên lửa quỹ đạo, thay vì tên lửa thí nghiệm, được sử dụng.
+ Theo công ty Deep Blue Aerospace, ba động cơ ban đầu khai hỏa đúng dự kiến, đưa tên lửa lên độ cao lớn.
+ Quá trình hạ cánh cũng mở đầu suôn sẻ, với hai động cơ tắt như kế hoạch.
+ Tuy nhiên, khi tên lửa cố gắng đáp xuống bệ được chỉ định, cơ chế hạ cánh trục trặc, khiến Nebula-1 đâm mạnh xuống, phát nổ và hư hỏng một phần.
+ Nebula-1 là tên lửa hai tầng đường kính 3,35 m, hoạt động bằng hỗn hợp dầu kerosene và oxy lỏng.
+ Có 9 động cơ Thunder-R1 biến đổi lực đẩy, sản xuất bằng công nghệ in 3D, ở tầng đầu tiên.
+ Tầng thứ hai chỉ trang bị một động cơ duy nhất.
+ Thiết kế này cho phép tên lửa vận chuyển 2.
+000 kg lên quỹ đạo Trái Đất (LEO) thấp, với phiên bản nâng cấp trong tương lai có khả năng mang tới 8.
+000 kg lên LEO.
+ Tháng 5/2022, Deep Blue Aerospace từng thực hiện thành công thử nghiệm phóng lên cao một kilomet và hạ cánh.
+ Tuy nhiên, thử nghiệm hôm 22/9 là lần đầu tiên động cơ Thunder-R, loại động cơ dự kiến dùng cho những vụ phóng lên quỹ đạo, được sử dụng.
+ Các chuyên gia đang xem xét dữ liệu từ những thử nghiệm gần đây để xác định nguyên nhân dẫn đến sự cố.
+ Deep Blue Aerospace cho biết, công ty dự định tiến hành thử nghiệm cất hạ cánh thẳng đứng với độ cao lớn tiếp theo vào tháng 11 dựa trên bài học từ lần thử đầu tiên.
+ Ngoài Nebula-1, Deep Blue Aerospace cũng đang phát triển tên lửa Nebula-2 mạnh mẽ hơn, có khả năng vận chuyển 20.
+000 kg lên quỹ đạo Trái Đất thấp.

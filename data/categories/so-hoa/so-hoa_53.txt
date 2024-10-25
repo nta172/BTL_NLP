@@ -1,11 +1,14 @@
-Meta AI, đối thủ của ChatGPT, dự kiến được triển khai tại thị trường Việt Nam trong năm nay, "Chúng tôi tự hào là công ty công nghệ lớn duy nhất tại Thung lũng Silicon cung cấp công cụ AI miễn phí cho người dùng Việt", ông Nick Clegg, Chủ tịch phụ trách Đối ngoại toàn cầu Meta, nói tại buổi gặp gỡ truyền thông bên lề Ngày hội Đổi mới sáng tạo Việt Nam, sáng 1/10.
- Công cụ có tên Meta AI, hoạt động tương tự ChatGPT, nhưng sử dụng mô hình Llama do công ty này phát triển.
- Ông Clegg nhấn mạnh đây là mô hình ngôn ngữ lớn dạng mở, hỗ trợ tiếng Việt, giúp doanh nghiệp Việt không cần "tốn hàng tỷ USD để tự xây dựng mô hình ngôn ngữ lớn".
- Đại diện Meta cũng cho biết AI dành cho doanh nghiệp trên Messenger đã được thử nghiệm tại Việt Nam từ tháng 6 và sẽ chính thức ra mắt cuối năm nay.
- Sản phẩm có thể được đưa lên các nền tảng như Messenger, WhatsApp.
- Cùng với AI, một trọng tâm khác trong chuyến thăm Việt Nam lần này của Chủ tịch đối ngoại Meta là việc chọn Việt Nam làm nơi sản xuất thiết bị thực tế ảo hỗn hợp Quest 3S, vừa được giới thiệu cuối tháng 9, có giá khởi điểm 300 USD.
- Việc mở rộng sản xuất tại Việt Nam dự kiến có thể tạo ra 1.
-000 việc làm và đóng góp hàng triệu USD cho nền kinh tế. "Việt Nam tiếp tục là một quốc gia quan trọng đối với Meta.
- Hàng triệu doanh nghiệp nhỏ và người tiêu dùng Việt đang sử dụng nền tảng của chúng tôi", ông Clegg nói. Ngoài ra, hãng công nghệ Mỹ cũng cho biết đã hợp tác với Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội đào tạo tín chỉ về AI cho sinh viên, dự kiến triển khai vào tháng 3/2025.
- Chương trình nhằm nâng cao kỹ năng cho giáo viên và sinh viên, trải nghiệm AI một cách an toàn và có trách nhiệm. Meta là tập đoàn công nghệ đa quốc gia, phát triển các nền tảng mạng xã hội như Facebook, Instagram, Whatsapp, Threads, và các thiết bị phần cứng như kính VR/AR.
- Hãng tăng cường hiện diện tại Việt Nam từ năm 2015, đã phối hợp với các bộ, ngành triển khai nhiều hoạt động hợp tác trong lĩnh vực kinh tế số, đổi mới sáng tạo.
+Đạo diễn "I, Robot" cho rằng sản phẩm Tesla như robot Optimus, xe Cybercab, xe tải robovan lấy ý tưởng từ bộ phim từ năm 2004 của ông. "Elon, tôi có thể lấy lại thiết kế của mình được không?", Alex Proyas, đạo diễn I, Robot, viết trên X ngày 14/10 và hiện nhận hơn 7,5 triệu lượt xem.
+ Trong ảnh đăng kèm, Proyas so sánh lực lượng người máy của cảnh sát trong phim với robot hình người Optimus, phương tiện giao thông với robovan của Tesla và một chiếc xe tương lai bên cạnh taxi điện Cybercab.
+ Trước đó, tại sự kiện We, Robot ngày 10/10, Tesla trình diễn hai sản phẩm mới là taxi không người lái Cybercab và một mẫu xe tải robovan.
+ Đây cũng là lần đầu công ty của Elon Musk trình diễn Optimus trước công chúng, nhưng cỗ máy này bị nghi được điều khiển từ xa.
+ Ở phần bình luận, nhiều người nhận xét sản phẩm của Musk có thiết kế tương tự trong phim của Proyas.
+ Tuy nhiên, cũng có ý kiến rằng đạo diễn không nên quá khắt khe với những người đưa ý tưởng trong phim vào cuộc sống. "Ông đã truyền cảm hứng cho tương lai, nhưng đang cố gắng đổ lỗi cho người đã biến nó thành hiện thực", tài khoản Stepfanie Tyler bình luận.
+ I, Robot ra mắt năm 2004, lấy cảm hứng từ bộ truyện ngắn năm 1950 của tác giả khoa học viễn tưởng nổi tiếng Isaac Asimov.
+ Phim có sự tham gia của diễn viên Will Smith, lấy bối cảnh thế giới tương lai của Chicago năm 2035.
+ Cốt truyện xoay quanh một thám tử đang cố gắng làm sáng tỏ một vụ giết người, nhưng bị lực lượng robot của cảnh sát ngăn cản.
+ Robot không làm hại con người, nhưng khiến con người phụ thuộc ngày càng lớn vào chúng.
+ Trong phim, thám tử bị ngăn cản bởi "Ba định luật robot": robot không được làm hại con người; robot phải tuân theo lệnh của con người trừ khi xung đột với định luật thứ nhất; và robot phải tự bảo vệ mình nếu nó không xung đột với định luật thứ nhất hoặc thứ hai.
+ Thám tử xem các điều luật này là "ngớ ngẩn", nhưng phải tự mình điều tra do đã nhận nhiệm vụ phá án.
+ Proyas nổi tiếng với vai trò đạo diễn các bộ phim như The Crow (1994), Dark City (1998).
+ Ông gần đây cũng ấp ủ ý tưởng phim về AI và đang trong quá trình sản xuất phim khoa học viễn tưởng RUR.

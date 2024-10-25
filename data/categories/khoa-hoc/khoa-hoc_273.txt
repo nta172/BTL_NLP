@@ -1,18 +1,21 @@
-Thiết kế chỗ ở dạng module của công ty DEEP sẽ cho phép con người sinh sống thời gian dài dưới nước ở độ sâu hàng trăm mét.
- DEEP, một công ty công nghệ đại dương ở Anh từng mua lại trung tâm lặn trong mỏ đá ngập nước gần Bristol làm khuôn viên và nơi nghiên cứu, tiết lộ nhiệm vụ của họ là "giúp con người ở dưới nước".
- Trụ cột trong kế hoạch của công ty là chỗ ở dưới nước mang tên hệ thống Sentinel, cho phép con người sống và làm việc ở độ sâu 200 m trong một tháng, CNN hôm 17/9 đưa tin.
- Hệ thống Sentinel bao gồm các module nối liền nhau có thể sử dụng cho nhiều mục đích từ thu thập dữ liệu về hóa chất ở biển tới khai quật xác tàu lịch sử.
- Chỗ ở dễ thay đổi kích cỡ có thể thiết lập cấu hình theo những hình dạng khác nhau, khiến nó phù hợp cho nhiệm vụ 6 người không kém trạm nghiên cứu quy mô lớn, theo DEEP.
- Công ty hy vọng chỗ ở của họ có thể trở thành xúc tác để con người định cư vĩnh viễn dưới nước, tương tự Trạm Vũ trụ Quốc tế (ISS) cho phép con người sống và làm việc trong không gian từ năm 2000.
- Tuần trước, DEEP giới thiệu phiên bản chỗ ở dưới nước nhỏ hơn mà công ty sẽ sử dụng để phát triển các hệ thống cho Sentinel.
- Vanguard là chỗ ở kích thước 12 x 7,5 m, có đủ không gian cho 3 người ở dưới nước trong một tuần.
- Chỗ ở thí điểm này sẽ sẵn sàng hạ xuống nước trong khuôn viên của DEEP tại Anh vào đầu năm 2025. Nó có thể phục vụ các mục đích quan trọng khi cần triển khai nhanh như nhiệm vụ tìm kiếm người sống sót trong vụ chìm siêu du thuyền ngoài khơi Sicily hồi tháng 8, theo chủ tịch của DEEP.
- Với tàu chìm xuống độ sâu 50 m, thợ lặn chỉ có thể ở dưới nước khoảng 12 phút trước khi phải nổi lên.
- Thay vào đó, một chỗ ở đặt trên đáy biển gần xác tàu có thể đóng vai trò như một cơ sở cho thợ lặn.
- Hiện nay, chỉ có duy nhất một phòng thí nghiệm dưới nước đang hoạt động do Đại học Quốc tế Florida vận hành, phục vụ từ các nhà nghiên cứu tìm hiểu san hô tới phi hành gia huấn luyện làm quen với môi trường cực hạn. Nếu tất cả theo đúng kế hoạch, Sentinel sẽ sẵn sàng hoạt động vào năm 2027.
- Wolpert hy vọng có thể triển khai hệ thống ở nhiều địa điểm trên thế giới. Nhưng DEEP thừa nhận họ sẽ cần nỗ lực nhiều để đạt mục tiêu tham vọng này.
- Các module của Sentinel sẽ được in 3D bởi 6 robot, sử dụng thép gia cố bằng siêu hợp kim chứa nickel mang tên Inconel, có thể chịu điều kiện cực hạn, cũng dùng trong những bộ phận của tàu con thoi và tên lửa SpaceX.
- Tùy theo áp suất hoạt động, hệ thống Sentinel có thể tiếp cận bằng cả tàu ngầm hoặc thợ lặn, tiến vào qua lỗ ở đáy. Một phao nổi hỗ trợ trên mặt nước sẽ đảm bảo kết nối qua vệ tinh Starlink.
- Chỗ ở sẽ sử dụng nguồn điện tái tạo như turbine gió và tấm quang điện ở mặt nước.
- DEEP đang bàn bạc với các tổ chức và chính phủ trên khắp thế giới. Khách hàng có thể thuê, mua hoặc dùng chung không gian trong hệ thống Sentinel tùy theo nhu cầu của họ. Ngoài thúc đẩy tạo ra công việc và khoản đầu tư mới liên quan tới đại dương, những cách sử dụng khác của hệ thống bao gồm theo dõi và sửa chữa cơ sở hạ tầng quan trọng dưới biển, du lịch, huấn luyện du hành không gian, tái tạo san hô, đào tạo lặn hải quân và nghiên cứu y học.
- Sau khi hoàn thành nhiệm vụ, chỗ ở có thể được tái triển khai ở vị trí mới.
+Nghiên cứu mới hé lộ nguồn gốc chính xác của tiếng biotwang bí ẩn trong lòng Thái Bình Dương, được phát hiện lần đầu tiên gần rãnh Mariana.
+ Các nhà nghiên cứu cuối cùng xác định nguồn gốc tiếng ồn bí ẩn đến từ rãnh đại dương sâu nhất thế giới.
+ Âm thanh kỳ lạ được gọi là "biotwang" thực chất là tiếng gọi của cá voi Bryde (Balaenoptera edeni).
+ Loài cá voi này có thể sử dụng tiếng gọi để định vị đồng loại.
+ Giới khoa học lần đầu phát hiện tiếng ồn khác thường năm 2014 trong khi sử dụng tàu lượn dưới nước để tiến hành khảo sát rãnh Mariana bằng âm thanh.
+ Đây là rãnh đại dương sâu nhất trên Trái Đất, trải dài hơn 2.
+400 km ở phía nam Nhật Bản và có độ sâu tối đa 10.
+935 m, theo Live Science.
+ Âm thanh biotwang có thể chia thành hai phần riêng biệt, đầu tiên là âm thanh thấp giống tiếng lẩm bẩm vang vọng trong tầng nước sâu, thứ hai là âm thanh kim loại có cao độ mà các nhà nghiên cứu ví như tiếng phát ra từ tàu vũ trụ trong phim Star Trek và Star Wars.
+ Những âm thanh này ban đầu gây bối rối cho nhà khoa học.
+ Nhưng năm 2016, một nhóm nghiên cứu suy đoán biotwang nhiều khả năng là tiếng gọi từ cá voi tấm sừng lớn như cá voi xanh (Balaenoptera musculus) hoặc cá voi lưng gù (Megaptera novaeangliae).
+ Tuy nhiên, âm thanh đó không khớp với tiếng gọi của bất kỳ loài cá voi nào đã biết.
+ Trong nghiên cứu mới công bố hôm 18/9 trên tạp chí Frontiers in Marine Science, các nhà nghiên cứu cuối cùng có thể chứng minh cá voi Bryde phát ra tiếng ồn, một phần nhờ công cụ trí tuệ nhân tạo (AI) mới giúp sàng lọc hơn 200.
+000 giờ ghi âm, chứa nhiều loại âm thanh khác nhau trong đại dương.
+ Nhóm nghiên cứu nghi ngờ cá voi Bryde đứng sau biotwang khi họ trông thấy 10 con bơi gần quần đảo Mariana và ghi hình 9 con phát ra tiếng ồn đặc trưng. "1 - 2 lần là sự trùng hợp nhưng 9 lần thì rõ ràng đó là cá voi Bryde", trưởng nhóm nghiên cứu Ann Allen, nhà hải dương học ở Trung tâm Khoa học Ngư nghiệp quần đảo Thái Bình Dương thuộc Cục quản lý Đại dương và Khí quyển Quốc gia Mỹ (NOAA), cho biết.
+ Nhưng để chứng minh cá voi Bryde phát ra tiếng kêu, nhóm nghiên cứu đối chiếu tiếng ồn với mô hình di cư của loài vật, phân loại bản ghi âm qua nhiều năm thu thập bởi các trạm theo dõi trên khắp quần đảo Mariana và khu vực xung quanh.
+ Họ tăng tốc quá trình bằng cách sử dụng AI để biến biotwang thành hình ảnh, gọi là ảnh phổ, qua đó dễ dàng phân biệt những tiếng ồn khác nhờ thuật toán học máy.
+ Nghiên cứu cũng nhận thấy biotwang chỉ có thể nghe được ở tây bắc Thái Bình Dương, dù cá voi Bryde sinh sống trên khu vực rộng hơn, chứng tỏ chỉ có một quần thể cá voi chuyên biệt phát ra âm thanh.
+ Dữ liệu cũng hé lộ sự tăng vọt của biotwang năm 2016, khi nhiệt độ đại dương tăng do sự kiện El Nino làm tăng số lượng Bryde ghé qua khu vực.
+ Các nhà nghiên cứu vẫn chưa rõ tại sao tiếng kêu nghe kỳ lạ như vậy.
+ Họ sẽ cần thêm dữ liệu để kết luận chắc chắn.

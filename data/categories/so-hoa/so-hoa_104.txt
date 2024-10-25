@@ -1,13 +1,15 @@
-Dòng tủ lạnh Panasonic 2 cánh, ngăn đá trên hướng đến nhóm người dùng phổ thông, được thương hiệu tích hợp loạt công nghệ phù hợp gia đình hiện đại.
- Các dòng tủ lạnh 2 cánh, ngăn đá trên được Panasonic phân phối với các mã NR-TX461GPKV 406 L, NR-TL381GVKV 355 L và NR-TL351GVKV 325 L, hướng đến nhu cầu bảo quản thực phẩm đa dạng của người Việt cùng thiết kế phù hợp không gian bếp trong gia đình.
- Các dòng tủ lạnh trên được Panasonic tạo điểm nhấn nhờ loạt công nghệ độc quyền do thương hiệu phát triển.
- Đầu tiên là công nghệ diệt khuẩn Blue Ag+ sử dụng ánh sáng xanh để kích hoạt tinh thể bạc Ag+, tạo các gốc OH- tự do, kết hợp hydro trong vi khuẩn sẽ chuyển hóa thành nước, có thể giữ thực phẩm tươi sạch.
- Theo thương hiệu, với việc kết hợp công nghệ Ag Clean, sản phẩm còn có khả năng ngăn ngừa tình trạng nhiễm khuẩn chéo, khử mùi hôi trong tủ lạnh, loại bỏ 99,9% nấm mốc, phù hợp với gia đình thường xuyên tích trữ món ăn có mùi mạnh, hoặc đồ ăn sẵn nhiều gia vị. Ngăn trữ đông Ag Hygiene Zone cũng là điểm nhấn của dòng tủ lạnh này với thiết kế ngăn kéo có nắp đậy, cùng tinh thể bạc Ag ngăn mùi, kháng khuẩn, giúp "cách ly" mùi hôi, tanh của thịt, cá cùng các thực phẩm tươi sống.
- Bên cạnh đó, khay lạnh Cooling Plate có khả năng làm lạnh nhanh, giúp giữ độ tươi của thực phẩm mà không cần dùng đá.
- Với khay này, các gia đình có thể dễ dàng chuẩn bị các món như sashimi, gỏi cuốn, đồ tráng miệng như kem cuộn, sữa chua, bánh ngọt phủ chocolate.
- Trong những bữa cơm gia đình, khay lạnh Cooling Plate có thể sử dụng để làm nguội cháo, súp...
- Panasonic cũng tích hợp công nghệ lấy nước ngoài kháng khuẩn, khử mùi Hygiene Water Dispenser vào sản phẩm, giúp người dùng lấy nước không cần mở tủ, tiết kiệm điện năng, đảm bảo nguồn nước sạch sẽ.
- Dòng tủ lạnh Panasonic 2 cánh, ngăn đá trên còn sở hữu công nghệ làm đá nhanh, tiết kiệm 40 phút chờ đợi so với các dòng tủ thông thường, theo công bố của hãng.
- Panasonic cũng cung cấp ra thị trường các tùy chọn dung tích khác nhau cho sản phẩm, từ 325 lít đến 406 lít, phù hợp với nhu cầu của nhiều gia đình. Ngoài các tính năng công nghệ, thiết kế sản phẩm cũng được chú trọng, phù hợp đa dạng không gian bếp của gia đình Việt.
- Sản phẩm có thiết kế màu đen, sử dụng vật liệu thép không gỉ, bề mặt hạn chế bám vân tay trong quá trình sử dụng, dễ dàng vệ sinh... Ngoài ra, tay nắm thiết kế dạng ẩn tạo điểm nhấn thẩm mỹ và thuận tiện đóng mở.
- Các dòng tủ lạnh Panasonic 2 cánh, ngăn đá trên NR-TX461GPKV 406 L, NR-TL381GVKV 355 L và NR-TL351GVKV 325 L được phân phối độc quyền tại hệ thống cửa hàng Điện Máy Xanh trên toàn quốc.
+Nhóm sinh viên Việt Nam phát triển giải pháp tìm người bị nạn bằng drone kết hợp AI, giành giải nhất tại cuộc thi châu Á của Huawei.
+ Tại cuộc thi Tech4Good khu vực châu Á - Thái Bình Dương do Huawei tổ chức tại Trung Quốc ngày 26/9, dự án SkyNet - hỗ trợ tìm kiếm người gặp nạn trong lũ lụt - của nhóm sinh viên Việt Nam đã đoạt giải nhất, đồng thời giành suất tiến vào vòng Chung kết toàn cầu năm 2025.
+ Dự án được phát triển dựa trên ý tưởng ứng dụng máy bay không người lái kết hợp radar khẩu độ tổng hợp SAR và công nghệ AI, nhằm hỗ trợ tìm và giải cứu người bị nạn ở vùng ngập lụt nhanh hơn.
+ Giải pháp được đưa ra đáp ứng các tiêu chí gồm thu ảnh ở độ phân giải cao, phát sóng dữ liệu di động ổn định và báo cáo dữ liệu theo thời gian thực.
+ Ngoài ra, nhóm cũng đưa ra phương án để tối ưu chi phí, xây dựng đa dạng kịch bản ứng dụng nếu được thương mại hóa.
+ Giải pháp này được đánh giá giàu tính ứng dụng trong bối cảnh thực tiễn về bão Yagi vừa gây thiệt hại lớn tại Việt Nam, đồng thời bài trình bày của nhóm cũng tạo được sự ấn tượng với giám khảo.
+ Sáu sinh viên Việt Nam tham gia đội thi gồm Mai Thị Phượng, Nguyễn Thị Thu Trang và Đinh Hoàng Anh (Học viện Công nghệ Bưu chính Viễn thông), Phạm Quỳnh Trang (Đại học VinUni), Cao Sỹ Dương (Đại học Bách Khoa Hà Nội), và Trần Đăng Nam (Đại học Giao thông Vận tải TP.
+ HCM).
+ Đây là các sinh viên vượt qua hai vòng thi của chương trình "Hạt giống cho Tương lai 2024", được chọn từ 400 sinh viên tại Việt Nam và đảm bảo tiêu chí về điểm số học tập cao nhất cũng như đủ điều kiện thi đấu quốc tế.
+ Tại vòng thi châu Á - Thái Bình Dương, họ thi đấu với 24 đội thi đến từ 24 quốc gia trong khu vực.
+ Kết quả, đội Việt Nam và Campuchia cùng giành giải Nhất.
+ Họ sẽ được tài trợ khởi nghiệp, tham gia chuyến trải nghiệm đến Trung Quốc và tham dự những cuộc thảo luận "1:1" với các lãnh đạo Huawei. "Sáu ‘hạt giống’ Việt Nam đã giành vị trí nhất bảng, chứng minh được năng lực cá nhân qua dự án SkyNet và truyền cảm hứng cho các tài năng trẻ khác tích cực chuyển đổi ý tưởng sáng tạo vào thực tiễn quốc gia", ông Macky Zhang, Tổng giám đốc Huawei Việt Nam, chia sẻ.
+ Thạc sĩ Cao Hữu Vinh, Phó viện trưởng Đào tạo Chất lượng cao, Trường Đại học Giao thông Vận tải TP.
+ HCM, cũng đánh giá đây là cơ hội để sinh viên tiếp cận và trau dồi các kiến thức mới nhất, cũng như có cái nhìn toàn diện về các công nghệ hiện đại và ứng dụng thực tế vào đa lĩnh vực khác nhau.
+ Tech4Good là cuộc thi về dự án khởi nghiệp được Huawei tổ chức thường niên, hướng tới mục tiêu nâng cao nhận thức của sinh viên về các thách thức đối với sự phát triển bền vững của địa phương, cùng với việc nắm bắt xu hướng số hóa mới nhất, từ đó phát triển các giải pháp khả thi cả về mặt kỹ thuật và thương mại, giải quyết các vấn đề xã hội.

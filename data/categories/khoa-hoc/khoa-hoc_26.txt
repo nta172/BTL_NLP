@@ -1,20 +1,28 @@
-Chủ nhân giải Nobel Hóa học 2024 hy vọng nghiên cứu của họ mở ra cánh cửa mới cho nhiều đột phá khó tin, như thời gian thử nghiệm thuốc mới chỉ còn vài tháng thay vì cả thập kỷ.
- Hôm 9/10, hai học giả người Mỹ David Baker và John Jumper cùng học giả người Anh Demis Hassabis được vinh danh nhờ giải mã cấu trúc protein, khối xây dựng sự sống.
- Hội đồng bình chọn đánh giá nghiên cứu của họ nắm giữ tiềm năng khổng lồ trong hàng loạt lĩnh vực, theo AFP.
- David Baker có công trong việc xây dựng những loại protein hoàn toàn mới, một thành tích gần như bất khả thi.
- Còn Demis Hassabis và John Jumper phát triển mô hình trí tuệ nhân tạo (AI) giúp dự đoán cấu trúc của tất cả 200 triệu protein mà giới nghiên cứu đã nhận dạng.
- Tại họp báo tổ chức ở London sau khi công bố giải Nobel Hóa học, Jumper chia sẻ giải thưởng "thể hiện sự hứa hẹn của sinh học vi tính". "Chúng tôi muốn biến thế giới thành một nơi tốt đẹp hơn và chúng tôi có những công cụ cực kỳ hữu hiệu để làm điều đó.
- Trên hết, chúng tôi sẽ giúp mọi người khỏe mạnh nhờ công trình nghiên cứu kết hợp với AI.
- Tôi hy vọng đây là một tín hiệu mở ra cánh cửa cho nhiều đột phá khoa học khó tin", ông nói. Nghiên cứu của họ có tầm quan trọng đặc biệt trong lĩnh vực phát hiện thuốc, theo Hassabis.
- Ông dự đoán thời gian phát triển và thử nghiệm thuốc sẽ rút ngắn từ gần một thập kỷ hoặc hơn xuống còn vài tháng.
- AI đặc biệt hữu dụng đối với sinh học phân tử bởi nó có thể nhận dạng những mô hình mà con người chưa từng thấy, theo Jumper. "Y học là ngành rất khó bởi chúng ta chưa hiểu cách cơ thể hoạt động với độ phức tạp phi thường", Jumper chia sẻ. Nghiên cứu của ông và các đồng nghiệp giúp tiến thêm một bước hướng tới điều đó.
- Hassabis, 48 tuổi, cho biết kinh nghiệm chơi cờ vua là nền tảng cho sự tinh thông về vi tính của ông, và khuyến khích những đứa trẻ đi theo lộ trình tương tự.
- Tuy nhiên, Hassabis vẫn lên tiếng cảnh báo về AI, điều mà ông mô tả "là một trong những công nghệ có khả năng biến đổi nhiều nhất trong lịch sử nhân loại. "Nó có tiềm năng đem lại lợi ích cực lớn nhưng cũng có thể được sử dụng để gây hại.
- Chúng tôi thực sự trăn trở khi những hệ thống và kỹ thuật này trở nên ngày càng mạnh hơn.
- Tôi rất tin tưởng vào trí tuệ của con người, chỉ cần có đủ thời gian, tài nguyên và những người đủ thông minh, nhân loại có thể giải quyết nhiều vấn đề phức tạp nhất", Hassabis nói. Nói về việc nhận giải Nobel, cả Jumper và Hassabis tiết lộ họ đều từ bỏ hy vọng nhận được điện thoại khi chỉ còn vài phút trước phần công bố giải. "Thật hài hước, tôi không nghĩ họ có số của chúng tôi.
- Vì vậy chúng tôi nhận được điện thoại rất muộn.
- Chúng tôi chỉ nghĩ điều đó sẽ không xảy ra", Hassabis chia sẻ. Jumper nói ông vẫn chờ khi chỉ còn 30 phút. "Tôi quay sang vợ tôi và nói 'Chà, anh đoán là không phải năm nay.
- Và 30 giây sau, tôi nhận được cuộc gọi từ Thụy Điển và tôi hoàn toàn không thể tin được", ông kể lại.
- Giải thưởng năm nay trị giá 11 triệu krona Thụy Điển (khoảng 1.
-060.
-800 USD), trong đó một nửa dành cho David Baker, nửa còn lại dành cho Demis Hassabis và John Jumper.
+Trung tâm cách mạng công nghiệp 4.
+0 TP HCM đi vào hoạt động, tập trung thúc đẩy nghiên cứu, ứng dụng công nghệ hiện đại vào sản xuất.
+ Lễ ra mắt 14 thành viên sáng lập và thành viên hội đồng quản lý Trung tâm cách mạng công nghiệp lần 4.
+0 (C4IR) được tổ chức trong khuôn khổ Diễn đàn Kinh tế TP HCM chiều 25/9.
+ C4IR là kết quả hợp tác giữa Chính phủ Việt Nam và Diễn đàn Kinh tế thế giới (WEF) giai đoạn 2023-2026.
+ Đây là trung tâm thứ 2 ở Đông Nam Á sau Malaysia và thứ 19 thế giới tham gia mạng lưới toàn cầu WEF.
+ Ở Việt Nam, C4IR hoạt động theo mô hình hợp tác công tư, tận dụng những tri thức, kinh nghiệm của mạng lưới C4IR toàn cầu mang lại hỗ trợ, đề xuất các giải pháp, chính sách phù hợp với định hướng quốc gia và xu thế quốc tế về công nghệ trên thế giới.
+ Các thành viên sáng lập C4IR là các nhà lãnh đạo gồm Chủ tịch UBND TP HCM Phan Văn Mãi, Phó chủ tịch TP HCM Võ Văn Hoan.
+ Đại diện các Sở Khoa học - Công nghệ, Thông tin Truyền Thông, Ngoại Vụ và lãnh đạo các doanh nghiệp như Viettel, HD Bank, Techcombank, SaigonTel, GIBC; lãnh đạo Đại học Quốc gia TP HCM, trường Đại học Công nghệ TP HCM đóng vai trò thành viên sáng lập và thành viên hội đồng quản lý C4IR.
+ Các thành viên sáng lập và thành viên hội đồng quản lý C4IR sẽ tham dự các sự kiện quốc tế, diễn đàn kinh tế thế giới tại Davos (Thụy Sĩ), phối hợp với WEF tổ chức Diễn đàn kinh tế TP HCM cùng các sự kiện liên quan khác.
+ CI4R sẽ thực hiện các dự án thí điểm, nghiên cứu giải pháp ứng dụng chuyển giao công nghệ do doanh nghiệp sáng lập đăng ký với mục tiêu hoàn thiện 6 dự án trong lĩnh vực AI, bán dẫn, sản xuất tiên tiến trong ba năm.
+ Trung tâm Cách mạng Công nghiệp lần thứ 4 sẽ đào tạo nhân lực theo đặt hàng doanh nghiệp, nghiên cứu ứng dụng chuyển giao công nghệ của doanh nghiệp bên ngoài, tiến tới thành lập sàn giao dịch công nghệ từ năm 2026.
+ Chủ tịch UBND TP HCM Phan Văn Mãi, cho biết sau khi C4IR khánh thành, chính quyền thành phố cam kết với Trung ương, các tổ chức, cá nhân tạo điều kiện tốt nhất cho trung tâm sớm ổn định, đi vào hoạt động có hiệu quả.
+ Theo ông Mãi, thành phố có các lợi thế về hạ tầng tương đối đồng bộ, là trung tâm đổi mới sáng tạo mới nổi, trung tâm thương mại tài chính lớn.
+ Thành phố cũng là nơi tập trung nhân lực chất lượng cao, được Trung ương cho thí điểm chính sách đặc thù với Nghị quyết 98.
+ Với những lợi thế này, Chủ tịch UBND TP HCM cho biết, thành phố xác định mục tiêu phát triển đến 2030 tầm nhìn 2050 là hiện đại hóa, tự động hóa, phát triển công nghiệp sạch thân thiện môi trường.
+ Để đạt mục tiêu này thành phố đặt các nhóm nhiệm vụ chính gồm phát triển các ngành tiềm năng có tầm quan trọng; khuyến khích áp dụng công nghệ mới trong các ngành công nghiệp trọng điểm; hỗ trợ doanh nghiệp nâng cao năng lực tham gia chuỗi giá trị toàn cầu; thực hiện chuyển đổi số, chuyển đổi xanh...
+ Ông nói, việc này có vai trò quan trọng của Trung tâm cách mạng công nghiệp 4.
+0.
+ Trước đó, tại phiên thảo luận sáng cùng ngày, ông Nguyễn Hữu Tuấn, Thành viên sáng lập C4IR, cho biết trong chương trình hành động sẽ tập trung vào bốn công nghệ lõi gồm trí tuệ nhân tạo, mạng 5G, IoT, hệ thống quản lý doanh nghiệp (MES, MOM, ERP) phục vụ ứng dụng trong doanh nghiệp, hướng đến chuyển đổi công nghiệp.
+ Theo ông Tuấn, việc ứng dụng công nghệ giúp doanh nghiệp chuyển đổi số, phát triển bền vững.
+ Tuy nhiên, để đo lường việc ứng dụng công nghệ giúp doanh nghiệp tăng trưởng, phát triển bền vững ra sao, các chuyên gia của C4IR sẽ xây dựng bộ chỉ số SIRI (chỉ số sẵn sàng công nghiệp thông minh) thông qua hợp tác với các một số tổ chức chuyển đổi số uy tín trên thế giới.
+ C4IR sẽ phối hợp các cơ quan, đối tác tính toán đo chỉ số SIRI ở TP HCM, sau đó đề xuất bộ ngành đo lường trên cả nước.
+ Trong chương trình hành động C4IR sẽ tập trung thúc đẩy nghiên cứu, ứng dụng công nghệ hiện đại vào sản xuất, xây dựng chính sách trong phát triển kinh tế dựa trên khoa học công nghệ.
+ Trong sáng 25/9 tại Trung tâm đào tạo, Khu công nghệ cao TP HCM (đường Xa lộ Hà Nội, TP Thủ Đức) Trung tâm Cách mạng Công nghiệp 4.
+0 đã khánh thành và đi vào hoạt động.
+ Tại sự kiện, Thủ tướng Phạm Minh Chính cho rằng để C4IR hoạt động hiệu quả là trách nhiệm của Chính phủ, các bộ, ngành trong định hướng, xây dựng thể chế và có chính sách ưu tiên phát triển phù hợp.
+ Thủ tướng yêu cầu TP HCM quy định rõ chức năng, nhiệm vụ, quyền hạn, tạo điều kiện về cơ sở vật chất, cơ chế hoạt động của Trung tâm nhanh chóng, thuận lợi, đáp ứng yêu cầu phát triển.

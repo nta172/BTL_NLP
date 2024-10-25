@@ -1,10 +1,28 @@
-Cơ quan Quản lý Khí quyển và Đại dương Quốc gia Mỹ (NOAA) dự báo mùa bão Đại Tây Dương 2024 sẽ có hoạt động trên mức bình thường tới hết tháng 11. NOAA dự báo mùa bão Đại Tây Dương 2024 sẽ có từ 17 đến 25 cơn bão được đặt tên, sức gió tương đương 63 km/h.
- Trong số đó, từ 8 đến 13 cơn dự kiến sẽ trở thành bão (gió từ 74 mph trở lên - tương đương 119 km/h), bao gồm từ 4 đến 7 cơn bão lớn (cấp 3, 4 hoặc 5; với sức gió từ 111 mph trở lên (tương đương 178 km/h).
- Dự báo này kéo dài từ 1/6 đến 30/11. Mùa bão Đại Tây Dương sắp tới dự kiến sẽ có hoạt động trên mức bình thường do nhiều yếu tố, bao gồm nhiệt độ đại dương gần kỷ lục.
- Sự phát triển của điều kiện La Nina ở Thái Bình Dương, gió ở Đại Tây Dương giảm và ít gió đứt đoạn hơn, tất cả đều có xu hướng tạo điều kiện cho sự hình thành của các cơn bão nhiệt đới.
- Tại khu vực Thái Bình Dương cũng ghi nhận nhiệt độ mặt biển tăng cao trong 12 tháng qua. Nhiệt độ nước biển từ 29 độ C trở lên có thể cung cấp tất cả năng lượng cần thiết cho cơn giông bão để đạt sức mạnh tối đa. Khi một trong những El Nino mạnh nhất từng được quan sát gần kết thúc, các nhà khoa học NOAA dự đoán sẽ có sự chuyển đổi nhanh chóng sang điều kiện La Nina, điều này tạo điều kiện cho hoạt động bão Đại Tây Dương.
- Đồng thời, lượng nhiệt dồi dào trong đại dương nhiệt đới Đại Tây Dương và biển Caribe tạo thêm năng lượng để phát triển bão.
- Tất cả các yếu tố: nhiệt độ mặt biển, khả năng xuất hiện La Nina, điều kiện khí quyển và đại dương đã thiết lập nền tảng cho một mùa bão hoạt động mạnh.
- Các điều kiện khí quyển và đại dương tiếp tục hỗ trợ cho một mùa bão Đại Tây Dương năm 2024 trên mức bình thường, với xác suất kết quả này là 90%, theo NOAA. Năm 2024 chỉ có xác suất 10% cho một mùa gần mức bình thường và xác suất không đáng kể cho một mùa dưới mức bình thường.
- Trước đó một nghiên cứu của tác giả Johannes Lohmann từ Viện Niels Bohr thuộc Đại học Copenhagen, từng đưa ra cảnh báo rằng dòng hải lưu đảo ngược Đại Tây Dương (AMOC) có thể đạt tới "điểm tới hạn" sớm hơn nhiều so với dự kiến và hệ quả của nó có thể sẽ rất thảm khốc.
- Theo đó sự gia tăng lượng nước ngọt do băng tan từ Greenland đang ở mức đáng báo động và là một mối đe dọa lớn với AMOC. Nếu dòng hải lưu này hoàn toàn dừng lại, các kiểu gió mùa nhiệt đới sẽ thay đổi, lượng mưa ở Bắc bán cầu sẽ giảm và Bắc Đại Tây Dương sẽ có nhiều bão hơn.
+Các nhà khoa học phát hiện nhiệt độ bề mặt trung bình của Trái Đất đã dao động từ 11 đến 36 độ C trong 500 triệu năm qua.
+ Bằng cách kết hợp dữ liệu về nhiệt độ thời tiền sử với các mô hình khí hậu, các nhà nghiên cứu tại Bảo tàng Lịch sử Tự nhiên Quốc gia Smithsonian, Đại học California, Mỹ và Đại học Bristol, Anh đã tạo ra một lịch sử dài 485 triệu năm về khí hậu luôn thay đổi của Trái Đất.
+ Nghiên cứu mới, được công bố trên Science hôm 20/9.
+ Thực hiện nghiên cứu từ năm 2018, các nhà khoa học xây dựng đường cong nhiệt độ để hiểu cách khí hậu Trái Đất đã thay đổi trong 539 triệu năm qua, một khoảng thời gian được các chuyên gia gọi là Phanerozoic. "Ý tưởng tạo ra một đường cong mạnh mẽ và có thể tái tạo lịch sử khí hậu của Trái Đất với cái nhìn tổng thể đã nhận được sự ủng hộ", nhà cổ sinh vật học khí hậu Emily Judd của Đại học Arizona, người đã tham gia dự án vào năm 2020 để tạo ra hồ sơ khí hậu sâu của Trái Đất bằng cả dữ liệu địa chất và các mô hình khí hậu, cho biết.
+ Các nhà nghiên cứu ước tính nhiệt độ thời tiền sử bằng nhiều cách khác nhau.
+ Trong đó họ xem xét các lõi băng có các bọt khí bị kẹt bên trong - thành phần hóa học của các bọt khí này chứa manh mối về khí hậu cổ đại tại thời điểm đó.
+ Các đồng vị oxy trong các lớp đá và hóa thạch thời tiền sử cũng có thể được so sánh với nhau để ước tính Trái Đất đã ấm hơn hay lạnh hơn vào một thời điểm nhất định.
+ Ngay cả cấu trúc của lá hóa thạch cũng có thể đóng vai trò như các đại diện nhiệt độ.
+ Ví dụ, một chiếc lá có các cạnh mịn và "đầu nhỏ giọt" dài để nước chảy khỏi bề mặt của nó cho thấy một môi trường ấm áp, ẩm ướt, trong khi các loài thực vật từ các khí hậu lạnh hơn thường có các cạnh răng cưa và không có đầu nhỏ giọt.
+ Các thời kỳ và địa điểm khác nhau cung cấp các loại bằng chứng khác nhau.
+ Bước đầu tiên là thu thập tất cả các bằng chứng hiện có. "Cùng với vài chục thành viên của cộng đồng cổ sinh vật học, chúng tôi đã xây dựng một cơ sở dữ liệu với hơn 150.
+000 ước tính về nhiệt độ cổ đại", Judd nói, dự án này đã được công bố vào năm 2022.
+ Để xây dựng bức tranh toàn cảnh, các cộng tác viên dự án của Đại học Bristol ở Anh đã thực hiện hơn 850 mô phỏng mô hình khí hậu về các điều kiện trong thời kỳ Phanerozoic.
+ Bằng cách kết hợp các ước tính nhiệt độ và các mô phỏng khí hậu, các nhà nghiên cứu đã tạo ra một cái nhìn rộng hơn về khi nào Trái Đất cổ đại tương đối ấm hơn hoặc lạnh hơn.
+ Kết quả bao phủ nhiệt độ Trái Đất trong 485 triệu năm qua, phần lớn của thời kỳ Phanerozoic, bao gồm một quãng thời gian chứng kiến sự bùng nổ sớm của sự sống động vật trong các đại dương, sự xuất hiện của thực vật trên đất liền và một số cuộc tuyệt chủng hàng loạt.
+ Các phân tích cho thấy nhiệt độ bề mặt trung bình của Trái Đất dao động từ 11 đến 36 độ C trong thời kỳ Phanerozoic, với hành tinh thường nằm trong khoảng nhiệt độ ấm hơn nhiều hơn so với nhiệt độ lạnh. "Đây sẽ là một hồ sơ rất hữu ích", nhà cổ sinh vật học khí hậu Benjamin Mills của Đại học Leeds ở Anh, người không tham gia vào nghiên cứu mới, cho biết.
+ Nghiên cứu không chỉ là một cải tiến so với các phương pháp trước đó mà còn chỉ ra khí hậu Trái Đất nhạy cảm với carbon dioxide.
+ Cần nghiên cứu sâu hơn để hiểu hơn về lịch sử của sự nhạy cảm đó.
+ Nhiệt độ ấm trong suốt 485 triệu năm qua gắn liền với carbon dioxide.
+ Khi carbon dioxide trong khí quyển tăng lên, nhiệt độ cũng tăng.
+ Mối liên hệ này đặc biệt rõ ràng xung quanh một số cuộc tuyệt chủng hàng loạt, khi khí hậu Trái Đất thay đổi nhanh chóng để đối phó với các sự kiện như các đợt phun trào núi lửa khổng lồ đã thải ra khối lượng lớn carbon dioxide vào khí quyển. "Nhiệt độ toàn cầu ổn định và mức CO2 trước khi tuyệt chủng rất quan trọng, vì đây là môi trường mà các sinh vật thời đó thích nghi tốt nhất", Mills lưu ý.
+ Thêm rằng, với những thay đổi nhanh chóng về carbon dioxide và nhiệt độ tạo ra các điều kiện căng thẳng mà đa dạng sinh học của Trái Đất khó có thể theo kịp.
+ Tốc độ khí hậu Trái Đất đang ấm lên đặc biệt đáng lo ngại. "Tốc độ thay đổi khí hậu đóng vai trò then chốt trong kết quả sinh thái", Judd nói.
+ Sự ấm lên diễn ra trong hàng triệu năm khiến các sinh vật phải di chuyển, tiến hóa hoặc tuyệt chủng, nhưng sự thích nghi với nhiệt độ ấm hơn là có thể.
+ Những gì con người đang làm bây giờ giống như những khoảnh khắc như cuộc tuyệt chủng hàng loạt cuối kỷ Permi, khi các đợt phun trào núi lửa khổng lồ đổ lượng lớn carbon dioxide vào khí quyển và gây ra cuộc tuyệt chủng hàng loạt tồi tệ nhất mọi thời đại.
+ Theo Judd, việc chú ý đến nhiệt độ của Trái Đất là điều cần thiết cho sự sống còn của xã hội loài người.
+ Thực tế loài người tiến hóa và phát triển dưới các điều kiện lạnh hơn, thường ở những nơi gần mực nước biển đang ngày càng bị ngập lụt khi khí hậu ấm lên làm mực nước biển dâng cao. "Sự bền bỉ của Trái Đất không trực tiếp chuyển thành khả năng thích nghi và phát triển của chúng ta trong bối cảnh biến đổi khí hậu do con người gây ra".
+ Theo nhóm nghiên cứu, Trái Đất đang ở một điểm mà bất kỳ hành động nào hạn chế sự ấm lên do con người gây ra đều là cần thiết.

@@ -1,20 +1,20 @@
-Samsung công bố bộ đôi máy tính bảng Galaxy Tab S10+ và Tab S10 Ultra, lần đầu dùng chip Dimensity 9300+ và hỗ trợ AI tạo sinh.
- Galaxy Tab S10+ và Tab S10 Ultra trang bị màn hình Dynamic AMOLED 2X tần số quét 120 Hz, kích cỡ lần lượt 12,4 và 14,6 inch, không còn bản 11 inch như trước.
- Samsung trang bị lớp phủ chống chói cho tablet thế hệ mới giúp hiển thị tốt ngay cả khi sử dụng dưới trời nắng mạnh.
- Phiên bản S10+ có một camera trước, trong khi mẫu Ultra dùng màn hình tai thỏ với hai camera.
- Samsung cho biết, với chip Dimensity 9300+ theo quy trình 4 nm thế hệ ba của TSMC, S10 Ultra mạnh hơn 18% về CPU, 28% về GPU và 14% về NPU so với bản tiền nhiệm Tab S9 Ultra.
- Sức mạnh xử lý được cải tiến cho phép tính năng AI phản hồi nhanh hơn.
- Bộ đôi hỗ trợ bộ tính năng Galaxy AI như Circle to Search - khoanh vùng tìm kiếm, Sketch to Image - chuyển các nét vẽ thành hình ảnh và Note Assist - sắp xếp ghi chú, phiên dịch và tóm tắt bản ghi âm giọng nói, Handwriting Help - sắp xếp văn bản viết tay. Ngoài những chức năng quen thuộc, bút S Pen trên Galaxy Tab S10 series có thêm tính năng Air Command cho phép truy cập nhanh vào bộ công cụ Galaxy AI.
- Bàn phím Book Cover không khác biệt so với trước về thiết kế, nhưng bổ sung phím tắt AI giúp người dùng truy cập các ứng dụng AI của máy, hay chọn trợ lý ảo Bixby và Gemini nhanh hơn.
- AI tạo sinh đang trở thành "trận chiến" mới của các nhà sản xuất thiết bị di động.
- Google có thể xem là công ty đầu tiên đưa GenAI lên smartphone, dù còn ở mức sơ khai, tiếp đến là Samsung với Galaxy AI trên thế hệ Galaxy S24.
- Sau đó, một số hãng Android khác cũng tham gia như Oppo, Xiaomi...
- Các công ty máy tính Acer, Asus, MSI... cũng đang tung ra một số mẫu laptop hỗ trợ GenAI.
- Với bộ đôi Galaxy Tab S10, xu hướng này tiếp tục xuất hiện trên tablet.
- Trong khi đó, Apple đã công bố bộ công cụ trí tuệ nhân tạo Apple Intelligence dành cho iPhone, iPad và máy Mac nhưng phải tới tháng 10 mới bắt đầu được triển khai.
- Hai model sử dụng RAM 12 GB cùng hai tùy chọn bộ nhớ trong 256 và 512 GB, riêng S10 Ultra có thêm một phiên bản RAM 16 GB và bộ nhớ trong 1 TB.
- Hệ thống bốn loa được nâng cấp với tính năng tăng cường hội thoại bằng AI, giúp khuếch đại giọng nói khi xuất hiện tiếng ồn.
- Galaxy Tab S10+ trang bị pin 10.
-090 mAh còn S10 Ultra là 11.
-200 mAh, đều có sạc nhanh 45W.
- Hai máy sẽ bắt đầu được bán ra từ 3/10 với giá lần lượt từ 26 triệu và 31 triệu đồng.
+Người mua iPhone 16 Pro Max được đề nghị lấy thêm gói bảo hành, giá cao hơn 1-2 triệu đồng nếu muốn nhận máy sớm. "Không ngờ mua điện thoại cũng gặp kiểu 'bia kèm lạc' thế này", Phi Hùng (Hà Nội) than thở sau khi đặt trực tuyến chiếc iPhone 16 Pro Max màu titan sa mạc nhưng hết hàng.
+ Khi liên hệ trực tiếp đến các đại lý, phần lớn đều thông báo đã hết suất đặt.
+ Một số khác cho biết nếu muốn mua sớm, anh phải đăng ký thêm gói dịch vụ gần hai triệu đồng. iPhone 16 Pro Max dung lượng 256 GB được niêm yết giá 34,99 triệu, còn riêng phiên bản titan sa mạc là 36,5 triệu đồng cho "combo".
+ Theo lời giới thiệu, đây là mức giá kèm gói bảo hành hai năm, một số phụ kiện như ốp lưng, kính cường lực và suất ưu tiên nhận máy sớm, nhưng không rõ thời gian cụ thể.
+ Tuy nhiên theo Hùng, mỗi năm anh đều lên đời máy mới và cũng không quen sử dụng case hay dán màn hình. "Cảm giác như bị ép mua", anh nói.
+ Việc bán combo, được gọi vui là "bia kèm lạc", thường xuất hiện khi thị trường có sản phẩm ăn khách, khan hàng, khiến cửa hàng có thể ra điều kiện cho người mua và bán kèm một số phụ kiện khác.
+ Nhân viên một hệ thống bán lẻ cho biết điều này không vi phạm quy định của Apple và cũng chỉ áp dụng với màu mới là titan sa mạc, vừa giúp tăng doanh thu, vừa cân bằng nhu cầu của người mua, thúc đẩy họ chọn các phiên bản màu khác.
+ Khi mua combo, thực tế số tiền phải chi thấp hơn từ vài trăm nghìn đến khoảng một triệu đồng so với mua lẻ sản phẩm, dịch vụ.
+ Với người có nhu cầu bảo hành dài hoặc thích dùng phụ kiện, đây là lựa chọn phù hợp. "Khoảng 25% người mua 16 Pro Max chọn combo", đại diện một cửa hàng tiết lộ.
+ Nếu không mua combo và muốn sở hữu máy sớm, người dùng cũng có thể tìm đến các cửa hàng nhỏ lẻ.
+ Một số cam kết có máy trong ngày đầu, nhưng số tiền bỏ ra cũng chênh lệch 2-3 triệu đồng so với giá niêm yết.
+ Tình trạng "bia kèm lạc" từng diễn ra và do chính Apple triển khai.
+ Năm 2022, khi iPhone 14 Pro Max khan hàng, một số đại lý cho biết nếu muốn được phân phối điện thoại, họ phải nhập thêm cả MacBook, iPad, sau đó buộc phải giảm giá cho sản phẩm đi kèm để xả hàng.
+ Bộ bốn iPhone 16 ra mắt ngày 9/9 (rạng sáng 10/9 giờ Hà Nội) với kiểu dáng và thông số không khác biệt thông tin rò rỉ trước sự kiện.
+ Trong đó, iPhone 16 và 16 Plus thay đổi thiết kế camera, trang bị nút Action thay cho phím gạt chế độ âm lượng, camera chính nâng lên 48 megapixel.
+ Hai mẫu Pro có màn hình lớn hơn trước 0,2 inch, camera góc siêu rộng nâng độ phân giải lên 48 megapixel.
+ Cả bốn đều có nút chụp mới.
+ Apple trang bị chip A18 cho iPhone 16 tiêu chuẩn và A18 Pro cho iPhone 16 dòng Pro.
+ Tại Việt Nam, iPhone 16 có giá khởi điểm 23 triệu cho dung lượng 128 GB, còn 16 Pro Max từ 35 triệu đồng cho bộ nhớ 256 GB, cao nhất 47 triệu đồng cho bản 1 TB.
+ Sản phẩm chính hãng sẽ đến tay người dùng vào ngày 27/9.

@@ -1,16 +1,22 @@
-Thí nghiệm trên bộ xử lý Sycamore 67 qubit của Google cho thấy hoạt động tiến vào "pha nhiễu yếu", trong đó các tính toán đủ phức tạp để vượt qua siêu máy tính. Máy tính lượng tử có thể đánh bại những máy tính cổ điển nhanh nhất ở lĩnh vực chuyên môn, theo kết quả thí nghiệm đột phá. Nhóm nghiên cứu Google Quantum AI phát hiện có thể đạt được một "pha phức tạp và ổn định" với bộ xử lý lượng tử (QPU) có sẵn.
- Điều này có nghĩa khi máy tính lượng tử tiến vào pha nhiễu yếu này, chúng có thể thực hiện tính toán phức tạp nhanh hơn hiệu suất của các siêu máy tính nhanh nhất.
- Alexis Morvan, nhà nghiên cứu máy tính lượng tử ở Google, và cộng sự công bố phát hiện hôm 9/10 trên tạp chí Nature. "Chúng tôi tập trung vào phát triển ứng dụng thực tế dành cho máy tính lượng tử mà không thể tiến hành trên máy tính cổ điển", đại diện của Google Quantum AI, cho biết. "Nghiên cứu này là bước tiến quan trọng theo hướng đó.
- Thách thức tiếp theo của chúng tôi là chứng minh một ứng dụng có tác động trong thế giới thực".
- Bit lượng tử (qubit) trong QPU dựa vào nguyên lý của cơ học lượng tử để chạy những tính toán song song, trong khi bit máy tính cổ điển chỉ có thể xử lý dữ liệu theo trình tự.
- QPU càng có nhiều qubit, cỗ máy càng mạnh hơn.
- Do khả năng xử lý song song, tính toán đòi hỏi hàng nghìn năm để thực hiện bằng máy tính cổ điển có thể hoàn thành trong vài giây với máy tính lượng tử. Nhưng qubit hay bị nhiễu, có nghĩa chúng cực nhảy và dễ trục trặc khi chịu tác động, xấp xỉ ở tỷ lệ 1/100 qubit so với 1/1 tỷ tỷ bit.
- Ví dụ bao gồm tác động từ môi trường như thay đổi nhiệt độ, từ trường hoặc thậm chí bức xạ từ không gian.
- Tỷ lệ lỗi cao có nghĩa để đạt ưu thế lượng tử, các nhà nghiên cứu cần công nghệ sửa lỗi cực kỳ thành thạo hoặc máy tính lượng tử với hàng triệu qubit.
- Việc tăng kích thước máy tính lượng tử không hề dễ, số qubit lớn nhất trong một cỗ máy hiện nay chỉ ở mức khoảng 1.
-000.
- Thí nghiệm mới do các nhà khoa học Google thực hiện cho thấy máy tính lượng tử có thể chịu được mức độ nhiễu hiện nay và hoạt động tốt hơn máy tính cổ điển trong một số tính toán cụ thể.
- Tuy nhiên, việc sửa lỗi vẫn cần thiết khi tăng quy mô cỗ máy. Nhóm nghiên cứu sử dụng một phương pháp lấy mẫu ngẫu nhiên gọi là random circuit sampling (RCS) để kiểm tra độ tin cậy của mạng qubit siêu dẫn 2D, một trong những loại qubit phổ biến nhất cấu tạo từ kim loại siêu dẫn treo ở nhiệt độ gần với độ 0 tuyệt đối.
- RCS là thuocs đo hiệu suất của máy tính lượng tử so với siêu máy tính cổ điển. Kết quả thí nghiệm hé lộ qubit có thể chuyển đổi giữa pha đầu tiên và pha thứ hai gọi là "pha nhiễu yếu" thông qua kích hoạt một số điều kiện.
- Trong thí nghiệm trên chip Sycamore 67 qubit của Google, các nhà khoa học tăng độ nhiễu hoặc làm chậm sự lan rộng của tương quan lượng tử.
- Ở pha nhiễu yếu, quá trình tính toán đủ phức tạp để họ kết luận máy tính lượng tử có thể hoạt động tốt hơn máy tính cổ điển.
+Mỗi năm, thị trấn Nazaré lại trải qua mùa sóng lớn khi nước có thể cuộn lên cao tới 30 m.
+ Nazaré là một điểm nóng nổi tiếng với những cơn sóng quái vật ở vùng ven biển Bồ Đào Nha.
+ Mỗi năm, từ tháng 10 đến tháng 3, người ưa lướt sóng lớn đổ xô tới thị trấn đánh cá nhỏ khi kích thước cơn sóng đạt đỉnh hàng năm.
+ Trong suốt thời gian đó, nước biển thường cuộn lên cao ngang tòa nhà 5 tầng và đôi khi cao gấp đôi mức đó, theo Live Science.
+ Do có những cơn sóng khổng lồ, Nazaré là điểm đến dành cho vận động viên lướt sóng phá vỡ kỷ lục.
+ Vào tháng 4/2024, vận động viên lướt sóng người Đức Sebastian Steudtner lập kỷ lục thế giới mới dành cho cơn sóng cao nhất mà con người từng cưỡi khi chinh phục sóng cao 28.
+57 m.
+ Kỷ lục này vẫn chưa được chính thức thông qua nhưng nếu được xác nhận, Steudtner sẽ vượt qua kỷ lục thế giới hiện nay của chính anh là 26,21 m, thiết lập năm 2020.
+ Hai kỷ lục thế giới trước đó là 24,4 m và 23,8 m cũng diễn ra ở Nazaré vào năm 2017 và 2011.
+ Vào tháng 10/2010, vận động viên lướt sóng 18 tuổi người Bồ Đào Nha António Laureano cưỡi một cơn sóng ở Nazaré mà sau đó giới nghiên cứu ước tính cao tới 30,9 m.
+ Tuy nhiên, Liên đoàn lướt sóng thế giới chưa từng công nhận kết quả đó do phương pháp các nhà khoa học sử dụng để tín toán độ cao cơn sóng.
+ Sóng ở Nazaré đạt tới kích thước ấn tượng như vậy do chúng hình thành bên trong hẻm Nazaré, hẻm núi dưới biển lớn nhất châu Âu, dài 210 km và sâu 4,8 km ở phía tây nam Nazaré thuộc Đại Tây Dương.
+ Nước trong hẻm di chuyển nhanh hơn nước ở nơi nông hơn, tạo ra sóng ở độ sâu lớn và cong về hướng Nazaré, theo Đài quan sát Trái Đất của NASA.
+ Khi chúng đến gần vùng ven biển, những cơn sóng lớn tiếp xúc với sóng tràn qua từ hướng tây bắc.
+ Quá trình va chạm dẫn tới sự ra đời của sóng lớn ngoại cỡ.
+ Nazaré thường xuyên có sóng lớn, nhưng đây không phải địa điểm mà cơn sóng lớn nhất từng được ghi nhận.
+ Danh hiệu đó thuộc về vịnh Lituya ở Alaska, từng sinh ra cơn sóng cao 524 m sau khi động đất gây sạt lở, dẫn tới đất đá rơi thẳng xuống vịnh vào tháng 7/1958.
+ Cơn sóng đó đã giết chết 5 người, san bằng cây cối trên những sườn dốc bao quanh vịnh.
+ Trong khi hẻm Nazaré giúp lý giải tại sao cơn sóng cao lớn xuất hiện ở vùng ven biển Bồ Đào Nha này, sóng khổng lồ cũng có thể xảy ra bất thình lình trên biển.
+ Sóng độc là sóng cao ít nhất gấp đôi so với vùng biển xung quanh.
+ Chúng khác với sóng thần ở chỗ không phải kết quả do nước bị dịch chuyển bởi động đất, sạt lở hoặc phun trào núi lửa.
+ Thay vào đó, nhóm nghiên cứu cho rằng sóng độc sinh ra từ những cơn sóng nhỏ hơn sáp nhập thành cơn sóng lớn, cả do gió mạnh ở mặt biển hoặc do thay đổi ở dòng hải lưu gây ra bởi bão.

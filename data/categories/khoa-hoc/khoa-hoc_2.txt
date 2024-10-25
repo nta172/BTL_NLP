@@ -1,18 +1,17 @@
-Thạc sĩ Trần Lê Trung Chánh, trường Bách khoa, Đại học Cần Thơ chế tạo máy gọt vỏ chanh tự động bước đầu dạng mô hình đạt 240 trái trong một giờ. Năm 2016, thạc sĩ Chánh cùng đoàn công tác Đại học Cần Thơ tìm hiểu nhu cầu ứng dụng, đổi mới công nghệ tại Hậu Giang.
- Anh nhận thấy, một số hộ gia đình tách gọt vỏ chanh bằng thủ công, hoặc máy bán tự động năng suất không cao.
- Trên thị trường khi đó có nhiều máy tách vỏ chanh tự động, song đa số khi sử dụng cần phải thao tác đặt lần lượt từng trái vào khu vực gọt hoặc khu tiếp nguyên liệu khiến lãng phí công sức, thời gian cho người lao động, tính tự động hóa chưa cao.
- Từ thực tế này, thạc sĩ Chánh đặt mục tiêu chế tạo máy gọt vỏ chanh tự động hoàn toàn. Người quản lý chỉ cần đưa nhiều trái chanh vào khu vực tiếp liệu một lần, sau đó hệ thống tự động định vị từng trái chanh và đưa đến dao gọt.
- Sau hơn 1 năm nghiên cứu, tác giả chế tạo thành công máy gọt vỏ chanh tự động với cơ cấu gồm 5 bộ phận chính: bộ phận cấp thô, định hướng, ghim, xoay tròn và dao gọt vỏ. Khi khởi động máy, quả chanh được đưa vào khu vực chứa liệu và rơi vào phễu có trục xoắn vận chuyển.
- Từng trái chanh được đưa đến vị trí cơ cấu con lăn li tâm xoay định vị.
- Tiếp đến đầu ghim sẽ giữ và xoay 90 độ để quả chanh thẳng đứng. Lúc này đầu ghim phía đối diện hạ xuống giữ đầu còn lại của quả chanh và xoay. Khi đó, dao gọt tiến đến vị trí quả chanh đang xoay thực hiện thao tác gọt vỏ theo hướng từ dưới lên đi dạng cung tròn đến hết bề mặt trái chanh.
- Sau khi hoàn thành, các kim xoay dừng quay và dao gọt ngừng, kết thúc quá trình gọt vỏ, lặp lại chu trình với trái tiếp theo. Kết quả thử nghiệm cho thấy, máy đạt hiệu suất gọt trung bình 85% bề mặt vỏ chanh, năng suất 240 trái mỗi giờ, tương đương 24 kg vỏ.
- Theo thạc sĩ Chánh độ sạch vỏ phụ thuộc vào độ sâu gọt và độ cắt sợi (chiều rộng vỏ sau khi cắt) ra khỏi trái.
- Tác giả đánh giá độ sâu gọt trung bình 1,86 mm và độ cắt sợi trung bình 3,1mm là tối ưu nhất.
- Sản phẩm anh nghiên cứu hiện ở phiên bản đầu nên năng suất còn thấp, độ sạch vỏ chưa đạt tuyệt đối.
- Hiện máy có thể gọt vỏ chanh loại kích thước vừa trở lên.
- Tác giả cho biết thời gian tới sẽ cải tiến các cơ cấu có thể đáp ứng mọi kích thước quả chanh, giúp khai thác tối đa công suất gọt các loại chanh hiện có. Máy sẽ được thiết kế bộ phận chứa vỏ và trái sau khi gọt.
- Anh cũng dự kiến phát triển thêm máy gọt vỏ dứa dựa trên cơ chế máy tách vỏ chanh.
- Ông Hưng Trần, chuyên gia thiết kế chế tạo máy, đánh giá sản phẩm dù không mới, nhưng có tính ứng dụng phục vụ cơ giới hóa trong chế biến các sản phẩm nông nghiệp, giải phóng sức lao động.
- Tuy nhiên, ông cho rằng máy đang ở dạng mô hình, năng suất thấp. Ngoài ra các cơ cấu định vị quả và đầu mũi kim cố định chanh hoạt động sai số cao.
- Ông cho rằng, đầu kim cố định quả chanh phải có độ chắc chắn để khi quay tốc độ cao không ảnh hưởng quá trình gọt vỏ và quả không bị văng ra ngoài. "Tác giả cần tối ưu hóa gia công cơ khí máy bằng thiết kế các bộ phận có độ chắc chắn, bền bỉ và hoạt động chính xác.
- Điều này giúp máy làm việc liên tục mà không gặp lỗi, đạt độ sạch vỏ cao", ông nói.
+Những thợ mỏ khai thác đồng ở dãy núi Carpathian có khả năng đã phát minh bánh xe để vận chuyển quặng dễ dàng hơn.
+ Bằng chứng khảo cổ về bánh xe và xe có bánh xuất hiện nhiều trong thời Đồ Đồng (khoảng năm 5000 - 3000 trước Công nguyên) trên khắp châu Âu, châu Á, Bắc Phi, bao gồm các cảnh chiến đấu vẽ trên tường, bánh xe thu nhỏ, đồ chơi trẻ em, xe mai táng, thậm chí các văn bản cổ xưa.
+ Nhưng vì bánh xe phổ biến quá nhanh nên giới khoa học không rõ chính xác nó được phát minh đầu tiên ở đâu và khi nào, hay được phát minh độc lập ở những địa điểm và thời gian khác nhau.
+ Trong nghiên cứu công bố trên tạp chí Royal Society Open Science hôm 23/10, nhà sử học Richard Bulliet, giáo sư tại Đại học Columbia, cùng đồng nghiệp trình bày về cách mà bánh xe có thể đã phát triển.
+ Bulliet cho rằng bánh xe được phát minh ở dãy núi Carpathian, châu Âu, vào khoảng năm 4000 - 3500 trước Công nguyên và từ đó lan rộng theo nhiều hướng.
+ Khoảng năm 4000 trước Công nguyên, quặng đồng trở nên khó tìm hơn, đòi hỏi thợ phải đi sâu vào mỏ và kéo những toa xe chứa quặng trở ra.
+ Các mẫu toa xe cuối thời Đồ Đồng được tìm thấy ở khu vực Carpathian có hình chữ nhật với các mặt hình thang - tương tự xe khai thác mỏ ngày nay.
+ Với kiến thức về hệ thống bánh xe cổ đại dựa trên bằng chứng khảo cổ, nhóm nghiên cứu sử dụng cơ học tính toán và khoa học thiết kế để tìm hiểu cách người xưa biến bộ trục lăn đơn giản thành hệ thống bánh xe và trục.
+ Do cần vận chuyển giỏ hoặc thùng nặng, người xưa có thể đã đặt các trục lăn dọc theo một con đường, sau đó chuyển trục lăn phía sau ra phía trước khi cần.
+ Nhóm nghiên cứu cho rằng cần 3 cải tiến để phát triển bánh xe.
+ Cải tiến đầu tiên - trục lăn có rãnh - cho phép thùng nằm trên trục lăn và di chuyển tiến lùi, không cần mọi người phải đi vòng quanh để thay trục lăn.
+ Điều này giúp thợ đẩy toa xe lớn hơn vào mỏ.
+ Cải tiến thứ hai là một bộ bánh xe gắn cố định với trục, giúp toa xe có gầm cao hơn để vượt qua sỏi đá và vật cản khác trong hầm mỏ.
+ Cải tiến thứ ba, bánh xe chuyển động độc lập với trục, có thể xuất hiện sau đó khoảng 500 năm, giúp tăng tính cơ động.
+ Tuy nhiên, nhóm nghiên cứu lưu ý rằng bánh xe vẫn không ngừng phát triển.
+ Ví dụ, phát minh ổ bi tỏa tròn năm 1869 đã mang đến những tiến bộ đáng kể trong ngành công nghiệp ôtô và máy móc thế kỷ 20.
+ Dù giúp giải thích cách bánh xe được phát minh ở châu Âu và từ đó lan rộng, nghiên cứu mới có thể không phải nghiên cứu cuối cùng về đề tài này. "Tôi nghĩ vẫn có khả năng nhiều nền văn minh đã tự phát minh bánh xe một cách độc lập", kỹ sư hàng không vũ trụ Kai James tại Viện Công nghệ Georgia, đồng tác giả nghiên cứu mới, nhận định.

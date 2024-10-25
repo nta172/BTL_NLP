@@ -1,22 +1,44 @@
-Một tuần sau khi được thương mại hóa, nhiều người cho biết tốc độ 5G thất thường, chênh lệch đáng kể khi đo ở các địa điểm khác nhau.
- Thử nghiệm của VnExpress tại một số khu vực ở Hà Nội, TP HCM với ứng dụng như i-Speed, Ookla Speedtest cũng cho thấy mạng 5G có lúc đạt hơn 700 Mbps, nhưng cách đó vài chục mét có thể xuống dưới 100 Mbps.
- Theo chuyên gia phân tích Affandy Johan của Ookla - công ty phát triển công cụ Speedtest, "đây là giai đoạn rất sớm của 5G tại Việt Nam", vì vậy người dùng sẽ gặp tình trạng tốc độ và tín hiệu kém ổn định, cần thời gian để chất lượng đồng đều như 4G. Một số yếu tố chính có thể ảnh hưởng đến kết quả đo tốc độ mạng là khoảng cách đến trạm phát sóng, vật cản và số lượng thiết bị kết nối vào một trạm.
- Theo ông Johan, nhà mạng khi triển khai 5G có xu hướng tập trung tại khu vực đô thị, đông người. Khi số lượng người dùng không nhiều, một số trạm thu phát sóng "dư thừa dung lượng", dẫn đến tốc độ truy cập rất cao.
- Hạn chế của giai đoạn đầu triển khai là số lượng trạm ít, vùng phủ sóng không đều, hoặc chịu ảnh hưởng khi ở nơi đông người hoặc trong nhà. Ngoài ra, 5G của Viettel khai thác trên tần số tầm trung 2,6 GHz, còn 4G là 1,8 GHz.
- Theo lý thuyết, tần số càng cao suy hao càng mạnh, độ phủ của một trạm 5G với tần số trên có thể thấp hơn 15-20% so với trạm 4G hiện nay.
- Từ nguyên nhân trên, nhà phân tích Ookla cho rằng người dùng sẽ cảm thấy trải nghiệm không đồng đều, tốc độ nhiều khu vực có thể bị hạ xuống ngang 4G.
- Tuy nhiên, ông đánh giá mạng thế hệ mới đang mang đến nhiều tín hiệu tích cực tại Việt Nam.
- Thống kê của công cụ Speedtest cho thấy mạng 5G trong quý III/2024 tại Việt Nam cho tốc độ trung bình hơn 300 Mbps, gấp gần sáu lần tốc độ trung bình của 4G trong nước.
- Đây là giai đoạn các nhà mạng chuẩn bị thương mại hóa công nghệ kết nối mới và nhiều người có thể bắt sóng, dùng thử. Khi nào mạng 5G có thể phủ rộng?
- Thời gian phủ rộng 5G sẽ phụ thuộc vào chiến lược của từng nhà mạng, cũng như tần số mà họ đấu giá thành công.
- Theo một chuyên gia viễn thông có nhiều năm theo dõi thị trường Việt Nam, khi Viettel triển khai mạng 4G vào năm 2017, số lượng thiết bị đầu cuối rất phổ biến. Nhà mạng này có 36 nghìn trạm 4G, phủ rộng trên 90% dân số trên toàn quốc ngay trong giai đoạn ra mắt.
- Với mạng 5G, Viettel cho biết đã lắp đặt 6.
-500 trạm trên cả nước, mức rất nhỏ so với hàng chục nghìn trạm 4G.
- Trong khi đó, Vinaphone và MobiFone chưa chính thức triển khai nên chưa công bố số lượng trạm. Lượng thiết bị đầu cuối hạn chế, khiến nhà mạng có xu hướng phủ sóng trước ở Hà Nội, TP HCM và thủ phủ của các tỉnh thành, hoặc khu công nghiệp, khu du lịch - những nơi 5G có tiềm năng kinh doanh, mang lại giá trị lớn hơn cho người dùng, khi tận dụng thế mạnh độ trễ gần bằng 0 và hỗ trợ số lượng thiết bị lớn.
- Đây cũng là tình trạng chung của thế giới.
- Theo báo cáo của Liên minh Viễn thông quốc tế ITU năm 2023, bốn năm kể từ khi thương mại hóa, mạng 5G mới phủ đến 40% dân số thế giới, chưa được một nửa mức 90% của 4G.
- Sự phân bổ cũng không đồng đều khi châu Âu có 68% dân số được phủ sóng, châu Mỹ 59% và châu Á - Thái Bình Dương là 42%.
- Theo nhà phân tích của Ookla, số trạm 5G cần để phủ rộng sẽ phụ thuộc vào tần số sử dụng tại Việt Nam. Nếu tần số thấp, độ phủ sóng sẽ rộng hơn và cần ít trạm hơn. "Ở hầu hết thị trường triển khai 5G, nhà mạng thường kết hợp băng tần thấp và băng tần trung để cân bằng hiệu suất tốc độ cao - phạm vi phủ sóng", ông Johan cho biết.
- Tại Việt Nam, băng tần thấp 700 MHz vẫn đang trong quá trình chuẩn bị đấu giá.
- Tại cuộc họp tuần trước, Bộ Thông tin và Truyền thông cho biết sẽ có phương án tổ chức đấu giá sau khi Nghị định quy định chi tiết và biện pháp thi hành một số điều Luật Viễn thông 2023 được ban hành và có hiệu lực.
- Chuyên gia của Ookla cũng lưu ý khi mạng 5G phủ rộng, tốc độ tối đa có thể sẽ giảm do số lượng người dùng gia tăng, hoặc khi nhà mạng khai thác các băng tần thấp, đánh đổi tốc độ lấy độ phủ. Ngoài ra, ông nhấn mạnh giá cước và việc phổ cập điện thoại 5G cũng ảnh hưởng đến quá trình. "Khả năng chi trả và sự sẵn có của smartphone hỗ trợ 5G là yếu tố quan trọng thúc đẩy tăng trưởng thuê bao. Khuyến khích người dùng nâng cấp thiết bị hỗ trợ 5G là bước đầu tiên cần làm trước khi cung cấp dịch vụ cũng như gia tăng hiệu suất mạng 5G", ông Johan nói.
+Gmail, Facebook hay trò chơi World of Warcraft ra mắt năm 2004 và vẫn rất phổ biến với người dùng hiện nay.
+ Theo The Verge, theo nhiều cách, thế giới số hiện nay như thể được tạo ra cách đây 20 năm, bởi khi đó hàng loạt sản phẩm, sự kiện xuất hiện, gây tiếng vang toàn cầu và đa số vẫn đang tồn tại.
+ Vào tháng 2/2004, Mark Zuckerberg, 19 tuổi, công khai một trang web có tên thefacebook.com, ban đầu hướng đến sinh viên Đại học Harvard.
+ Khi đó, Internet còn khá sơ khai, các sản phẩm chủ yếu được tạo để tìm kiếm nội dung thay vì tập trung xây dựng cho từng cá nhân.
+ Sau 24 tiếng "chào đời", hơn 1.
+000 sinh viên đã đăng ký tài khoản trên website.
+ Trong khuôn viên trường, nhiều người bàn tán về mạng xã hội mới.
+ Đến cuối 2004, hàng chục trường đại học khác đã tham gia và Facebook thu hút một triệu người dùng hàng tháng.
+ Dù đã xuất hiện trước đó, các mạng xã hội khác khi đó không nắm bắt được nhu cầu của người dùng cho đến khi sản phẩm của Mark Zuckerberg ra đời.
+ Với tính năng tìm kiếm người dùng và xem những thứ họ chọn chia sẻ về bản thân, cũng như yêu cầu kết bạn hoặc "chọc ghẹo", Facebook nhanh chóng được hưởng ứng.
+ Những năm tiếp theo, Facebook liên tục bổ sung tính năng, đặc biệt là News Feed năm 2006, cho phép theo dõi bài đăng của bạn bè.
+ Năm 2023, nền tảng vượt ba tỷ người dùng hàng tháng.
+ Trước 2004, mẫu iPod rẻ nhất có giá khởi điểm 299 USD.
+ Khi đó, trên các diễn đàn, nhiều người chia sẻ mong muốn về một thiết bị Apple rẻ và nhỏ hơn.
+ Trên sân khấu Macworld vào tháng 1/2004, nhà đồng sáng lập Steve Jobs tuyên bố iPod đạt 31% thị phần máy nghe nhạc MP3, sau đó ông giới thiệu chiếc iPod Mini giá 249 USD.
+ Ông gọi đây là lời hồi đáp của công ty trước nhu cầu mua máy MP3 gọn nhẹ và giá phải chăng.
+ Dù giá vẫn cao so với các đối thủ, iPod Mini được đánh giá đáng tiền hơn nhờ hàng loạt tính năng mới.
+ Ngoài khả năng nghe nhạc chất lượng cao, máy hỗ trợ đài FM và ghi âm các chương trình của đài.
+ Thiết bị cũng tương thích đa dạng phụ kiện, ổ cứng 4 GB có thể lưu 1.
+000 bài hát, nhiều tùy chọn màu sắc và khả năng chống trầy xước tốt hơn. iPod Mini có thiết kế bánh xe điều khiển dạng cảm ứng mới dạng tròn kèm nhiều nút điều khiển.
+ Chiếc iPod này được đánh giá là cầu nối giữa các mẫu cỡ lớn khi đó với các phiên bản Nano cỡ nhỏ về sau.
+ Dù vậy, khi thời đại smartphone bùng nổ, thiết bị nghe nhạc dần biến mất.
+ Apple "tạm biệt" hoàn toàn thương hiệu iPod vào năm 2022.
+ Trước khi Gmail ra đời, người dùng phải sử dụng email thông qua dịch vụ trả phí, hoặc bản miễn phí với dung lượng lưu trữ ở mức MB.
+ Do đó, khi Google ra mắt Gmail vào ngày Cá tháng Tư (1/4/2004) với dung lượng lưu trữ miễn phí đến 1 GB, nó được đánh giá "mang tính cách mạng", thậm chí nhiều người không tin và tưởng là trò lừa.
+ Ngày nay, Gmail cung cấp 15 GB miễn phí.
+ Bên cạnh đó, Gmail cũng trang bị nhiều tính năng vượt xa các sản phẩm khác khi ra mắt.
+ Khi gửi thư, máy chủ của Google tự động quét email cho nhiều mục đích như lọc thư rác và phần mềm độc hại, thêm quảng cáo theo ngữ cảnh.
+ Lượng người dùng Gmail tăng nhanh chóng sau khi trình làng.
+ Năm 2016, nền tảng có một tỷ người dùng hoạt động, cũng là ứng dụng đầu tiên trên Google Play đạt một tỷ lượt cài đặt trên thiết bị Android.
+ Đến 2019, dịch vụ này có 1,5 tỷ người dùng toàn cầu, là dịch vụ email lớn nhất thế giới.
+ World of Warcraft (WoW) là trò chơi trực tuyến nhập vai nhiều người chơi (MMORPG) do Activision Blizzard - hãng game được Microsoft mua lại với giá 68,7 tỷ USD năm 2021 - phát hành cuối 2004.
+ Đây được xem là một trong số ít game trả phí tồn tại lâu đời nhất hiện nay.
+ WoW lấy cảm hứng từ bản offline WarCraft, ra mắt năm 1994, kể về cuộc chiến ác liệt giữa các chủng tộc trên lục địa Azeroth huyền bí.
+ Game hiện có 7 triệu người đăng ký với mức phí 15 USD/tháng.
+ Angela Washko, họa sĩ vẽ một số nhân vật trong WoW, cho biết sức hút của game đến từ khả năng "mở rộng khái niệm về không gian công cộng". "Tôi thấy mối liên kết được tạo ra giữa các thành viên trong bang hội vượt ra ngoài không gian trò chơi, khi những người chơi bay khắp đất nước để gặp nhau", Washko nói. "Mức độ đắm chìm và xóa nhòa ranh giới giữa cuộc sống thực và thế giới ảo - một bước ngoặt thực sự trong văn hóa sử dụng máy tính".
+ Ngày 13/3/2004, nhiều người tập trung tại sa mạc Mojave để xem cuộc đua đặc biệt với giải thưởng một triệu USD: DARPA Grand Challenge - cuộc đua xe robot đầu tiên trên thế giới.
+ Trên đường đua đầy đất đá, 15 xe bắt đầu lăn bánh, trên thân trang bị nhiều cảm biến cùng decal từng đội.
+ Kết quả, không có xe nào đến vạch đích: Một chiếc đâm vào bờ đất và lật nhào; chiếc khác bị kẹt trên đá; thậm chí có chiếc bị hỏng ở vạch xuất phát.
+ Nhưng với những người tham gia, kết quả trận đấu không quan trọng.
+ Điểm họ hài lòng là lần đầu tiên ý tưởng về một "phương tiện tự hành" bắt đầu hình thành, đặt nền móng cho loại phương tiện tương tự sau này. "Nếu nhìn vào bức tranh toàn cảnh của tự động hóa, tốt hơn là không ai chiến thắng", William Whittaker, trưởng nhóm Red Team của Đại học Carnegie Mellon, nói tại cuộc thi sau đó.
+ Sự kiện DARPA Grand Challenge không phải "sản phẩm công nghệ", nhưng sau cuộc đua đầu tiên, hàng loạt dự án robot tự hành ra đời với nhiều nhân tài nổi lên.
+ Chẳng hạn, Sebastian Thrun và Chris Urmson hiện lãnh đạo dự án xe tự lái của Google.
+ Những người tham gia khác cũng lập công ty riêng về xe tự hành, hoặc sản xuất phương tiện tự động cho quân đội Mỹ.

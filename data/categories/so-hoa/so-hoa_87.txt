@@ -1,18 +1,29 @@
-Xã hội bao trùm số cho phép mọi người tiếp cận và hưởng lợi từ công nghệ số, nhưng việc triển khai tại Việt Nam còn nhiều thách thức.
- Bao trùm số là khái niệm được đưa ra từ nhiều năm trên thế giới, mô tả việc đưa công nghệ số bao trùm lên toàn xã hội, để bất cứ ai cũng có cơ hội tiếp cận và hưởng lợi.
- Vấn đề này được các cơ quan quản lý, chuyên gia trong và ngoài nước thảo luận tại Diễn đàn đa phương MSF 2024, do Samsung cùng Bộ Kế hoạch và Đầu tư tổ chức, ngày 18/10 ở Hà Nội.
- Theo Chiến lược quốc gia phát triển kinh tế số và xã hội số, đến 2030, Việt Nam sẽ phổ cập kỹ năng số cho mọi tầng lớp trong xã hội với tỷ lệ người dân trong độ tuổi lao động được đào tạo kỹ năng số cơ bản đạt trên 70%.
- Theo Thứ trưởng Kế hoạch và Đầu tư Trần Quốc Phương, đây là thách thức rất lớn, nhất là với nhóm người dễ bị tổn thương đang đứng trước nguy cơ tụt hậu hơn về kỹ năng số trong đời sống và công việc. "Vẫn còn một bộ phận lớn trong xã hội chưa tiếp cận công nghệ số như người già, người khuyết tật, trẻ em ở vùng sâu, vùng xa hay những người có hoàn cảnh khó khăn.
- Họ vẫn phải đối mặt với nhiều rào cản trong việc sử dụng công nghệ số", ông Phương nói.
- Ông Patrick Haverman, Phó đại diện thường trú Chương trình Phát triển của Liên hợp quốc (UNDP) tại Việt Nam, lấy ví dụ về hiện tượng livestream TikTok, trong đó có buổi tạo ra doanh thu 75 tỷ đồng, cho thấy người Việt đã biết cách sử dụng công nghệ để thúc đẩy kinh tế.
- Ông cũng đánh giá Việt Nam là thị trường Internet năng động, với 80% dân số đã kết nối mạng.
- Tuy nhiên, ông cho rằng những "cơn sốt" nói trên đang đặt ra câu hỏi về tầm quan trọng của bao trùm số, khi "một số người hưởng lợi rất nhiều từ các nền tảng mới, những người khác có nguy cơ bị bỏ lại phía sau".
- Theo PGS.
- TS. Lê Hoàng Sơn từ Đại học Quốc gia Hà Nội, thách thức trong việc xây dựng hệ sinh thái số bao trùm ở Việt Nam đến từ nhiều yếu tố, trong đó có thể chia thành hai nhóm chính, gồm sự chêch lệch trong khả năng tiếp cận công nghệ, và rào cản với nhóm yếu thế.
- Các thách thức này do sự chênh lệch về hạ tầng kỹ thuật số giữa thành thị và nông thôn; chênh lệch về kinh tế khiến người thu nhập thấp khó sở hữu thiết bị thông minh, máy tính.
- Rào cản về kỹ năng, ngôn ngữ, hạ tầng hỗ trợ cũng khiến nhóm người yếu thế như người già, người dân tộc thiểu số, người khuyết tật khó tiếp cận và sử dụng công nghệ, dẫn đến nguy cơ bị bỏ lại phía sau trong quá trình chuyển đổi số. Khi đưa người yếu thế lên môi trường số, một trong những thách thức là tính an toàn, quyền riêng tư, đặc biệt trong bối cảnh Internet luôn tiềm ẩn nhiều mối nguy. "Khi chúng ta đón nhận những biên giới số mới, việc cần làm là đảm bảo khung pháp lý và giáo dục người tiêu dùng đi trước một bước", ông Haverman nói.
- Phó đại diện thường trú UNDP gợi ý ba vấn đề Việt Nam cần tập trung giải quyết, thứ nhất là đầu tư thúc đẩy công nghệ hỗ trợ trở nên dễ tiếp cận trên quy mô lớn.
- Tiếp đến, cần tăng cường biện pháp an ninh mạng và bảo vệ dữ liệu để xây dựng niềm tin vào các hệ thống số.
- Thứ ba, liên tục đánh giá tác động của chuyển đổi số, không chỉ về mặt tăng trưởng kinh tế mà còn về sự tác động đến những người yếu thế.
- Thứ trưởng Trần Quốc Phương đề cập đến việc cần thiết kế các khóa đào tạo phù hợp về kỹ năng số cho nhóm người yếu thế, giúp họ học tập và tự tin hơn trong việc tham gia vào thị trường lao động. "Cần khuyến khích các công ty công nghệ, startup tạo ra sản phẩm phục vụ cho người khuyết tật và nhóm người yếu thế, như ứng dụng giao tiếp, nền tảng học trực tuyến, hay công cụ hỗ trợ di chuyển", ông Phương nói.
- Tại sự kiện, Trung tâm đổi mới sáng tạo quốc gia NIC cùng Samsung và Tổng Liên đoàn Lao động Việt Nam cũng ra mắt Sáng kiến Công nghệ Bao trùm (InclusiveTech Initiative), với một website chuyên dụng, chia sẻ tri thức giữa các bên liên quan, các cá nhân, tổ chức có tâm huyết với công nghệ bao trùm. "Giá trị đích thực của công nghệ nằm ở khả năng trao quyền, truyền cảm hứng, kết nối con người và hiện thực hóa ước mơ của mọi người, không phân biệt xuất thân hay vị trí địa lý", ông Choi Joo Ho, Tổng giám đốc Samsung Việt Nam, nói.
+iPhone thế hệ mới nhất, đồng hồ thông minh, máy giặt là những thiết bị công nghệ tại FPT Shop phù hợp để làm quà cho phái đẹp dịp 20/10.
+ Đồ công nghệ hiện nay trở thành lựa chọn quà tặng của nhiều người trong các dịp đặc biệt.
+ Các thiết bị hiện đại ngày càng hoàn thiện về thiết kế, trở nên thông minh, đáp ứng các nhu cầu cá nhân hóa.
+ Dựa trên nhu cầu, sở thích của từng nhóm phụ nữ, chuyên gia công nghệ từ FPT Shop đưa ra gợi ý về những sản phẩm phù hợp để làm quà trong dịp 20/10.
+ Trong đó, iPhone 16 Pro 256 GB được đánh giá phù hợp làm quà cho vợ hoặc bạn gái. iPhone 16 Pro duy trì thiết kế cao cấp, nâng kích thước màn hình lên 6,3 inch.
+ Máy dùng màn hình LTPO Super Retina XDR OLED, tần số quét 120 Hz, hỗ trợ HDR10, Dolby Vision.
+ Viền màn hình mỏng giúp tăng không gian hiển thị, nâng độ cao cấp của sản phẩm.
+ Apple vẫn giữ trang bị Dynamic Island ngày càng được nhiều ứng dụng hỗ trợ.
+ Sản phẩm có camera zoom quang 5x tương tự Pro Max đồng thời được nâng cấp camera góc siêu rộng 48 megapixel và khả năng quay video 4K tốc độ 120 khung hình/giây.
+ Nút chụp ảnh chuyên dụng giúp đáp ứng nhu cầu check-in của phái đẹp.
+ Sản phẩm bán tại FPT Shop với giá 30,99 triệu đồng, kèm ưu đãi 3 triệu đồng và đặc quyền một đổi một trong 24 tháng.
+ Với gia đình có con gái nhỏ, Masstel Tab 10.
+1 Pro Kidzone 4G phiên bản 4 - 64 GB là lựa chọn phù hợp.
+ Sản phẩm có màn hình lớn 10,1 inch, hỗ trợ 4G cùng bộ nhớ 64 GB, mang lại trải nghiệm học tập và giải trí tốt đồng thời đảm bảo an toàn cho trẻ nhỏ nhờ chế độ Kidzone đang được FPT Shop ưu đãi với giá 2,69 triệu đồng.
+ Người dùng cũng có thể mua máy massage cổ Philips PP3306 để làm quà cho mẹ.
+ Sản phẩm có thiết kế nhỏ gọn, tiện dụng, giúp massgae giảm đau mỏi cơ cổ, vai và lưng.
+ Công nghệ massage cùng chế độ rung nhẹ nhàng giúp người lớn tuổi thư giãn, đảm bảo chăm sóc sức khỏe.
+ Philips PP3306 có giá 1,59 triệu đồng.
+ Huawei Watch GT 5 41mm cũng là lựa chọn cho những bạn nữ năng động.
+ Sản phẩm có thiết kế hướng đến sự thanh lịch với mặt tròn, nhiều tùy chọn về chất liệu và màu sắc.
+ Đồng hồ hỗ trợ nhiều tính năng thể thao, chăm sóc sức khỏe.
+ Với nữ giới, Huawei Watch GT 5 41mm có thể căn cứ vào dữ liệu sinh lý chuyên sâu để đưa ra dự đoán trước về thời điểm diễn ra chu kỳ hàng tháng, thời gian rụng trứng và thời điểm dễ thụ thai.
+ Huawei cũng nghiên cứu và phát triển ứng dụng Sức khỏe cảm xúc nhằm giúp người dùng nắm được tình trạng cảm xúc trong thời gian thực.
+ Chỉ cần nhấc cổ tay lên, chú gấu trúc trên màn hình sẽ diễn đạt chính xác cảm xúc qua biểu cảm trên gương mặt.
+ Sản phẩm có giá ưu đãi 4,99 triệu đồng tặng kèm tai nghe Huawei Freebuds 5i khi bản dây silicon màu xanh dương.
+ Máy giặt cửa trước Samsung Inverter 9 kg với model WW90T634DLE/SV phù hợp làm quà tặng vợ.
+ Sản phẩm có nhiều tính năng giặt sạch sâu kèm tiết kiệm điện giúp người dùng giảm bớt áp lực việc nhà.
+ Sản phẩm được ưu đãi đến 47%, còn 6,99 triệu đồng.
+ FPT Shop triển khai chương trình "20/10 - Chọn quà chất cho nàng" giảm đến 10 triệu đồng đồng và tặng voucher giảm thêm đến 20% (áp dụng khi mua hàng online). gười dùng có thể truy cập vào website để tham khảo hoặc đến trực tiếp cửa hàng FPT Shop để được tư vấn và chọn lựa món quà công nghệ phù hợp.

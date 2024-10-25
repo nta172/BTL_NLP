@@ -1,16 +1,17 @@
-Chiếc iPhone 4s bị khóa 80.
-000 tiếng và chủ nhân của nó quyết định chờ, thay vì khôi phục cài đặt gốc vì tiếc video thú cưng trong máy.
- Tài khoản Inanna trên Douyin chia sẻ video dài 40 giây về quá trình mở khóa điện thoại iPhone sau 10 năm bị khóa và lập tức gây sốt trên các mạng xã hội Trung Quốc.
- Chiếc iPhone 4s được sử dụng vào năm 2015, nhưng sau khi Inanna mua smartphone mới, bố mẹ cô cố mở khóa điện thoại và nhập sai mã nhiều lần khiến nó bị khóa thời gian dài, theo ETtoday. "Màn hình khóa khi đó hiển thị thời gian chờ là 80.
-000 tiếng, tức khoảng 10 năm", cô nói.
- Dù rất sốc, Inanna quyết định không khôi phục cài đặt gốc điện thoại vì tiếc các video quay chú mèo đã qua đời lưu trữ trong máy.
- Sau gần 10 năm, Inanna chợt nhớ đến điện thoại cũ và mua cáp để sạc lại cho máy. iPhone 4s vẫn sử dụng cáp 30pin thay vì Lightning hay USB-C trên loạt iPhone 15, iPhone 16. Khi bật nguồn thành công, cô ngạc nhiên thấy thời gian chờ còn 288 phút. May mắn sau nhiều năm, cô vẫn nhớ mật khẩu và có thể truy cập bên trong.
- Quá phấn khích trước việc này, cô đã quay lại quá trình và tải lên Douyin. iPhone có tính năng bảo mật khi tăng dần thời gian chờ nếu nhập sai mã nhiều lần.
- Điện thoại quên mật khẩu bắt buộc phải khôi phục cài đặt gốc (mất toàn bộ dữ liệu bên trong) mới có thể tái sử dụng.
- Trong trường hợp quên tài khoản icloud đăng nhập bên trong, iPhone cũng bị vô hiệu hóa hoàn toàn.
- Tuy nhiên, nhiều người dùng trước đây phàn nàn khi thời gian chờ để mở khóa quá lâu, có người lên tới 50 năm.
- Đây là lý do Apple thay đổi cơ chế quản lý khóa màn hình gần đây.
- Trên hệ điều hành iOS 18, chủ nhân có thể nhập sai ba lần đầu, từ lần thứ tư thời gian chờ là một phút, sau đó tăng dần lên 5 phút, một tiếng...
- Sau 10 lần nhập sai, điện thoại sẽ bị khóa vĩnh viễn.
- Apple cho biết cách thức này nhằm duy trì quyền riêng tư và bảo mật của người dùng, đồng thời ngăn các hành vi ác ý trên điện thoại.
- Do đó, người dùng cũng được khuyên nên sao lưu dữ liệu thường xuyên để đề phòng các trường hợp xấu.
+iPhone 16 Pro màu vàng sa mạc khó đặt trước, trong khi sản phẩm chính hãng được bán sớm từ 27/9, khiến giới buôn điện thoại xách tay lo ngại.
+ Lê Hiếu, 27 tuổi, chủ một cửa hàng điện thoại ở Hà Nội, cho biết iPhone 16 năm nay được quan tâm không kém iPhone 15 khi mới ra mắt, tuy nhiên "bài học" từ năm ngoái khiến những người bán hàng xách tay như anh phải thận trọng. "Bán iPhone xách tay những ngày đầu mở bán như đánh bạc", anh nói.
+ Năm ngoái, nhiều cửa hàng phải bán lỗ một số phiên bản iPhone 15 Pro và 15 Pro Max màu xanh titan do đoán sai nhu cầu. "Màu xám titan được ưa chuộng nhưng không có hàng, nên chúng tôi chuyển sang nhập xanh titan nhưng không bán được", Lê Hiếu kể.
+ Năm nay, iPhone 16 Pro và 16 Pro Max vàng sa mạc thậm chí khó đặt hơn khi đã hết sau vài phút và những người bán hàng xách tay nhiều khả năng phải mua lại từ "chợ đen". iPhone xách tay những ngày đầu thường được nhập về từ các thị trường bán sớm gần Việt Nam như Singapore, Thái Lan.
+ Ngoài giá gốc của điện thoại, các cửa hàng mất thêm chi phí ăn ở, di chuyển, mua lại từ những người đặt sớm và một số phụ phí khác.
+ Do đó, giá những chiếc iPhone đầu tiên về Việt Nam cao vọt, nhưng giảm nhanh sau vài ngày. "Nếu nhập iPhone 16 trong ngày đầu nhưng 1-2 ngày sau mới bán được thì chắc chắn lỗ", Hoàng Tuấn, chủ cửa hàng bán đồ Apple ở phố Huế (Hà Nội), nói.
+ Bộ bốn iPhone 16 bắt đầu được giao hàng tại các thị trường như Mỹ, Australia, Singapore, Thái Lan, Nhật Bản từ ngày 20/9, trong khi sẽ lên kệ tại Việt Nam sau một tuần, vào 27/9. "Thời gian iPhone 16 xách tay 'sống được' có lẽ chỉ khoảng 10 ngày đầu tiên", Quân Ngô, chuyên kinh doanh hàng Apple ở quận 10, TP HCM, nhận định.
+ Thời gian có thể rút ngắn hơn nếu số lượng hàng chính hãng dồi dào. "Hàng xách tay chỉ trông chờ vào những người muốn sở hữu máy sớm vì yêu thích công nghệ, có điều kiện về tài chính hoặc mua làm quà tặng", anh nói.
+ Dự đoán có thể gặp rủi ro nhưng nhiều chủ cửa hàng cho biết vẫn sẽ nhập iPhone 16 xách tay bởi lợi nhuận cao trên mỗi máy nếu suôn sẻ.
+ Họ chọn mua tại Thái Lan do giá bán tốt nhất, bên cạnh thị trường truyền thống là Singapore.
+ Năm nay, một số cho biết sẽ chuyển hướng sang đảo Đài Loan bởi cửa hàng tại đây vắng khách và dễ mua hơn, trong khi vẫn có chuyến bay về trong ngày.
+ Đa số người mua iPhone 16 ngày đầu đều chọn bản Pro và Pro Max, với màu vàng sa mạc được quan tâm nhất.
+ Bộ bốn iPhone 16 ra mắt trong sự kiện It's Glowtime rạng sáng 10/9 với kiểu dáng và thông số không khác biệt thông tin rò rỉ trước sự kiện.
+ Trong đó, iPhone 16 và 16 Plus thay đổi thiết kế camera, trang bị nút Action thay cho phím gạt chế độ âm lượng, camera chính nâng lên 48 megapixel.
+ Hai mẫu Pro có màn hình lớn hơn trước 0,2 inch, camera góc siêu rộng nâng độ phân giải lên 48 megapixel.
+ Cả bốn đều có nút chụp mới.
+ Apple trang bị chip A18 cho iPhone 16 tiêu chuẩn và A18 Pro cho iPhone 16 dòng Pro.

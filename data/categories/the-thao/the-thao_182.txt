@@ -1,20 +1,75 @@
-Theo hãng thống kê hàng đầu thế giới Opta, Arsenal và Man Utd sẽ đứng giữa bảng điểm, còn Liverpool, Chelsea và Man City chiếm ba vị trí cao nhất ở Ngoại hạng Anh.
- Tiếp nối thành tích về nhì hai mùa liền trước, Arsenal đang thể hiện phong độ ấn tượng tại Ngoại hạng Anh 2024-2025.
- Họ là một trong hai CLB hiếm hoi còn lại bất bại qua bảy vòng, bên cạnh ĐKVĐ Man City.
- Cả hai cùng được 17 điểm, ít hơn chỉ một điểm so với đầu bảng Liverpool.
- Trong bối cảnh một loạt trụ cột như tiền vệ đội trưởng Martin Odegaard, Oleksandr Zinchenko, Ben White, Takehiro Tomiyasu và tân binh đáng được chờ đợi Mikel Merino chấn thương, đoàn quân của Mikel Arteta vẫn giành được những kết quả tích cực, như thắng Aston Villa, Tottenham và hòa Man City.
- Tuy nhiên, dựa trên các số liệu từ đầu mùa cùng các phương án giả lập, siêu máy tính của hãng thống kê Opta dự đoán Arsenal sẽ sa sút ở nhiều giai đoạn khác nhau trong mùa giải và kết thúc ở vị trí thứ tám. Liverpool sẽ giành chức vô địch đầu tiên kể từ mùa 2019-2020, còn Chelsea đứng thứ hai và Man City kết thúc bốn năm thống trị, xuống thứ ba. Mùa trước - mùa giải cuối cùng của triều đại Jurgen Klopp, Liverpool về thứ ba.
- Tuy nhiên, họ đang khởi đầu mạnh mẽ với tân HLV Arne Slot, khi thắng sáu qua bảy vòng, ghi 13 bàn và thủng lưới chỉ hai lần - ít nhất giải.
- Với phong độ bùng cháy của Cole Palmer, siêu máy tính cho rằng Chelsea sẽ ngày càng thăng hoa, tiến xa so với vị trí thứ sáu mùa trước.
- Hiện, đội bóng thành London đứng thứ tư với 14 điểm, kém bốn điểm so với Liverpool.
- Trong số các ông lớn, Man Utd tệ nhất, khi được dự đoán cán đích thứ 10, giảm hai bậc so với đáy được xác lập mùa trước.
- Viễn cảnh này có phần phù hợp với tình hình thực tế. "Quỷ Đỏ" chỉ đứng thứ 14 với tám điểm sau hai thắng, hai hòa và ba thua, ghi năm bàn nhưng lọt lưới tám lần.
- Số bàn thắng của Man Utd chỉ hơn đội áp chót Southampton (bốn bàn).
- Dự đoán còn cho rằng ba vé xuống hạng thuộc về hai tân binh Leicester City và Ipswich Town, bên cạnh bét bảng hiện tại Wolves.
- Tân binh duy nhất được kỳ vọng trụ hạng là Southampton.
- Theo giải thích của Opta, bảng dự đoán lần này được thực hiện theo nhiều bước.
- Ban đầu là phỏng đoán về số bàn thắng được ghi của mỗi đội trong mỗi trận đấu, dựa trên giá trị bàn thắng kỳ vọng (xG) của mỗi cú sút được thực hiện trong giai đoạn này.
- Tiếp theo, họ sử dụng số bàn thắng được mô phỏng đó để xác định kết quả trận đấu. Mỗi trận đấu sẽ được mô phỏng 10.
-000 lần.
- Điểm kỳ vọng cho mỗi đội trong mỗi trận đấu được tính toán dựa trên tỷ lệ mô phỏng mà họ thắng, hòa hoặc thua.
- Tuy nhiên, hãng cũng khẳng định đây không phải là khoa học chính xác vì dữ liệu bàn thắng kỳ vọng của họ không bao gồm các yếu tố như tâm lý, chiến thuật, bối cảnh thực tế...
+Các chân chạy châu Phi, gồm năm Ethiopia và ba Kenya, giữ tám trong 10 thành tích marathon nữ tốt nhất lịch sử.
+ Ruth Chepngetich áp đảo và về nhất Chicago Marathon 2024 với thông số 2 giờ 9 phút 56 giây, trở thành nữ VĐV đầu tiên đạt sub2:10 (dưới 2 giờ 10 phút).
+ Cô hoàn tất hat-trick danh hiệu Chicago, sau khi vô địch giải năm 2022 với 2 giờ 14 phút 18 giây và năm 2021 với 2 giờ 22 phút 31 giây.
+ Chepngetich là ngôi sao marathon của Kenya, khi là VĐV nữ đầu tiên đạt sub2:11 và 2:10, đồng thời giữ thành tích chạy half marathon tốt thứ ba trong lịch sử với 1 giờ 4 phút 2 giây.
+ Ngoài ba danh hiệu Chicago, runner 30 tuổi còn còn về nhì tại London 2020, vô địch marathon tại giải thế giới Doha 2019 và về nhất Istanbul Marathon 2017, 2018, Dubai Marathon 2019, Nagoya Women's Marathon 2022, 2023.
+ Ruth Chepngetich áp đảo và về nhất Chicago Marathon 2024 với thông số 2 giờ 9 phút 56 giây, trở thành nữ VĐV đầu tiên đạt sub2:10 (dưới 2 giờ 10 phút).
+ Cô hoàn tất hat-trick danh hiệu Chicago, sau khi vô địch giải năm 2022 với 2 giờ 14 phút 18 giây và năm 2021 với 2 giờ 22 phút 31 giây.
+ Chepngetich là ngôi sao marathon của Kenya, khi là VĐV nữ đầu tiên đạt sub2:11 và 2:10, đồng thời giữ thành tích chạy half marathon tốt thứ ba trong lịch sử với 1 giờ 4 phút 2 giây.
+ Ngoài ba danh hiệu Chicago, runner 30 tuổi còn còn về nhì tại London 2020, vô địch marathon tại giải thế giới Doha 2019 và về nhất Istanbul Marathon 2017, 2018, Dubai Marathon 2019, Nagoya Women's Marathon 2022, 2023.
+ Tigist Assefa giữ kỷ lục trước đó, khi đạt 2 giờ 11 phút 53 giây để vô địch Berlin Marathon 2023.
+ Khi đó, runner Ethiopia trở thành chân chạy nữ đầu tiên chạy marathon sub2:12 (dưới 2 giờ 12 phút).
+ Assefa hoàn tất cú đúp Berlin Marathon, sau khi vô địch giải năm 2022 với 2 giờ 15 phút 37 giây, ở ngay lần thứ hai chạy cự ly 42,195km.
+ Cô còn về nhì nội dung marathon tại London 2024 và Olympic Paris 2024.
+ Tigist Assefa giữ kỷ lục trước đó, khi đạt 2 giờ 11 phút 53 giây để vô địch Berlin Marathon 2023.
+ Khi đó, runner Ethiopia trở thành chân chạy nữ đầu tiên chạy marathon sub2:12 (dưới 2 giờ 12 phút).
+ Assefa hoàn tất cú đúp Berlin Marathon, sau khi vô địch giải năm 2022 với 2 giờ 15 phút 37 giây, ở ngay lần thứ hai chạy cự ly 42,195km.
+ Cô còn về nhì nội dung marathon tại London 2024 và Olympic Paris 2024.
+ Sifan Hassan giữ thành tích tốt thứ ba trong lịch sử, khi vô địch Chicago Marathon 2023 với 2 giờ 13 phút 44 giây - thành tích marathon nữ tốt thứ hai trong lịch sử khi đó.
+ Hassan phá sâu kỷ lục giải tới 40 giây, do runner Kenya Brigid Kosgei thiết lập tại Chicago 2019 với 2 giờ 14 phút 4 giây.
+ Chân chạy Hà Lan còn phá sâu kỷ lục châu Âu, là 2 giờ 15 phút 25 giây thuộc về cựu runner người Anh Paula Radcliffe tại London Marathon 2003.
+ Tại Paris 2024, Hassan còn làm nên lịch sử khi trở thành VĐV thứ hai giành huy chương 5.
+000m (đồng), 10.
+000m (đồng) và marathon (vàng) trong cùng một kỳ Thế vận hội.
+ Trong đó, runner Hà Lan phá kỷ lục marathon Olympic với 2 giờ 22 phút 55 giây, xô đổ cột mốc cũ 2 giờ 23 phút 7 giây do VĐV Ethiopia Tiki Gelana lập tại London 2012.
+ Sifan Hassan giữ thành tích tốt thứ ba trong lịch sử, khi vô địch Chicago Marathon 2023 với 2 giờ 13 phút 44 giây - thành tích marathon nữ tốt thứ hai trong lịch sử khi đó.
+ Hassan phá sâu kỷ lục giải tới 40 giây, do runner Kenya Brigid Kosgei thiết lập tại Chicago 2019 với 2 giờ 14 phút 4 giây.
+ Chân chạy Hà Lan còn phá sâu kỷ lục châu Âu, là 2 giờ 15 phút 25 giây thuộc về cựu runner người Anh Paula Radcliffe tại London Marathon 2003.
+ Tại Paris 2024, Hassan còn làm nên lịch sử khi trở thành VĐV thứ hai giành huy chương 5.
+000m (đồng), 10.
+000m (đồng) và marathon (vàng) trong cùng một kỳ Thế vận hội.
+ Trong đó, runner Hà Lan phá kỷ lục marathon Olympic với 2 giờ 22 phút 55 giây, xô đổ cột mốc cũ 2 giờ 23 phút 7 giây do VĐV Ethiopia Tiki Gelana lập tại London 2012.
+ Brigid Kosgei từng giữ kỷ lục thế giới, khi vô địch Chicago Marathon 2019 với 2 giờ 14 phút 4 giây.
+ Chỉ có 22 chân chạy marathon nam về đích trước Kosgei.
+ Thành tích của runner Kenya đủ để lập kỷ lục thế giới của nam nếu quay ngược thời gian về năm 1964.
+ Bên cạnh Chicago 2019, Kosgei còn vô địch Chicago 2018, London 2019, 2020, Tokyo 2021, về nhì Chicago 2017, London 2018 và giành HC bạc Olympic Tokyo 2020.
+ Brigid Kosgei từng giữ kỷ lục thế giới, khi vô địch Chicago Marathon 2019 với 2 giờ 14 phút 4 giây.
+ Chỉ có 22 chân chạy marathon nam về đích trước Kosgei.
+ Thành tích của runner Kenya đủ để lập kỷ lục thế giới của nam nếu quay ngược thời gian về năm 1964.
+ Bên cạnh Chicago 2019, Kosgei còn vô địch Chicago 2018, London 2019, 2020, Tokyo 2021, về nhì Chicago 2017, London 2018 và giành HC bạc Olympic Tokyo 2020.
+ Amane Beriso giữ thành tích tốt thứ năm với 2 giờ 14 phút 58 giây để vô địch Valencia 2022 ở ngay lần đầu thi marathon.
+ Tháng 4/2023, Beriso về nhì Boston Marathon với 2 giờ 21 phút 50 giây, kém Hellen Obiri 12 giây.
+ Cuối năm đó, runner Ethiopia sinh năm 1991 về thứ ba nội dung chạy 15km tại Montferland Run với 47 phút 53 giây, kém Medina Eisa 13 giây.
+ Amane Beriso giữ thành tích tốt thứ năm với 2 giờ 14 phút 58 giây để vô địch Valencia 2022 ở ngay lần đầu thi marathon.
+ Tháng 4/2023, Beriso về nhì Boston Marathon với 2 giờ 21 phút 50 giây, kém Hellen Obiri 12 giây.
+ Cuối năm đó, runner Ethiopia sinh năm 1991 về thứ ba nội dung chạy 15km tại Montferland Run với 47 phút 53 giây, kém Medina Eisa 13 giây.
+ Paula Radcliffe từng là VĐV marathon nữ nhanh nhất mọi thời đại với 2 giờ 15 phút 25 giây tại London 2003.
+ Bà giữ kỷ lục thế giới trong 16 năm từ năm 2003 đến năm 2019, cho đến khi Kosgei thiết lập cột mốc mới.
+ Radcliffe là tượng đài người Anh, khi vô địch London 2002, 2003, 2005, New York 2004, 2007, 2008, Chicago 2002 và vô địch thế giới tại Helsinki 2005.
+ Paula Radcliffe từng là VĐV marathon nữ nhanh nhất mọi thời đại với 2 giờ 15 phút 25 giây tại London 2003.
+ Bà giữ kỷ lục thế giới trong 16 năm từ năm 2003 đến năm 2019, cho đến khi Kosgei thiết lập cột mốc mới.
+ Radcliffe là tượng đài người Anh, khi vô địch London 2002, 2003, 2005, New York 2004, 2007, 2008, Chicago 2002 và vô địch thế giới tại Helsinki 2005.
+ Worknesh Degefa giữ thành tích tốt thứ bảy khi vô địch Valencia Marathon 2023 với 2 giờ 15 phút 51 giây.
+ VĐV Ethiopia sinh năm 1990 còn từng về nhất Dubai 2017 với 2 giờ 22 phút 36 giây và Boston 2019 với 2 giờ 23 phút 31 giây.
+ Worknesh Degefa giữ thành tích tốt thứ bảy khi vô địch Valencia Marathon 2023 với 2 giờ 15 phút 51 giây.
+ VĐV Ethiopia sinh năm 1990 còn từng về nhất Dubai 2017 với 2 giờ 22 phút 36 giây và Boston 2019 với 2 giờ 23 phút 31 giây.
+ Sutume Kebede, người Ethiopia, về nhất Toyko Marathon 2024 và phá kỷ lục của giải với 2 giờ 15 phút 55 giây.
+ Thành tích tốt nhất của nữ tại Tokyo trước đó là 2 giờ 16 phút 2 giây do VĐV Kenya Brigid Kosgei lập vào năm 2021.
+ Sutume Kebede, người Ethiopia, về nhất Toyko Marathon 2024 và phá kỷ lục của giải với 2 giờ 15 phút 55 giây.
+ Thành tích tốt nhất của nữ tại Tokyo trước đó là 2 giờ 16 phút 2 giây do VĐV Kenya Brigid Kosgei lập vào năm 2021.
+ Tigist Ketema vô địch Dubai Marathon 2024 với 2 giờ 16 phút 7 giây, phá kỷ lục giải và đạt thành tích chạy marathon lần đầu tốt nhất lịch sử.
+ Kỷ lục của Dubai Marathon trước đó là 2 giờ 17 phút 8 giây được runner Kenya Ruth Chepngetich thiết lập năm 2019.
+ Còn những thành tích chạy marathon nữ lần đầu tốt nhất trước đó thuộc về hai VĐV Ethiopia là Letesenbet Gidey (2 giờ 16 phút 49 giây tại Valencia 2022) và Almaz Ayana (2 giờ 17 phút 20 giây tại Amsterdam 2022).
+ Trước khi thử sức ở cự ly 42,195 km, Ketema là chuyên gia chạy 800m và chưa từng thi đấu ở cự ly nào xa hơn 10km.
+ Với cự ly 800m, runner Ethiopia giành HC đồng tại giải vô địch U20 thế giới ở Bydgoszcz, Ba Lan năm 2016, vô địch quốc gia năm 2016 và giành HC vàng tại giải vô địch điền kinh U20 châu Phi ở Tlemcen, Algeria năm 2017.
+ Cô cũng vô địch 10km nữ tại Great Ethiopian Run ở Addis Ababa, Ethiopia vào tháng 11/2022.
+ Tigist Ketema vô địch Dubai Marathon 2024 với 2 giờ 16 phút 7 giây, phá kỷ lục giải và đạt thành tích chạy marathon lần đầu tốt nhất lịch sử.
+ Kỷ lục của Dubai Marathon trước đó là 2 giờ 17 phút 8 giây được runner Kenya Ruth Chepngetich thiết lập năm 2019.
+ Còn những thành tích chạy marathon nữ lần đầu tốt nhất trước đó thuộc về hai VĐV Ethiopia là Letesenbet Gidey (2 giờ 16 phút 49 giây tại Valencia 2022) và Almaz Ayana (2 giờ 17 phút 20 giây tại Amsterdam 2022).
+ Trước khi thử sức ở cự ly 42,195 km, Ketema là chuyên gia chạy 800m và chưa từng thi đấu ở cự ly nào xa hơn 10km.
+ Với cự ly 800m, runner Ethiopia giành HC đồng tại giải vô địch U20 thế giới ở Bydgoszcz, Ba Lan năm 2016, vô địch quốc gia năm 2016 và giành HC vàng tại giải vô địch điền kinh U20 châu Phi ở Tlemcen, Algeria năm 2017.
+ Cô cũng vô địch 10km nữ tại Great Ethiopian Run ở Addis Ababa, Ethiopia vào tháng 11/2022.
+ Runner Kenya Rosemary Wanjiru giữ thành tích tốt thứ 10 marathon nữ khi về nhì Tokyo Marathon 2024 với 2 giờ 16 phút 14 giây, chỉ sau Sutume Kebede.
+ Một năm trước, VĐV sinh năm 1994 vô địch Tokyo dù đạt thành tích kém hơn - 2 giờ 16 phút 28 giây.
+ Runner Kenya Rosemary Wanjiru giữ thành tích tốt thứ 10 marathon nữ khi về nhì Tokyo Marathon 2024 với 2 giờ 16 phút 14 giây, chỉ sau Sutume Kebede.
+ Một năm trước, VĐV sinh năm 1994 vô địch Tokyo dù đạt thành tích kém hơn - 2 giờ 16 phút 28 giây.

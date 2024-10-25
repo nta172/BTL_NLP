@@ -1,37 +1,21 @@
-Từng là thần đồng cờ vua, Demis Hassabis chuyển sang nghiên cứu trí tuệ nhân tạo (AI) rồi đoạt Nobel Hóa học ở tuổi 48. Làng cờ thường xuất hiện câu hỏi liệu một kỳ thủ giỏi làm việc trong lĩnh vực khác liên quan đến trí tuệ sẽ thành công đến đâu.
- Với giải Nobel Hóa học 2024 bằng cách phát triển mô hình AI để dự đoán cấu trúc phức tạp của protein, Hassabis là đáp án hoàn hảo cho câu hỏi trên.
- Hassabis sinh năm 1976 tại Bắc London, có bố gốc Hy Lạp và mẹ người Singapore. Lên bốn tuổi, ông thường ngồi xem bố và bác đánh cờ, nên xin chơi cùng.
- Được bố dạy cách chơi, nhưng ban đầu Hassabis thua liểng xiểng vì dù sao bố ông cũng là kỳ thủ nghiệp dư. Nhưng sau vài tuần, ông đã thắng cả bố lẫn bác.
- Bố Hassabis tự nhủ: "Có lẽ phải đăng ký cho thằng bé vào một CLB cờ vua".
- Thời thơ ấu của Hassabis chủ yếu gắn với cờ vua, khi ông tự mày mò cải thiện kỳ lực, rồi vươn lên đứng số hai thế giới trong những kỳ thủ dưới 13 tuổi, với Elo 2.
-300 và danh hiệu Dự bị Kiện tướng (CM). Kỳ thủ duy nhất đứng trên Hassabis khi đó chính là Judit Polgar, chênh lệch 35 Elo.
- Polgar sau này trở thành nữ kỳ thủ mạnh nhất lịch sử, còn sự nghiệp Hassabis rẽ sang một hướng khác. Làng cờ vua từng có nhiều kỳ thủ, thậm chí là Đại kiện tướng, nghiên cứu khoa học ở nhiều lĩnh vực. Nổi tiếng nhất có lẽ là người giữ danh hiệu Vua cờ giai đoạn 1894-1921, Emanuel Lasker.
- Tên của ông được đặt cho một định lý toán học Lasker-Noether, do ông tìm ra cùng thời với nữ thiên tài toán Emmy Noether.
- Sau này Hassabis cho rằng nếu tiếp tục theo đuổi sự nghiệp cờ vua, ông vẫn nghĩ bản thân có thể trở thành kỳ thủ giỏi nhất. "Cờ vua là trò chơi trí tuệ tuyệt vời và đầy thử thách mà tôi rất yêu thích", ông nói với BBC năm 2014. "Nhưng tôi cảm thấy môn này mang tính tự thỏa mãn cá nhân.
- Tôi không muốn dành toàn bộ tâm trí, não bộ và tài năng của mình chỉ để thắng một người khác trong trò chơi.
- Vì thế tôi chuyển kỹ năng của bản thân sang lĩnh vực khác, là khoa học và kinh doanh".
- Hassabis dành tiền thưởng từ một giải cờ vua để mua một chiếc máy tính ZX Spectrum 48K, những năm 1980.
- Ông ngay lập tức mua sách về tự học lập trình, và năng khiếu của ông với khoa học không thua kém gì cờ vua. "Điều tôi học được khi còn nhỏ không phải cờ vua, mà là các kỹ năng rèn luyện khi chơi cờ", ông nói với Achievement năm 2018. "Đó là giải quyết vấn đề, trí tưởng tượng, tư duy sáng tạo hay hoạch định chiến lược.
- Cờ vua như phòng gym để rèn trí não, sau đó áp dụng vào lĩnh vực khác".
- 17 tuổi, Hassabis bắt đầu tạo dựng tên tuổi trong giới công nghệ, khi đồng thiết kế trò chơi nổi tiếng Theme Park.
- Ông trở thành thủ khoa đầu vào lẫn đầu ra của Đại học Cambridge, ngành khoa học máy tính.
- Sau đó, thần đồng cờ vua còn mở công ty game, lấy bằng tiến sĩ khoa học nhận thức, rồi thành lập start-up DeepMind năm 2010, ở tuổi 34.
- Bốn năm sau, Google mua lại DeepMind với giá 400 triệu bảng (523 triệu USD), còn Hassabis làm CEO.
- DeepMind không phải cái tên xa lạ với làng cờ, khi công ty này đã sử dụng AI để phát triển các phần mềm lần lượt là AlphaGo trong cờ vây, AlphaZero trong cờ vua và AlphaStar trong game StarCraft II. Những cỗ máy này đều mạnh hơn nhiều so với người chơi giỏi nhất ở các môn tương ứng.
- Chẳng hạn AlphaGo là cỗ máy đầu tiên thắng nhà vô địch cờ vây Lee Sedol, hay AlphaZero, lúc ra đời, mạnh hơn bất cứ phần mềm cờ vua nào khác.
- Các sản phẩm AI của DeepMind do Hassabis điều hành còn vươn tới nhiều lĩnh vực khác, như lập trình với AlphaCode, hình học với AlphaGeometry, toán học với AlphaProof.
- Đó là chưa kể mô hình ngôn ngữ lớn (LLM) Gemini được coi là đối thủ chính của ChatGPT do OpenAI phát triển.
- Với tư cách người lãnh đạo phát triển AI cho Google, Hassabis đi tiên phong trong cuộc đua trị giá nhiều tỷ USD.
- Chính phủ Anh đã nhiều lần nhờ ông tư vấn về những vấn đề công nghệ và AI.
- Ông còn được Hoàng gia Anh phong tước Hiệp sĩ năm nay, trước khi được Viện Hàn lâm Khoa học Hoàng gia Thụy Điển vinh danh hôm 9/10, nhờ công trình AlphaFold trong sinh học.
- AlphaFold là một phần mềm của DeepMind, có khả năng dự đoán cấu trúc 3D của protein, với cơ sở dữ liệu hơn 200 triệu cấu trúc protein được thu thập từ nhiều loài.
- Việc biết cấu trúc protein (còn gọi là chất đạm) sẽ giúp các nhà khoa học hiểu rõ hơn cách thức hoạt động của protein, hiểu vì sao bệnh tật xảy ra và thiết kế đúng loại thuốc tương tác với các protein đó.
- Hassabis và nghiên cứu cấp cao 39 tuổi của DeepMind, ông John Jumper nhận một nửa giải thưởng Nobel, nửa còn lại thuộc về David Baker, 62 tuổi, Giáo sư tại Đại học Washington, Mỹ.
- Baker được vinh danh do xây dựng một loại protein hoàn toàn mới.
- Còn với Hassabis, ước mơ của ông đã trở thành hiện thực, đó là dùng tài năng của bản thân để gây ảnh hưởng ở mức độ rộng rãi hơn, không chỉ trong làng cờ. "Tôi mong giới trẻ chơi cờ vua để rèn luyện trí não, sau đó dùng khả năng đó cho một công cụ là máy tính", Hassabis từng nói. "Máy tính có thể tạo ra mọi thứ".
- Có một câu chuyện đã góp phần thay đổi quan điểm cuộc đời của Hassabis, xảy ra từ những năm 80.
- Tại một giải cờ vua ở Liechtenstein, ông gặp một kỳ thủ là nhà vô địch mọi lứa tuổi của Đan Mạch.
- Ván đấu kéo dài hơn 10 tiếng, và Hassabis đã thua.
- Sau ván đấu, ông đi bộ trên quãng đường dài bên một cánh đồng, giữa các ngọn núi tuyệt đẹp, và tự nhủ: "Căn phòng thi cờ ấy tràn ngập những bộ não tuyệt vời, nhưng họ đang dùng trí óc để cạnh tranh nhau.
- Có lẽ họ nên dành năng lực để tìm cách chữa ung thư hay gì đó".
- Và Hassabis đã thực sự bước ra khỏi căn phòng và để lại một công trình mang tính lịch sử, không chỉ với làng cờ, mà cả loài người.
+Hạt giống số bốn Novak Djokovic lần đầu thua set ở Thượng Hải Masters, nhưng vẫn vào bán kết sau khi hạ Jakub Mensik 6-7(4), 6-1, 6-4.
+ Djokovic giành vé vào chơi trận bán kết thứ 77 ở cấp độ Masters 1000, qua đó hướng đến gia tăng kỷ lục 40 lần vô địch sân chơi này.
+ Đây cũng là cơ hội để Nole giành Thượng Hải Masters lần thứ năm.
+ Djokovic khởi đầu khó khăn khi Mensik giao bóng quá tốt, với bảy cú ace trong set đầu tiên cùng tỷ lệ ghi điểm khi giao bóng một lên tới 85%.
+ Tài năng 19 tuổi cũng tỏ ra bền bỉ khi phải chơi những loạt bóng dài với đàn anh.
+ Dù thua trước game giao bóng, Mesik lập tức giành lại lợi thế để gỡ 5-5, rồi buộc Djokovic gác vợt ở loạt tie-break sau đó với tỷ số 7-5.
+ Mensik là cựu vô địch giải trẻ Australia Mở rộng, từng tập với Djokovic nhiều lần.
+ Nhưng đây mới là trận tứ kết Masters 1000 đầu tiên của ngôi sao đang lên người CH Czech.
+ Mensik vì thế vẫn non nớt trước Djokovic.
+ Ở hai set sau, Nole điều chỉnh nhịp chơi, giao bóng tốt, dứt điểm sớm hơn và đưa bóng tới những vị trí khó ở hai đầu sân.
+ Dù đã thắng những tên tuổi lớn như Andrey Rublev và Grigor Dimitrov ở các vòng trước, Mensik không thích nghi được với chiến thuật đa dạng của Djokovic.
+ Cú giao bóng của anh ở hai set sau cũng giảm hiệu quả, do một vết đau ở vai trái.
+ Djokovic vì thế giữ toàn bộ game giao ở set hai và set ba, đồng thời tận dụng thành công ba break-point để thắng ngược 6-1, 6-4.
+ Trận đấu khép lại sau gần hai tiếng rưỡi, khiến Nole phải thừa nhận đây là chiến thắng chật vật.
+ Anh nói: "Vài năm trước tôi đã tập với Mensik và biết cậu bé giỏi như thế nào.
+ Cậu ấy là một trong những người giao bóng giỏi nhất tôi biết.
+ Tương lai rất sáng đang chờ Mensik và cậu ấy biết tôi luôn sẵn sàng giúp đỡ".
+ Trận thắng thứ 38 từ đầu mùa giúp Djokovic tạm bứt lên vị trí thứ bảy cuộc đua giành vé dự ATP Finals, vượt qua Rublev – người đã sa sút rất nhiều trong những tuần gần đây.
+ Đối thủ của Djokovic ở bán kết lúc 18h30 hôm nay là Taylor Fritz, người đánh bại David Goffin ở trận tứ kết còn lại với tỷ số 6-3, 6-4.
+ Á quân Mỹ Mở rộng phần nào lấy lại phong độ ở Thượng Hải tuần qua, nhưng anh toàn thua Djokovic cả chín lần gặp trong quá khứ.
+ Trận bán kết còn lại diễn ra lúc 15h30, là cuộc đấu giữa hạt giống số một Jannik Sinner và Tomas Machac, người đã loại Carlos Alcaraz.

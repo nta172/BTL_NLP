@@ -1,30 +1,21 @@
-PGS.
-TS Vũ Ngọc Ánh cùng đồng sự thử nghiệm hoạt động máy gieo hạt, bón phân, phun thuốc trừ sâu nhưng không làm rạp thân lúa, năng suất đạt 20 ha trong 8 giờ. Nhóm thiết kế phương tiện tự hành làm nhiệm vụ gieo hạt, bón phân, phun thuốc trừ sâu... trên ruộng.
- Theo PGS Ánh, do hoạt động trên mặt đất nên sản phẩm có khả năng mang tải gấp 3 lần so với drone cùng sử dụng nguồn năng lượng, trong khi chi phí năng lượng không đổi nên Airboots tiết kiệm 3 lần so với drone. Máy có thể phát triển thêm thành các module để tăng khả năng mang tải theo nhu cầu sử dụng. Nhóm thiết kế phương tiện tự hành làm nhiệm vụ gieo hạt, bón phân, phun thuốc trừ sâu... trên ruộng.
- Theo PGS Ánh, do hoạt động trên mặt đất nên sản phẩm có khả năng mang tải gấp 3 lần so với drone cùng sử dụng nguồn năng lượng, trong khi chi phí năng lượng không đổi nên Airboots tiết kiệm 3 lần so với drone. Máy có thể phát triển thêm thành các module để tăng khả năng mang tải theo nhu cầu sử dụng.
- Thiết bị nặng khoảng 25 kg, chế tạo bằng vật liệu nhẹ, bền với khả năng mang tải trên 35 kg.
- Theo PGS Ánh, máy có thể gấp gọn để giảm sự cồng kềnh, chở được trên xe máy.
- Thiết bị nặng khoảng 25 kg, chế tạo bằng vật liệu nhẹ, bền với khả năng mang tải trên 35 kg.
- Theo PGS Ánh, máy có thể gấp gọn để giảm sự cồng kềnh, chở được trên xe máy.
- Chân máy làm bằng vật liệu composite với ưu điểm nhẹ, độ bền cao với cơ chế hoạt động như máng trượt giúp thiết bị di chuyển dễ dàng trên ruộng nhưng không làm đổ cây lúa.
- Chân máy làm bằng vật liệu composite với ưu điểm nhẹ, độ bền cao với cơ chế hoạt động như máng trượt giúp thiết bị di chuyển dễ dàng trên ruộng nhưng không làm đổ cây lúa.
- Chức năng phun thuốc, do máy hoạt động trên mặt đất nên có thể thiết kế sải phun dài vươn ra hai bên nhằm tăng phạm vi hoạt động.
- Giữa khung máy được bố trí túi chứa nguyên liệu gồm hạt giống, phân bón, thuốc trừ sâu. Nhóm đang hoàn thiện túi chứa liệu để có tính thẩm mỹ cao hơn.
- Chức năng phun thuốc, do máy hoạt động trên mặt đất nên có thể thiết kế sải phun dài vươn ra hai bên nhằm tăng phạm vi hoạt động.
- Giữa khung máy được bố trí túi chứa nguyên liệu gồm hạt giống, phân bón, thuốc trừ sâu. Nhóm đang hoàn thiện túi chứa liệu để có tính thẩm mỹ cao hơn.
- Hộp điều khiển được coi như "đầu não" của máy, có nhiệm vụ truyền nhận tín hiệu thông qua sóng vô tuyến (sóng radio) với thiết bị cầm tay, xử lý các dữ liệu kỹ thuật, thiết lập hành trình khi chạy trên ruộng.
- Ở phiên bản hiện tại, nhiều hệ thống dây điện được nhóm thu gọn vào bên trong khung máy nhằm đảm bảo tính an toàn, thẩm mỹ.
- Hộp điều khiển được coi như "đầu não" của máy, có nhiệm vụ truyền nhận tín hiệu thông qua sóng vô tuyến (sóng radio) với thiết bị cầm tay, xử lý các dữ liệu kỹ thuật, thiết lập hành trình khi chạy trên ruộng.
- Ở phiên bản hiện tại, nhiều hệ thống dây điện được nhóm thu gọn vào bên trong khung máy nhằm đảm bảo tính an toàn, thẩm mỹ. Năng lượng cung cấp cho hai cánh quạt do hai pin công suất 16.
-000 mAh.
- Hiện pin được cố định bên ngoài khung máy và sẽ được nhóm nghiên cứu vị trí đặt hợp lý hơn thời gian tới. Năng lượng cung cấp cho hai cánh quạt do hai pin công suất 16.
-000 mAh.
- Hiện pin được cố định bên ngoài khung máy và sẽ được nhóm nghiên cứu vị trí đặt hợp lý hơn thời gian tới.
- Phần mềm điều khiển hoạt động của máy do nhóm phát triển có thể thiết lập chế độ tự hoạt động hoặc điều khiển bằng tay.
- Theo PGS Ánh, chương trình điều khiển sẽ thiết lập các thông số cho từng quy mô, hình dáng ruộng sau đó máy tự vận hành hoặc điều khiển bằng tay.
- Trên máy có các cảm biến để thu nhận tín hiệu khi sắp hết pin và nguyên liệu, thiết bị sẽ tự động về lại vị trí để tiếp thêm.
- Phần mềm điều khiển hoạt động của máy do nhóm phát triển có thể thiết lập chế độ tự hoạt động hoặc điều khiển bằng tay.
- Theo PGS Ánh, chương trình điều khiển sẽ thiết lập các thông số cho từng quy mô, hình dáng ruộng sau đó máy tự vận hành hoặc điều khiển bằng tay.
- Trên máy có các cảm biến để thu nhận tín hiệu khi sắp hết pin và nguyên liệu, thiết bị sẽ tự động về lại vị trí để tiếp thêm.
- PGS Ánh (trái) chia sẻ, khi thử nghiệm trên ruộng sạ cho thấy máy hoạt động trên bùn dễ hơn vì không gặp sức cản của nước, nên lướt đi nhanh. "Nhóm sẽ tiếp tục các thử nghiệm thực tế trong các lần xuống ruộng tiếp theo để đánh giá hoạt động. Khi máy đạt được mục tiêu đề ra, sẽ thương mại hóa sản xuất hàng loạt phục vụ nông dân", PGS Ánh nói.
- PGS Ánh (trái) chia sẻ, khi thử nghiệm trên ruộng sạ cho thấy máy hoạt động trên bùn dễ hơn vì không gặp sức cản của nước, nên lướt đi nhanh. "Nhóm sẽ tiếp tục các thử nghiệm thực tế trong các lần xuống ruộng tiếp theo để đánh giá hoạt động. Khi máy đạt được mục tiêu đề ra, sẽ thương mại hóa sản xuất hàng loạt phục vụ nông dân", PGS Ánh nói.
+Nhiều dự án thiết kế và phát triển máy bay siêu thanh đã đạt những cột mốc quan trọng hướng tới mục tiêu chở khách ở vận tốc nhanh hơn tốc độ âm thanh, theo Sun.
+ Boom đang tích cực thử nghiệm với nguyên mẫu XB-1 trong năm nay.
+ Công ty này đang hoàn thiện công nghệ giúp mở đường cho máy bay chở khách siêu thanh kích thước thật Boom Overture trong năm nay.
+ Boom muốn thực hiện chuyến bay từ London tới New York trong 3,5 giờ với chi phí rẻ hơn máy bay Concorde huyền thoại.
+ Tính đến nay, họ đã tiến hành 5 chuyến bay thử nghiệm.
+ Nếu thử nghiệm thành công, mẫu máy bay siêu thanh có thể chở 60 - 80 hành khách sẽ sẵn sàng từ năm 2029 và đạt tốc độ Mach 1,7 (khoảng 2.
+092 km/h).
+ Nỗ lực của Exosonic tập trung vào giảm tiếng ồn.
+ Một trong những vấn đề khiến Concorde phải ngừng hoạt động là tiếng nổ siêu thanh ầm ĩ hơn nhiều so với bay thông thường.
+ Theo Exosonic, máy bay của họ được thiết kế với công nghệ triệt tiêu tiếng nổ siêu thanh đặc biệt.
+ Tiếng động do máy bay Exosonic phát ra sẽ êm ái hơn và chỉ lớn ngang tiếng sập cửa xe khi truyền tới mặt đất.
+ Kế hoạch của công ty là chở 70 hành khách và giảm 1/2 thời gian bay hiện nay.
+ Exosonic hy vọng có thể giới thiệu máy bay hoàn thiện vào đầu hoặc giữa thập niên 2030.
+ Spike Aerospace nhắm vào phân khúc cao cấp của thị trường bay siêu thanh.
+ Thay cho cửa sổ carbon nhỏ, máy bay phản lực của họ sẽ cung cấp tầm nhìn toàn cảnh với màn hình hiển thị độ phân giải cao.
+ Mẫu máy bay S-512 của Spike Aerospace có sức chứa tối đa 18 hành khách và trang bị công nghệ giảm tiếng ồn.
+ Tuy nhiên, công ty chưa tiết lộ thời gian mẫu máy bay đi vào hoạt động.
+ Hồi tháng 1, Lockheed Martin, nhà sản xuất hàng không vũ trụ hàng đầu của Mỹ, giới thiệu máy bay thử nghiệm X-59 được thiết kế để triệt tiêu tiếng nổ siêu thanh.
+ Đây là dự án hợp tác với NASA.
+ Dự án đã tiến hành một số thử nghiệm quan trọng trên mặt đất trong năm nay.
+ Chuyến bay thử đầu tiên của X-59 được lên lịch trong năm 2024.

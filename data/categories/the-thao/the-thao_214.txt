@@ -1,22 +1,15 @@
-Trung Quốc mở tỷ số, nhưng vẫn thua chủ nhà Australia 1-3 ở lượt ba bảng C vòng loại ba World Cup 2026 – khu vực châu Á chiều nay 10/10.
- Trước lượt ba, Trung Quốc thảm bại 0-7 trên sân Nhật Bản, rồi thua ngược Arab Saudi 1-2 dù chơi hơn người 70 phút trên sân nhà.
- Australia cũng khởi đầu tệ khi bất ngờ thua Bahrain 0-1 rồi bị Indonesia cầm hoà 0-0.
- HLV Branko Ivankovic đối mặt nguy cơ sa thải, còn Australia thì sớm làm điều đó với Graham Arnold, để đưa Tony Popovic lên thay.
- Bước vào trận đấu ở Adelaide chiều nay, tân HLV Australia lập tức thiết lập trật tự mới, khi dùng thủ môn Joe Gauci thay đội trưởng Matthew Ryan – người không chơi một phút nào kể từ khi chuyển đến CLB Italy AS Roma.
- Popovic cũng chuyển sơ đồ từ bốn sang năm hậu vệ.
- Trung Quốc cũng dùng sơ đồ tương tự, nhưng tổn thất lực lượng khi vắng tiền đạo trụ cột Wu Lei vì chấn thương.
- Australia kiểm soát thế trận gần như tuyệt đối trong gần 20 phút đầu.
- Trung Quốc không thể lên bóng tấn công, nhưng hệ thống phòng ngự được giữ vững.
- Trong thế dồn ép, cơ hội tốt nhất của chủ nhà đến ở phút 17, khi Mitchell Duke đá nối trong vòng cấm vọt xà sau đường tạt bóng thấp của Lewis Miller bên phải. Nhưng đến phút 21, Trung Quốc bất ngờ làm cả sân Adelaide như im bặt.
- Thủ môn Wang Dalei chuyền từ sân nhà để Zhang Yuning bật cao làm tường, đưa bóng sượt đầu đến chỗ Xie Wenneng.
- Tiền vệ này đẩy bóng vượt qua trung vệ cao gần 2m Harry Souttar, rồi sút chân trái vào góc phải mở tỷ số.
- Đội khách tiếp tục gồng mình phòng ngự, nhưng khi tưởng chừng sẽ bước vào giờ nghỉ giữa trận với lợi thế, họ lại thủng lưới ở phút bù thứ hai.
- Craig Goodwin đá phạt bên trái vào chính giữa vòng cấm.
- Trong màn không chiến giữa một nhóm cầu thủ to cao, Lewis Miller chiến thắng với pha đánh đầu đập đất gỡ hoà.
- Sang hiệp hai, HLV Popovic tung Riley McGree vào sân làm mới tuyến giữa và thành quả đến sau tám phút. Nhận đường chuyền từ McGree, Goodwin di chuyển từ cánh phải vào trung lộ, rồi sút chân trái từ khoảng 22 mét, găm bóng vào góc cao trái ghi bàn. Lợi thế dẫn 2-1 được Australia bảo toàn chắc chắn khi họ duy trì quyền kiểm soát và không cho Trung Quốc dù chỉ là những cơ hội nhỏ. Không những thế, đến phút bù thứ hai, đội chủ nhà ghi thêm bàn ấn định tỷ số 3-1. Jordan Bos dốc bóng biên trái căng ngang vào trong tạo nên hỗn loạn.
- Cầu thủ vào sân thay người Nishan Velupillay chớp thời cơ đá nối vào góc cao phải thành bàn.
- Australia có chiến thắng đầu tiên tại vòng loại ba World Cup 2026, để vươn lên đứng thứ ba bảng C với bốn điểm.
- Đội kém Nhật Bản hai điểm, bằng Arab Saudi nhưng thua chỉ số fair-play.
- Trong khi đó, Trung Quốc tiếp tục chìm ở đáy bảng, chưa có điểm cùng hiệu số -10.
- Ở lượt bốn ngày 15/10, Trung Quốc sẽ về sân nhà tiếp đón Indonesia, còn Australia đến làm khách ở Nhật Bản.
- Trung Quốc: Wang Dalei, Jiang Guangtai, Li Lei, Hu Hetao, Jiang Shenglong, Wang Shangyuan, Li Yuanyi, Wei Shihao, Xie Wenneng, Zhang Yuning, Fernandinho.
+Ứng dụng theo dõi tập thể thao phổ biến nhất thế giới Strava bổ sung tính năng hướng dẫn bằng AI, hỗ trợ người dùng phân tích dữ liệu tập luyện.
+ Tính năng được Strava đặt tên là Athlete Intelligence, có khả năng cung cấp thông tin chi tiết mang tính cá nhân dựa trên dữ liệu hoạt động của từng VĐV.
+ Chỉ dành cho các tài khoản đã đăng ký trên Strava, thông qua thiết bị di động, tính năng này sẽ giúp người dùng dễ dàng hiểu các chỉ số hiệu suất để đạt mức độ hiệu quả tối đa cho mỗi vận động.
+ Athlete Intelligence chưa có khả năng huấn luyện VĐV trực tiếp.
+ Thay vào đó, nó phân tích và diễn giải dữ liệu tập luyện, chuyển đổi các chỉ số phức tạp thành thông tin chi tiết đơn giản hơn, giúp người dùng tự đánh giá xem mình có đang đi đúng hướng hay không.
+ Công cụ này có sẵn 14 ngôn ngữ cho người đăng ký Strava trả phí và được tích hợp trực tiếp vào phần hoạt động của bạn.
+ Nhà phát triển ứng dụng cho biết tính năng này được thiết kế cho tất cả hơn 100 triệu người dùng của Strava, phục vụ mọi cấp độ VĐV, từ người mới bắt đầu đến người tập luyện nâng cao.
+ Matt Salazar, giám đốc sản phẩm của Strava, cho biết đây là bước tiến lớn của công ty. "Với hơn 10 tỷ lượt hoạt động được tải lên Strava, dữ liệu có thể minh họa một bức tranh độc đáo cho mỗi người dùng, đại diện cho nỗ lực thực sự của họ.
+ Bằng cách chắt lọc để trở nên dễ hiểu, tính năng này nhằm mục đích giúp người dùng hiểu rõ hơn về hiệu suất của họ", Salazar nói.
+ Athlete Intelligence sẽ lập tức tóm tắt dữ liệu tập luyện của bạn thành thông tin dễ hiểu sau khi được tải lên.
+ Nó sẽ cung cấp chi tiết về tốc độ, nhịp tim, độ cao, công suất và nỗ lực tương đối - chỉ số riêng của Strava để đo cường độ vận động.
+ Ngoài ra, tính năng sẽ phát hiện khi bạn đạt mốc tập luyện - thi đấu mới và làm nổi bật các thành tích như tốc độ nhanh nhất, quãng đường dài nhất hoặc chúc mừng khi bạn đạt kỷ lục cá nhân mới cho một cung đường.
+ Người đăng ký trả phí có thể truy cập thông tin này chỉ bằng một lần chạm.
+ Nhưng nếu bạn là người theo trường phái cũ và không mấy quan tâm đến việc AI nói gì về quá trình luyện tập của mình, bạn có thể chọn không tham gia tính năng Athlete Intelligence bất cứ lúc nào.
+ Strava lưu ý rằng Athlete Intelligence vẫn trong giai đoạn thử nghiệm công khai, với kế hoạch giới thiệu thêm thông tin chi tiết cũng như các tính năng huấn luyện trong tương lai.

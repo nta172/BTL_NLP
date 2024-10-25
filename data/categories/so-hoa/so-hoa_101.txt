@@ -1,13 +1,20 @@
-Bộ Thương mại Mỹ đang tiến hành điều tra đối với TSMC và có thể khiến sản lượng chip sản xuất cho Apple bị ảnh hưởng.
- Theo The Information, Bộ Thương mại Mỹ đã liên hệ với TSMC để xác minh liệu công ty có trực tiếp hoặc gián tiếp cung cấp chipset cho Huawei hay không.
- Động thái này diễn ra sau khi TSMC công bố lợi nhuận quý đạt kỷ lục.
- Cuộc điều tra tập trung vào chip Kirin 9000s trên dòng điện thoại Mate 60 và bộ xử lý Ascend AI mới của Huawei, cả hai đều chứa những thành phần Huawei không được phép tiếp cận theo lệnh trừng phạt của Mỹ.
- Trước đó, năm 2020, chính phủ Mỹ cấm Huawei mua chip được đúc bằng thiết bị chứa công nghệ Mỹ, cũng như ngăn hãng mua máy móc sản xuất chip, do lo ngại an ninh quốc gia.
- Huawei tuyên bố tất cả chipset mới của họ đều được sản xuất bởi công ty trong nước là SMIC, nhưng một số báo cáo cho thấy chip Kirin 9006C sử dụng trong laptop Qingyan L450 của Huawei là do TSMC sản xuất.
- Trong khi đó, TSMC bị nghi ngờ đã ký hợp đồng với một công ty trung gian nhằm đi đường vòng, che giấu việc Huawei là khách hàng của mình.
- Phản hồi về cuộc điều tra của Bộ Thương mại Mỹ, TSMC khẳng định họ tuân thủ pháp luật và sẽ thực hiện các biện pháp để đảm bảo sự tuân thủ, như tiến hành điều tra và chủ động liên hệ với cơ quan quản lý khi cần thiết.
- Sau khi lệnh cấm được áp dụng với Huawei, TSMC tuyên bố đã ngừng nhận đơn hàng mới từ công ty công nghệ Trung Quốc.
- Trong trường hợp bị xác định sai phạm, TSMC sẽ phải đối mặt với lệnh trừng phạt và có thể ảnh hưởng nghiệm trọng đến khách hàng, đối tác, nhất là Apple.
- Công ty Đài Loan đang sản xuất chip cho iPhone, iPad, MacBook. Ngoài ra, nhà máy của TSMC ở Arizona đang trong quá trình xây dựng và có thể bị gián đoạn tiến độ.
- Do đó, một số nguồn tin cho rằng Bộ Thương mại Mỹ sẽ không phạt nặng TSMC kể cả khi phát hiện sai phạm.
- Hồi tháng 4, TSMC đã nhận khoản trợ cấp 6,6 tỷ USD thông qua Đạo luật Chips của Mỹ để tiếp tục đầu tư cho nhà máy ở Arizona.
+Jensen Huang, nhà sáng lập Nvidia, ca ngợi Elon Musk và công ty xAI khi có thể xây dựng siêu máy tính AI với thời gian vài chục ngày. "Theo tôi biết, chỉ một người trên thế giới có thể làm được điều đó", ông Huang nói trong podcast Bg2 Pod phát sóng tuần này. "Một nỗ lực siêu phàm, điều mà người bình thường phải mất nhiều năm.
+ Elon là người duy nhất hiểu biết về kỹ thuật, xây dựng, hệ thống lớn và khả năng huy động nguồn lực.
+ Thật không thể tin được". xAI, công ty trí tuệ nhân tạo của Elon Musk, đã xây dựng siêu máy tính Colossus ở Memphis, Tennessee (Mỹ).
+ Cụm này gồm 100.
+000 GPU Nvidia H100 và dự kiến tiếp tục được mở rộng thời gian tới.
+ Hồi tháng 9, Musk cho biết chỉ mất 122 ngày để hoàn thành mọi thứ "từ đầu đến cuối".
+ Trong podcast, Huang nói với những gì ông chứng kiến, việc lắp đặt cụm GPU cho Colossus chỉ diễn ra trong vài chục ngày.
+ CEO Nvidia khen ngợi các nhóm kỹ thuật, phần mềm, mạng và cơ sở hạ tầng của xAI, gọi họ là những người "phi thường". "Để dễ hình dung, 100.
+000 GPU là siêu máy tính nhanh nhất hành tinh, khi tính theo một cụm", Huang bình luận. "Để xây dựng một siêu máy tính thường mất ba năm, từ việc lên kế hoạch đến bàn giao thiết bị, và thêm một năm để đưa mọi thứ vào hoạt động".
+ Trước đó, trả lời Jordan Peterson trên X hồi tháng 6, Elon Musk cho biết cần 19 ngày để đưa Colossus từ giai đoạn lắp đặt phần cứng đến khâu vận hành đào tạo.
+ Ông nói đây là tiến độ "nhanh nhất từ trước đến nay, không phải ai cũng có thể làm được".
+ Musk được cho là đã "xoay" mọi cách để có được GPU Nvidia nhằm đẩy nhanh tiến độ tạo siêu máy tính.
+ Giữa tháng 9, nhà sáng lập Oracle Larry Ellison tiết lộ ông và Musk đã "cầu xin" CEO Nvidia bán GPU mới nhất cho mình. "Trong bữa tối tại Nobu Palo Alto, tôi và Elon nài nỉ Jensen bán GPU: Làm ơn nhận tiền của chúng tôi.
+ Không, hãy nhận nhiều hơn.
+ Anh chưa nhận đủ đâu, chúng tôi cần anh nhận nhiều tiền hơn của chúng tôi", Ellison kể.
+ Trong podcast Bg2 Pod, Huang cũng chia sẻ kỳ vọng về đội ngũ nhân viên trí tuệ nhân tạo giúp tăng năng suất công ty. "Tôi hy vọng một ngày không xa, Nvidia sẽ trở thành công ty có 50.
+000 nhân viên và 100 triệu trợ lý AI trong mỗi nhóm", ông nói, mô tả trợ lý AI là những "tác nhân" có mặt trong mọi công đoạn với vai trò cải thiện năng suất. "AI sẽ tuyển dụng AI khác để giải quyết vấn đề.
+ AI sẽ ở trong các kênh Slack với nhau và với con người", ông hình dung.
+ Theo ông, con người sẽ cần phải lựa chọn giữa "hàng nghìn tỷ" vấn đề và quyết định giải quyết vấn đề nào, trong khi bot giúp tự động hóa các giải pháp sau đó.
+ Có nghĩa, công ty vẫn cần tuyển dụng con người để trở nên năng suất hơn, thay vì nỗi lo bị sa thải bởi AI như những ý kiến trước đó.

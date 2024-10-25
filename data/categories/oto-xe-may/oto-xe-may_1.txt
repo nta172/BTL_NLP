@@ -1,25 +1,3 @@
-Người dân ở Florida được khuyến cáo phòng tránh nguy cơ cháy nổ khi xe điện bị ngập nước mặn.
- Xe điện có thể cháy nếu bị ngập nước biển, vì vậy các chủ xe sống ở khu vực khi bão Milton đi qua nên có các biện pháp phòng ngừa và chuẩn bị cho khả năng không thể sạc xe trong trường hợp mất điện.
- Sau khi cơn bão Helene đi qua khu vực vịnh cách đây chưa đầy hai tuần, tình trạng ngập lụt khiến một số xe điện bốc cháy và thậm chí làm cháy nhà ở trong một số trường hợp.
- Chủ xe điện có thể làm gì?
- Trước cơn bão Helene, Thống đốc Florida Ron DeSantis kêu gọi chủ xe điện di chuyển xe đến nơi cao hơn, giữ cho xe không bị ngập nước là cách tốt nhất để tránh nguy cơ cháy nổ.
- Trong khi đó, hãng xe điện Tesla cũng khuyên không nên để xe bị ngập nước. Nếu trường hợp này xảy ra, hãng đề nghị đưa xe cách ít nhất 15 m khỏi công trình hoặc vật liệu dễ cháy cho đến khi được kỹ thuật viên kiểm tra.
- Thành phố St.
- Petersburg khuyến cáo chủ xe điện thực hiện các bước sau để chuẩn bị trước cơn bão Milton: duy trì pin ở trạng thái sạc 100%; nếu dự định sơ tán bằng xe điện, hãy cân nhắc quãng đường của xe và tránh phụ thuộc vào các trạm sạc dọc tuyến đường sơ tán vì có thể phải xếp hàng quá lâu, hoặc mất điện; không lái xe qua nước ngập vì nước xâm nhập có thể làm hỏng pin, tăng nguy cơ cháy nổ pin, có thể xảy ra ngay lập tức hoặc sau nhiều ngày, tuần hay thậm chí vài tháng sau khi tiếp xúc với nước biển; bảo quản xe đúng cách và nếu để lại xe khi sơ tán, hãy đỗ xe ngoài khu vực dễ ngập và ít nhất 15 m cách xa công trình hoặc phương tiện khác, không để xe kết nối với bộ sạc và giữ pin dưới 30% trạng thái sạc.
- Sau bão, người dùng xe điện không nên cố gắng lái xe hoặc sạc xe đã bị ngập trong nước lũ, cần xử lý đúng cách với bất kỳ loại pin lithium-ion nào khi đã tiếp xúc với nước lũ, và không vứt bỏ những pin này vào thùng rác thông thường.
- Xe điện có thường xuyên cháy nổ sau ngập lụt?
- Cơ quan an toàn giao thông quốc gia Mỹ (NHTSA) đã nghiên cứu vấn đề này kể từ sau khi cơn bão Sandy tấn công bờ đông nước Mỹ năm 2012.
- Tuy nhiên, vẫn chưa có số liệu chi tiết về mức độ thường xuyên xảy ra tình trạng này.
- Cách đây hai năm, cơn bão Ian đã làm hư hại pin của khoảng 5.
-000 chiếc xe điện và 36 chiếc trong đó đã bốc cháy. Một số chiếc xe điện khác cũng bốc cháy tại Florida trong 2023 sau khi cơn bão Idalia đi qua, mặc dù cơn bão này yếu hơn Ian.
- Các nhà nghiên cứu tại NHTSA cho rằng việc nhiều người biết về vấn đề này và di chuyển phương tiện lên cao trước khi cơn bão đến cũng đã góp phần giảm thiểu thiệt hại.
- Các vụ cháy nổ cũng dường như liên quan đặc biệt đến nước mặn vì muối có thể dẫn điện.
- Các vấn đề tương tự không được báo cáo sau trận lũ do mưa lớn ở California đầu năm nay.
- Tại sao xe điện dễ bắt lửa?
- Xe điện với pin lithium-ion có thể bắt lửa nếu pin bị chập và bắt đầu nóng lên.
- Tom Barth, từ Ban an toàn giao thông vận tải Mỹ (NTSB), cho biết nếu nhiệt lan ra giữa các cell khác nhau trong bộ pin có thể gây ra phản ứng dây chuyền gọi là thoát nhiệt. "Nếu nước mặn có thể làm cầu nối giữa cực dương và cực âm của pin, thì nó có thể gây chập mạch", Barth cho biết thêm.
- Các nhà sản xuất ôtô thiết kế pin để ngăn chặn vấn đề này bằng cách thường sử dụng các lớp cách ly hoặc rào chắn giữa các cell khác nhau trong bộ pin và thực hiện các biện pháp giữ ẩm ở bên ngoài.
- Tuy nhiên, họ cũng phải cung cấp cách thoát nhiệt cho pin.
- Đôi khi xe điện có thể bắt lửa sau khi nước rút đã lâu vì ngay cả khi nước bay hơi hết, muối dẫn điện vẫn còn lại.
- Do đó, cần kiểm tra kỹ nếu xe bị ngập nước. "Không phải chiếc nào bị ngập đều sẽ phát hỏa", Barth khẳng định. NHTSA cho biết đang làm việc để cải thiện an toàn của pin khi tìm hiểu thêm về vấn đề này.
- Cơ quan đã đề xuất cập nhật một số yêu cầu an toàn đối với pin xe điện để giảm thiểu rủi ro.
+Tôi đang đi xe cỡ A, trước Tết muốn đổi lên xe gầm cao để thuận tiện hơn việc đi chơi và về quê. (Bùi Nam) Tôi công chức văn phòng độ tuổi U40.
+ Xin hỏi, tôi nên chọn phương án đổi xe nào?
+ Xin cám ơn.

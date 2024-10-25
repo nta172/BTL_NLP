@@ -1,24 +1,26 @@
-Bộ đôi Galaxy Tab S10 trang bị AI tạo sinh phục vụ việc ghi chú, chỉnh sửa ảnh, tìm kiếm, tăng hiệu suất công việc, cải thiện trải nghiệm người dùng.
- Samsung vừa giới thiệu Galaxy Tab S10 series - dòng máy tính bảng đầu tiên của hãng được tích hợp sẵn Galaxy AI.
- Sản phẩm giúp thương hiệu tạo khoảng cách trong cuộc đua AI khi nhiều nhà sản xuất lớn như Apple phải tới cuối tháng 10 mới triển khai Apple Intelligence trên iPhone, iPad.
- Các tính năng AI trên Galaxy Tab S10 series giúp người dùng xử lý tác vụ công việc nhanh và chính xác hơn, nâng cao hiệu suất làm việc.
- Chẳng hạn, nắm bắt nội dung các cuộc họp trở nên dễ hơn khi Trợ lý Note (Note Assist) cho phép chuyển giọng nói thành văn bản, tóm tắt ý chính và phiên dịch nếu cần. Người dùng có thể dịch trực tiếp trên tệp file pdf thông qua một lớp phủ trên màn hình.
- Các tính năng Phác thảo thông minh (Sketch to image), Trợ lý chỉnh ảnh chuyên nghiệp (Photo Assist) cho phép người dùng chủ động hơn trong sáng tạo, biến những nét vẽ đơn giản thành hình ảnh nghệ thuật.
- Thay vì gõ từ khóa thủ công, người dùng có thể sử dụng tính năng Khoanh tròn để tìm kiếm trên Google (Circle to search) để tìm, xử lý thông tin tiện lợi hơn trên màn hình lớn của máy tính bảng.
- Tính năng này hỗ trợ tìm kiếm lời giải, kết quả các bài toán số học, hình học...
- Theo khảo sát trên VnExpress với hơn 1.
-200 độc giả tham gia, 91% người được hỏi cho rằng AI là xu hướng tất yếu trên tablet, 8% cho rằng AI là chiêu thức bán hàng và 1% bày tỏ ý kiến khác.
- Các chuyên gia công nghệ có dịp trải nghiệm sớm bộ đôi Galaxy Tab S10 cũng cho rằng Galaxy AI hiệu quả trong việc nâng cao hiệu suất làm việc, học tập, tối ưu hóa trải nghiệm sáng tạo và giải trí.
- Chuyên gia Jonathan Bray đến từ chuyên trang Expertreviews đánh giá cao Note Assist, nhất là khả năng chuyển âm thanh thành văn bản.
- Theo Jonathan Bray, tính năng cho phép ghi lại các cuộc họp hoặc cuộc trò chuyện và chuyển đổi chúng thành văn bản, tùy chọn tóm tắt các bản ghi chép này. "Về mặt lý thuyết, bạn có thể tham dự một bài giảng hoặc cuộc họp và không phải bận tâm đến việc viết bất cứ điều gì.
- AI có thể làm tất cả thay bạn", chuyên gia nhận xét.
- Trang CNN cũng có những đánh giá về Galaxy Tab S10 Ultra.
- Trong đó, biên tập viên Mike Andronico trực tiếp trải nghiệm tính năng Phác thảo thông minh.
- Từ những nét vẽ đơn giản, AI phác thảo thành những bức ảnh nghệ thuật. "Tôi bắt đầu thử nghiệm bằng cách vẽ nhanh một chú hà mã con.
- Galaxy AI đã nhận dạng thành công và biến thành một loạt các bức tranh đẹp đến ngạc nhiên", Andronico nhận xét.
- Cũng theo Andronico, AI của Samsung sử dụng đúng màu sắc và chi tiết để tô điểm cho bản phác thảo lộn xộn, tạo thêm bối cảnh như bãi cỏ, hồ nước xung quanh.
- Chuyên gia Madeline Ricchiuto đến từ Laptopmag (một chuyên trang về laptop) khẳng định Galaxy Tab S10 series thay thế cho laptop trong những tình huống cần di chuyển.
- Thiết bị có màn hình chắc chắn, hiệu suất tốt cùng pin lâu. Máy tính bảng có thể mở nhanh các ứng dụng và chuyển đổi giữa các chương trình. "Sau khi dùng thử Galaxy Tab S10 Ultra và màn hình 14,6 inch, tôi tin đây có thể là thiết bị lý tưởng cho bạn khi di chuyển với xếp hạng cao cấp", Madeline Ricchiuto đánh giá.
- Vi xử lý 4nm MediaTek Dimensity 9300+ được thiết kế tối ưu cho các tác vụ AI là yếu tố góp phần mang lại trải nghiệm tốt hơn cho thiết bị.
- Samsung cho biết chip MediaTek nhanh hơn 18% đối với hoạt động của CPU, 28% đối với các tác vụ GPU và 14% đối với NPU so với Snapdragon 8 Gen 2 của Qualcomm.
- Các thiết bị được kỳ vọng đáp ứng nhu cầu ngày càng cao của người dùng trong kỷ nguyên AI.
+Jony Ive, nhà thiết kế huyền thoại tạo nên kiểu dáng của iPhone và nhiều thiết bị Appple, đã gặp Sam Altman để xây dựng thiết bị AI mới.
+ Jony Ive nói với New York Times rằng ông đã gặp CEO OpenAI Sam Altman tại một nhà hàng ở San Francisco sau sự sắp xếp của Brian Chesky, CEO Airbnb và cũng là một người thân thiết với Altman.
+ Cuộc gặp diễn ra năm ngoái, nhưng hiện mới công khai.
+ Trong buổi gặp, Altman và Ive bàn về cách tạo ra thiết bị điện toán AI mới, đồng tình về việc công nghệ này có thể làm được nhiều việc hơn cho người dùng so với phần mềm truyền thống, chẳng hạn tóm tắt và ưu tiên tin nhắn, hoặc xử lý các yêu cầu phức tạp như đặt vé du lịch.
+ Tuy nhiên, việc thống nhất ý kiến không được thực hiện trong lần gặp này.
+ Cả hai sau đó ăn tối nhiều lần nữa trước khi đồng ý xây dựng một sản phẩm AI thế hệ mới, với LoveFrom của Ive đảm nhiệm khâu thiết kế.
+ Dù vậy, chi tiết về sản phẩm không được tiết lộ.
+ Đến nay, dự án đã huy động được một số tiền nhất định, chủ yếu đến từ sự đóng góp của Ive và Emerson Collective, công ty của bà Powell Jobs, vợ cố CEO Apple Steve Jobs.
+ Dự án hướng mục tiêu huy động được một tỷ USD từ các nhà đầu tư công nghệ cho đến hết năm.
+ Bên cạnh đó, Ive cũng đã chuẩn bị cơ sở hạ tầng cho dự án mới cũng như tuyển dụng nhân sự.
+ Vào tháng 2, ông chi hơn 60 triệu USD cho tòa nhà rộng khoảng 3.
+000 mét vuông có tên Little Fox Theater, nằm gần trụ sở của LoveFrom, đồng thời tuyển khoảng 10 người, trong đó có hai cựu nhân viên Apple là Tang Tan, từng đảm nhiệm vai trò giám sát quá trình phát triển iPhone, và Evans Hankey, người kế nhiệm Ive ở bộ phận thiết kế Apple.
+ Dự án đang được phát triển trong bí mật.
+ Các bên vẫn chưa hé lộ sản phẩm sẽ là gì và khi nào được phát hành.
+ Theo dự đoán của PhoneArena dựa trên thông tin đã chia sẻ, Ive và Altman có thể đang hướng tới một thiết bị "siêu AI" với mục tiêu cách mạng hóa phần mềm, có khả năng truy cập vào bất kỳ phần nào của hệ điều hành, giải phóng người dùng khỏi việc phải kiểm soát thủ công.
+ Thiết bị mới thậm chí có thể sử dụng camera, cảm biến và micro để hiểu ngữ cảnh.
+ Chẳng hạn, khi đang nhắc đến việc gọi cho ai đó, chỉ cần nhấc thiết bị lên, nó sẽ tự động thực hiện cuộc gọi.
+ Hoặc có thể, thiết bị sẽ theo dõi người dùng chuẩn bị ra ngoài và tự động đặt xe taxi.
+ Đây là điều những AI Phone như Humane AI Pin hay Rabbit R1 đang hướng tới, nhưng thiết bị của Ive có thể thực hiện tốt hơn.
+ Tuy nhiên, PhoneArena cũng cho rằng thiết bị mới có thể gặp một số rào cản.
+ Chẳng hạn, nhiều người lo ngại về quyền riêng tư và phản đối thiết bị số can thiệp quá sâu vào cuộc sống của họ. "Ive từng biến một thiết bị quá khổ như iPad thành sản phẩm thông dụng và được yêu thích.
+ Vì thế, có lẽ ông ấy đã nắm trong tay những gì cần làm, còn chúng ta sẽ trông chờ một sản phẩm mang tính cách mạng vài năm nữa", trang này viết.
+ Hồi tháng 4, The Information cho biết Altman và Ive đã chính thức hợp tác để thiết kế và sản xuất thiết bị cá nhân hỗ trợ AI tạo sinh nhưng không phải là smartphone, đồng thời tìm kiếm nguồn tài trợ cho dự án.
+ Khi đó, một số ý kiến cho rằng nỗ lực của Ive có thể khiến LoveFrom đối đầu với Apple trong tương lai, khi hãng cũng đang tập trung phát triển AI với Apple Intelligence.
+ Jony Ive được xem là thiên tài về thiết kế khi tham gia thiết kế hàng loạt thiết bị mang tính biểu tượng của Apple như iPhone, iPad, MacBook.
+ Ông rời Apple năm 2019 sau gần ba thập kỷ làm việc.

@@ -1,11 +1,19 @@
-Sau khi công bố mẫu kính Orion, CEO Meta Mark Zuckerberg nhận định kính AR sẽ thay thế smartphone trong tương lai. "Đã có khoảng từ một đến hai tỷ người đeo kính hàng ngày.
- Giống như cách mọi người đổi từ điện thoại cơ bản lên smartphone, tôi nghĩ những ai đang đeo kính và dùng smartphone sẽ nhanh chóng đổi sang kính thông minh trong thập kỷ tới. Khi phổ biến hơn, những người không đeo kính cuối cùng cũng sẽ sử dụng kính thông minh", Mark Zuckerberg nói với The Verge tại sự kiện Meta Connect ngày 25/9.
- Tại sự kiện, Meta công bố Orion - kính thực tế ảo tăng cường AR với hàng loạt tính năng mới, được Zuckerberg gọi là "thiết bị phủ 3D lên thế giới vật lý". Kính được làm bằng hợp kim magie, trang bị chip do Meta phát triển và có ngoại hình tương tự kính mát thông thường. Nguyên mẫu được giới thiệu trên sân khấu có trọng lượng dưới 100 gram, nhẹ hơn nhiều so với 600 gram của Apple Vision Pro. Kính có trường nhìn rộng, màn hình hiển thị nội dung 3D và máy chiếu nhỏ ở gọng kính.
- Sản phẩm đầy đủ có thêm phần mở rộng được đeo ở cổ tay tương tự smartband.
- Trên sân khấu, Zuckerberg không trình diễn các tính năng của sản phẩm, chỉ chiếu video mô tả một số người ngạc nhiên khi trải nghiệm kính, gồm CEO Nvidia Jensen Huang.
- Ông chủ Meta cho biết sản phẩm được phát triển từ 10 năm trước, khi iPhone và điện thoại Android đang ở giai đoạn đầu bùng nổ.
- Tuy nhiên, phải đến 2027 Orion mới được thương mại hóa với kích thước nhỏ và nhẹ hơn.
- Theo Zuckerberg, giá của Orion sẽ dễ tiếp cận, dự kiến 300 USD, thấp hơn nhiều so với mẫu kính Vision Pro đang được Apple bán với giá 3.
-500 USD. "Chúng tôi sẽ không cố gắng nhét mọi thứ vào kính, chúng tôi sẽ hướng tới các tính năng cho một thiết bị đeo ở mắt nhiều hơn", CEO Meta nói.
- Zuckerberg cũng nhắc đến khoản đầu tư hàng chục tỷ USD vào Reality Labs - bộ phận hiện đảm nhận vai trò phát triển thiết bị và nền tảng thực tế ảo, thực tế tăng cường.
- Về tương lai AI, ông nói rằng con người đang ngày càng có ít bạn, do đó họ sẽ tìm đến những người bạn ảo nhiều hơn.
+Một số người dùng tại Việt Nam cho biết iPhone 16 của họ dính lỗi Panic Full - hiện tượng máy tự khởi động lại hoặc tắt nguồn đột ngột.
+ Thành Tiến (Hoàng Mai, Hà Nội) cho biết mới mua iPhone 16 Pro Max được 5 ngày nhưng máy liên tục tự khởi động không rõ nguyên nhân. "Tôi đã thử reset, cài đặt lại toàn bộ, tình trạng đỡ hơn nhưng vẫn xuất hiện.
+ Cửa hàng đã kiểm tra và nói đây là lỗi Panic Full, cần chờ thêm một thời gian vì chưa có cách khắc phục triệt để, nhưng không cho đổi máy mới", anh nói.
+ Trên nhiều hội nhóm sử dụng iPhone ở cả Việt Nam và thế giới, các chủ đề liên quan đến lỗi Panic Full của iPhone 16 đều đang thu hút hàng trăm lượt bình luận, một số người bày tỏ sự khó chịu hoặc hoang mang.
+ Trong khi đó, Apple chưa lên tiếng về sự cố.
+ Panic Full là tình trạng điện thoại tự khởi động lại dù đang hoặc không sử dụng, cũng như tắt nguồn đột ngột, với tần suất không giống nhau.
+ Không như hiện tượng treo ứng dụng, Panic Full ảnh hưởng tới hệ thống, dẫn đến treo toàn bộ máy.
+ Nguyên nhân có thể do cả phần cứng, phần mềm hoặc sự cố với firmware.
+ Một cửa hàng bán lẻ thiết bị Apple tại Hà Nội cho biết trong hơn hai tuần đã tiếp nhận gần 30 trường hợp lỗi Panic Full, đa số là iPhone 16 Pro Max, có thể do tỷ lệ mua phiên bản này cao nhất.
+ Một hệ thống bán lẻ khác cũng ghi nhận hàng chục khách hàng tới trung tâm bảo hành vì lỗi tương tự. "Panic Full cũng xuất hiện trên iPhone thế hệ cũ nhưng số lượng rất ít trong khi chủ yếu là iPhone 16", đại diện đơn vị này nói.
+ Các bên đều cho biết sẽ hỗ trợ khách hàng nhưng chưa có phương án chính thức cho việc khắc phục, bảo hành. "Các máy đều cài sẵn iOS 18 cho thấy có khả năng phần mềm hệ thống xung đột phần cứng gây ra lỗi", Ngọc Linh, thợ sửa iPhone với hơn 10 năm kinh nghiệm, nhận định.
+ Anh cho biết một số máy khi nâng cấp lên bản iOS 18 beta mới nhất không còn gặp hiện tượng này, nên có thể Panic Full là do phần mềm.
+ Tuy nhiên, nếu do phần cứng, nhiều khả năng sẽ phải thay mainboard.
+ Việc chưa xác định được nguyên nhân chính xác khiến nhiều thợ e ngại xử lý lỗi. "Trong trường hợp do phần cứng, việc can thiệp có thể làm mất bảo hành máy, gây tốn kém cho người dùng.
+ Nếu do phần mềm, người dùng cần chờ Apple ra bản nâng cấp", anh Linh nói.
+ Nếu thấy iPhone thỉnh thoảng khởi động lại hoặc tắt đột ngột, người dùng có thể tự kiểm tra bằng cách truy cập Cài đặt > Quyền riêng tư & Bảo mật > Phân tích & Cải tiến > Dữ liệu phân tích.
+ Trong các dòng file, nếu có dòng bắt đầu bằng panic-full... có nghĩa máy gặp lỗi trên.
+ Người dùng có thể xóa cài đặt, nâng cấp lên iOS 18 mới nhất để khắc phục.
+ Nhiều cửa hàng khuyên không nên tự ý can thiệp phần cứng bởi sẽ bị mất bảo hành, gây khó cho các quy trình sau này.

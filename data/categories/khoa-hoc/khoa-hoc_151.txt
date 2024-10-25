@@ -1,28 +1,24 @@
-Hiện tượng giãn thời gian do vận tốc tương đối khiến phi hành gia trên Trạm Vũ trụ Quốc tế (ISS) lão hóa chậm hơn vài phần nhỏ giây.
- Phi hành gia Butch Wilmore và Suni Williams đang mắc kẹt trên Trạm Vũ trụ Quốc tế (ISS) đến tháng 2/2025 do tàu vũ trụ Boeing gặp sự cố, nhưng điều này không phải hoàn toàn có hại. Ngoài việc ngắm nhìn Trái Đất hùng vĩ từ không gian, họ còn già chậm hơn so với người ở dưới mặt đất.
- Sự khác biệt này không dễ nhận biết.
- Sau 6 tháng sống trên trạm ISS, phi hành gia già chậm hơn khoảng 0,005 giây so với người ở Trái Đất. Như vậy, sau khoảng 9 tháng sống ngoài không gian, Williams và Wilmore sẽ trẻ hơn khoảng 0,0075 giây so với trường hợp họ trở về Trái Đất vào tháng 6/2024 như kế hoạch ban đầu.
- Có một số lý do khoa học đằng sau hiện tượng này, bắt đầu từ thuyết tương đối của Albert Einstein.
- Theo thuyết tương đối của Einstein, không gian và thời gian kết hợp thành một cấu trúc xuyên suốt vũ trụ: Không-thời gian. Không-thời gian không phẳng mà cong, đồng thời có thể bị vật chất và năng lượng làm biến dạng.
- Hiệu ứng này dẫn đến hiện tượng giãn thời gian do lực hấp dẫn: Thời gian dường như trôi chậm hơn gần vật thể khối lượng lớn vì lực hấp dẫn của vật thể bẻ cong không-thời gian.
- Điều này nghĩa là, một chiếc đồng hồ đeo trên cổ chân sẽ dần chậm lại so với đồng hồ đeo trên cổ tay vì chân gần tâm lực hấp dẫn của Trái Đất hơn. Nhưng hiệu ứng này quá nhỏ nên con người sẽ không nhận ra.
- Phi hành gia trên trạm ISS ở xa tâm lực hấp dẫn của Trái Đất hơn người bình thường khoảng 418 km.
- Tuy nhiên, phi hành gia lại già chậm hơn do một hiện tượng khác: Giãn thời gian do vận tốc tương đối.
- Giãn thời gian do vận tốc tương đối là thời gian trôi chậm hơn khi một người di chuyển nhanh hơn.
- Hãy hình dung về một cặp sinh đôi, trong đó, một người ở trên tàu vũ trụ di chuyển với tốc độ gần bằng tốc độ ánh sáng, người kia vẫn ở lại Trái Đất. Khi trở về, người du hành vũ trụ chỉ già thêm vài tuổi, nhưng người chị em sinh đôi ở Trái Đất đã già đi cả chục tuổi.
- Chưa ai thực hiện thí nghiệm trong thực tế, nhưng có bằng chứng ủng hộ điều này.
- Các nhà khoa học từng phóng một chiếc đồng hồ nguyên tử vào quỹ đạo rồi đưa trở về trong khi giữ một chiếc đồng hồ giống hệt trên Trái Đất. Kết quả, chiếc đồng hồ lên quỹ đạo chạy chậm hơn một chút so với "chị em sinh đôi" của mình.
- Phi hành gia trên trạm ISS cũng trải qua tác động tương tự.
- Trạm ISS đang quay quanh Trái Đất với tốc độ khoảng 8 km mỗi giây (29.
-000 km/h), theo NASA.
- Điều này đồng nghĩa, thời gian với các phi hành gia trôi chậm hơn so với người dưới mặt đất.
- Với phi hành gia, hiện tượng giãn thời gian do vận tốc có tác động lớn hơn giãn thời gian do lực hấp dẫn.
- Vì vậy, họ già chậm hơn một chút khi ở ngoài không gian. Một hiện tượng kỳ lạ khác mà phi hành gia trải nghiệm có thể cũng giúp chống lão hóa. Một số nghiên cứu sơ bộ gần đây chỉ ra, telomere của phi hành gia mọc dài ra khi ở ngoài không gian.
- Telomere là những chóp ở đầu nhiễm sắc thể giúp bảo vệ khỏi các tổn thương. Khi con người già đi, telomere cũng ngắn lại. Nhưng sau khi phi hành gia Scott Kelly sống một năm ngoài không gian, ông trở về Trái Đất với telomere dài hơn lúc rời đi.
- Điều tương tự cũng xảy ra với 4 phi hành gia thương mại trong chuyến bay Inspiration4 của SpaceX năm 2021.
- Điều thú vị là họ chỉ sống ngoài không gian 3 ngày.
- Tuy nhiên, giới chuyên gia hiện chưa rõ chính xác telomere dài hơn có đi kèm với sống lâu hơn hay không.
- Họ vẫn đang tiếp tục nghiên cứu vấn đề này.
- Thêm vào đó, việc lão hóa chậm đi vài phần nhỏ của giây do các yếu tố không-thời gian cũng sẽ không tạo ra khác biệt đáng kể.
- Đó không phải lý do chính khiến con người đi vào vũ trụ.
- Theo NASA, việc khám phá vũ trụ giúp đoàn kết thế giới để truyền cảm hứng cho thế hệ tiếp theo, mang lại những phát hiện đột phá và tạo ra những cơ hội mới.
+Cho tới nay, giới khoa học vẫn chưa thể lý giải hiện tượng gây ra sự khác biệt giữa chuyển động dự kiến và chuyển động ghi lại được khi một tàu vũ trụ bay ngang hành tinh.
+ Vào ngày 8/12/1990, tàu vũ trụ Galileo của NASA trải qua hiện tượng "dị thường bay ngang thiên thể" khi bay qua Trái Đất trên đường tới sao Mộc và mặt trăng của nó.
+ Sự dị thường này được ghi nhận ở vài tàu vũ trụ khác kể từ sau đó và là một bí ẩn chưa thể lý giải cho tới ngày nay, theo IFL Science.
+ Trong các nhiệm vụ thăm dò những thiên thể trong hệ Mặt Trời, NASA thường áp dụng "hỗ trợ hấp dẫn".
+ Đây là kỹ thuật các tàu vũ trụ sử dụng chuyển động tương đối và lợi dụng trọng lực của các hành tinh hoặc thiên thể khác để đổi phương hướng và tăng vận tốc, đồng thời giảm chi phí và tiết kiệm nhiên liệu đẩy.
+ Về cơ bản, con tàu sẽ "mượn" một ít động lượng từ hành tinh hoặc ngôi sao.
+ Vài tàu vũ trụ tự động sử dụng kỹ thuật hỗ trợ hấp dẫn để tới mục tiêu.
+ Tàu Voyager 2 phóng vào tháng 8/1977 và bay qua sao Mộc để thăm dò và tăng tốc trên đường bay tới sao Thổ, theo NASA.
+ Tàu Voyager 1 phóng vào tháng 9 cùng năm cũng làm tương tự và tới sao Mộc trước Voyager 2.
+ Voyager 2 sau đó dùng trợ lực từ sao Thổ và sao Thiên Vương để bay tới sao Hải Vương và xa hơn.
+ Tàu Galileo dựa vào trợ lực từ sao Kim và Trái Đất khi quay vòng quanh Mặt Trời trên đường tới mục tiêu là sao Mộc.
+ Tàu Cassini mượn trợ lực hai lần từ sao Kim, một lần từ Trái Đất và một lần từ sao Mộc để tích lũy đủ động lượng tới sao Thổ.
+ NASA sử dụng hỗ trợ hấp dẫn quanh Trái Đất khá nhiều lần.
+ Phân tích 6 lần bay ngang qua của các tàu Galileo, NEAR, Cassini, Rosetta, và MESSENGER, những nhà nghiên cứu phát hiện vài lần tăng tốc của tàu vũ trụ vượt ngoài mức dự kiến từ hoạt động này.
+ Theo họ, có một sự thay đổi năng lượng bất thường trong các lần bay ngang qua Trái Đất đó, dù họ không thể tìm ra nguyên nhân rõ ràng hoặc lỗi hệ thống phía sau.
+ Nhóm nghiên cứu cho rằng tác động có liên quan tới vòng quay của Trái Đất.
+ Tuy nhiên, họ không loại trừ những lý do khác, từ hiệu ứng tương đối tới quầng vật chất tối quanh Trái Đất.
+ Vấn đề càng phức tạp hơn khi một số tàu vũ trụ, bao gồm tàu Juno, không gặp hiện tượng dị thường trong khi dùng hỗ trợ hấp dẫn, chứng tỏ có ngoại lệ và cần thêm dữ liệu từ những lần bay qua trong tương lai để kết luận.
+ Năm 2013, Stephen Adler, nhà vật lý hạt và giáo sư danh dự tại Viện Nghiên cứu Nâng cao Princeton đề xuất mô hình Trái Đất được gói trong hai vỏ vật chất tối.
+ Theo giả thuyết của ông, việc tàu tăng và giảm gia tốc là do tính co giãn và không co giãn của hai lớp vỏ.
+ Ông dự đoán tàu Juno của NASA sẽ bay qua Trái Đất vào tháng 10/2013 với vận tốc lệch 11,6 milimet/s so với tốc độ dự kiến.
+ Tuy nhiên, hành trình tới sao Mộc của Juno diễn ra không sai lệch so với tính toán ban đầu.
+ Adler cho rằng ví dụ này giúp loại bỏ giả thuyết về vật chất tối ảnh hưởng tới vận tốc tàu.
+ Thay vào đó, ông nghi ngờ rằng chênh lệch tốc độ của một số tàu trước đó là kết quả từ sai sót ở thiết bị đo đạc.

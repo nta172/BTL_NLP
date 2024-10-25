@@ -1,8 +1,22 @@
-Máy dự báo của bác sĩ George Merryweather thế kỷ 19 gồm 12 chai thủy tinh, mỗi chai chứa một con đỉa sống, có thể rung chuông khi sắp bão. Một số động vật có khả năng dự đoán sự thay đổi của thời tiết theo bản năng.
- Ví dụ, khi giông bão sắp đến, ếch nhái kêu, chim trở về tổ, bò, cừu và kiến trở nên bồn chồn.
- George Merryweather, bác sĩ kiêm nhà phát minh người Anh thế kỷ 19, nhận thấy những con đỉa thuốc của mình có hành vi khác lạ khi thời tiết xấu đi.
- Đặt trong các lọ thủy tinh nhỏ chứa nước, đỉa sẽ nằm thư giãn dưới đáy khi thời tiết tốt, nhưng vài giờ trước khi bầu trời trở nên u ám và gió bắt đầu thổi, đỉa có dấu hiệu bồn chồn. Nếu trời sắp mưa, nó sẽ di chuyển ra khỏi nước, còn nếu giông bão sắp đến, đỉa sẽ cuộn tròn thành quả bóng và giữ nguyên trạng thái đó trong suốt cơn bão. Khi thời tiết ổn định, đỉa sẽ trở lại đáy lọ. Merryweather quyết định khai thác khả năng này của đỉa bằng cách chế tạo một thiết bị dự báo bão được mô tả là "Máy điện báo điện từ khí quyển, điều khiển bởi bản năng động vật", gọi ngắn gọn là "Máy dự báo bão". Máy dự báo bão gồm 12 chai thủy tinh, mỗi chai chứa một con đỉa sống trong khoảng 3,8 cm nước.
- Phần trên của chai thủy tinh có một mảnh xương cá voi đặt ở cổ chai, nối dây với một chiếc búa nhỏ dùng để gõ vào một chiếc chuông kim loại lớn.
- 12 chai xếp thành hình tròn xung quanh chiếc chuông kim loại. Khi giông bão sắp đến, sự thay đổi áp suất khí quyển khiến đỉa bò ra khỏi nước, tiến đến cổ chai, đẩy xương cá voi ra khỏi vị trí và rung chuông. Nhiều chuông rung liên tiếp nghĩa là chiếc máy dự báo một cơn bão đang đến.
- Trong một bài mô tả thiết bị, Merryweather cho biết, đỉa được đặt trong các chai thủy tinh thành vòng tròn để ngăn chúng cảm thấy đau khổ khi bị giam giữ một mình. Khoảng năm 1850, ông đã dành hơn một năm để thử nghiệm thiết bị và gửi thư cho chủ tịch Hội Triết học và Viện Whitby mỗi khi "ban cố vấn đỉa" dự báo có giông bão. Merryweather sau đó vận động chính quyền sử dụng thiết kế của ông quanh bờ biển Anh, nhưng họ lại quyết định sử dụng ống thủy tinh dự báo bão của Robert FitzRoy. Máy dự báo bão của Merryweather không được ưa chuộng như ông mong đợi.
- Thậm chí thiết bị gốc trưng bày tại triển lãm Great Exhibition năm 1851 cũng bị mất. Một bản sao của máy dự báo thời tiết này hiện được trưng bày tại Bảo tàng Whitby, Anh.
+Caenorhabditis elegans, loài giun chỉ dài một milimet với 959 tế bào là vật không thể thiếu ở nhiều phòng thí nghiệm trên khắp thế giới.
+ Khi các nhà khoa học đoạt giải Nobel Y sinh hoặc Hóa học, họ thường cảm ơn gia đình và đồng nghiệp, có thể là trường đại học hoặc bất cứ ai tài trợ cho nghiên cứu của họ.
+ Năm nay, khi nhà sinh vật học phân tử Gary Ruvkun nhận giải thưởng danh giá nhất trong sự nghiệp, ông đã dành vài phút khen ngợi đối tượng thí nghiệm: một lùi giun tròn nhỏ có tên khoa học Caenorhabditis elegans.
+ Đây không phải lần đầu tiên C. elegans được cảm ơn nhờ hỗ trợ nghiên cứu đoạt giải.
+ Giải thưởng của tiến sĩ Ruvkun thực chất là giải Nobel thứ 4 dành cho nghiên cứu về C. elegans, củng cố vai trò to lớn của loài giun tròn này trong phát hiện khoa học.
+ Những con giun tròn dài một milimet đã giúp giới khoa học tìm hiểu cách tế bào khỏe mạnh được chỉ đạo để tự hủy và cách quá trình trở nên bất ổn ở bệnh AIDS, đột quỵ và bệnh thoái hóa.
+ Đó là chủ đề của nghiên cứu đoạt giải Nobel Y sinh năm 2002.
+ Các học giả tự nhận là "người giun" được hội đồng Nobel năm 2006 ghi nhận nhờ phát hiện sự câm lặng gene, nền tảng cho một lớp thuốc hoàn toàn mới.
+ Hai năm sau, giải Nobel Hóa học được trao cho các nhà khoa học sử dụng giun tròn để phát minh "đèn lồng" tế bào cho phép giới sinh vật học quan sát cơ chế hoạt động bên trong tế bào.
+ Mỗi lần nhận giải, học giả đều cảm ơn C. elegans vì đóng góp của chúng, dù phát biểu nổi tiếng nhất có lẽ đến từ Sydney Brenner. "Không nghi ngờ gì, nhân vật thứ tư đoạt giải Nobel năm nay là Caenorhabditis elegans", ông chia sẻ trong một bài giảng ở Stockholm. "Nó xứng đáng với mọi sự tôn vinh, nhưng tất nhiên nó sẽ không thể chia sẻ tiền thưởng".
+ Tiến sĩ Brenner thường được cho là che đẻ của nghiên cứu về C. elegans.
+ Ông góp phần khiến C. elegans trở nên phổ biến ở các phòng thí nghiệm trên khắp thế giới, sau khi dành gần một thập kỷ săn tìm mô hình nghiên cứu hoàn hảo.
+ C. elegans được đặt theo từ "thanh nhã" trong tiếng Latinh bởi cách chúng di chuyển theo hình sóng uốn lượn.
+ Một trong những đặc điểm nổi bật của loài giun này là tính đơn giản, cho phép nhà khoa học kiểm tra các giả thuyết về khái niệm sinh học cơ bản trong mô hình dễ hiểu.
+ Giun tròn C. elegans chỉ có 959 tế bào, một con số dễ xử lý so với hàng nghìn tỷ tế bào ở người.
+ Số phận của mỗi tế bào rất dễ theo dõi bởi giun C. elegans trở nên trong suốt dưới ánh đèn của kính hiển vi và trải qua mọi giai đoạn phát triển chỉ trong 3 ngày.
+ Chúng là động vật đầu tiên có hệ gene được giải mã hoàn toàn vào năm 1998, vài năm trước khi các nhà khoa học có thể làm điều tương tự với ruồi và chuột.
+ Giun C. elegans cũng không đắt đỏ, dễ lưu trữ và tự sinh sản.
+ Giun cái có tinh trùng hoạt động, cho phép chúng tự thụ tinh.
+ Tiến sĩ Kimble thừa nhận phần lớn thành công của nghiên cứu đến từ thực tế các nhà khoa học làm việc với giun tròn thường chia sẻ tài nguyên và hợp tác.
+ Tiến sĩ Ruvkun ở Trường Y Harvard và người đồng nhận giải với ông là Victor Ambros, giáo sư y học phân tử ở Trường Y UMass Chan, chia sẻ phát hiện với nhau, cho phép họ xâu chuỗi cơ chế của microARN.
+ Nếu không, nghiên cứu đoạt giải của họ có thể bị trì trệ nhiều năm, thậm chí nhiều thế kỷ.

@@ -1,31 +1,21 @@
-Chuyên gia của Qualcomm, Samsung, FPT... đánh giá lĩnh vực AI và bán dẫn có khả năng tiến tới quy mô hàng nghìn tỷ đôla rất sớm.
- Hội thảo "Doanh nghiệp và thế hệ trẻ trước làn sáng công nghệ trí tuệ nhân tạo và công nghệ bán dẫn" và "Hợp tác quốc tế phát triển nguồn nhân lực thiết kế vi mạch" diễn ra song song chiều 1/10, tại Trung tâm Đổi mới sáng tạo Quốc gia (NIC), Khu Công nghệ cao Hòa Lạc, Hà Nội.
- Sự kiện nằm trong khuôn khổ "Ngày hội Đổi mới sáng tạo Việt Nam 2024" (Innovate Vietnam 2024) do NIC phối hợp VCCorp tổ chức.
- Tại sự kiện, các diễn giả chia sẻ về tác động của AI, bán dẫn với cuộc sống con người; lợi thế và những rào cản trong đào tạo nguồn nhân lực chất lượng cao.
- Tham dự hội thảo "Doanh nghiệp và thế hệ trẻ trước làn sáng công nghệ trí tuệ nhân tạo và công nghệ bán dẫn", bà Becky Fraser, Phó Chủ tịch phụ trách quan hệ Chính phủ, Tập đoàn Qualcomm, khẳng định AI đang "len lỏi vào từng ngóc ngách trong cuộc sống".
- Công nghệ AI phát triển trong các thiết bị cầm tay đang hỗ trợ con người tiết kiệm thời gian trong công việc, sinh hoạt hàng ngày.
- Đồng thời, các thiết bị được tích hợp AI ngày nay đều an toàn, bền vững và có tính ổn định, góp phần giảm tiêu thụ năng lượng của các trung tâm dữ liệu lớn và làm tăng hiệu quả điện toán đám mây.
- Trong khi đó, TS.
- Ettikan Karuppiah, Giám đốc - Chuyên gia công nghệ khu vực châu Á - Thái Bình Dương, Tập đoàn NVIDIA, nhấn mạnh về thế hệ tiếp theo của Gen AI.
- Ông cho biết tập đoàn đang cố gắng kết nối các nhà sáng tạo như Google, Facebook... cùng tham gia vào tiến trình này. Nhiều phát minh mới đã xuất hiện nhờ AI tạo sinh.
- Trong đó, một số công ty Việt Nam cũng tạo ra các sản phẩm AI có giá trị thương mại.
- Chia sẻ về những lợi ích của AI, ông Lương Hải Đăng, Giám đốc Truyền thông và Đối ngoại, Công ty Điện tử Samsung Vina, tiết lộ về chiến lược "AI for All" của doanh nghiệp.
- Theo đó, AI sẽ phục vụ tất cả nhu cầu của người dùng, trở thành trợ thủ trong cuộc sống hàng ngày.
- Với AI tích hợp trên sản phẩm, người dùng có thể tìm kiếm hình ảnh bằng cách khoanh vùng chủ thể.
- Điện thoại Samsung tích hợp Galaxy AI cũng hỗ trợ dịch, tóm tắt văn bản, phiên âm lời thoại bằng nhiều ngôn ngữ thông qua Note Assistant.
- Trong tương lai, Samsung hướng đến việc trở thành một trong những thương hiệu dẫn đầu về công nghệ.
- Do đó, hãng tập trung vào phát triển 5G, AI forum.
- Với AI, thương hiệu sẽ chú trọng vào dải sản phẩm gồm nhiều tính chất đột phá như TV có thể xoay, tủ lạnh lắp ghép module và thay đổi màu sắc... "Với sự chuẩn bị kỹ lưỡng và tầm nhìn dài hạn, Samsung đã sẵn sàng cho một cuộc cách mạng công nghệ tiếp theo, nơi AI sẽ đóng vai trò trung tâm, nâng cao chất lượng cuộc sống của người dùng trên toàn thế giới", ông Đăng khẳng định.
- Các diễn giả nhận định AI và bán dẫn có tốc độ phát triển "siêu nhanh".
- Đây là hai thị trường có khả năng tiến tới quy mô hàng nghìn tỷ đôla rất sớm.
- Họ đánh giá Việt Nam hiện hội tụ những yếu tố thuận lợi để phát triển hai lĩnh vực này, gồm: dân số trẻ, nhu cầu ứng dụng AI, bán dẫn trong nhiều lĩnh vực; nhiều ông lớn quan tâm phát triển công nghệ mới; Chính phủ hỗ trợ phát triển 2 lĩnh vực; Việt Nam đẩy mạnh hợp tác với nhiều cường quốc công nghệ trên thế giới.
- Tuy nhiên, đi cùng cơ hội là thách thức, trong đó vấn đề đào tạo nguồn nhân lực chất lượng cao.
- Ông Trần Đăng Hòa, Chủ tịch FPT Semiconductor, cho biết Việt Nam có số lượng kỹ sư AI, bán dẫn khiêm tốn hơn nhiều so với các đối thủ cạnh tranh trong khu vực.
- Số lượng giáo viên có kinh nghiệm thực tế cũng hạn chế.
- Vấn đề đào tạo cũng được ông Ngạc An Bang, Phó hiệu trưởng trường Đại học Khoa học Tự nhiên, nhắc đến trong hội thảo "Hợp tác quốc tế phát triển nguồn nhân lực thiết kế vi mạch".
- Ông cho biết, một trong những rào cản đầu tiên Việt Nam đang gặp phải là năng lực của đội ngũ giảng viên tham gia vào quá trình đào tạo. Ngoài ra, phòng thí nghiệm tại các trường đại học chưa đáp ứng được yêu cầu, nhất là phòng thí nghiệm chuyên sâu về công nghệ bán dẫn.
- Cũng theo vị này, các giảng viên, sinh viên bị hạn chế khả năng tiếp cận các công nghệ hiện đại trong ngành bán dẫn.
- Họ khó có cơ hội thực tập thực tế, trải nghiệm ở các doanh nghiệp công nghệ bán dẫn; nếu có, thông thường chỉ là các chuyến thăm quan. Lý do là các công ty đều cần sự bảo mật, bảo hộ bản quyền cao. Kiến nghị về giải pháp nâng cao chất lượng nguồn nhân lực giảng viên cũng như sinh viên, ông Trần Đăng Hòa cho rằng Việt Nam cần đầu tư những chương trình đào tạo chuyên nghiệp về AI và bán dẫn, kết hợp giữa lý thuyết và thực hành.
- Đồng thời, các cơ sở đào tạo phải thu hút những chuyên gia trong và ngoài nước tham gia giảng dạy và chuyển giao kiến thức. Ngoài ra, Chính phủ cần đưa ra những chính sách ưu tiên trong xây dựng hệ thống phòng thí nghiệm hiện đại để sinh viên có thể thiết kế, nghiên cứu, trao đổi kiến thức cũng như học hỏi từ các giảng viên, chuyên gia; kết hợp mạng lưới nhân tài. "Chúng tôi kêu gọi người trẻ hãy coi AI, bán dẫn là cánh cửa để người Việt Nam có thể sánh vai cùng các quốc gia trong khu vực", Chủ tịch FPT Semiconductor đề xuất.
- Trước đó, phát biểu tại hội thảo "Doanh nghiệp và thế hệ trẻ trước làn sáng công nghệ trí tuệ nhân tạo và công nghệ bán dẫn", Bộ trưởng Kế hoạch và Đầu tư Nguyễn Chí Dũng cho biết đây là thời điểm quan trọng để Việt Nam vượt qua mục tiêu, hoàn thành kế hoạch của chiến dịch 10 năm (2021-2030).
- Đến năm 20230, Việt Nam phải có công nghệ hiện đại và phấn đấu tới năm 2045, kỷ niệm 100 năm ngày thành lập đất nước, người dân đạt mức thu nhập cao. "Để xây dựng đất nước thịnh vượng, Việt Nam chỉ có thể dựa vào khoa học công nghệ, chuyển đổi số, chuyển đổi xanh, giá trị văn hóa và sức mạnh của con người để trỗi dậy, thúc đẩy phát triển", Bộ trưởng nhấn mạnh.
+Anh Hoàng Tùng (Hà Nội) đặt mua iPhone 16 Pro Max trên Apple Store Online nhưng khi nhận chỉ có hộp, không có máy.
+ Chiều 19/10, anh Tùng nhận được kiện hàng cho đơn anh đặt ngày 11/10, là một chiếc iPhone 16 Pro Max trên trang bán hàng trực tuyến của Apple.
+ Đơn vị vận chuyển là Giao Hàng Tiết Kiệm (GHTK), cũng là công ty phụ trách hầu hết đơn hàng trên Apple Store Online.
+ Gói hàng trị giá 34,9 triệu đồng đã được người mua thanh toán trước.
+ Khi nhận kiện hàng, anh Tùng thấy nghi ngờ vì trọng lượng khá nhẹ và phát hiện có dấu hiệu đã bị cậy mở từ trước.
+ Niêm phong (seal) của hộp carton bên ngoài còn nguyên nhưng ở cạnh bên xô lệch.
+ Anh quay video toàn bộ quá trình mở kiện hàng, phát hiện hộp đựng iPhone 16 Pro Max bên trong bị bẩn, mất seal, không còn máy bên trong.
+ Video được anh Tùng đăng lên một hội nhóm sử dụng thiết bị Apple và thu hút hàng trăm lượt bình luận.
+ Nhiều người tỏ ra lo sợ gặp tình huống tương tự bởi thiết bị của Apple đều đắt tiền và muốn mua trực tiếp từ hãng chỉ có cách đặt trực tuyến.
+ Anh liên hệ với đơn vị vận chuyển và cho biết được quản lý công ty hỗ trợ, hứa xử lý dứt điểm. "Họ nói vấn đề đã được Apple tiếp nhận nhưng do trong ngày nghỉ nên sẽ có câu trả lời chính thức vào đầu tuần.
+ Bên GHTK sẽ chuyển lại hàng cho tôi có thể vào Thứ Ba, tùy tình trạng có sẵn của sản phẩm", anh nói.
+ Máy anh Tùng đặt là iPhone 16 Pro Max màu titan sa mạc dung lượng 256 GB, model đã hết hàng trên hầu hết hệ thống bán lẻ.
+ Theo dữ liệu số serial anh cung cấp, máy bị thất lạc đã được kích hoạt ngày 17/10, hai ngày trước khi anh nhận được kiện hàng.
+ Trả lời VnExpress, đại diện GHTK cho biết ngay sau sự việc đã trao đổi với Apple để đảm bảo quyền lợi cho người dùng.
+ Người mua sẽ nhận được đơn hàng thay thế trong thời gian sớm nhất. "Chúng tôi đang tiếp tục điều tra nguyên nhân, nếu có dấu hiệu vi phạm pháp luật, công ty sẽ trình báo công an xử lý nghiêm theo quy định", người đại diện nói.
+ Apple chưa đưa ra phản hồi về sự việc.
+ Tại Việt Nam, nhiều chủ cửa hàng đánh giá việc gửi thiết bị đắt tiền tiềm ẩn nhiều rủi ro.
+ Anh Lê Bình, chủ cửa hàng máy ảnh ở Vọng Đức, Hà Nội cho biết từng gửi cho khách ở TP HCM sản phẩm trị giá 70 triệu đồng nhưng khi nhận lại là cục gạch.
+ Cửa hàng sau đó mất nhiều thời gian để xử lý nhưng chỉ được đền bù một phần nhỏ của đơn hàng do không mua bảo hiểm đầy đủ.
+ Trong trường hợp của anh Tùng, chuyên gia nhận định cách xử lý ban đầu là chính xác khi đã quay lại toàn bộ quá trình bóc sản phẩm.
+ Đây là bằng chứng giúp người dùng khiếu nại tới đơn vị vận chuyển hoặc bên gửi hàng.

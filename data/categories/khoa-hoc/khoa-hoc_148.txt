@@ -1,15 +1,34 @@
-Các nhà khoa học phát hiện ra nguyên nhân gây ra những cơn bão siêu mạnh trên Sao Thiên Vương và Sao Hải Vương là do khí metan.
- Sao Thiên Vương và Sao Hải Vương là hai hành tinh nằm ngoài cùng trong hệ Mặt Trời và được gọi là hành tinh băng khổng lồ vì chúng giàu nước.
- Các nhà khoa học hiểu rất ít về những hành tinh xa xôi này. Nhưng sau khi tàu vũ trụ Voyager 2 bay ngang qua chúng vào những năm 1980, các nhà khoa học nhận ra hai hành tinh này đôi khi xuất hiện những cơn bão lớn, tồn tại trong thời gian ngắn. Những cơn bão dữ dội nhưng thoáng qua này xuất hiện vài năm một lần và lớn đến mức có thể nhìn thấy chúng (bằng kính viễn vọng) từ Trái Đất.
- Các nhà nghiên cứu từ lâu đã tự hỏi tại sao những cơn bão trên các hành tinh này lại khó đoán như vậy?. Một nhóm nhà thiên văn học phát hiện, metan có thể là "chìa khóa" kiểm soát những cơn bão này. Kết quả nghiên cứu công bố trên cơ sở dữ liệu arXiv hôm 3/9.
- Để tạo ra một cơn bão, nhiệt phải tăng lên từ bên trong của hành tinh lên bề mặt của nó.
- Ở đó, khí nóng bắt đầu nguội đi, có thể gây ra nhiễu động và kích hoạt hình thành bão. Nhưng bên trong các hành tinh này luôn ấm, và bề mặt bên ngoài luôn lạnh, vậy tại sao bão không xảy ra mọi lúc?
- Theo nghiên cứu, metan là phân tử phổ biến thứ ba, sau hydro và heli, trong bầu khí quyển sâu của cả hai hành tinh.
- Thông thường, khí metan không có nhiều tác dụng ngoại trừ việc trôi nổi trong khí quyển, nhưng các nhà nghiên cứu đã sử dụng mô hình phân giải đám mây 3D để mô phỏng quá trình đối lưu.
- Sử dụng các mô phỏng này, nhóm kết luận vận tốc điển hình của sự đối lưu khô trong bầu khí quyển sâu khá thấp (khoảng 1 m/s) nhưng đủ để duy trì quá trình vận chuyển mêtan hướng lên trên và sự đối lưu ẩm ở mức độ ngưng tụ mêtan bị ức chế mạnh. Khí metan thường tồn tại ở dạng khí, nhưng ở các vùng phía trên của bầu khí quyển thế giới băng giá này, khí metan có thể ngưng tụ, tạo thành những giọt nước rơi xuống các độ cao thấp hơn, các tác giả nghiên cứu đề xuất.
- Ở đó chúng nóng lên và bốc lên trở lại, hoàn thành một chu kỳ tương tự như chu trình nước trên Trái Đất. Khi bầu khí quyển trở nên quá bão hòa với khí metan, một lớp ổn định sẽ hình thành.
- Giống như một tấm chăn ướt, lớp ổn định này ngăn nhiệt đến bề mặt, do đó ngăn chặn sự hình thành bão.
- Các lớp này thường được tìm thấy ở tất cả các vĩ độ của Sao Hải Vương và xung quanh đường xích đạo và các vĩ độ trung bình của Sao Thiên Vương. Nhưng các cực của Sao Thiên Vương không có đủ khí metan để tạo ra một lớp bão hòa ổn định.
- Do đó, nhiệt có thể dễ dàng bốc lên bề mặt và tạo ra những cơn bão lớn hơn, nghiên cứu nêu. Mặt khác, Sao Hải Vương có nhiều khí metan hơn và các nhà nghiên cứu phát hiện ra rằng đôi khi khí metan đó có thể bốc lên từ lớp ổn định và phân tán khắp khí quyển, cho phép nhiệt lưu thông và bão hình thành, trước khi mọi thứ ổn định trở lại.
- Ở những hành tinh băng khổng lồ, sự đối lưu khô yếu và sự đối lưu ẩm bị ức chế mạnh.
- Tuy nhiên, khi đủ mêtan được vận chuyển lên trên, thông qua sự đối lưu khô và sự khuếch tán hỗn loạn, các cơn bão đối lưu ẩm không thường xuyên có thể hình thành. Những cơn bão này sẽ xảy ra thường xuyên hơn trên Sao Hải Vương so với Sao Thiên Vương, do dòng nhiệt bên trong của Sao Hải Vương, nhóm nghiên cứu kết luận. Nhóm tác giả đề xuất cần phải nghiên cứu thêm để hiểu cách các yếu tố trong bầu khí quyển khổng lồ băng giá này tương tác với nhau.
+Thất bại trong trận công thành hơn 2.
+300 năm trước, nhiều bộ phận của tháp gỗ bọc sắt Helepolis bị nấu chảy để xây Tượng Thần Mặt Trời Rhodes.
+ Cuối thế kỷ thứ 4 trước Công nguyên, sau cái chết của Alexander Đại đế, vương quốc Rhodes phát triển mối quan hệ gắn bó về thương mại và văn hóa với pharaoh Ptolemy I của Ai Cập, tạo nên một liên minh kiểm soát hoạt động thương mại trên khắp biển Aegean.
+ Vua của Macedonia, Antigonus I, cảm thấy bị đe dọa trước liên minh này.
+ Ông lo sợ Ptolemy I có thể dùng đảo Rhodes làm căn cứ tấn công Macedonia, thậm chí người Rhodes có thể cung cấp tàu thuyền và vật tư cho vị pharaoh.
+ Antigonus I quyết định phá vỡ liên minh này.
+ Năm 305 trước Công nguyên, ông cử con trai và cũng là vua tương lai của Macedonia, Demetrius, cùng một đội tàu chiến quy mô đến bao vây Rhodes.
+ Mục tiêu đầu tiên là chiếm giữ bến cảng của hòn đảo.
+ Demetrius nhanh chóng xây dựng bến cảng riêng cạnh bến cảng ban đầu và một con đê để bảo vệ các hoạt động trên biển của mình.
+ Cùng lúc đó, quân đội của ông tàn phá hòn đảo và xây một khu trại lớn trên vùng đất sát thành phố Rhodes nhưng vẫn nằm ngoài tầm bắn.
+ Trong cuộc chiến, cả hai bên đều sử dụng nhiều thiết bị kỹ thuật như mìn và những công cụ vây hãm khác nhau, đáng chú ý nhất là tháp vây hãm khổng lồ của Demetrius mang tên Helepolis, hay "Kẻ chiếm các thành phố".
+ Tháp Helepolis có hình dạng vuốt nhọn dần lên trên, cao khoảng 40 m, làm bằng gỗ và bọc các tấm sắt.
+ Bên trong tháp chia thành nhiều tầng, nơi có hàng trăm người nằm chờ để tấn công tường thành bằng máy bắn đá và xe phá thành.
+ Để bắn, tường phía trước của tháp trang bị nhiều cổng pháo và được bảo vệ bằng những cánh cửa có thể điều chỉnh cơ học, lót da nhồi len và rong biển để chống cháy.
+ Toàn bộ tòa tháp, nặng 160 tấn, đặt trên 8 bánh xe, mỗi bánh cao khoảng 4,5 m.
+ Cần 3.
+400 người làm việc luân phiên theo nhóm để đẩy và đưa tòa tháp vào đúng vị trí phía trước tường thành.
+ Kết quả, quân Rhodes tấn công Helepolis dữ dội, thậm chí phá hủy một số tấm sắt bọc quanh tháp, khiến cấu trúc gỗ dễ hư hại lộ ra.
+ Để bảo vệ Helepolis, Demetrius đã ra lệnh rút tòa tháp về.
+ Một năm sau, lực lượng cứu viện Rhodes gồm nhiều tàu thuyền mà Ptolemy cử đi đã đến nơi.
+ Demetrius cùng quân đội của mình từ bỏ cuộc vây hãm, để lại đa số máy móc vũ khí.
+ Một thập kỷ sau, người Rhodes nấu chảy toàn bộ số vũ khí mà quân đội của Demetrius để lại, bao gồm cả những tấm sắt của Helepolis, và bán phần còn lại của tòa tháp.
+ Với số tiền và vật liệu thu được như đồng, sắt, họ dựng lên Tượng Thần Mặt Trời Rhodes để kỷ niệm cuộc chiến chống lại kẻ thù hào hùng của mình.
+ Bức tượng khổng lồ được xây từ bộ khung sắt gắn các tấm đồng để tạo thành lớp da.
+ Sau đó, thợ xây lấp đầy cấu trúc này bằng những khối đá.
+ Bức tượng đứng trên bệ đá cẩm thạch cao 15 m.
+ Đến năm 280 trước Công nguyên, bức tượng hoàn thành sau 12 năm chế tạo.
+ Tượng Thần Mặt Trời Rhodes chỉ tồn tại 54 năm.
+ Một trận động đất xảy ra tại Rhode năm 226 trước Công nguyên khiến bức tượng gãy đầu gối và sụp đổ.
+ Những mảnh vỡ của bức tượng cuối cùng được thu thập và nấu chảy khi Rhodes rơi vào tay người Arab vào năm 653.
+ Số đồng thu được bị bán cho một thương gia Do Thái.
+ Người này đã cần đến hơn 900 con lạc đà để vận chuyển toàn bộ số đồng.
+ Dù không còn tồn tại, cả tháp Heliopolis và Tượng Thần Mặt Trời Rhodes đều có dấu ấn đậm nét trong văn hóa hiện đại.
+ Ví dụ, thiết kế của Tượng Nữ thần Tự do ở New York lấy cảm hứng từ Tượng Thần Mặt Trời Rhodes - công trình được coi là một trong 7 kỳ quan thế giới cổ đại.

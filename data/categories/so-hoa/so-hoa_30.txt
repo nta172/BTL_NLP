@@ -1,24 +1,68 @@
-OpenAI được cho là đang thảo luận để không còn là tổ chức phi lợi nhuận, với quyền lực nằm trong tay CEO Sam Altman.
- Theo Reuters, OpenAI sẽ điều chỉnh cấu trúc công ty nhằm thu hút nhiều nhà đầu tư hơn.
- Trong đó, hội đồng quản trị phi lợi nhuận sẽ tiếp tục tồn tại, nhưng chỉ sở hữu một phần nhỏ cổ phần và không còn có tiếng nói quyết định như hiện nay.
- Trong khi đó, Sam Altman sẽ lần đầu nhận cổ phần trong công ty vì lợi nhuận mới - dự kiến được định giá 150 tỷ USD sau khi tái cấu trúc.
- OpenAI cũng đang dần loại bỏ giới hạn về lợi nhuận cho nhà đầu tư.
- Dù vậy, nguồn tin nhấn mạnh "kế hoạch vẫn đang được thảo luận với các luật sư và cổ đông, thời gian hoàn thành chưa được xác định".
- OpenAI không khẳng định nhưng cũng không phủ nhận sau bài báo của Reuters. "Chúng tôi vẫn tập trung vào việc xây dựng AI theo hướng mục tiêu có lợi cho tất cả, cũng như đang làm việc với hội đồng quản trị nhằm đảm bảo sứ mệnh thành công.
- Hội đồng phi lợi nhuận là cốt lõi của sứ mệnh và sẽ tiếp tục tồn tại", phát ngôn viên của OpenAI cho biết.
- Thông tin OpenAI tái cấu trúc xuất hiện ngay sau khi Giám đốc Công nghệ Mira Murati tuyên bố từ chức ngày 25/9.
- Cùng ngày, CEO OpenAI Sam Altman cũng thông báo Giám đốc nghiên cứu Bob McGrew và Phó chủ tịch phụ trách nghiên cứu Barret Zoph cũng nghỉ việc.
- OpenAI được thành lập năm 2015 và hoạt động như một tổ chức phi lợi nhuận, hướng đến việc phát triển AI an toàn và có lợi cho nhân loại.
- Tuy nhiên, trên website, OpenAI giải thích, ban đầu họ dự định huy động tài trợ khoảng một tỷ USD cho tham vọng xây dựng siêu trí tuệ nhân tạo AGI, nhưng vài năm sau khi ra đời, họ mới nhận được số tiền khoảng 130,5 triệu USD. "Việc huy động được quá ít vốn không thể giúp OpenAI thu hút nhân tài cũng như đầu tư tăng sức mạnh tính toán và đây là điều nguy hiểm cho sứ mệnh của chúng tôi.
- Do đó, chúng tôi nghĩ đến một cấu trúc mới, gồm một tổ chức phi lợi nhuận để theo đuổi tham vọng và một tổ chức vì lợi nhuận để thu hút vốn", nội dung trên website có đoạn.
- Theo Business Insider, với cơ cấu đó, OpenAI có thể sa thải bất cứ ai trong công ty, kể cả người nắm quyền cao nhất.
- Bộ phận có quyền quyết định là toàn bộ hội đồng phi lợi nhuận.
- Điều này thể hiện rõ qua cuộc lật đổ Sam Altman vào tháng 11/2023.
- Dù vậy, ông nhanh chóng phục hồi chức vụ sau 5 ngày nhờ sự ủng hộ của nhân viên và nhà đầu tư.
- Theo giới quan sát, sắp tới, nếu loại bỏ việc kiểm soát phi lợi nhuận, OpenAI sẽ hoạt động giống như một startup điển hình và được giới đầu tư hoan nghênh khi vì đã đổ hàng tỷ USD vào công ty.
- Tuy nhiên, nó cũng làm dấy lên những lo ngại từ cộng đồng an toàn AI, liên quan đến trách nhiệm của công ty khi theo đuổi siêu trí tuệ nhân tạo, nhất là khi OpenAI đã giải thể nhóm kiểm soát rủi ro đầu năm nay.
- Cấu trúc mới của OpenAI thời gian tới sẽ giống đối thủ Anthropic và xAI của Musk.
- Cả hai được đăng ký là công ty vì lợi ích xã hội (Benefit Corporations) -một dạng doanh nghiệp thúc đẩy trách nhiệm xã hội và bền vững bên cạnh việc kiếm lời.
- Trước đó, cuối tháng 2 và đầu tháng 8, tỷ phú Elon Musk đã nộp đơn lên tòa án liên bang tại Carlifornia, cáo buộc rằng ông đã bị CEO OpenAI lừa dối để cùng thành lập công ty.
- Theo Musk, Altman đã dụ dỗ ông để cùng tạo công ty với lời hứa "nó sẽ đi theo hướng an toàn và mở so với các gã khổng lồ công nghệ theo đuổi lợi nhuận".
- Sau khi tham gia và đầu tư hàng triệu USD, Musk cảm thấy ông bị phản bội vì "Altman nói với tôi sẽ đảm bảo cấu trúc phi lợi nhuận giúp tạo sự trung lập, tập trung vào an toàn và tính mở vì lợi ích của nhân loại, không phải giá trị cổ đông. Nhưng hóa ra, đây chỉ là từ thiện suông".
+Loa không dây Evo One của Cambridge Audio có thiết kế theo hơi hướng cổ điển, âm thanh chất lượng cao cùng công suất 700 W.
+ Ra mắt thị trường quốc tế vào tháng 8, mẫu Evo One được Cambridge Audio, hãng âm thanh Anh ra đời từ năm 1968, phân phối tại Việt Nam trong tháng 10.
+ So với các đối thủ, loa có thiết kế khá cổ điển và theo hướng tối giản.
+ Nhìn mặt trước, người dùng có thể liên tưởng đến một chiếc loa thanh (soundbar) nhưng mặt sau rộng hơn, hoặc một mẫu đầu câm dùng băng cassette cách đây vài chục năm, đặc biệt khi để ý đến phần màn hình hiển thị và các nút bấm phía dưới.
+ Ra mắt thị trường quốc tế vào tháng 8, mẫu Evo One được Cambridge Audio, hãng âm thanh Anh ra đời từ năm 1968, phân phối tại Việt Nam trong tháng 10.
+ So với các đối thủ, loa có thiết kế khá cổ điển và theo hướng tối giản.
+ Nhìn mặt trước, người dùng có thể liên tưởng đến một chiếc loa thanh (soundbar) nhưng mặt sau rộng hơn, hoặc một mẫu đầu câm dùng băng cassette cách đây vài chục năm, đặc biệt khi để ý đến phần màn hình hiển thị và các nút bấm phía dưới.
+ Phần phía dưới màn hình gồm 9 nút bấm, gợi liên tưởng đến phím điều khiển băng cassette hoặc CD ngày xưa.
+ Chức năng chính chủ yếu là chuyển, dừng bài hát, tăng giảm âm lượng và một số tùy chọn hiện đại hơn như xem thông tin kết nối, các kết nối hiện có, xem giờ.
+ Phần phía dưới màn hình gồm 9 nút bấm, gợi liên tưởng đến phím điều khiển băng cassette hoặc CD ngày xưa.
+ Chức năng chính chủ yếu là chuyển, dừng bài hát, tăng giảm âm lượng và một số tùy chọn hiện đại hơn như xem thông tin kết nối, các kết nối hiện có, xem giờ.
+ Điểm trừ là người dùng không có tùy chọn cảm ứng, thay vào đó chỉ sử dụng điều khiển vật lý qua hệ thống phím bấm.
+ Evo One có phần thân bao phủ một lớp màng vải, trong khi phía trên sử dụng gỗ sồi chất lượng cao, được xử lý tỉ mỉ.
+ Thiết kế này giúp thiết bị có thể đặt ở các không gian mang tính sang trọng hoặc xu hướng hoài cổ.
+ Evo One có phần thân bao phủ một lớp màng vải, trong khi phía trên sử dụng gỗ sồi chất lượng cao, được xử lý tỉ mỉ.
+ Thiết kế này giúp thiết bị có thể đặt ở các không gian mang tính sang trọng hoặc xu hướng hoài cổ.
+ Phần đế loa được làm bằng kim loại sơn phủ màu đen.
+ Bộ phận này thiết kế quá sát với bề mặt có thể khiến tích tụ bụi bẩn theo thời gian và khó vệ sinh.
+ Chất liệu kim loại cũng khiến tổng thể loa nặng 14,5 kg, kích thước 675 x 129 x 290 mm.
+ Tại thị trường Việt Nam, mẫu loa hiếm hoi có cùng thiết kế dạng chữ nhật như vậy là Naim Muso Wood Edition có kích thước 628 x 122 x 264 mm và 11,2 kg.
+ Phần đế loa được làm bằng kim loại sơn phủ màu đen.
+ Bộ phận này thiết kế quá sát với bề mặt có thể khiến tích tụ bụi bẩn theo thời gian và khó vệ sinh.
+ Chất liệu kim loại cũng khiến tổng thể loa nặng 14,5 kg, kích thước 675 x 129 x 290 mm.
+ Tại thị trường Việt Nam, mẫu loa hiếm hoi có cùng thiết kế dạng chữ nhật như vậy là Naim Muso Wood Edition có kích thước 628 x 122 x 264 mm và 11,2 kg.
+ So với hầu hết loa không dây sử dụng nguồn điện, Evo One trang bị đa dạng cổng kết nối cho âm thanh chất lượng cao, gồm AUX, MM Phono (kết nối với các đầu đĩa than), cổng quang Optical, các cổng thông dụng như cổng mạng LAN, cổng USB-A hay HDMI.
+ Điểm trừ là không có cổng USB-C phổ biến.
+ Để thuận tiện kết nối, Cambridge Audio cũng in sẵn thông tin cổng lên máy theo cả hai chiều thay vì một chiều như hầu hết sản phẩm trên thị trường.
+ Về khả năng không dây, loa trang bị kết nối wifi chuẩn 802.
+11a/b/g/n/ac, nhưng chỉ dùng Bluetooth 5.
+1 với codec SBC và AAC thay vì cao hơn - điểm đáng tiếc đối với một mẫu loa cao cấp vừa ra mắt.
+ So với hầu hết loa không dây sử dụng nguồn điện, Evo One trang bị đa dạng cổng kết nối cho âm thanh chất lượng cao, gồm AUX, MM Phono (kết nối với các đầu đĩa than), cổng quang Optical, các cổng thông dụng như cổng mạng LAN, cổng USB-A hay HDMI.
+ Điểm trừ là không có cổng USB-C phổ biến.
+ Để thuận tiện kết nối, Cambridge Audio cũng in sẵn thông tin cổng lên máy theo cả hai chiều thay vì một chiều như hầu hết sản phẩm trên thị trường.
+ Về khả năng không dây, loa trang bị kết nối wifi chuẩn 802.
+11a/b/g/n/ac, nhưng chỉ dùng Bluetooth 5.
+1 với codec SBC và AAC thay vì cao hơn - điểm đáng tiếc đối với một mẫu loa cao cấp vừa ra mắt.
+ Evo One có sáu loa trầm 70 mm, bốn loa midrange với màng loa hình nón nhôm 100 mm và bốn loa tweeter bằng lụa 25 mm.
+ Các cặp midrange và tweeter nằm ở các góc phía trước và hai bên, trong khi loa trầm nằm ở cả bốn phía.
+ Mỗi loa có công suất Class D 50 W, nâng tổng lên 700 W - trở thành một trong những mẫu loa không dây công suất lớn nhất hiện nay nếu so cùng kích thước.
+ Ví dụ, Naim Muso Wood Edition là 450 W.
+ Cách bố trí loa quanh thân máy, đi kèm 14 trình điều khiển cho từng loa giúp Evo One có thể phát âm thanh 360 độ.
+ Theo Cambridge Audio, loa mang đến "khả năng phân tán âm thanh và âm trường thực sự rộng lớn", do đó người dùng không cần chọn ngồi ở "điểm ngọt" âm thanh - khu vực cho cảm giác hay nhất.
+ Trải nghiệm thực tế cho thấy trong căn phòng rộng 50 mét vuông và mức âm lượng 30%, âm thanh cho độ chi tiết rất cao với âm treble trong, bass sâu và đánh lực dù ngồi ở vị trí nào.
+ Với âm lượng cao hơn, loa tự tối ưu hóa để giúp việc nghe nhạc tốt, không gây khó chịu.
+ Nhìn chung, loa phù hợp với loại nhạc ưu tiên độ chi tiết như jazz, trữ tình hơn là dòng nhạc sôi động.
+ Evo One có sáu loa trầm 70 mm, bốn loa midrange với màng loa hình nón nhôm 100 mm và bốn loa tweeter bằng lụa 25 mm.
+ Các cặp midrange và tweeter nằm ở các góc phía trước và hai bên, trong khi loa trầm nằm ở cả bốn phía.
+ Mỗi loa có công suất Class D 50 W, nâng tổng lên 700 W - trở thành một trong những mẫu loa không dây công suất lớn nhất hiện nay nếu so cùng kích thước.
+ Ví dụ, Naim Muso Wood Edition là 450 W.
+ Cách bố trí loa quanh thân máy, đi kèm 14 trình điều khiển cho từng loa giúp Evo One có thể phát âm thanh 360 độ.
+ Theo Cambridge Audio, loa mang đến "khả năng phân tán âm thanh và âm trường thực sự rộng lớn", do đó người dùng không cần chọn ngồi ở "điểm ngọt" âm thanh - khu vực cho cảm giác hay nhất.
+ Trải nghiệm thực tế cho thấy trong căn phòng rộng 50 mét vuông và mức âm lượng 30%, âm thanh cho độ chi tiết rất cao với âm treble trong, bass sâu và đánh lực dù ngồi ở vị trí nào.
+ Với âm lượng cao hơn, loa tự tối ưu hóa để giúp việc nghe nhạc tốt, không gây khó chịu.
+ Nhìn chung, loa phù hợp với loại nhạc ưu tiên độ chi tiết như jazz, trữ tình hơn là dòng nhạc sôi động.
+ Loa đi kèm ứng dụng StreamMagic với giao diện trực quan cùng nhiều tính năng, như EQ 7 băng tần có thể điều chỉnh trong khoảng từ -6 đến +3 dB, chế độ điều chỉnh phòng tính đến khoảng cách tường sau và độ phản chiếu của phòng.
+ Người dùng cũng có thể truy cập nhanh vào các biểu tượng nguồn nhạc, nhưng cần cài trước các ứng dụng kể trên ở smartphone.
+ Với wifi băng tần kép hoặc LAN, người dùng có thể nghe các nguồn nhạc từ Apple AirPlay 2, Google Cast, Spotify Connect và Tidal Connect tiện lợi, bên cạnh các nguồn từ mâm đĩa than hoặc USB.
+ Mọi thao tác hoặc quản lý thông qua StreamMagic hoặc điều chỉnh ngay trên máy.
+ Loa đi kèm ứng dụng StreamMagic với giao diện trực quan cùng nhiều tính năng, như EQ 7 băng tần có thể điều chỉnh trong khoảng từ -6 đến +3 dB, chế độ điều chỉnh phòng tính đến khoảng cách tường sau và độ phản chiếu của phòng.
+ Người dùng cũng có thể truy cập nhanh vào các biểu tượng nguồn nhạc, nhưng cần cài trước các ứng dụng kể trên ở smartphone.
+ Với wifi băng tần kép hoặc LAN, người dùng có thể nghe các nguồn nhạc từ Apple AirPlay 2, Google Cast, Spotify Connect và Tidal Connect tiện lợi, bên cạnh các nguồn từ mâm đĩa than hoặc USB.
+ Mọi thao tác hoặc quản lý thông qua StreamMagic hoặc điều chỉnh ngay trên máy.
+ Evo One cũng đi kèm điều khiển từ xa, với phím bấm không khác nhiều trên máy.
+ Sản phẩm được Cambridge Audio bán với giá 41 triệu đồng, cạnh tranh trực tiếp với mẫu Naim Muso Wood Edition cùng kiểu dáng và giá 46,5 triệu đồng.
+ Xét về tầm giá, loa sẽ đối đầu với các mẫu không dây kết nối nguồn khác như Devialet Phantom II (43 triệu), Sonus Faber Omnia (42 triệu) hay L75MS Walnut Edition (36,9 triệu).
+ Evo One cũng đi kèm điều khiển từ xa, với phím bấm không khác nhiều trên máy.
+ Sản phẩm được Cambridge Audio bán với giá 41 triệu đồng, cạnh tranh trực tiếp với mẫu Naim Muso Wood Edition cùng kiểu dáng và giá 46,5 triệu đồng.
+ Xét về tầm giá, loa sẽ đối đầu với các mẫu không dây kết nối nguồn khác như Devialet Phantom II (43 triệu), Sonus Faber Omnia (42 triệu) hay L75MS Walnut Edition (36,9 triệu).

@@ -1,26 +1,40 @@
-Các bạn trẻ, đặc biệt là học sinh trung học, có thể lập kế hoặc nghề nghiệp sớm qua các công cụ phân tích tính cách, lợi thế, cơ hội và thách thức.
- SWOT là viết tắt của điểm mạnh (strengths), điểm yếu (weaknesses), cơ hội (opportunities) và thách thức (threats).
- Phân tích này giúp các bạn trẻ tìm hiểu về bản thân, từ đó, xác định công việc phù hợp với bộ kỹ năng của mình.
- Điểm mạnh: Tôi có những kỹ năng gì?
- Tôi quan tâm đến điều gì?
- Tôi phát triển mạnh trong môi trường nào?
- Điểm yếu: Tôi học kém những môn nào?
- Tôi sợ cái gì?
- Tôi không thích điều gì?
- Cơ hội: Trong môi trường nào tôi làm việc chăm chỉ nhất? Làm thế nào tôi có động lực tốt nhất?
- Thách thức: Tôi có mang lại bất kỳ rủi ro nào cho một tổ chức không?
- Tại sao một công ty có thể không muốn thuê tôi?
- Phân tích SWOT chuyên sâu có thể giúp các bạn trẻ xác định những lợi ích bản thân có thể mang lại cho nhà tuyển dụng tiềm năng và các lĩnh vực nên tập trung để cải thiện.
- Hiện, một số công ty tư nhân cung cấp các bài kiểm tra nghề nghiệp để xác định công việc nào phù hợp nhất với tính cách và trình độ của từng cá nhân, có thể tính phí hoặc không.
- Thông thường, các cố vấn sẽ thực hiện các bài kiểm tra nghề nghiệp với học sinh trung học để giúp các em quyết định con đường sự nghiệp trước khi học đại học. Một số bài kiểm tra nghề nghiệp miễn phí cũng có thể được tìm thấy trực tuyến.
- Tuy nhiên, hiệu quả có thể không cao bằng sự giúp đỡ của huấn luyện viên nghề nghiệp (career coach).
- Viết: trình bày về những gì các bạn hình dung về nơi làm việc; thời gian ra sao; làm việc độc lập hay đội nhóm; sử dụng trí tưởng tượng để xác định công việc lý tưởng trông như thế nào. Lập bảng: Bảng tự đánh giá cung cấp các câu hỏi để hướng dẫn phản ánh. Những điều này có thể giúp người trẻ tập trung suy nghĩ và hỗ trợ bản thân xác định những gì mình muốn làm như một công việc.
- Shadowing (bắt chước): Học sinh có thể hỏi gia đình, những người đi trước cho phép theo dõi nơi làm việc trong một ngày.
- Sau đó, các bạn có thể suy nghĩ về những gì mình thích hoặc không thích về nơi làm việc và nhiệm vụ công việc đã chứng kiến, từ đó, xác định công việc nào phù hợp nhất.
- Học sinh, sinh viên nên đọc về các nghề nghiệp khác nhau và xem nghề nào hấp dẫn nhất với mình.
- Các bạn có thể dùng nhiều cách để nghiên cứu cơ hội nghề nghiệp và việc làm.
- Hiện nhiều ứng dụng cung cấp việc làm trực tuyến đã có công cụ này trên nền tảng của mình, cho phép người dùng khám phá nhiều con đường sự nghiệp, từ đó, xác định những gì bạn quan tâm và vạch ra con đường tạo dựng sự nghiệp đó.
- Các bài kiểm tra tính cách là cách đánh giá, xác định các khía cạnh cơ bản điểm đặc trưng của từng cá nhân, đồng thời, giải thích những khía cạnh đó khiến mỗi cá nhân trở thành ứng cử viên tích cực hay tiêu cực công việc, hoạt động nào.
- Trong đó, bài kiểm tra Myers-Briggs (MBTI) là một trong những công cụ phổ biến nhất hiện nay, giúp các bạn trẻ tìm ra loại tính cách của mình, tìm đúng hướng đi cho sự nghiệp tương lai. Nhiều tổ chức hiện nay cung cấp các công cụ lập kế hoạch nghề nghiệp qua các buổi hội thảo, chuyên đề, trang web và ấn phẩm.
- Đây là nguồn tài nguyên cộng đồng tốt cho những người quan tâm đến việc lập kế hoạch nghề nghiệp.
- Các bạn trẻ có thể sử dụng sách, tạp chí hoặc tham gia các buổi hội thảo cộng đồng, ngày hội việc làm...
+Trong lần đầu kỳ thi tốt nghiệp có môn Tin học, Công nghệ.., đề tham khảo được các giáo viên đánh giá cao bởi nhiều chất liệu thực tế, thí sinh có tư duy logic mới đạt điểm cao.
+ Bộ Giáo dục và Đào tạo cuối tuần trước công bố đề tham khảo, đáp án của 17 môn thi tốt nghiệp THPT 2025.
+ Trong đó, Tin học và Công nghệ là hai môn mới so với trước, còn Giáo dục Kinh tế và Pháp luật gần giống môn Giáo dục công dân nhưng có nhiều nội dung mới theo hướng định hướng nghề nghiệp.
+ Đề tham khảo ba môn đều gồm hai phần.
+ Phần I gồm 24 câu hỏi trắc nghiệm nhiều phương án, chiếm 6 điểm; phần II có 4 câu hỏi nhận định Đúng/Sai với 4 điểm.
+ Ở phần II, mỗi câu hỏi gồm 4 ý.
+ Trả lời đúng một ý thí sinh được 0,1 điểm, đúng hai - ba ý được lần lượt 0,25 và 0,5, đúng hết mới đạt 1 điểm.
+ Theo các giáo viên, với cách tính này, thí sinh khó lấy điểm 10.
+ Ngoài ra, Bộ cũng đưa vào đề nhiều chất liệu thực tế, về các vấn đề được xã hội quan tâm, đòi hỏi hiểu biết rộng và khả năng phân tích của thí sinh.
+ Ở môn Giáo dục Kinh tế và Pháp luật, cô Nguyễn Thị Nhung, trưởng bộ môn này ở trường THCS và THPT M.
+V.
+ Lômônôxốp, Hà Nội, cho biết đề tham khảo kiểm tra kiến thức ở cả ba khối lớp.
+ Cô đánh giá đề "khá hay" khi 4 câu ở phần II hỏi về những vấn đề thời sự, như ngành sản xuất ôtô điện, kinh doanh trực tuyến, mô hình nông nghiệp hiện đại, các hiệp định thương mại... "Đây là các câu hỏi vận dụng có tính thực tế và tính thời sự cao, buộc thí sinh phải có vốn kiến thức rộng và tư duy liên hệ, vận dụng tốt", cô Nhung nói.
+ Các câu về pháp luật tập trung hỏi thí sinh quyền và nghĩa vụ công dân trong các hoạt động kinh tế, văn hóa,... theo cô Nhung, cũng gần gũi.
+ Học sinh phải nhận thức, đánh giá được một cách rõ ràng mới có thể tránh sai sót khi lựa chọn đáp án.
+ Với môn Tin học, các giáo viên đưa ra nhận định tương tự.
+ Chẳng hạn, đề tham khảo hỏi thí sinh địa chỉ Cổng thông tin điện tử Chính phủ; các hành vi phạm pháp luật trên không gian mạng, quyền riêng tư trên mạng, đặc thù công việc của các ngành nghề gắn với máy tính, Internet. "Tôi rất tâm đắc khi Bộ đưa các chất liệu này vào đề", một giáo viên Tin học ở Hà Nội cho biết.
+ Theo thầy, đề chủ yếu hỏi kiến thức lớp 12, phần lớn về cách "giải quyết vấn đề với sự trợ giúp của máy tính".
+ Thí sinh cần am hiểu mã html, ngôn ngữ biểu diễn CSS, cách tạo website và thiết lập cơ sở dữ liệu lớn.
+ Chỉ hai câu hỏi thuộc kiến thức lớp 10 và 11, về ngôn ngữ Python và C++.
+ Về độ phân hóa, thầy nhìn nhận mức độ chưa cao, bởi Tin học là môn gắn với thực hành, phải qua thao tác trên máy tính mới có thể đánh giá chính xác năng lực của người học.
+ Trong khi đó, đề thi trắc nghiệm vẫn chứa phần nào yếu tố may rủi. "Mức điểm phổ biến mà học sinh đạt được là 6.
+ Các em sẽ dễ dàng lấy điểm ở những câu hỏi lý thuyết, tập trung ở phần I.
+ Còn để có điểm 9-10, học sinh cần có tư duy tốt, hiểu về lập trình, thậm chí có kỹ năng lập trình tương đối thành thạo", thầy nói.
+ Cô Lê Thị Thanh Thủy, giáo viên trường THPT Vĩnh Lộc B, TP HCM, cho biết đề tham khảo môn Công nghệ cũng có nhiều yếu tố thực tế, ở cả lĩnh vực Công nghiệp và Nông nghiệp.
+ Như ở phần Công nghiệp, một số câu hỏi về cấp điện áp trong lưới điện quốc gia, phương pháp sản xuất điện gây hiệu ứng nhà kính hay hỏi về hệ thống điện trong gia đình.
+ Đề thi bao quát khá rộng kiến thức ở bậc THPT.
+ Với phần trắc nghiệm nhiều phương án, nội dung kiến thức dàn trải đều ở cả ba lớp 10, 11, 12, theo tỷ lệ 10:10:80%.
+ Phần này chủ yếu ở mức độ nhận biết và thông hiểu.
+ Học sinh phải nắm được toàn bộ kiến thức trong chương trình mới có thể làm tốt.
+ Phần lựa chọn Đúng/Sai có phần lớn câu hỏi mang tính thông hiểu cao và vận dụng, đòi hỏi học sinh có tư duy logic. "Đây cũng là phần tạo ra sự phân hóa giữa các thí sinh", cô Thuỷ nhận định.
+ Nhìn chung, các giáo viên đánh giá đề tham khảo của Bộ Giáo dục và Đào tạo đã làm rõ định hướng đánh giá năng lực, theo yêu cầu của chương trình phổ thông 2018.
+ Qua đây, việc dạy và học, cũng như kiểm tra đánh giá của các nhà trường phải đổi mới để bám sát yêu cầu.
+ 2025 là năm lứa học sinh đầu tiên theo chương trình giáo dục phổ thông mới thi tốt nghiệp.
+ Thí sinh thi hai môn bắt buộc là Toán và Ngữ văn cùng hai môn lựa chọn.
+ Dự kiến, kỳ thi diễn ra trong hai ngày 26-27/6/2025.
+ So với năm nay, số môn thi giảm hai, số buổi thi giảm một.
+ Công thức tính điểm xét tốt nghiệp THPT 2025 theo dự kiến của Bộ, gồm điểm học bạ ở lớp 10, 11 và 12 (50%) và điểm thi (50%).
+ Ngoài ra, thí sinh sử dụng điểm kỳ thi này để xét tuyển đại học.
+ Bộ cho biết sẽ ban hành quy chế thi tốt nghiệp và tuyển sinh đại học năm 2025, muộn nhất vào tháng 11.

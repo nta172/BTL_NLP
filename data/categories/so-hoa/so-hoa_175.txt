@@ -1,24 +1,53 @@
-Người dùng có thể đăng ký gói 5G và trải nghiệm kết nối tốc độ cao tại các khu vực có sóng, trước ngày dịch vụ chính thức ra mắt. Mạng 5G thương mại hóa đầu tiên Việt Nam dự kiến được Viettel công bố ngày 15/10, khi nhà mạng này kỷ niệm 20 năm thành lập.
- Tuy nhiên, nhiều người đã có thể sử dụng các gói cước trên hạ tầng mạng thế hệ mới.
- Trần Đức (TP HCM) cho biết anh thấy quảng cáo về mạng 5G từ cuối tháng 9 nhưng "không tin", vì kế hoạch thương mại hóa 5G đã kéo dài nhiều năm song chưa được triển khai. Khi đến cửa hàng của nhà mạng tuần này, nhân viên xác nhận "đã có thể đăng ký", gói cước thấp nhất là 135.
-000 đồng dành cho thuê bao trả trước. "Sau khi đăng ký, mỗi khi đến khu vực có sóng, điện thoại lập tức chuyển sang 5G", anh Đức cho biết.
- Ứng dụng nhà mạng cũng hiển thị dung lượng còn lại giảm dần, thay vì sử dụng thoải mái như trong một số đợt thử nghiệm miễn phí trước đây.
- Thực tế từ đầu tháng 10, các gói cước 5G cho thuê bao trả trước đã được công khai trên một số website bán hàng của Viettel.
- Đến ngày 10/10, nhà mạng tiếp tục đưa ra gói cho thuê bao trả sau.
- Cuối tuần qua, nhiều người phản ánh điện thoại của họ bất ngờ hiển thị sóng 5G khi đi qua một số khu vực ở nhiều tỉnh thành như TP HCM, Hà Nội, Thái Bình, Nam Định..., nhưng hiện không còn bắt gặp.
- Sau khi đăng ký gói cước, sóng 5G mới xuất hiện trở lại.
- Đại diện Viettel Telecom chưa đưa ra bình luận.
- Trước đó, nhà mạng cũng công bố hệ gói Nine từ 200.
-000 đến 2.
-000.
-000 đồng, "ưu tiên trải nghiệm tốc độ 5G sớm" cho người đăng ký.
- Do vẫn đang trong quá trình hoàn thiện và chưa triển khai chính thức, việc đăng ký còn gặp một số khó khăn. Minh Thành (TP HCM) cho biết đang sử dụng một sim khác mua gói 4G theo năm nên chưa được hỗ trợ chuyển sang 5G.
- Ứng dụng của nhà mạng cũng chưa hiển thị dịch vụ, người dùng phải đăng ký qua tin nhắn, mã USSD hoặc gọi tổng đài. Ngoài ra, người dùng cũng cần cân nhắc khi chuyển sang 5G vì chưa rõ khu vực đang sống có phủ sóng hay chưa.
- Công nghệ 5G bắt đầu được triển khai thương mại trên thế giới cách đây 5 năm, mở ra kỷ nguyên siêu kết nối, cung cấp sức mạnh cho Internet vạn vật (IoT) và thúc đẩy các mô hình đòi hỏi tốc độ cao.
- Tại Trung Quốc, 5G đã được ứng dụng trong nhiều lĩnh vực như sản xuất, khai thác, lưới điện, cảng và chăm sóc sức khỏe.
- Trong khi đó, ở nhiều quốc gia khác, 5G vẫn trong giai đoạn thử nghiệm.
- Đối với người dùng phổ thông, sự khác biệt lớn nhất của công nghệ 5G là tốc độ tối đa ở điều kiện lý tưởng đạt 10 Gbps.
- Trong thực tế, kết nối này có thể đạt 1 Gbps, nhanh gấp 10 lần so với mức 100 Mbps của 4G, đem đến trải nghiệm làm việc, học tập, giải trí trực tuyến nhanh chóng. Ngoài ra, lợi thế của mạng thế hệ mới là độ trễ siêu thấp và khả năng hỗ trợ số lượng lớn thiết bị, thúc đẩy nhiều ứng dụng như xe tự hành, điều khiển từ xa thiết bị phẫu thuật, trải nghiệm thực tế ảo và thực tế tăng cường...
- Tuy nhiên, do sử dụng tần số lớn, trạm 5G có độ phủ nhỏ hơn, buộc các nhà mạng phải triển khai số lượng trạm nhiều hơn so với 4G.
- Để sử dụng, ngoài đăng ký gói cước, người dùng cần có thiết bị với công nghệ mạng thế hệ mới.
- Các điện thoại cao cấp từ iPhone 12, Galaxy S20 Ultra, Galaxy Z Fold2 trở về sau đã hỗ trợ 5G. Nhiều mẫu Android tầm trung và giá rẻ ra mắt khoảng 2-3 năm gần đây cũng đã trang bị kết nối này.
+JBL Boombox 3 Wifi có công suất cao 200 W dù kích thước không lớn, thời lượng pin dài và giá 14,9 triệu đồng.
+ Thay vì chỉ có nguồn phát không dây Bluetooth như thế hệ cũ, wifi giúp người dùng kết nối âm thanh đa phòng cũng như có thể chọn phát nguồn nhạc chất lượng cao đa dạng, từ các ứng dụng như Spotify, Apple Music cho đến nguồn cục bộ như ổ cứng mạng (NAS).
+ Với loa không dây kết nối wifi, người dùng có thể stream nhạc từ bất kỳ thiết bị nào như smartphone, tablet hoặc laptop miễn là kết nối cùng mạng wifi.
+ Boombox 3 Wifi có thể truyền phát nhạc thông qua AirPlay, Alexa Multi-room Music (MRM), Chromecast tích hợp hay Spotify Connect.
+ Ngoài ra, thiết bị có thêm khả năng nghe radio và podcast qua Internet, gồm các kênh tiếng Việt.
+ Thay vì chỉ có nguồn phát không dây Bluetooth như thế hệ cũ, wifi giúp người dùng kết nối âm thanh đa phòng cũng như có thể chọn phát nguồn nhạc chất lượng cao đa dạng, từ các ứng dụng như Spotify, Apple Music cho đến nguồn cục bộ như ổ cứng mạng (NAS).
+ Với loa không dây kết nối wifi, người dùng có thể stream nhạc từ bất kỳ thiết bị nào như smartphone, tablet hoặc laptop miễn là kết nối cùng mạng wifi.
+ Boombox 3 Wifi có thể truyền phát nhạc thông qua AirPlay, Alexa Multi-room Music (MRM), Chromecast tích hợp hay Spotify Connect.
+ Ngoài ra, thiết bị có thêm khả năng nghe radio và podcast qua Internet, gồm các kênh tiếng Việt.
+ Với kích thước 482 x 257 x 200 mm và nặng 6,7 kg, Boombox 3 Wifi là một trong số ít loa di động cỡ nhỏ có công suất lớn.
+ Thị trường hiện không nhiều loa kèm pin đạt công suất tương tự, có thể kể đến Bang & Olufsen Beosound A5 tổng công suất 280 W, kích thước 187 x 285 x 130 mm, nặng 2 kg; hay Harman Kardon Citation Sub cùng 200 W, kích thước 447 x 334 x 367 mm, nặng 14,35 kg.
+ Với kích thước 482 x 257 x 200 mm và nặng 6,7 kg, Boombox 3 Wifi là một trong số ít loa di động cỡ nhỏ có công suất lớn.
+ Thị trường hiện không nhiều loa kèm pin đạt công suất tương tự, có thể kể đến Bang & Olufsen Beosound A5 tổng công suất 280 W, kích thước 187 x 285 x 130 mm, nặng 2 kg; hay Harman Kardon Citation Sub cùng 200 W, kích thước 447 x 334 x 367 mm, nặng 14,35 kg.
+ Boombox 3 Wifi được nâng cấp hàng loạt công nghệ, gồm âm thanh Dolby Atmos 3D phát qua wifi, kết nối Bluetooth 5.
+3 hiện đại hơn so với Bluetooth 5.
+1 trên "đàn anh".
+ Công nghệ JBL Original Pro Sound giúp tăng cường âm bass, kết hợp hai micro nhận biết môi trường xung quanh để tinh chỉnh âm thanh.
+ Trải nghiệm thực tế cho thấy ở môi trường trong nhà (50 m2), chất lượng âm thanh khá tốt với âm treble trong trẻo cùng độ chi tiết cao, âm bass đánh sâu và uy lực.
+ Dù vậy, khi mở âm lượng lớn hơn 50%, bắt đầu xuất hiện tiếng ù rền do bass khá mạnh.
+ Với môi trường ngoài trời, âm thanh thể hiện tốt hơn, độ chi tiết cao, vang xa cùng âm bass mạnh mẽ.
+ Boombox 3 Wifi được nâng cấp hàng loạt công nghệ, gồm âm thanh Dolby Atmos 3D phát qua wifi, kết nối Bluetooth 5.
+3 hiện đại hơn so với Bluetooth 5.
+1 trên "đàn anh".
+ Công nghệ JBL Original Pro Sound giúp tăng cường âm bass, kết hợp hai micro nhận biết môi trường xung quanh để tinh chỉnh âm thanh.
+ Trải nghiệm thực tế cho thấy ở môi trường trong nhà (50 m2), chất lượng âm thanh khá tốt với âm treble trong trẻo cùng độ chi tiết cao, âm bass đánh sâu và uy lực.
+ Dù vậy, khi mở âm lượng lớn hơn 50%, bắt đầu xuất hiện tiếng ù rền do bass khá mạnh.
+ Với môi trường ngoài trời, âm thanh thể hiện tốt hơn, độ chi tiết cao, vang xa cùng âm bass mạnh mẽ.
+ Tương tự loa dòng Boombox, Xtreme hay Charge, JBL trang bị các phím bấm quen thuộc trên thân máy, từ phải qua trái gồm phím tăng giảm âm lượng, kết nối Bluetooth, nguồn, phát nhạc - tạm ngừng và phím kết nối với loa khác để tạo hệ thống âm thanh stereo.
+ Trong khi đó, phía dưới có một thanh LED đặt nằm dọc để hiển thị mức âm lượng, mức pin tùy vào việc điều khiển của người dùng.
+ Tương tự loa dòng Boombox, Xtreme hay Charge, JBL trang bị các phím bấm quen thuộc trên thân máy, từ phải qua trái gồm phím tăng giảm âm lượng, kết nối Bluetooth, nguồn, phát nhạc - tạm ngừng và phím kết nối với loa khác để tạo hệ thống âm thanh stereo.
+ Trong khi đó, phía dưới có một thanh LED đặt nằm dọc để hiển thị mức âm lượng, mức pin tùy vào việc điều khiển của người dùng.
+ Phía sau loa trang bị hai cổng nguồn và đầu ra USB-A để sạc cho thiết bị khác.
+ Dù vậy, so với các mẫu loa đang có mặt trên thị trường, thiết bị thiếu các cổng kết nối như AUX hay cổng LAN - điều thường thấy trên các model có tính năng kết nối Internet.
+ Phía sau loa trang bị hai cổng nguồn và đầu ra USB-A để sạc cho thiết bị khác.
+ Dù vậy, so với các mẫu loa đang có mặt trên thị trường, thiết bị thiếu các cổng kết nối như AUX hay cổng LAN - điều thường thấy trên các model có tính năng kết nối Internet.
+ Boombox 3 Wifi trang bị sẵn tay cầm bọc bằng nhựa cho cảm giác cầm êm, không đau tay.
+ Dù vậy, sản phẩm không có dây đeo như một số dòng khác, chẳng hạn Xtreme, do đó cầm lâu có thể mỏi tay do trọng lượng loa gần 7 kg.
+ Loa cũng có khả năng chống nước IP67, có thể chống chịu được dưới mưa, thậm chí nổi trên mặt nước.
+ Về thời lượng pin, loa có thời gian sử dụng 24 tiếng trên mỗi lần sạc, thời gian sạc 4,5 tiếng.
+ Trong khi đó, các mẫu có công suất tương tự như Harman Kardon Citation Sub có thể sử dụng tối đa 20 tiếng, Beosound A5 đạt 12 tiếng, còn Devialet Mania là 10 tiếng.
+ Người dùng có thể tự tháo pin của loa để dùng hoàn toàn bằng nguồn điện, nhưng cần một số dụng cụ kỹ thuật cần thiết thay vì bằng tay không.
+ Boombox 3 Wifi trang bị sẵn tay cầm bọc bằng nhựa cho cảm giác cầm êm, không đau tay.
+ Dù vậy, sản phẩm không có dây đeo như một số dòng khác, chẳng hạn Xtreme, do đó cầm lâu có thể mỏi tay do trọng lượng loa gần 7 kg.
+ Loa cũng có khả năng chống nước IP67, có thể chống chịu được dưới mưa, thậm chí nổi trên mặt nước.
+ Về thời lượng pin, loa có thời gian sử dụng 24 tiếng trên mỗi lần sạc, thời gian sạc 4,5 tiếng.
+ Trong khi đó, các mẫu có công suất tương tự như Harman Kardon Citation Sub có thể sử dụng tối đa 20 tiếng, Beosound A5 đạt 12 tiếng, còn Devialet Mania là 10 tiếng.
+ Người dùng có thể tự tháo pin của loa để dùng hoàn toàn bằng nguồn điện, nhưng cần một số dụng cụ kỹ thuật cần thiết thay vì bằng tay không.
+ Loa đi kèm ứng dụng JBL One, có thể thực hiện nhiều chức năng liên quan đến wifi như streaming nhạc hay điều khiển âm thanh đa phòng, bên cạnh những tính năng đã có trước đó như chỉnh EQ hay xem thông tin máy, thời lượng pin.
+ Boombox 3 Wifi hiện được niêm yết giá 14,9 triệu, nhưng một số đại lý bán từ 13,9 triệu đồng.
+ Với tầm giá này, sản phẩm cạnh tranh với khá nhiều mẫu loa không dây có pin khác, như Bose SoundLink Max (12,2 triệu đồng), Marshall Tufton (13 triệu đồng) hay Bang&Olufsen Beolit ​​20 (13,5 triệu đồng) với ưu thế về kích thước, công suất và thời lượng pin.
+ Loa đi kèm ứng dụng JBL One, có thể thực hiện nhiều chức năng liên quan đến wifi như streaming nhạc hay điều khiển âm thanh đa phòng, bên cạnh những tính năng đã có trước đó như chỉnh EQ hay xem thông tin máy, thời lượng pin.
+ Boombox 3 Wifi hiện được niêm yết giá 14,9 triệu, nhưng một số đại lý bán từ 13,9 triệu đồng.
+ Với tầm giá này, sản phẩm cạnh tranh với khá nhiều mẫu loa không dây có pin khác, như Bose SoundLink Max (12,2 triệu đồng), Marshall Tufton (13 triệu đồng) hay Bang&Olufsen Beolit ​​20 (13,5 triệu đồng) với ưu thế về kích thước, công suất và thời lượng pin.

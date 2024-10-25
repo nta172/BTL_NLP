@@ -1,19 +1,30 @@
-Mẫu SUV chạy điện sử dụng hệ thống truyền động và pin do BYD sản xuất.
- Toyota bZ3C, mẫu xe điện thứ ba của Toyota, được tiết lộ khi hãng nộp đơn xin giấy phép bán hàng tại Trung Quốc.
- Việc sản xuất bZ3C dự kiến bắt đầu vào quý IV tại nhà máy liên doanh FAW-Toyota ở Thiên Tân.
- Tại Trung Quốc, mọi mẫu xe đều phải được cơ quan quản lý địa phương phê duyệt trước khi tung ra thị trường.
- Bộ Công nghiệp và Công nghệ Thông tin (MIIT) hàng tháng sẽ công bố danh sách các phương tiện trải qua quá trình này.
- Điều này vô tình tiết lộ hình ảnh và thông số kỹ thuật phiên bản sản xuất của những chiếc xe mà các nhà sản xuất ôtô chưa chính thức ra mắt.
- Theo hồ sơ Toyota nộp lên MIIT, bZ3C là mẫu SUV coupe 5 chỗ, 4 cửa với kiểu dáng giống Prius. Kích thước dài x rộng x cao lần lượt là 4.
-780 x1.
-866 x 1.
-510 mm, chiều dài cơ sở 2.
-880 mm.
- Xe có trọng lượng 1.
-920 kg và cung cấp tùy chọn la-zăng 18 inch hoặc 21 inch.
- Phiên bản cao cấp sẽ có radar laser trên kính chắn gió.
- Xe trang bị một môtơ điện công suất 268 mã lực do Fudi Power, công ty con thuộc sở hữu của BYD, sản xuất.
- Tốc độ tối đa giới hạn ở mức 160 km/h. Năng lượng cho xe được lưu trữ trong pin lithium iron phosphate (LFP) do FinDreams của BYD cung cấp.
- Dung lượng pin không được tiết lộ trong hồ sơ, nhưng CarNewsChina dự đoán bZ3C có phạm vi hoạt động 500-600 km theo chuẩn CLTC.
- Toyota bZ3C đã được giới thiệu lần đầu tiên tại Triển lãm Ôtô Bắc Kinh tháng 4 vừa qua. Nền tảng được hợp tác phát triển bởi FAW và Toyota.
- Toyota hiện bán hai mẫu xe điện tại Trung Quốc là SUV bZ4X và sedan bZ3. Mẫu bZ4C mới sẽ ra mắt vào cuối năm nay.
+Ba mẫu xe bán chạy nhất gồm Toyota Vios, Hyundai Accent, Honda City cùng những Nissan Almera, Mitsubishi Attrage, Kia Soluto giảm giá hàng chục triệu đồng trong tháng 10.
+ Hơn nửa số xe trong phân khúc sedan cỡ B hưởng lợi từ nghị định 109 của Chính phủ có hiệu lực từ tháng 9 đến tháng 11 giảm 50% lệ phí trước bạ cho xe lắp ráp trong nước.
+ Bên cạnh đó, các hãng hoặc đại lý khuyến mãi thêm cho các dòng xe lắp ráp nhằm đẩy mạnh doanh số.
+ Trong tháng 10, tất cả các phiên bản Toyota Vios được hãng ưu đãi 50% lệ phí trước bạ, tương đương với mức giảm chi phí lăn bánh khoảng 23-27 triệu đồng.
+ Hãng giới hạn mức giảm không quá 27 triệu đồng bất kể địa phương đăng ký ra biển số.
+ Xét quyền lợi chung của khách khi lăn bánh một mẫu xe, khuyến mãi lệ phí trước bạ cũng như một hình thức giảm giá.
+ Honda City được các đại lý giảm nhẹ 5-10 triệu đồng tùy phiên bản để kích cầu.
+ Mẫu xe của Honda khuyến mãi ít hơn các đối thủ bởi từ tháng 9, hãng đã giảm giá bán lẻ cho dòng xe này 40-60 triệu đồng so với trước.
+ Hiện Honda City có giá mới 499-569 triệu đồng.
+ Trong số ba mẫu xe có doanh số cao nhất phân khúc, Hyundai Accent sở hữu giá khởi điểm thấp nhất, từ 439 triệu đồng.
+ Ngoài ưu đãi lệ phí trước bạ của Chính phủ, các đại lý ưu đãi thêm khoảng 5-7 triệu đồng cho Accent để kích cầu.
+ Với nguồn gốc nhập khẩu, giá cao hàng đầu, Nissan Almera chịu áp lực cạnh tranh lớn khi Nghị định 109 được triển khai.
+ Trong tháng 10, hãng và đại lý ưu đãi 150% lệ phí trước bạ cho Almera, tương đương mức giảm khoảng 54-100 triệu đồng tùy địa phương lăn bánh xe.
+ Cũng nhập khẩu Thái Lan như Almera là Mitsubishi Attrage.
+ Mẫu xe của Mitsubishi được hãng hỗ trợ 50-100% lệ phí trước bạ tùy phiên bản.
+ Mức giảm của Attrage khoảng 25-38 triệu đồng.
+ Attrage hay Kia Soluto là những mẫu xe có kích thước nhỏ hơn (cỡ B-) so với các mẫu thuần cỡ B như Vios, City.
+ Trong tháng 10, các đại lý Kia giảm giá khoảng 10-20 triệu cho Soluto bên cạnh ưu đãi lệ phí trước bạ từ Chính phủ.
+ Có chính sách hỗ trợ từ Chính phủ nhưng giá nhiều mẫu xe cỡ B tại đại lý tiếp tục được khuyến mãi.
+ Điều này khác với nhiều năm trước, khi ưu đãi của hãng hay đại lý thường bị cắt một phần hay toàn bộ khi nhà nước thực hiện chính sách giảm 50% lệ phí trước bạ cho xe lắp ráp trong nước.
+ Theo các chuyên gia bán hàng, thị trường trải qua hơn nửa năm trầm lắng, sức mua cầm chừng.
+ Vì thế, các hãng và đại lý muốn tận dụng các tháng cuối năm có trợ lực từ ưu đãi lệ phí trước bạ của nhà nước để đẩy mạnh doanh số.
+ Khuyến mãi theo đó không bị cắt mà còn duy trì hoặc gia tăng.
+ Sedan cỡ B hầu hết là sản phẩm đem lại thị phần chính cho các hãng, đặc biệt Honda, Toyota và Hyundai.
+ Tính đến tháng 9, doanh số lũy kế của Toyota Vios đạt 8.
+812 xe, dẫn đầu phân khúc sedan cỡ B.
+ Bám sát phía sau là Hyundai Accent với doanh số 8.
+200 xe.
+ Honda City đứng thứ ba, bán 6.
+071 ra thị trường.

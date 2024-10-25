@@ -1,18 +1,23 @@
-Trên mạng xã hội Threads, nhiều người chia sẻ ảnh chụp màn hình Threads chi trả số tiền 1-2 triệu đồng, nhưng thực tế là trò lừa.
- Vừa tạo tài khoản Threads giữa tháng 9, một trong những nội dung đầu tiên được mạng xã hội này gợi ý cho Minh Hà (Hà Nội) là bài đăng của một người chia sẻ về việc kiếm tiền từ mạng xã hội. "Tưởng chuyển nhầm, hóa ra Threads trả lương", bài đăng của tài khoản có tên camtien đi kèm ảnh chụp tài khoản ngân hàng cộng thêm một triệu đồng, với nội dung chuyển khoản là "Threads trả lương tháng 9".
- Bài đăng nhận về hơn 2.
-000 lượt thích và hơn 200 bình luận.
- Bên dưới, người đăng bài cũng hướng dẫn cách nhận tiền, kèm một đường link và các bước chi tiết để "làm nhiệm vụ". Người tham gia được đề nghị truy cập một link dạng rút gọn, tải một ứng dụng ngân hàng và thực hiện các nhiệm vụ gồm đăng ký tài khoản, đăng nhập, thực hiện giao dịch. "Sau khi hoàn thành, tiền sẽ được cộng vào tài khoản", bài đăng hướng dẫn. "Sau khi tải thử app ngân hàng như hướng dẫn, ứng dụng yêu cầu khai báo nhiều thông tin", Minh Hà nói.
- Hà không phải trường hợp cá biệt.
- Trong số hơn 200 bình luận bên dưới, phần lớn người dùng cũng hỏi cách có thể kiếm tiền tương tự, xen lẫn là một số bình luận khẳng định "đã nhận được tiền".
- Đường link trên dẫn tới kho ứng dụng để tải app của một ngân hàng.
- Tuy nhiên, ngân hàng này không có chương trình tặng tiền như lời giới thiệu của tài khoản nói trên.
- Thực tế, theo một chuyên gia về truyền thông trực tuyến, đây thực chất là "bẫy click" nhằm dụ người dùng bấm vào đường link và đăng ký tài khoản. Ngoài tài khoản chính, những nhóm này có thể tạo ra hàng loạt tài khoản ảo để bình luận thao túng, gọi là seeding, khiến những người khác tưởng là thật.
- Cũng theo chuyên gia này, chiêu trò trên có thể được thực hiện bởi những đơn vị chuyên về quảng cáo, tiếp thị liên kết. Những nhóm này lợi dụng việc Threads là mạng xã hội mới, nhiều người chưa rõ cách thức hoạt động nên tin tưởng và làm theo. Ngoài ra, mạng xã hội mới của Meta có nhiều điểm giống với X, mạng xã hội của Elon Musk vốn trả tiền cho người làm nội dung, nên nhiều người tưởng cũng sẽ được "trả lương" tương tự. "Khi người dùng làm theo hướng dẫn, người đăng bài giới thiệu sẽ kiếm được tiền chứ không phải những người làm theo", chuyên gia này nói, đồng thời khẳng định "không có chuyện Threads trả lương theo cách này".
- Do không kiếm được tiền như lời giới thiệu, nhiều người đã đánh giá 1* cho ứng dụng ngân hàng trên App Store và Play Store. "Lợi dụng điều này, nhiều kẻ lừa đảo đã bày ra một số kịch bản nhằm lừa người dùng với hứa hẹn ai cũng có thể trở thành cộng tác viên, kiềm tiền từ các nền tảng", ông Sơn nói.
- Tương tự các chiêu lừa xuất hiện trên không gian mạng thời gian qua, cách làm này đánh vào tâm lý muốn kiếm tiền nhanh của người dùng mạng xã hội.
- Từ đó, họ có thể bị sa vào bẫy lừa đảo như mua "gói tương tác", hoặc truy cập vào đường link, ứng dụng lừa đảo, từ đó bị đánh cắp thông tin hoặc lừa chuyển tiền. "Người dùng cần cảnh giác, tìm hiểu kỹ thông tin trên các địa chỉ tin cậy, tránh bị các hứa hẹn lợi nhuận bất thường mà mắc mưu kẻ lừa đảo", ông Sơn khuyến nghị. Ngoài ra, người dùng cũng không nên cài phần mềm lạ lên thiết bị để tránh bị chiếm quyền điều khiển, không điền thông tin tài khoản, mật khẩu vào website lạ và nên tham khảo ý kiến người thân hoặc bạn bè có chuyên môn về lĩnh vực mình được mời tham gia làm cộng tác viên.
- Threads là mạng xã hội của Meta, ra mắt vào tháng 7 năm ngoái. Khác với Facebook, nền tảng này được cho là học hỏi cơ chế hoạt động từ X (Twitter), đồng thời cho phép người dùng đăng ký nhanh bằng tài khoản Instagram của họ.
- Cách làm này giúp Threads trở thành một trong những ứng dụng tăng trưởng nhanh nhất thế giới, thu hút 100 triệu người dùng sau năm ngày.
- Tại Việt Nam, Threads dần thu hút được sự quan tâm, đặc biệt từ người dùng trẻ.
- Đây cũng là nơi sản sinh ra nhiều trào lưu mới, trong đó có việc khoe thu nhập ảo.
+Larry Ellison, CEO Oracle, cho biết đã tổ chức ăn tối với Elon Musk và Jensen Huang để xin CEO Nvidia cung cấp GPU AI.
+ Trong cuộc họp báo cáo tài chính tuần trước, nhà sáng lập Oracle Larry Ellison thừa nhận ông và Musk phải "cầu xin" CEO Nvidia bán GPU mới nhất của công ty cho mình.
+ Ông nói: "Tại Nobu Palo Alto, tôi đã ăn tối với Elon Musk và Jensen Huang.
+ Tôi có thể miêu tả bữa tối đó là tôi và Elon nài nỉ Jensen bán GPU: Làm ơn nhận tiền của chúng tôi.
+ Không, hãy nhận nhiều hơn.
+ Anh chưa nhận đủ đâu, chúng tôi cần anh nhận nhiều tiền hơn của chúng tôi, làm ơn".
+ Bữa tối được đánh giá rất hiệu quả cho Ellison và Oracle khi công ty gần đây thông báo sẽ tạo ra một siêu cụm AI Zettascale với 131.
+072 GPU Nvidia GB200 NVL72 Blackwell, cung cấp hiệu suất AI 2,4 Zettaflop, mạnh hơn cụm AI Memphis của Musk và xAI với 100.
+000 GPU Nvidia H100 AI.
+ Kế hoạch AI của Oracle đòi hỏi một lượng điện năng khổng lồ, do đó công ty đã đảm bảo giấy phép xây dựng ba lò phản ứng hạt nhân dạng module nhằm đáp ứng nhu cầu điện.
+ Tuy nhiên, việc triển khai lò phản ứng hạt nhân tại các trung tâm dữ liệu có thể mất vài năm, nên công ty có thể học theo Elon Musk là sử dụng máy phát điện di động khổng lồ để tăng cường cung cấp điện địa phương nếu cần.
+ Dù nhỏ hơn các công ty công nghệ lớn khác đang cung cấp dịch vụ trung tâm dữ liệu như Amazon Web Services, Microsoft Azure và Google Cloud, Oracle Cloud Infrastructure (OCI) có lợi thế hơn.
+ Theo báo cáo của Barron’s, OCI cung cấp linh hoạt, có thể đáp ứng yêu cầu cụ thể của khách hàng.
+ Dù quy mô nhỏ hơn, Oracle đang đẩy mạnh đầu tư vào AI.
+ Ellison cho biết các mô hình AI tiên tiến trong ba năm tới sẽ tốn 100 tỷ USD để đào tạo và OCI muốn trở thành một trong những nhóm dẫn đầu trong xử lý AI.
+ Nvidia thành lập năm 1993 bởi ba kỹ sư Jensen Huang, Chris Malachowsky và Curtis Priem - những người dự đoán khi máy tính phát triển sẽ cần những bộ xử lý đồ họa (GPU) phức tạp.
+ Ván cược được đền đáp khi năm 2000, họ giành hợp đồng lớn đầu tiên: sản xuất chip cho máy chơi game Xbox của Microsoft.
+ Kể từ đó, Nvidia được chú ý hơn nhờ các sản phẩm GPU cho máy tính.
+ Khi làn sóng khai thác tiền số diễn ra, công ty lại tiếp tục hưởng lợi nhờ cơn khát card đồ họa.
+ Đầu 2022, hãng công bố H100 - bộ xử lý đồ họa GPU mạnh nhất từng chế tạo và vẫn là một trong những chip đắt nhất hiện nay với giá 40.
+000 USD.
+ Khi đó, giới chuyên gia nhận định Nvidia chọn sai thời gian công bố, bởi các doanh nghiệp đang tìm cách thắt chặt chi tiêu và sa thải nhân sự.
+ Tuy nhiên, thực tế đã chứng minh ngược lại khi OpenAI ra mắt ChatGPT và trào lưu AI tạo sinh bùng nổ trên thế giới, khiến chip của Nvidia được săn lùng và liên tục khan hàng.

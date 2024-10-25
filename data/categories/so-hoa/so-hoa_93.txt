@@ -1,22 +1,26 @@
-Lỗ hổng bảo mật biến một mẫu robot hút bụi trở thành chiếc camera chạy quanh nhà, theo dõi mọi hoạt động của người dùng theo thời gian thực.
- Sean Kelly, ông bố ba con ở Australia, mua robot hút bụi với kỳ vọng giúp cuộc sống của vợ chồng rảnh rang hơn, theo ABC.
- Tuy nhiên, robot anh sử dụng tồn tại lỗ hổng bảo mật, từng được phát hiện từ tháng 12/2023, vừa được hãng tiếp nhận và khắc phục sau sự cố với Sean. "Hãy hình dung có một cái webcam chạy khắp nhà rồi nhìn chằm chằm vào cả gia đình bạn", Kelly ví von.
- Để làm rõ hơn khả năng tấn công từ xa vào robot hút bụi có camera, trang ABC tìm đến Dennis Giese, chuyên gia nghiên cứu bảo mật hàng đầu ở Berlin.
- Dennis đã tìm ra cách để kiểm soát không chỉ một, mà nhiều dòng robot của các nhà sản xuất khác nhau chỉ với smartphone, kết nối Bluetooth và đứng cách tối đa 140 mét.
- Tuy nhiên, cũng có những model chỉ có thể bị điều khiển nếu trước đó người tấn công tiếp cận và can thiệp được vào phần cứng robot. Khi được liên hệ, Dennis nói sẽ viết một chương trình với mục đích thử nghiệm. "Tôi có thể xem mọi lịch sử vận hành, thông tin wifi và quyền truy cập đầy đủ, xem được cả camera lẫn nghe từ microphone trên robot", Dennis nói. Khoảng cách và bức tường bê tông khiến sóng Bluetooth yếu đi, nhưng ngay khi kết nối được, thông tin robot hiển thị đầy đủ trên smartphone.
- Từ đây, thông qua camera, Dennis có thể xem và chụp hình, ghi lại toàn bộ căn bếp và hoạt động của những người có mặt.
- Tất cả truyền về smartphone theo thời gian thực.
- Robot không hề phát âm thanh báo "camera đang ghi hình" hay đang truyền dữ liệu. Kelly cũng không biết người thử nghiệm đã cài từ xa một tính năng vào thiết bị để phục vụ cho bài kiểm tra. "Chào Sean.
- Chúng tôi đang nhìn thấy anh đây", robot cất tiếng nói.
- Sean đơ người trong chốc lát vì bất ngờ. "Thật điên rồ.
- Tôi không nghĩ Bluetooth lại có thể kết nối xa vậy.
- Chỗ này ở trên tầng 4 cơ mà?", Sean nói với Dennis thông qua robot.
- Vụ hack không bắt nguồn từ mảnh vườn dưới chân tòa nhà.
- Cách đó nửa vòng Trái Đất, Giese ở Đức mới thực sự đứng sau tất cả và hỗ trợ mọi thao tác.
- Sau vài lần thử thất bại, mọi thứ cuối cùng cho ra kết quả như dự tính.
- Phần mềm chỉ cần kết nối Bluetooth lần đầu để lấy thông tin, sau đó sẽ truyền dữ liệu qua kết nối wifi của robot. Ngay khi thiết bị hoạt động, toàn bộ hình ảnh, video cũng được gửi tới máy tính của Giese để cùng giám sát quy trình.
- Sau 10 tháng báo cáo vấn đề, nhà sản xuất mới xác nhận và tìm cách khắc phục. "Đến giờ nhiều người vẫn không nghĩ máy rửa bát cũng là một loại robot.
- Con người đang sống trong một 'xã hội camera'. Khi bạn ra ngoài sẽ thấy ôtô gắn đủ loại camera chạy trên đường.
- Tất cả đều đang bật, đều đang quan sát", tiến sĩ Donald Dansereau, giảng viên cấp cao tại Trung tâm Robot học Australia thuộc Đại học Sydney (Australia), nói.
- Các thiết bị chứa camera luôn tiềm ẩn rủi ro, đặc biệt là đồ gia dụng thông minh vốn chưa được quan tâm đúng cách về bảo mật.
- Do đó, Giese cho biết mỗi lần không sử dụng máy, anh sẽ phủ một chiếc khăn lên để che phần camera.
+Một quan chức của Bắc Kinh cho biết Xiaomi đã thiết kế thành công chip di động 3 nm, nhưng công ty này giữ im lặng.
+ Trong bản tin phát sóng trên Đài Phát thanh và Truyền hình Bắc Kinh (BRTV) ngày20/10, Tang Jianguo, một lãnh đạo thuộc Văn phòng Kinh tế và Công nghệ thông tin thành phố, cho biết Xiaomi đã "tape-out" thành công chip di động 3 nm đầu tiên của Trung Quốc.
+ Tape-out chỉ giai đoạn cuối cùng trong thiết kế một chip, trước khi chúng có thể được đưa vào sản xuất hàng loạt.
+ Trong bản tin, ông Jianguo không chia sẻ chi tiết về sản phẩm.
+ Tuy nhiên theo SCMP, thông tin liên quan đến vấn đề trên sau đó đã bị xóa khỏi Internet ở nước này.
+ Đài BRTV cũng như cơ quan thành phố Bắc Kinh không cập nhật hay đính chính thông tin.
+ Xiaomi cũng giữ im lặng, khiến mẫu chip 3 nm của hãng trở nên bí ẩn.
+ Nếu việc thiết kế thành công là thật, đây sẽ là đột phá mới của các công ty Trung Quốc trong lĩnh vực bán dẫn.
+ Hiện dòng chip di động tiên tiến nhất như Apple A18 được sản xuất trên tiến trình 2 nm.
+ Thực tế từ năm 2017, Xiaomi đã vận hành một đơn vị thiết kế bán dẫn nội bộ, chủ yếu để tùy chỉnh chip nhập khẩu dùng trong các dự án của công ty.
+ Đơn vị này đã thiết kế một số chip, như bộ vi xử lý S1 và chip cảm biến ảnh C1.
+ Mẫu xe điện SU7 ra mắt tháng 3 được cho là sử dụng chip do hãng phát triển kết hợp với giải pháp từ Qualcomm và Nvidia.
+ Theo các nhà quan sát, trong bối cảnh cuộc chiến công nghệ ngày càng leo thang giữa Mỹ và Trung Quốc, đặc biệt trong lĩnh vực quan trọng như bán dẫn và AI, bất kỳ tiến bộ công nghệ nào của Trung Quốc cũng sẽ được quan tâm và theo dõi chặt chẽ.
+ Khác với Huawei, Xiaomi tự do hơn trong tiếp cận nguồn từ nước ngoài, như Qualcomm, với những dòng chip được đánh giá ít có khả năng phát triển các ứng dụng AI cho Trung Quốc.
+ Ngoài ra, các công ty Trung Quốc không nằm trong danh sách thực thể vẫn có thể đặt hàng các công ty bên ngoài đại lục như TSMC đúc chip, bằng cách giảm một phần hiệu năng để "lách" lệnh cấm.
+ Lệnh hạn chế của Mỹ nhiều năm qua khiến Trung Quốc khó tiếp cận công cụ để thiết kế và sản xuất chip tiên tiến.
+ Tuy nhiên gần đây, nước này bắt đầu đạt được thành tựu nhất định trong quá trình tự chủ bán dẫn.
+ Năm ngoái, Huawei gây bất ngờ khi tung ra các mẫu điện thoại hỗ trợ 5G, sử dụng chip 7 nm do công ty phát triển kết hợp cùng nhà sản xuất nội địa SMIC.
+ Đầu tháng 10, JFS Laboratory, cơ sở nghiên cứu quang tử do Trung Quốc tài trợ có trụ sở tại Vũ Hán, thử nghiệm thành công "quang tử silicon", mở ra khả năng tự sản xuất chip không còn phụ thuộc vào cỗ máy quang khắc cực tím (DUV), vốn được cung cấp chủ yếu bởi ASML của Hà Lan.
+ Một công ty khác là Numemory cho biết đã sản xuất thành công mẫu NM101 64 GB, một loại bộ nhớ lớp lưu trữ.
+ Bộ Công nghiệp và Công nghệ Thông tin Trung Quốc (MIIT) hồi tháng 9 công bố danh sách "thiết bị quan trọng", trong đó có hai máy quang khắc mới "đạt được đột phá công nghệ quan trọng, sở hữu quyền sở hữu trí tuệ nhưng chưa thương mại hóa".
+ Trước đó, công ty bán dẫn Cixin Technology cũng giới thiệu mẫu chip có khả năng xử lý 45 tỷ phép tính mỗi giây gọi là Cixin P1, dành cho máy tính và hệ thống AI được xây dựng trên kiến trúc Arm tiến trình 6 nm.
+ Trung Quốc đang tiếp tục thúc đẩy phát triển bán dẫn nội địa.
+ Cuối tháng 8, Bắc Kinh thành lập quỹ bán dẫn với số vốn đăng ký là 8,5 tỷ nhân dân tệ (1,2 tỷ USD).
+ Trước đó, quỹ Big Fund cũng đi vào giai đoạn ba với số vốn đăng ký vượt 344 tỷ nhân dân tệ (gần 49 tỷ USD) tính đến hết tháng 5, gần bằng mức 53 tỷ USD mà Mỹ đang triển khai thông qua Đạo luật CHIPS và Khoa học.
+ Các nhà phân tích dự đoán các quỹ sẽ giúp đẩy nhanh tiến độ tăng cường tự chủ công nghệ của Trung Quốc, đưa nước này sớm hái nhiều "quả ngọt" thời gian tới.

@@ -1,24 +1,13 @@
-T-Rex 3, smartwatch của Amazfit, đạt chuẩn độ bền quân đội Mỹ, hỗ trợ lặn biển 45 m, thời lượng pin tối đa 27 ngày và giá 6,5 triệu đồng.
- T-Rex 3 là bản nâng cấp của T-Rex 2 ra mắt từ năm 2022, có thiết kế hầm hố và hướng tới người thích thể thao mạo hiểm giống Garmin Fenix, Apple Watch Ultra.
- Tuy nhiên, sản phẩm có giá rẻ hơn là 6,5 triệu đồng, tương đương các smartwatch phổ thông như Galaxy Watch 6, Huawei Watch GT 5 hay Garmin Forerunner 255.
- T-Rex 3 là bản nâng cấp của T-Rex 2 ra mắt từ năm 2022, có thiết kế hầm hố và hướng tới người thích thể thao mạo hiểm giống Garmin Fenix, Apple Watch Ultra.
- Tuy nhiên, sản phẩm có giá rẻ hơn là 6,5 triệu đồng, tương đương các smartwatch phổ thông như Galaxy Watch 6, Huawei Watch GT 5 hay Garmin Forerunner 255.
- Smartwatch của Amazfit có bốn nút chức năng.
- Trong đó, hai nút Up và Down nằm ở viền trái, Sel và Back ở bên phải.
- Dây đeo được làm bằng liquid silicone mềm ôm sát cổ tay, cho cảm giác đeo dễ chịu.
- Dây đeo được gắn vào đồng hồ bằng các vít chuyên dụng.
- Amazfit có kèm theo 2 ngàm kết nối cho phép người dùng thay thế bằng dây đeo đồng hồ cỡ 22 mm thông dụng trên thị trường.
- Giống các mẫu đồng hồ thông minh khác, T-Rex 3 có thể hiển thị thông báo, nhắc sự kiện, tin nhắn và cuộc gọi đến.
- Tuy nhiên, máy không có micro và loa để trả lời điện thoại trực tiếp.
- Sản phẩm cũng có khả năng kháng nước tốt nhất trong tầm giá với chuẩn 10 AT, bên cạnh các chứng nhận lặn EN13319, ISO 6425, GB/T 18828, phù hợp cho hoạt động như bơi lội, lặn tự do với độ sâu đến 45 m.
- Đây là tính năng chỉ có trên đồng hồ thông minh cao cấp. Model này có thể hoạt động ở nhiệt độ môi trường từ -30 đến 70 độ C.
- Sản phẩm cũng có khả năng kháng nước tốt nhất trong tầm giá với chuẩn 10 AT, bên cạnh các chứng nhận lặn EN13319, ISO 6425, GB/T 18828, phù hợp cho hoạt động như bơi lội, lặn tự do với độ sâu đến 45 m.
- Đây là tính năng chỉ có trên đồng hồ thông minh cao cấp. Model này có thể hoạt động ở nhiệt độ môi trường từ -30 đến 70 độ C.
- Đồng hồ hỗ trợ đầy đủ tính năng theo dõi sức khỏe phổ biến, như nhịp tim, độ bão hòa oxy trong máu, thời gian cũng như chất lượng giấc ngủ, mức độ căng thẳng. Kết hợp tính năng đánh giá sức khỏe PAI (Personal Activity Intelligence), dữ liệu sức khỏe của người dùng được phân tích, sau đó đồng hồ đưa ra hướng dẫn để cải thiện chỉ số.
- T-Rex 3 cũng cho phép người dùng do các thông số sức khoẻ trong một lần với tính năng One-tap Measuring.
- Đồng hồ hỗ trợ đầy đủ tính năng theo dõi sức khỏe phổ biến, như nhịp tim, độ bão hòa oxy trong máu, thời gian cũng như chất lượng giấc ngủ, mức độ căng thẳng. Kết hợp tính năng đánh giá sức khỏe PAI (Personal Activity Intelligence), dữ liệu sức khỏe của người dùng được phân tích, sau đó đồng hồ đưa ra hướng dẫn để cải thiện chỉ số.
- T-Rex 3 cũng cho phép người dùng do các thông số sức khoẻ trong một lần với tính năng One-tap Measuring.
- Smartwatch của Amazfit hỗ trợ hai hệ điều hành iOS và Android. Người dùng có thể theo dõi thông số sức khoẻ, bài tập hay điều chỉnh đồng hồ thông qua ứng dụng Zepp.
- T-Rex 3 chạy hệ điều hành Zepp OS 4 tích hợp trợ lý ảo AI dựa trên GPT-4o của OpenAI và có thể kết nối với các thiết bị thể thao của bên thứ ba.
- Smartwatch của Amazfit hỗ trợ hai hệ điều hành iOS và Android. Người dùng có thể theo dõi thông số sức khoẻ, bài tập hay điều chỉnh đồng hồ thông qua ứng dụng Zepp.
- T-Rex 3 chạy hệ điều hành Zepp OS 4 tích hợp trợ lý ảo AI dựa trên GPT-4o của OpenAI và có thể kết nối với các thiết bị thể thao của bên thứ ba.
+Geoffrey Hinton, được gọi là "bố già AI" và vừa nhận giải Nobel Vật lý 2024, nhắc đến người học trò "từng phế truất Sam Altman".
+ Trả lời báo chí sau khi nhận giải Nobel Vật lý 2024 ngày 8/10, Geoffrey Hinton bày tỏ sự hạnh phúc với giải thưởng danh giá, đồng thời dành lời khen cho các học trò của mình tại Đại học Toronto. "Họ đã làm những điều tuyệt vời", ông nói. "Tôi đặc biệt tự hào việc một trong những học trò của tôi đã sa thải Sam Altman".
+ Người mà Hinton đề cập là Ilya Sutskever, nhà đồng sáng lập OpenAI và mới rời đi hồi tháng 5.
+ Ông từng có ghế trong hội đồng quản trị OpenAI và theo đuổi mục tiêu phát triển AI vì lợi ích nhân loại.
+ Ông đứng sau vụ lật đổ Sam Altman vào tháng 11/2023 nhưng bất thành.
+ Hinton lo ngại trí tuệ nhân tạo sẽ thông minh hơn con người trong vòng 20 năm tới và nhấn mạnh sự cần thiết phải nghiên cứu sâu hơn về an toàn AI.
+ Ông cho rằng CEO OpenAI đang quan tâm đến lợi nhuận hơn là sự an toàn, điều ông cho là "đáng tiếc".
+ Hinton, Sutskever và một nhà khoa học khác là Alex Krizhevsky đã tạo ra thuật toán AlexNet vào năm 2012 với khả năng nhận diện đối tượng trong hình ảnh với độ chính xác được nhận xét "chưa từng có".
+ Công trình này được ví như "vụ nổ Big Bang trong lĩnh vực AI".
+ Năm 2018, Hinton cùng Yoshua Bengio và Yan LeCun được trao giải Turning - giải thưởng danh giá trong lĩnh vực khoa học máy tính.
+ Cả ba cùng nghiên cứu về mạng lưới thần kinh - một loại phần mềm máy học mô phỏng cách thức hoạt động của bộ não con người.
+ Đây một trong những tiến bộ lớn của ngành khoa học hiện đại và có ảnh hưởng mạnh mẽ đến sự phát triển của AI.
+ Đầu tháng 5/2023, ông gây xôn xao khi quyết định rút khỏi vị trí phó chủ tịch và quản lý công nghệ tại Google với lý do có thể công khai về hiểm họa AI đối với nhân loại. "Thực tế, tôi rời đi để có thể nói về mối nguy của AI mà không phải xem xét điều này ảnh hưởng đến Google thế nào", ông viết trên Twitter ngày sau khi từ chức. "Chúng ta chưa biết cách tránh những nguy cơ này", Hinton nói thêm. "Đó là lý do chúng ta cần nhiều nghiên cứu hơn".

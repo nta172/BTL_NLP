@@ -1,8 +1,15 @@
-Nhiều người thường để máy tính Windows chạy liên tục trong thời gian dài và chỉ tắt màn hình. Nhiều người có thói quen không tắt máy tính Windows, nhất là laptop, vì sự tiện lợi. Khi không tắt, máy luôn ở trạng thái sẵn sàng, không phải đợi 20-30 giây để khởi động. Một lý do khác là khả năng truy cập từ xa. Khi máy bật, chủ nhân của nó có thể vào lấy dữ liệu từ bất cứ đâu, miễn là thiết bị có kết nối Internet. Nếu không sử dụng, hệ điều hành sẽ đưa máy tính vào Chế độ Chờ (Standby) hoặc Chế độ Ngủ (Sleep). Khi đó, máy chuyển sang trạng thái năng lượng thấp, tức tiêu thụ rất ít điện và tỏa ra ít nhiệt.
- Trang How-to-Geek thử không tắt máy trong một tuần và nhận thấy thiết bị chạy Windows 10 không gặp sự cố lớn nào về hiệu suất hay hỏng hóc.
- Hai vấn đề gặp phải là khi mở tệp RAR, ứng dụng giải nén bị "sập" và phải khởi động lại; và các trò chơi yêu cầu tài nguyên máy tính cao bị giật lag hơn bình thường, có thể do chúng mất nhiều thời gian hơn để tải tài nguyên vào RAM.
- Trong khi đó, Hampshire.edu thực hiện việc không tắt PC và laptop Windows trong một tháng.
- Sau thời gian đó, PC ban đầu "không hoạt động được như bình thường", còn laptop đã hết pin trước khi thử nghiệm kết thúc. Khi không tắt, nhất là PC, tiền điện có thể tăng do ở chế độ chờ, máy vẫn có thể tiêu thụ từ 40 W đến 100 W điện.
- Vấn đề tiếp theo liên quan đến độ bền, do máy vẫn hoạt động ở mức nhất định, từ đó sản sinh ra nhiệt, gây ra trục trặc về hiệu suất, khiến tuổi thọ linh kiện giảm và thậm chí hư hỏng phần cứng. "Hãy tưởng tượng PC của bạn như một vận động viên tham gia cuộc chạy với đường đua vô tận.
- Sẽ đến lúc, vận động viên mệt mỏi và dừng lại nếu chạy liên tục", TechNext24 ví von. Khi bật liên tục, máy tính cũng dễ bị hacker xâm nhập hơn. Nó có thể bỏ lỡ các bản cập nhật và bản vá quan trọng, khiến hệ thống dễ bị nhiễm phần mềm độc hại, virus và các mối đe dọa kỹ thuật số khác.
- Trên thực tế, việc chạy nhiều ứng dụng và quy trình cùng lúc mà không có thời gian nghỉ và tắt hợp lý có thể dẫn đến tình trạng cạn kiệt bộ nhớ và tài nguyên. Nhiều lỗi nhỏ cũng được khắc phục đơn giản bằng cách khởi động lại thiết bị. "Tóm lại, nên tắt máy nếu không sử dụng trong một khoảng thời gian đủ dài", TechNext24 khuyến cáo. "Trong khi đó, chế độ Chờ là lựa chọn tốt nếu người dùng cần sử dụng lại máy tính trong thời gian ngắn, vì khi đó họ có thể đánh thức thiết bị nhanh chóng, không cần khởi động lại mọi thứ".
+Số bình chọn thứ sáu của Sản phẩm tôi yêu 2024 với sự tham gia của 5 mẫu máy điều hòa diệt khuẩn sẽ đóng cổng vào 0h ngày 7/10.
+ Vòng bình chọn "Điều hòa diệt khuẩn thông minh được yêu thích nhất" diễn ra từ 29/9 đến hết 6/10.
+ Cuộc đua có sự tham gia của 5 sản phẩm chính hãng gồm Aqua UV Smart AQA-RUV10XAW2, LG V10WIN1, Comfee CFS-10VCB1, Panasonic CU/CS-PU9AKH-8 và TCL TAC-10CSD/FBI.
+ Các sản phẩm trong danh sách đề cử được đánh giá cao về tính năng, đặc biệt là khả năng diệt khuẩn và có thể điều khiển từ xa qua ứng dụng.
+ Năm máy điều hòa có giá từ 8,9 triệu đến 12 triệu đồng.
+ Kết quả bình chọn được tính hoàn toàn dựa trên lượt đánh giá của độc giả.
+ Các sản phẩm có mặt trong danh sách đề cử phải đáp ứng tiêu chí: được giới thiệu trong vòng một năm qua tại Việt Nam; trang bị công nghệ mới, nổi bật; có thiết kế, tính năng và hiệu năng ấn tượng.
+ Độc giả bình chọn nhanh và chính xác nhất mẫu điều hòa tiết kiệm điện thắng giải, đồng thời dự đoán gần đúng nhất số người có cùng đáp án sẽ nhận được phần quà công nghệ từ ban tổ chức là máy lọc không khí Casper AP-300MAH.
+ Ở số thứ năm với chủ đề máy điều hòa tiết kiệm điện được yêu thích nhất, mẫu Comfee CFS-10VCB1 đã giành được số lượt bình chọn cao nhất.
+ Sản phẩm tôi yêu được VnExpress tổ chức thường niên từ 2020, là chương trình khởi động cho Tech Awards.
+ Sản phẩm tôi yêu 2024 bắt đầu từ 18/7 đến 4/11.
+ Mỗi số kéo dài trong 10 ngày với chủ đề khác nhau liên quan đến đồ gia dụng, thiết bị và phụ kiện điện tử.
+ 8 sản phẩm đạt giải được trao chứng nhận trong Lễ trao giải Tech Awards 2024, dự kiến tổ chức vào tháng 1/2025 tại TP HCM.
+ Tech Awards là chương trình bình chọn thường niên từ 2012 của VnExpress Số Hóa, dành cho các sản phẩm và thương hiệu công nghệ nổi bật, được bán chính hãng trong năm tại thị trường Việt Nam.
+ Kết quả chung cuộc của các sản phẩm và thương hiệu được tính dựa trên 40% lượt bình chọn của độc giả và 60% điểm đánh giá của ban giám khảo.

@@ -1,14 +1,10 @@
-Thủ tướng yêu cầu tích hợp hiển thị thông tin sức khỏe lên sổ sức khỏe điện tử VNeID và tiến tới khám chữa bệnh bảo hiểm y tế không phụ thuộc địa giới hành chính.
- Chủ trì hội nghị trực tuyến mở rộng thí điểm sổ sức khỏe điện tử và cấp phiếu lý lịch tư pháp qua ứng dụng VNeID trên toàn quốc chiều 2/10, Thủ tướng Phạm Minh Chính nêu mục tiêu đến đầu năm 2025, tất cả bệnh viện và 40 triệu người sẽ sử dụng sổ sức khỏe điện tử; tất cả người dân có nhu cầu được cấp phiếu lý lịch tư pháp qua VNeID.
- Đến nay, toàn quốc có 31 triệu sổ sức khỏe điện tử, trong đó 14,6 triệu người tích hợp vào VNeID.
- Tuy nhiên, Thủ tướng cho rằng VNeID có lúc vận hành chưa ổn định, phát triển các tiện ích còn chậm, phổ cập còn khó khăn.
- Việc sử dụng sổ sức khỏe điện tử cũng còn nhiều hạn chế như liên thông dữ liệu giữa các bệnh viện còn nhiều bất cập.
- Việc công nhận, tái sử dụng kết quả xét nghiệm, chẩn đoán còn nhiều vướng mắc.
- Vì vậy, Thủ tướng yêu cầu Bộ Công an thời gian tới tiếp tục hoàn thiện, tối ưu tiện ích hiện có trên VNeID, đảm bảo hệ thống hoạt động ổn định, an toàn và thuận tiện.
- Bộ Y tế được giao hoàn thiện sổ sức khỏe điện tử trên VNeID để người dân dùng thay thế sổ khám bệnh giấy; các địa phương triển khai cấp phiếu lý lịch tư pháp, sổ sức khỏe điện tử qua VNeID. Lãnh đạo Chính phủ chỉ đạo các cơ quan nghiên cứu xây dựng sổ sức khỏe điện tử cho trẻ em, nhất là thông tin tiêm chủng ngay từ khi chào đời.
- Sổ của trẻ sẽ gắn với VNeID của cha mẹ, người giám hộ.
- Các bệnh viện nghiên cứu lập bệnh án điện tử cho tất cả công dân.
- Bảo hiểm Xã hội Việt Nam tích hợp thông tin sức khỏe lên sổ sức khỏe điện tử và tiến tới khám chữa bệnh bảo hiểm y tế không phụ thuộc vào địa giới hành chính. "Chúng ta đang trên con đường xây dựng một Việt Nam hùng cường, thịnh vượng, hướng tới nền kinh tế số tiên tiến, bắt kịp, tiến cùng và vượt lên trong kỷ nguyên số của nhân loại", Thủ tướng nói và kêu gọi các đơn vị đầu tư công sức, trí tuệ tạo chuyển biến thực chất trong chuyển đổi số.
- Giám đốc Bệnh viện Bạch Mai Đào Xuân Cơ đánh giá ứng dụng sổ sức khỏe điện tử và tiến tới bệnh án điện tử sẽ mang lại hiệu quả, tác động rất to lớn.
- Bệnh viện Bạch Mai mỗi năm cần khoảng 50 tỷ đồng để mua phim cho chiếu chụp gây tốn kém, ảnh hưởng môi trường, khó lưu giữ lâu.
- Với sổ sức khỏe điện tử, các bệnh viện có thể căn cứ dữ liệu liên thông để đưa ra các quyết định như bệnh nhân có cần chuyển tuyến không. Mặt khác, nguồn dữ liệu của các bệnh viện tuyến đầu cả nước rất lớn, nhưng đang lưu trữ giấy nên rất khó ứng dụng vào nghiên cứu. Nhiều chuyên gia quốc tế đánh giá các bệnh viện lớn của Việt Nam, như Bạch Mai, đang nằm trên kho dữ liệu, nhưng là dữ liệu chết. "Phải số hóa để làm sống lại khu dữ liệu đó, làm tiền đề quan trọng để ngành y Việt Nam có những nghiên cứu công bố quốc tế", ông Cơ nói, cho biết Bệnh viện Bạch Mai muốn thí điểm bệnh án điện tử, nếu thành công sẽ hướng dẫn các bệnh viện khác.
+Sóng mạnh và triều cường đã ngoạm sâu 50 m bờ biển giáp ranh giữa TP Huế và huyện Phú Vang, buộc chính quyền công bố tình huống khẩn cấp.
+ Đoạn bờ biển sạt lở kéo dài khoảng một km, từ phường Thuận An, TP Huế đến xã Phú Thuận, huyện Phú Vang.
+ Trong đó, điểm sạt nặng dài khoảng 300 m nằm giáp ranh giữa xã Phú Thuận và phường Thuận An.
+ Sóng biển ăn sâu đất liền hơn 50 m, phá hỏng vỉa hè.
+ Hàng loạt cây phi lao dọc bờ biển bị sóng biển cuốn trơ rễ.
+ Đường nội bộ của bãi tắm Thuận An và Phú Thuận bị đe dọa, hiện chỉ cách mép nước khoảng một mét.
+ Ngày 23/10, tỉnh Thừa Thiên Huế đã công bố tình huống khẩn cấp về thiên tai sạt lở bờ biển đoạn giáp ranh giữa xã Phú Thuận và phường Thuận An.
+ Trực tiếp kiểm tra hiện trường, ông Hoàng Hải Minh, Phó chủ tịch tỉnh Thừa Thiên Huế, đánh giá nếu không có phương án xử lý khẩn cấp, cùng với thời tiết tiếp tục bất lợi, khu vực này có nguy cơ bị ăn sâu và cuốn trôi con đường nội bộ bãi tắm, ảnh hưởng lớn đến các nhà hàng dọc bờ biển.
+ Ông Minh đề nghị chính quyền TP Huế và huyện Phú Vang huy động lực lượng và phương tiện tập trung gia cố, ngăn chặn việc xâm thực để bảo vệ các công trình hạ tầng cũng như an toàn cho người dân sống tại khu vực sạt lở; cắm biển cảnh báo, khoanh vùng nguy hiểm, bố trí lực lượng canh gác.
+ Ban Quản lý dự án đầu tư xây dựng công trình nông nghiệp và phát triển nông thôn tỉnh được yêu cầu khẩn trương lập phương án xử lý khẩn cấp phòng, chống sạt lở bờ biển; huy động vật tư, phương tiện xe, máy của đơn vị thi công có năng lực để phối hợp chính quyền và các lực lượng trên địa bàn xử lý khẩn cấp theo phương án đã thống nhất.

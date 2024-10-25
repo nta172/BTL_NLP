@@ -1,13 +1,22 @@
-Nhóm sinh viên Việt Nam phát triển giải pháp tìm người bị nạn bằng drone kết hợp AI, giành giải nhất tại cuộc thi châu Á của Huawei.
- Tại cuộc thi Tech4Good khu vực châu Á - Thái Bình Dương do Huawei tổ chức tại Trung Quốc ngày 26/9, dự án SkyNet - hỗ trợ tìm kiếm người gặp nạn trong lũ lụt - của nhóm sinh viên Việt Nam đã đoạt giải nhất, đồng thời giành suất tiến vào vòng Chung kết toàn cầu năm 2025.
- Dự án được phát triển dựa trên ý tưởng ứng dụng máy bay không người lái kết hợp radar khẩu độ tổng hợp SAR và công nghệ AI, nhằm hỗ trợ tìm và giải cứu người bị nạn ở vùng ngập lụt nhanh hơn.
- Giải pháp được đưa ra đáp ứng các tiêu chí gồm thu ảnh ở độ phân giải cao, phát sóng dữ liệu di động ổn định và báo cáo dữ liệu theo thời gian thực. Ngoài ra, nhóm cũng đưa ra phương án để tối ưu chi phí, xây dựng đa dạng kịch bản ứng dụng nếu được thương mại hóa.
- Giải pháp này được đánh giá giàu tính ứng dụng trong bối cảnh thực tiễn về bão Yagi vừa gây thiệt hại lớn tại Việt Nam, đồng thời bài trình bày của nhóm cũng tạo được sự ấn tượng với giám khảo.
- Sáu sinh viên Việt Nam tham gia đội thi gồm Mai Thị Phượng, Nguyễn Thị Thu Trang và Đinh Hoàng Anh (Học viện Công nghệ Bưu chính Viễn thông), Phạm Quỳnh Trang (Đại học VinUni), Cao Sỹ Dương (Đại học Bách Khoa Hà Nội), và Trần Đăng Nam (Đại học Giao thông Vận tải TP.
- HCM).
- Đây là các sinh viên vượt qua hai vòng thi của chương trình "Hạt giống cho Tương lai 2024", được chọn từ 400 sinh viên tại Việt Nam và đảm bảo tiêu chí về điểm số học tập cao nhất cũng như đủ điều kiện thi đấu quốc tế.
- Tại vòng thi châu Á - Thái Bình Dương, họ thi đấu với 24 đội thi đến từ 24 quốc gia trong khu vực. Kết quả, đội Việt Nam và Campuchia cùng giành giải Nhất.
- Họ sẽ được tài trợ khởi nghiệp, tham gia chuyến trải nghiệm đến Trung Quốc và tham dự những cuộc thảo luận "1:1" với các lãnh đạo Huawei. "Sáu ‘hạt giống’ Việt Nam đã giành vị trí nhất bảng, chứng minh được năng lực cá nhân qua dự án SkyNet và truyền cảm hứng cho các tài năng trẻ khác tích cực chuyển đổi ý tưởng sáng tạo vào thực tiễn quốc gia", ông Macky Zhang, Tổng giám đốc Huawei Việt Nam, chia sẻ.
- Thạc sĩ Cao Hữu Vinh, Phó viện trưởng Đào tạo Chất lượng cao, Trường Đại học Giao thông Vận tải TP.
- HCM, cũng đánh giá đây là cơ hội để sinh viên tiếp cận và trau dồi các kiến thức mới nhất, cũng như có cái nhìn toàn diện về các công nghệ hiện đại và ứng dụng thực tế vào đa lĩnh vực khác nhau.
- Tech4Good là cuộc thi về dự án khởi nghiệp được Huawei tổ chức thường niên, hướng tới mục tiêu nâng cao nhận thức của sinh viên về các thách thức đối với sự phát triển bền vững của địa phương, cùng với việc nắm bắt xu hướng số hóa mới nhất, từ đó phát triển các giải pháp khả thi cả về mặt kỹ thuật và thương mại, giải quyết các vấn đề xã hội.
+VNPay Taxi hỗ trợ chuyển đổi taxi truyền thống trở thành taxi công nghệ, được hơn 200 hãng tham gia, có thể gọi xe qua ứng dụng ngân hàng.
+ Tại hội nghị gặp gỡ các hãng taxi tuần này, ông Lê Tánh, Tổng giám đốc VNPay, đánh giá trên thế giới xu hướng gọi xe công nghệ qua các ứng dụng đã phát triển mạnh, thay đổi cách người dùng tiếp cận dịch vụ di chuyển, với một số tên tuổi nổi tiếng như Uber, Lyft, Grab, DiDi.
+ Điều này, theo ông là thách thức với ngành taxi truyền thống trên toàn thế giới.
+ Tuy nhiên tại Việt Nam, đại diện VNPay cho rằng ngành taxi đã "giữ vững được vị thế và chuyển mình phát triển bền vững" thông qua chuyển đổi số.
+ Minh chứng được thể hiện qua việc ứng dụng công nghệ để quản trị, vận hành, cung cấp dịch vụ đến khách hàng.
+ Ông Tánh cũng nhắc đến việc người dùng hiện nay đã có thể gọi xe trực tiếp từ các ứng dụng ngân hàng. "Đây là một dịch vụ độc đáo và mang tính tiên phong, chưa từng xuất hiện trên thị trường quốc tế" ông Tánh nói.
+ Lý giải rõ hơn về vấn để này, ông Trần Mạnh Nam, Giám đốc Khối doanh nghiệp VNPay cho rằng các hãng taxi trong nước cũng đang ứng dụng mạnh mẽ việc chuyển đổi số, thể hiện ở việc họ có từ vài chục xe tới hàng nghìn xe đang sử dụng các nền tảng công nghệ để quản lý tài xế, điều xe, quản lý doanh thu.
+ Việt Nam có nhiều nền tảng phục vụ việc này như Ali, Bình Anh, Emddi, VNTaxi.
+ Tuy nhiên để chuyển đổi số toàn diện, ông Nam nhấn mạnh việc cần ứng dụng công nghệ để mở rộng khách hàng, hỗ trợ người dùng dễ dàng đặt xe, thanh toán.
+ Đây là một trong những lý do đơn vị này xây dựng VNPay Taxi.
+ Nền tảng hiện được tích hợp trên ứng dụng của nhiều ngân hàng, đồng thời kết nối với mạng lưới gồm 234 hãng taxi tại 54 tỉnh thành.
+ Người dùng khi đến một địa phương có thể lên VNPay hoặc các ứng dụng ngân hàng để đặt xe, kết nối với taxi trong khu vực và việc thanh toán được thực hiện qua tài khoản.
+ Theo ông Nam, cách làm này giúp các hãng taxi có thể tiếp cận lượng khách hàng của ngân hàng, lên tới khoảng 50 triệu tại Việt Nam.
+ Đây là nhóm khách có mức độ tin cậy cao, thói quen giao dịch thường xuyên.
+ Ngoài ra, cách này cũng giúp chuyên nghiệp hóa ngành taxi của Việt Nam. "Các hãng taxi có thể tập trung vào lĩnh vực của họ như xây dựng đội ngũ tài xế chuyên nghiệp.
+ Còn doanh nghiệp công nghệ sẽ hỗ trợ chuyển đổi số, ứng dụng các công nghệ mới nhất", ông Nam nói.
+ Ông Nguyễn Công Hùng, Phó chủ tịch Hiệp hội Vận tải ôtô Việt Nam, cho biết ngành vận tải, đặc biệt là taxi, vốn chịu ảnh hưởng mạnh mẽ của công nghệ từ năm 2014, khi các mô hình mới như taxi công nghệ bắt đầu vào Việt Nam.
+ Từ đó, nhiều doanh nghiệp cũng phải tự thích ứng, thông qua việc xây dựng ứng dụng riêng, đưa chuyển đổi số vào vận hành và việc này được thực hiện mạnh trong khoảng 5 năm gần đây.
+ Dẫn thống kê Việt Nam có khoảng hai triệu ôtô, trong đó xe hợp đồng khoảng 900.
+000, và taxi khoảng 100.
+000, ông Hùng cho rằng taxi là một thị trường có nhiều thách thức, với minh chứng là những đơn vị quốc tế như Uber, Gojek sau một thời gian hoạt động cũng phải rút khỏi Việt Nam.
+ Theo đại diện Hiệp hội Vân tải ôtô Việt Nam, để phát triển hơn, những nền tảng như VNPay Taxi cần đẩy mạnh hoạt động kết nối các hãng, xây dựng một tiêu chuẩn dịch vụ cho taxi khi kết nối vào, đồng thời tăng trải nghiệm của người dùng trong việc đặt xe qua các ứng dụng ngân hàng.

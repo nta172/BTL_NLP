@@ -1,13 +1,23 @@
-Lần đầu tiên một "hạt giống" ruby phát triển thành viên ruby kích thước đầy đủ ngay trên một chiếc nhẫn bạch kim nhờ phương pháp hóa học.
- Sofie Boons, giảng viên cấp cao kiêm nhà nghiên cứu thiết kế trang sức tại Đại học Tây Anh (UWE), Bristol, phát triển một kỹ thuật hóa học để kích thích ruby (hồng ngọc) tăng trưởng, BBC hôm 26/9 đưa tin. Kỹ thuật này cho phép một mảnh ruby tí hon tăng dần kích thước khi đặt trong khung trang sức.
- UWE tin rằng quy trình "trồng tại chỗ" này chưa từng được thực hiện thành công trước đây.
- Boons bắt đầu với một "hạt giống" ruby lấy từ vụn đá quý thải ra.
- Bà đặt mảnh vụn vào khung bạch kim, ví dụ như một chiếc nhẫn, sau đó sử dụng một chất hóa học gọi là flux.
- Chất này làm giảm nhiệt độ, giúp viên đá quý phát triển. Khác với những viên đá quý được trồng từ đầu trong phòng thí nghiệm, tiêu tốn nhiều năng lượng, hay đá quý khai thác từ lòng đất theo cách không bền vững, đá quý của Boons phát triển trong lò luyện từ các mảnh vật liệu đá quý thải bỏ, chỉ mất vài ngày và 5 giờ năng lượng để phát triển. "Tôi đang thử nghiệm phát triển chúng trong lò từ 5 - 50 giờ.
- Với thời gian dài hơn, tôi sẽ nhận được các tinh thể lớn hơn và sạch hơn một chút.
- Tôi đang nỗ lực rút ngắn thời gian để khiến quá trình này trở nên bền vững hơn", Boons nói.
- Phương pháp mới thách thức quan niệm cho rằng đá quý nhân tạo trông không tự nhiên. "Những đặc điểm tăng trưởng khó dự đoán tạo ra viên đá với các mặt tự nhiên, một người làm trang sức như tôi thấy điều này rất thú vị", Boons nói thêm. Nhận thức về giá trị của những viên ruby tự trồng đang thay đổi, theo Rebecca Enderby, nhà thiết kế trang sức ở Bristol. "Những viên đá quý trồng trong phòng thí nghiệm này không phải là giả.
- Chúng mô phỏng những gì phát triển dưới lòng đất hàng nghìn năm, vì vậy, chúng là sự thay thế giá rẻ hơn cho những viên đá khai thác từ mỏ", Enderby giải thích.
- Đá quý tự trồng có tiềm năng thân thiện với môi trường hơn, theo Enderby. "Tuy nhiên, chúng vẫn cần nhiều năng lượng để sản xuất.
- Do đó, chúng nên được sản xuất từ những nguồn năng lượng xanh", bà nói thêm. Kỹ thuật trồng ruby mới là một phần trong nghiên cứu tiến sĩ của Boons. Nghiên cứu này hiện đã thu hút được vòng tài trợ thứ hai từ UWE.
- Đại học Bristol cũng tham gia hỗ trợ để mở rộng nghiên cứu sang những loại đá quý khác.
+Động cơ phản lực dòng thẳng tích hợp động cơ tên lửa kích nổ xoay của Venus Aerospace có thể đẩy máy bay tới tốc độ hơn 7.
+400 km/h.
+ Công ty Venus Aerospace giới thiệu mẫu động cơ đột phá dành cho hàng không tốc độ cao.
+ Động cơ đẩy Venus Detonation Ramjet 2000 lb (VDR2) gần đây ra mắt tại sự kiện Up.
+Summit, theo Interesting Engineering.
+ Bước phát triển này đánh dấu một cột mốc quan trọng trong công nghệ bay siêu thanh, với tiềm năng biến đổi giao thông hàng không thông qua cho phép các hãng bay vượt qua khoảng cách cực lớn ở tốc độ khó tin.
+ Động cơ mới sẽ biến bay siêu thanh thành hiện thực, theo Andrew Duggleby, giám đốc công nghệ của Venus Aerospace.
+ Một thách thức chủ chốt để bay siêu thanh là tạo ra động cơ có thể duy trì lực đẩy liên tục ở tốc độ cực hạn.
+ Những hệ thống siêu thanh hiện nay chủ yếu dựa vào vật thể lượn, phóng lên độ cao và tốc độ lớn nhờ tên lửa trước khi lượn trở lại mặt đất.
+ Dù hiệu quả, phương pháp như vậy bất khả thi đối với các hãng bay thương mại cần duy trì bay có động cơ trong suốt hành trình.
+ VDR2 giải quyết thách thức với một thiết kế đơn giản, dựa vào động cơ phản lực dòng thẳng (ramjet).
+ Đây là động cơ phản lực sử dụng chuyển động hướng về phía trước của máy bay để nén không khí nạp vào, do đó không cần những cánh quạt phức tạp và dễ gãy như động cơ phản lực thông thường.
+ Venus Aerospace củng cố thiết kế ramjet truyền thống bằng cách tích hợp động cơ tên lửa kích nổ xoay (RDRE) vào VDR2.
+ Công nghệ này tăng cường cả lực đẩy và độ hiệu quả thông qua quá trình kích nổ liên tục.
+ Trong quá trình đó, nhiên liệu và chất oxy hóa được bơm vào khe hẹp giữa hai xylanh và đốt cháy, tạo ra sóng xung kích siêu thanh xoay tròn bên trong khe.
+ Phương pháp tạo ra nhiều lực hơn hẳn so với phương pháp đốt.
+ Ngoài ra, sự kết hợp giữa động cơ phản lực dòng thẳng và công nghệ RDRE đem lại một động cơ không chỉ mạnh mẽ mà còn bền bỉ.
+ Nó có thể đẩy máy bay tới tốc độ Mach 6 (7.
+408 km/h) và đạt độ cao 52.
+000 m.
+ Ngoài ra, Venus Aerospace dự đoán VDR2 hiệu quả hơn 15% so với động cơ truyền thống, do đó càng phù hợp để sử dụng thương mại.
+ Chuyến bay thử nghiệm đầu tiên VDR2 được lên lịch vào năm sau.
+ Nếu mọi thứ theo đúng kế hoạch, dự án sẽ tác động lớn tới tương lai của máy bay siêu thanh và có tiềm năng cách mạng hóa toàn bộ giao thông hàng không.

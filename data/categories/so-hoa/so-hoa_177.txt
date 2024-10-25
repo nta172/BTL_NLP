@@ -1,13 +1,1 @@
-Theo đoạn video lộ từ bộ phim sắp chiếu của HBO, người tạo ra Bitcoin là nhà phát triển người Mỹ Peter Todd.
- Trên X, tài khoản BlockCitizen ngày 8/10 chia sẻ một đoạn trong phim tài liệu Money Electric: The Bitcoin Mystery (Tiền điện tử: Bí ẩn Bitcoin), dự kiến công chiếu hôm nay, cho thấy Peter Todd là Satoshi Nakamoto, biệt danh của cha đẻ Bitcoin.
- Được đạo diễn bởi Cullen Hoback, người từng được đề cử giải Emmy, Money Electric: The Bitcoin Mystery có nội dung xoay quanh sự bí ẩn của người đứng sau Bitcoin.
- Todd cũng là một Bitcoin Core, từ dùng để chỉ các thành viên nòng cốt tham gia phát triển đồng tiền số lớn nhất thế giới.
- Ông cũng là nhà sáng lập OpenTimestamps và có uy tín trong lĩnh vực tiền mã hóa.
- Sau khi đoạn phim xuất hiện, Todd nhanh chóng phủ nhận. "Tất nhiên, tôi không phải là Satoshi", ông nói với CoinDesk. "Hoback đang cố bám víu vào sợi rơm".
- Ông cũng xác nhận được Hoback phỏng vấn và nói "các cảnh quay không phải deepfake".
- Trước đó, khi HBO tung trailer phim, mọi sự chú ý đổ dồn vào Leonard Harris "Len" Sassaman, một trong những nhà phát triển Bitcoin thời kỳ đầu nhưng đã mất vào năm 2011.
- Bitcoin là tiền số phổ biến nhất thế giới, ra đời năm 2008. Ngoài những tranh cãi về giá trị hay tính pháp lý, cha đẻ của đồng này cũng là tâm điểm của rất nhiều cuộc thảo luận.
- Đến nay, thông tin về người tạo Bitcoin vẫn là một trong những bí ẩn lớn nhất của ngành công nghệ hiện đại.
- Trước đó, hầu hết nghi vấn hướng đến Dorian S. Nakamoto và Hal Finney.
- Theo CoinTelegraph, việc biết được ai tạo ra Bitcoin có thể khiến thị trường tiền số đảo lộn, nhất là khi người đó còn sống.
- Satoshi Nakamoto được cho là nắm giữ khoảng 1,1 triệu Bitcoin, tương đương 66 tỷ USD.
+Sau khi iPhone 16 bán ra, một số YouTuber đã bắt đầu thử nghiệm thả rơi thiết bị ở nhiều độ cao khác nhau để đánh giá độ bền.

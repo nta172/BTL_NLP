@@ -1,18 +1,22 @@
-Jensen Huang, nhà sáng lập Nvidia, ca ngợi Elon Musk và công ty xAI khi có thể xây dựng siêu máy tính AI với thời gian vài chục ngày. "Theo tôi biết, chỉ một người trên thế giới có thể làm được điều đó", ông Huang nói trong podcast Bg2 Pod phát sóng tuần này. "Một nỗ lực siêu phàm, điều mà người bình thường phải mất nhiều năm.
- Elon là người duy nhất hiểu biết về kỹ thuật, xây dựng, hệ thống lớn và khả năng huy động nguồn lực.
- Thật không thể tin được". xAI, công ty trí tuệ nhân tạo của Elon Musk, đã xây dựng siêu máy tính Colossus ở Memphis, Tennessee (Mỹ).
- Cụm này gồm 100.
-000 GPU Nvidia H100 và dự kiến tiếp tục được mở rộng thời gian tới.
- Hồi tháng 9, Musk cho biết chỉ mất 122 ngày để hoàn thành mọi thứ "từ đầu đến cuối".
- Trong podcast, Huang nói với những gì ông chứng kiến, việc lắp đặt cụm GPU cho Colossus chỉ diễn ra trong vài chục ngày.
- CEO Nvidia khen ngợi các nhóm kỹ thuật, phần mềm, mạng và cơ sở hạ tầng của xAI, gọi họ là những người "phi thường". "Để dễ hình dung, 100.
-000 GPU là siêu máy tính nhanh nhất hành tinh, khi tính theo một cụm", Huang bình luận. "Để xây dựng một siêu máy tính thường mất ba năm, từ việc lên kế hoạch đến bàn giao thiết bị, và thêm một năm để đưa mọi thứ vào hoạt động".
- Trước đó, trả lời Jordan Peterson trên X hồi tháng 6, Elon Musk cho biết cần 19 ngày để đưa Colossus từ giai đoạn lắp đặt phần cứng đến khâu vận hành đào tạo.
- Ông nói đây là tiến độ "nhanh nhất từ trước đến nay, không phải ai cũng có thể làm được". Musk được cho là đã "xoay" mọi cách để có được GPU Nvidia nhằm đẩy nhanh tiến độ tạo siêu máy tính.
- Giữa tháng 9, nhà sáng lập Oracle Larry Ellison tiết lộ ông và Musk đã "cầu xin" CEO Nvidia bán GPU mới nhất cho mình. "Trong bữa tối tại Nobu Palo Alto, tôi và Elon nài nỉ Jensen bán GPU: Làm ơn nhận tiền của chúng tôi. Không, hãy nhận nhiều hơn.
- Anh chưa nhận đủ đâu, chúng tôi cần anh nhận nhiều tiền hơn của chúng tôi", Ellison kể.
- Trong podcast Bg2 Pod, Huang cũng chia sẻ kỳ vọng về đội ngũ nhân viên trí tuệ nhân tạo giúp tăng năng suất công ty. "Tôi hy vọng một ngày không xa, Nvidia sẽ trở thành công ty có 50.
-000 nhân viên và 100 triệu trợ lý AI trong mỗi nhóm", ông nói, mô tả trợ lý AI là những "tác nhân" có mặt trong mọi công đoạn với vai trò cải thiện năng suất. "AI sẽ tuyển dụng AI khác để giải quyết vấn đề.
- AI sẽ ở trong các kênh Slack với nhau và với con người", ông hình dung.
- Theo ông, con người sẽ cần phải lựa chọn giữa "hàng nghìn tỷ" vấn đề và quyết định giải quyết vấn đề nào, trong khi bot giúp tự động hóa các giải pháp sau đó.
- Có nghĩa, công ty vẫn cần tuyển dụng con người để trở nên năng suất hơn, thay vì nỗi lo bị sa thải bởi AI như những ý kiến trước đó.
+Samsung tạo không gian trải nghiệm công nghệ với đầy đủ thiết bị di động, gia dụng mới nhất tại cửa hàng Samsung West Lake, Hà Nội.
+ Cửa hàng trải nghiệm nằm bên trong tòa tháp Lotte West Lake, có diện tích 367 m2, gồm 4 khu vực bài trí sáng tạo để tạo trải nghiệm mua sắm mới mẻ cho người dùng.
+ Theo đại diện Samsung, không gian được bố trí như một triển lãm công nghệ, lấy cảm hứng từ nhịp sống và văn hóa của người Hà Nội.
+ Tới đây, người dùng có thể trực tiếp sử dụng những chiếc điện thoại Galaxy mới nhất, trải nghiệm loạt tính năng mới cùng bộ sưu tập phụ kiện đi kèm tại Mobile Zone.
+ Nổi bật là các mẫu Galaxy S24, Galaxy Z Fold6, Z Flip6 hay đồng hồ thông minh Galaxy Watch Ultra, máy tính bảng Galaxy Tab S10 Ultra.
+ Khu vực Brand Zone là điểm nhấn, nơi khách tham quan có thể khám phá công nghệ AI đến từ Samsung.
+ Đơn cử là các trải nghiệm: tìm hiểu sức mạnh Galaxy AI trên điện thoại, hiệu năng của chipset NQ8 AI thế hệ thứ ba, làm bếp thông minh với Bespoke AI.
+ Khu vực Screen Zone thu hút nhiều người yêu thích giải trí tại gia.
+ Khu vực này trưng bày màn hình Samsung từ The Serif thiết kế tinh xảo đến Neo QLED 8K và TV OLED.
+ Khách tham quan cũng có thể thưởng thức những khung hình nghệ thuật với The Frame, trải nghiệm TV và màn hình OLED cho game thủ.
+ Home Zone là khu trưng bày các sản phẩm gia đình với nhiều dòng tủ lạnh, máy giặt.
+ Samsung cũng giới thiệu loạt tính năng mới như giặt giũ thông minh AI Wash, sấy quần áo AI Air Dresser, điều khiển thiết bị gia dụng từ xa với SmartThings.
+ Tất cả tính năng đều cho phép khách tham quan tự trải nghiệm.
+ Theo đại diện thương hiệu, điểm hấp dẫn tại Samsung West Lake là cách thiết kế và vận hành lấy cảm hứng từ nét đẹp cảnh sắc, văn hóa Hà Nội.
+ Ở từng góc trong cửa hàng, thương hiệu thể hiện nét đẹp Thủ đô qua nhiều chi tiết nhỏ trong nội thất. "Những chi tiết nội thất được bài trí tỉ mỉ, thể hiện sự giao thoa giữa văn hóa và công nghệ sẽ tạo cảm giác như lạc vào một phòng tranh thu nhỏ giữa phố cổ Hà Nội", đại diện hãng công nghệ nói.
+ Đại diện Samsung cũng khẳng định không gian cửa hàng sẽ thường xuyên tổ chức sự kiện với chủ đề đa dạng như nghệ thuật, nhiếp ảnh, thời trang đến ẩm thực, âm nhạc, du lịch, thể thao, game... với các chuyên gia và người có tầm ảnh hưởng.
+ Điều này giúp mỗi lần đến cửa hàng là một trải nghiệm mới.
+ Thương hiệu cũng xây dựng phương thức khuyến khích người dùng trải nghiệm trọn vẹn cả 4 khu vực trong cửa hàng thông qua tour Bát phố Samsung.
+ Theo đó, tour hướng khách hàng đến tinh thần lãng du, thỏa sức khám phá công nghệ.
+ Tour đầu tiên có tên gọi "Hà Nội khúc giao mùa", gắn liền với 4 mùa đặc trưng của Thủ đô, thu hút hàng trăm người tham gia.
+ Không chỉ cung cấp không gian trải nghiệm, cửa hàng phục vụ theo tiêu chuẩn chung của thương hiệu trên toàn cầu.
+ Khách tham quan được chuyên viên, chuyên gia công nghệ từ Samsung trực tiếp tư vấn về sản phẩm cũng như ứng dụng trong thực tế.

@@ -1,10 +1,18 @@
-Nokia dự kiến triển khai hệ thống 5G sử dụng thiết bị của hãng tại 22 tỉnh thành trên cả nước trong năm nay. Nokia cho biết việc triển khai nằm trong thỏa thuận với một nhà mạng tại Việt Nam nhằm phát triển cơ sở hạ tầng 5G, chuyển đổi số, hiện đại hóa hạ tầng 4G. Loại thiết bị thuộc danh mục 5G AirScale, bao gồm các giải pháp băng tần AirScale thế hệ mới, thiết bị vô tuyến Massive MIMO và các sản phẩm Remote Radio Head. Nokia cũng cho biết các thiết bị sử dụng SoC ReefShark, có khả năng tiết kiệm năng lượng và có thể kết hợp lại để đảm bảo vùng phủ sóng và dung lượng cao. "Các sản phẩm cũng được sản xuất tại nhà máy ở Việt Nam, nhấn mạnh cam kết của Nokia đối với khu vực", đại diện hãng nói, cho biết đây cũng là lần đầu thiết bị mạng 5G Nokia được triển khai tại đây.
- Hồi tháng 6, Nokia cho biết đã bắt đầu sản xuất danh mục sản phẩm thuộc dòng AirScale và sẽ tăng sản lượng từ tháng 9.
- Các thiết bị này được sản xuất tại nhà máy của Foxconn tại Bắc Giang, cung cấp cho thị trường Việt Nam và một số nước lân cận. Nokia không tiết lộ thời gian cụ thể, nhưng cho biết "sẽ bắt đầu trong năm nay", tức trong ba tháng tới.
- Trên thị trường thiết bị đầu cuối, kết nối 5G đã có mặt trên nhiều smartphone từ phân khúc tầm trung như Honor 90 Lite, Galaxy M15 tới thiết bị cao cấp như Z Fold6, iPhone 16.
- Bộ Thông tin và Truyền thông và các nhà mạng nhiều lần khẳng định 5G sẽ được triển khai chính thức trong năm 2024.
- Từ những tháng đầu năm, Bộ đã tổ chức đấu giá thành công ba khối băng tần 5G, thuộc về các nhà mạng Viettel, VNPT, MobiFone.
- Theo điều kiện đấu giá, doanh nghiệp phải triển khai dịch vụ trong vòng 12 tháng kể từ ngày được cấp phép và sau hai năm phải có tối thiểu 3.
-000 trạm phát sóng 5G.
- Sau khi trúng đấu giá băng tần hồi tháng 3, Viettel cho biết một số thiết bị 5G do công ty tự nghiên cứu và sản xuất đã sẵn sàng để chạy triển khai trên băng tần 2500-2600 MHz.
- Hồi tháng 8, họ cũng tuyên bố triển khai thành công mạng 5G độc lập (5G Standalone), tức không phụ thuộc hạ thầng 4G, đồng thời ra mắt dịch vụ video chờ meCall, là dịch vụ đầu tiên trong hệ sinh thái 5G của nhà mạng này.
+Nhiều người phản ánh khi smartphone kết nối mạng 5G, họ có cảm giác data nhanh hết hơn, nhưng chuyên gia cho rằng dung lượng tương đương. "Tôi đăng ký gói cước 2 GB dữ liệu mỗi ngày, trước đây đều dư thừa.
+ Tuy nhiên, từ khi chuyển sang 5G, chỉ vài tiếng đã thấy báo hết dung lượng", Phương Anh (Hà Nội) nói.
+ Đây cũng là ý kiến của nhiều người khi trải nghiệm 5G thời gian qua, dù thói quen và nhu cầu sử dụng của họ không thay đổi.
+ Tại hội thảo 5G sáng 24/10, Viettel, nhà mạng đầu tiên thương mại hóa 5G tại Việt Nam, cho biết đã ghi nhận vấn đề.
+ Theo ông Nguyễn Văn Sơn, Giám đốc Trung tâm di động Viettel Telecom, "5G không tốn data hơn 4G nếu sử dụng tác vụ và nội dung với cùng một chất lượng", đặc biệt với nhu cầu cơ bản của người dùng như truy cập mạng xã hội, tải tài liệu.
+ Tuy nhiên, theo ông Sơn, một trong những lý do chính khiến 5G gây tốn dung lượng hơn là người dùng có thể trải nghiệm một số dịch vụ cần tốc độ siêu nhanh mà 4G trước đây khó đáp ứng, như xem video độ phân giải cao 4K, sử dụng ứng dụng thực tế ảo AR/VR.
+ Quan trọng hơn, tốc độ cao của mạng 5G cũng giúp nội dung được tải về trong thời gian rất ngắn, khác với việc tải từ từ như 4G trước đây.
+ Theo tính toán, một bộ phim dài hai tiếng có thể được tải hết trong vòng 10 giây.
+ Bên cạnh đó, trong giai đoạn đầu, nhiều người có thói quen đánh giá tốc độ của mạng bằng các công cụ bên thứ ba, vốn tiêu tốn data trên thiết bị.
+ Ví dụ với Ookla Speedtest, mỗi lần đo chất lượng mạng, ứng dụng ngốn từ vài trăm MB đến gần 1 GB dung lượng.
+ Thực tế thống kê của Viettel cũng cho thấy khi kết nối 5G, người dùng cũng sử dụng nhiều hơn.
+ Với mạng 4G, người dùng thuộc nhà mạng này tiêu thụ khoảng 16 GB mỗi tháng, trong khi với mạng 5G, dung lượng đang tăng gấp đôi.
+ Trung bình trên toàn mạng lưới, lưu lượng hoạt động trên mạng 5G bằng 5% so với mạng 4G, trong khi ở khu vực thành thị, tỷ lệ này đạt gần 15% so với 4G.
+ Đây cũng là lý do gói cước 5G hiện được thiết kế với dung lượng cao hơn 4G.
+ Theo ông Sơn, người dùng không đăng ký gói 5G vẫn có thể sử dụng 5G, miễn là họ đang sở hữu thiết bị 5G và trong vùng phủ sóng.
+ Tuy nhiên nếu đăng ký, gói cước sẽ được tối ưu hơn, như dung lượng truy cập được mở rộng lên tối thiểu 4 GB mỗi ngày.
+ Từ ngày 15/10, 5G chính thức được thương mại hóa thông qua nhà mạng Viettel, trong khi VNPT và MobiFone đang chuẩn bị triển khai và cũng có chương trình dùng thử miễn phí.
+ Người sở hữu thiết bị 5G có thể đăng ký trải nghiệm tại các khu vực có sóng.

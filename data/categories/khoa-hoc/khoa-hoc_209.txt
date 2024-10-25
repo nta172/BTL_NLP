@@ -1,12 +1,18 @@
-Mẫu máy bay Lanying R6000 của Trung Quốc có thể tự lái để vượt quãng đường lên tới 4.
-000 km, chở 10 người hoặc 2 tấn hàng hóa.
- Tập đoàn máy bay United của Trung Quốc sản xuất máy bay cánh nghiêng 6 tấn đầu tiên trên thế giới.
- Công ty giới thiệu mẫu máy bay mới ở Khu công nghiệp hàng không Vu Hồ thuộc quận Loan Chỉ, thành phố Vu Hồ, tỉnh An Huy, Interesting Engineering hôm 14/10 đưa tin. Máy bay cánh nghiêng có tên Lanying R6000 là phương tiện bay không người lái (UAV) tiên tiến nhất thế giới do Tập đoàn máy bay United phát triển độc lập. Lanying R6000 có thể hỗ trợ cả hoạt động chở hàng và chở người, phục vụ những chuyến bay đường dài từ địa điểm này tới địa điểm khác.
- Trọng lượng cất cánh tối đa (MTOW) của Lanying R6000 là 6 tấn và khối lượng hàng lớn nhất là 2 tấn. Máy bay có thể chở 10 hành khách với tầm hoạt động tối đa 4.
-000 km.
- Vận tốc hành trình nhanh nhất của phương tiện là 550 km/h, độ cao bay hành trình tối đa là 7.
-620 m.
- Sau khi đi vào hoạt động trong tương lai, Lanying R6000 sẽ thay đổi cách con người đi lại và ngành công nghiệp logistics, hỗ trợ mạnh mẽ nhiều lĩnh vực như giao thông, chở hàng, phản ứng khẩn cấp và quốc phòng. Lanying R6000 có thể cất, hạ cánh thẳng đứng và lơ lửng trong không trung như trực thăng thông thường. Nó có lợi thế bay hành trình ở tốc độ cao giống máy bay cánh cố định do sở hữu cấu hình cánh nghiêng tiên tiến và phức tạp.
- Tuy nhiên, do điều này, Lanying R6000 rất khó sản xuất và có khả năng chịu lỗi lắp ráp thấp.
- Do đó, United bố trí dây chuyền sản xuất ở Wuhu United Aircraft, trụ sở sản xuất chính của tập đoàn ở miền đông Trung Quốc.
- Sau 10 năm phát triển, khu công nghiệp hàng không Vu Hồ hiện nay thu hút gần 200 doanh nghiệp trải rộng khắp chuỗi cung ứng bao gồm nghiên cứu phát triển, sản xuất, bảo dưỡng, vận hành, huấn luyện, vận chuyển.
+Hệ thống liên lạc không gian sâu đã hoàn thành cột mốc quan trọng khi truyền thành công tín hiệu bằng laser từ khoảng cách tương đương quãng đường xa nhất giữa Trái Đất và sao Hỏa.
+ Nhiệm vụ Psyche đang trên đường bay tới tiểu hành tinh kim loại cùng tên.
+ Trong suốt hành trình, tàu vũ trụ sẽ tiếp tục kiểm tra hệ thống liên lạc tương lai.
+ Ánh sáng laser truyền từ Trái Đất tới tàu Psyche vào ngày 29/7, khi tàu vũ trụ bay cách hành tinh 460 triệu km, theo IFL Science.
+ Đây không phải lần truyền tín hiệu đầu tiên bằng laser giữa tàu Psyche và Trái Đất.
+ Trong quá khứ, con tàu từng truyền hoặc nhận dữ liệu, ảnh chụp, thậm chí video màuf, nhưng đây là lần truyền xa nhất.
+ Đây cũng là khoảng cách xa nhất giữa Trái Đất và sao Hỏa. "Cột mốc này rất quan trọng.
+ Liên lạc laser đòi hỏi độ chính xác cao và trước khi phóng tàu Psyche, chúng tôi không biết hiệu suất giảm đi bao nhiêu ở khoảng cách xa nhất", Meera Srinivasan, trưởng nhóm vận hành dự án ở Phòng thí nghiệm Sức đẩy Phản lực (JPL) của NASA ở Nam California, cho biết. "Giờ đây, kỹ thuật chúng tôi sử dụng để theo dõi và định vụ đã được kiểm định, xác nhận liên lạc quang học có thể trở thành phương pháp tin cậy để khám phá hệ Mặt Trời".
+ Toàn bộ hệ thống Liên lạc quang học không gian sâu đều mang tính thử nghiệm, xem xét những gì có thể thực hiện bằng công nghệ hiện nay và hướng chế tạo trong tương lai.
+ Nhóm nghiên cứu tiến hành thí nghiệm ở vài khoảng cách khác nhau để xác định lượng dữ liệu có thể truyền được.
+ Ở khoảng cách 53 triệu km, tương đương quãng đường gần nhất giữa sao Hỏa và Trái Đất, tốc độ dữ liệu tối đa là 267 megabit/giây, sánh ngang tốc độ tải băng thông rộng.
+ Hôm 24/6, khi tàu Psyche bay cách Trái Đất 390 triệu km, tốc độ truyền dữ liệu thông thường là 6,25 megabit/giây, tối đa là 8,3 megabit/giây.
+ Tốc độ giảm đáng kể so với thử nghiệm trước đó nhưng vẫn nhanh gấp 100 lần liên lạc bằng sóng vô tuyến.
+ Các nhà nghiên cứu có thể tải gần 11 terabi dữ liệu trong giai đoạn thử nghiệm đầu tiên này. "Một mục tiêu chủ chốt đối với hệ thống là chứng minh việc giảm tốc độ truyền dữ liệu tương ứng với bình phương nghịch đảo của khoảng cách, theo Abi Biswas, kỹ thuật viên của dự án ở JPL.
+ Bước tiếp theo của nhiệm vụ là khởi động lại.
+ Hiện nay, tàu vũ trụ đang tắt các hệ thống và sẽ bật lại vào ngày 4/11 để chứng minh nó có thể hoạt động ít nhất một năm.
+ Tàu Psyche sẽ tiếp tục bay quanh vành trong hệ Mặt Trời trong vài năm nữa.
+ Vào năm 2029, tàu vũ trụ sẽ tới tiểu hành tinh 16 Psyche và bắt đầu bay quanh nó ít nhất tới cuối năm 2031.

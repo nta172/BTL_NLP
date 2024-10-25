@@ -1,14 +1,19 @@
-Chỉ số phát triển Chính phủ điện tử của Việt Nam năm 2024 xếp thứ 71 trên thế giới, tăng 15 bậc và chuyển từ mức "cao" lên "rất cao".
- Báo cáo khảo sát Chính phủ điện tử 2024 được Liên Hợp Quốc công bố tuần này cho thấy Việt Nam đạt 0,7709 điểm về Chỉ số phát triển Chính phủ điện tử - EGDI.
- So với mức 0,6787 điểm ở lần công bố trước vào năm 2022, Việt Nam tăng từ thứ hạng 86 lên 71 trên thế giới.
- Trung bình hai năm một lần, Liên Hợp Quốc đưa ra chỉ số này nhằm đánh giá sự phát triển chính phủ số trên toàn thế giới, việc ứng dụng công nghệ số để nâng cao chất lượng dịch vụ công và tăng cường sự tham gia của người dân trong hoạt động của các cơ quan nhà nước. Năm nay, EGDI tổng hợp từ ba thông số chính gồm: Hạ tầng viễn thông, Nguồn nhân lực và Dịch vụ trực tuyến.
- Ở ba hạng mục, Việt Nam đạt điểm lần lượt là 0,7801 - 0,7267 - 0,8780. Kết quả cũng đưa Việt Nam từ mức cao lên mức rất cao (trên 0,75 điểm), thuộc top 5 quốc gia có thu nhập trung bình thấp đạt được mốc này.
- Trong khi đó, EGDI trung bình của thế giới là 0,6382, còn của khu vực châu Á là 0,6990, Đông Nam Á là 0,6928.
- Tại Đông Nam Á, Việt Nam vượt Brunei để vươn lên vị trí thứ 5.
- Trên Việt Nam là Singapore, Thái Lan, Malaysia và Indonesia.
- Trong đó, Singapore tăng 9 bậc và xếp thứ ba toàn thế giới, Philippines tăng 16 bậc, Indonesia tăng 13 bậc, Đông Timor giảm 12 bậc.
- Theo Bộ Thông tin và Truyền thông, Việt Nam hoàn thành mục tiêu đặt ra năm 2024 về xếp hạng Chính phủ điện tử tăng ít nhất năm bậc. "Thời gian tới, Việt Nam sẽ tiếp tục nỗ lực triển khai chuyển đổi số quốc gia nhằm phát triển kinh tế - xã hội, trong đó thực hiện các giải pháp để tiếp tục nâng thứ hạng chỉ số Chính phủ điện tử, Chính phủ số của Việt Nam theo đánh giá của Liên Hợp Quốc, từ đó cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia", Bộ cho biết.
- Báo cáo EGDI 2024 cũng giới thiệu Khung mô hình chính phủ số mới cho các quốc gia tham khảo, nhằm đẩy nhanh quá trình chuyển đổi số để phát triển bền vững. Khung này gồm sáu động lực gồm: Lãnh đạo số, Tập trung vào dữ liệu, Danh tính số hợp pháp, Tham gia điện tử hiệu quả, Văn hóa số và Hạ tầng số.
- Chính phủ điện tử là quá trình chính phủ ứng dụng công nghệ thông tin để nâng cao hiệu lực, hiệu quả hoạt động, phục vụ người dân và doanh nghiệp tốt hơn.
- Tại Việt Nam, nhiều hệ thống nền tảng của Chính phủ điện tử đã được đưa vào vận hành, giúp đổi mới cách làm việc trong cơ quan nhà nước, cung cấp dịch vụ trực tuyến cho người dân, doanh nghiệp.
- Các hệ thống này có thể kể đến Trục liên thông văn bản quốc gia khai trương từ tháng 3/2019; Hệ thống thông tin phục vụ họp và xử lý công việc của Chính phủ (e-Cabinet) từ giữa 2019; Cổng dịch vụ công quốc gia vận hành từ cuối 2019; Hệ thống thông tin báo cáo quốc gia và Trung tâm Thông tin phục vụ chỉ đạo, điều hành của Chính phủ, Thủ tướng khai trương tháng 8/2020.
+Arm Holdings, công ty đứng sau kiến trúc chip Arm, được cho là đã gửi thông báo hủy giấy phép sử dụng thiết kế chip với Qualcomm.
+ Theo Bloomberg, Arm Holdings đã thông báo hủy bỏ thỏa thuận cấp phép kiến trúc chip Arm đối với Qualcomm và công ty chip Mỹ có 60 ngày để chuẩn bị.
+ Arm từ chối bình luận về thông tin trên.
+ Reuters cho biết vấn đề trên xuất phát từ cuộc chiến pháp lý đang diễn ra giữa hai bên.
+ Arm, có trụ sở tại Anh và thuộc sở hữu của SoftBank Group (Nhật Bản), đã khởi kiện Qualcomm vào năm 2022 vì không đàm phán giấy phép mới sau khi mua lại Nuvia - công ty thiết kế chip cũng được Arm cấp phép.
+ Phiên tòa dự kiến xét xử vào tháng 12 tại tòa án liên bang ở Delaware (Mỹ).
+ Arm từng tuyên bố thiết kế vi xử lý dành cho các máy tính chạy Microsoft Copilot+ là "phiên bản kỹ thuật trực tiếp từ chip của Nuvia" - những mẫu chip đã bị hủy bỏ giấy phép. "Đây là lời đe dọa vô căn cứ từ Arm nhằm áp đặt một đối tác lâu năm như chúng tôi, can thiệp vào hiệu suất CPU hàng đầu và tăng tỷ lệ bản quyền", phát ngôn viên Qualcomm nói với Reuters. "Động thái tuyệt vọng của Arm có vẻ là nỗ lực gây rối loạn quy trình pháp lý, và tuyên bố chấm dứt hoàn toàn vô căn cứ.
+ Chúng tôi tin tưởng quyền lợi của Qualcomm theo thỏa thuận với Arm sẽ được khẳng định.
+ Hành vi phản cạnh tranh của Arm sẽ không được chấp nhận".
+ Trong cuộc chiến tại tòa, nếu chiến thắng, Arm Holdings có thể buộc Qualcomm và khoảng 20 đối tác, trong đó có Microsoft, dừng bán máy tính Copilot+ mới, chủ yếu là laptop.
+ Nó cũng có thể khiến thương vụ Qualcomm - Nuvia bị lật ngược.
+ Android Authority đánh giá việc hủy bỏ thỏa thuận cấp phép thiết kế chip có thể khiến Qualcomm thiệt hại nặng.
+ Vấn đề thậm chí ảnh hưởng sâu rộng hơn với thị trường di động.
+ Snapdragon của Qualcomm, bộ vi xử lý phổ biến nhất trên thiết bị Android, và một số mẫu chip khác đang sử dụng kiến trúc Arm, tạo ra doanh thu khoảng 39 tỷ USD.
+ Qualcomm có thể đối mặt với việc dừng bán hàng, đi kèm hàng loạt tranh chấp pháp lý về sau.
+ Trong khi đó, thị trường di động có thể rơi vào tình thế khó khăn liên quan đến sự gián đoạn sản xuất và khả năng hoạt động liền mạch của thiết bị chạy chip Snapdragon trong tương lai.
+ Tuy nhiên, Qualcomm có thể cũng đã tính đến kịch bản "chia tay" Arm.
+ Ngày 22/10, công ty công bố chip tích hợp khả năng xử lý AI cho di động Snapdragon 8 Elite - thế hệ tiếp theo của Snapdragon 8 Gen 3.
+ Mẫu chip này sử dụng kiến trúc Oryon do hãng tự phát triển thay vì kiến trúc Arm.

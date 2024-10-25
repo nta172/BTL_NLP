@@ -1,21 +1,27 @@
-Về lý thuyết, tốc độ gió duy trì tối đa của cơn bão có một giới hạn, nhưng biến đổi khí hậu có thể thay đổi giới hạn đó.
- Bão Milton, dự kiến đổ bộ vào vùng ven biển Florida trong ngày 9/10 hoặc sáng sớm ngày 10/10, dường như hình thành và mạnh lên vô cùng đột ngột.
- Từ một cơn bão nhiệt đới hôm 6/10, nó mạnh lên thành bão cấp 5 vào ngày 7/10 với tốc độ gió duy trì 298 km/h trước khi yếu đi một chút vào ngày 8/10, theo Live Science.
- Có một giới hạn tốc độ đối với tốc độ gió duy trì, gọi là cường độ tiềm năng tối đa, nhưng nó không tuyệt đối mà bị chi phối bởi vài yếu tố, bao gồm nhiệt lượng ở đại dương. Những tính toán hiện nay về cường độ tiềm năng tối đa đối với bão thường ở mức lớn nhất là 322 km/h. Nhưng điều đó có thể thay đổi trong vài thập kỷ tới khi đại dương ấm lên và khí hậu biến đổi. Nguy cơ xảy ra bão mạnh đã tăng lên trong 30 năm qua, theo Kerry Emanuel, giáo sư danh dự về khoa học khí quyển ở MIT, người phát triển mô hình dự đoán.
- 5 cơn bão trong lịch sử có sức gió vượt mức 309 km/h, tất cả đều xuất hiện từ sau năm 2013.
- Giới hạn tốc độ đối với gió bão tương đối dễ tính toán, theo James Kossin, nhà khoa học khí hậu đã về hưu ở Cục quản lý đại dương và khí quyển quốc gia Mỹ (NOAA), cố vấn cho công ty mô hình rủi ro khí hậu First Street. "Nhiên liệu cho bão là nhiệt lượng chúng hấp thụ từ đại dương. Nước biển càng ấm, càng nhiều nhiên liệu có sẵn", Kossin cho biết.
- Các yếu tố khác giúp xác định cường độ tiềm năng tối đa như nhiệt lượng trong khí quyển và nhiệt độ của đỉnh mây (hé lộ nhiệt lượng có thể chuyển từ mặt biển tới đỉnh bão nhanh tới mức nào) và gió đứt (chênh lệch về tốc độ và hướng gió ở những độ cao khác nhau trong khí quyển).
- Quá nhiều gió đứt có thể khiến bão tan rã, suy yếu và ngăn nó đạt tiềm năng tối đa. Một nghiên cứu về bão giữa năm 1962 và năm 1992 phát hiện chỉ 20% bão ở Đại Tây Dương đạt từ 80% cường độ tiềm năng tối đa, dù có bằng chứng ngày càng nhiều bão bắt đầu tiến gần hơn đến giới hạn về mặt lý thuyết, theo Emanuel.
- Trong tình hình đại dương và khí quyển ấm lên, bão đang trở nên mạnh hơn. Năm 2020, Kossin và đồng nghiệp báo cáo tỷ lệ bão lớn tăng 8% mỗi thập kỷ giữa năm 1979 và 2017.
- Điều đó có nghĩa khi thời tiết ấm dần, bão mạnh và tăng cường độ nhanh chóng như Milton có thể trở nên phổ biến.
- Bão nhiệt đới được phân cấp theo thang Saffir - Simpson, từ cấp 1 (tốc độ gió duy trì 119 km/h) đến cấp 5 (252 km/h).
- Thang này chưa hoàn chỉnh do dựa trên tốc độ gió và không bao gồm thiệt hại từ sóng trào hay ngập lụt, vốn nguy hiểm hơn gió bão.
- Xác suất tăng lên của những cơn bão mạnh thôi thúc Kossin và đồng nghiệp Michael Wehner ở Phòng thí nghiệm Quốc gia Lawrence Berkeley đề xuất thang Saffir - Simpson có thể cần thêm cấp 6 để bao gồm cơn bão có sức gió trên 308 km/h.
- Các nhà nghiên cứu xác định 5 cơn bão đủ tiêu chuẩn xếp vào cấp 6 gồm bão Haiyan (năm 2013), bão Patricia (năm 2015), bão Meranti (năm 2016), bão Goni (năm 2020) và bão Surigae (năm 2021).
- Patricia là cơn bão dữ dội nhất trong lịch sử và cũng là cơn bão duy nhất có sức gió trên 322 km/h.
- Sức gió của cơn bão lên đến 345 km/h nhưng suy yếu còn 241 km/h khi đổ bộ vào đất liền.
- Wehner và Kossin cân nhắc xem xét bão ở cấp 7 với sức gió trên 368 km/h. Nhưng tính toán của họ cho thấy hiện nay nguy cơ một cơn bão mạnh như vậy xuất hiện rất nhỏ nên họ loại trừ khả năng đó trong nghiên cứu. Không ai thực sự biết chắc sức gió tối đa mà một cơn bão có thể duy trì xét trên lý thuyết nếu nhiệt độ nước tiếp tục tăng.
- Động lực học chính xác của hoàn lưu bão cũng chưa được tìm hiểu đầy đủ.
- Sự suy yếu của bão Milton diễn ra sau khi thay thế hoàn lưu bão, xảy ra do một dải giông bão mới hình thành quanh mắt bão, ngăn chặn hơi ẩm của hoàn lưu ban đầu.
- Thay đổi làm phân tán năng lượng của Milton, tăng kích thước cơn bão nhưng đồng thời làm giảm tốc độ gió tối đa của nó.
- Có thể ở tốc độ gió cực hạn, hiện tượng suy yếu như vậy trở thành điều không thể tránh khỏi, theo Wehner.
+Người được lựa chọn danh hiệu "Nhà khoa học của nhà nông" có các nghiên cứu, sáng kiến cải tiến quy trình kỹ thuật được ứng dụng rộng rãi, hiệu quả cho cộng đồng.
+ Hội đồng giải thưởng "Nhà khoa học của nhà nông" lần thứ V công bố danh sách 56 cá nhân được vinh danh trong năm 2024.
+ Đây là những nhà khoa học, trí thức, các nhà sáng chế và người nông dân có sáng kiến, giải pháp, quy trình kỹ thuật công nghệ trong lĩnh vực nông nghiệp, nông thôn.
+ Tiêu chí xét chọn dựa trên đóng góp công trình nghiên cứu, giải pháp sáng tạo, sản phẩm công nghệ được ứng dụng rộng rãi, mang lại hiệu quả kinh tế cao, giá trị cộng đồng.
+ Trong số 56 nhà khoa học của nhà nông năm nay, người cao tuổi nhất là GS.
+TS Nguyễn Thơ, 88 tuổi, Phó Chủ tịch Hội khoa học kỹ thuật bảo vệ thực vật Việt Nam và trẻ tuổi nhất là kỹ sư Lương Văn Trường, 35 tuổi, Giám đốc HTX Thanh Niên Nam Đại Dương, Nam Định.
+ Giải pháp của kỹ sư Trường là cung cấp hạt giống nảy mầm sẵn giúp bà con nông dân dễ dàng sử dụng hạt giống, không lo bị gãy mầm hay thối hỏng như cách ngâm ủ hạt truyền thống.
+ Giải pháp của kỹ sư Trường từng nhận giải Ba cuộc thi Sáng kiến Khoa học 2023 do VnExpress tổ chức.
+ Trong danh sách được giải năm nay có 37 người có học hàm, học vị là các giáo sư, phó giáo sư, tiến sĩ, thạc sĩ.
+ Trong số này có GS.
+TS Hoàng Thị Thái Hòa, 51 tuổi, Trưởng khoa Nông học, Trường Đại học Nông Lâm, Đại học Huế với những đóng góp xuất sắc trong lĩnh vực nông nghiệp.
+ 28 năm qua, GS Thái Hòa theo đuổi hướng nghiên cứu chính là đất và dinh dưỡng cây trồng bền vững.
+ Nữ giáo sư tập trung nghiên cứu độ phì đất, xây dựng quy trình sản xuất các loại phân hữu cơ, sử dụng phân bón cho cây trồng.
+ Nghiên cứu mở ra hướng mới trong ứng dụng biện pháp phi hóa học nhằm giảm sử dụng phân bón hóa học, giải quyết vấn đề an toàn nông sản, ảnh hưởng của biến đổi khí hậu trong sản xuất cây trồng.
+ GS Hòa công bố 148 bài báo, công trình khoa học trên các tạp chí uy tín trong nước và quốc tế, trong đó 19 bài thuộc tạp chí ISI/Scopus.
+ Chị chủ trì nhiều công trình, đề tài có tính ứng dụng cao.
+ Trong đó có 6 hợp đồng tư vấn và chuyển giao khoa học công nghệ, sở hữu 2 bằng độc quyền giải pháp hữu ích về quy trình sản xuất phân hữu cơ từ chất thải chăn nuôi sau ủ biogas và quy trình sản xuất phân bón lá sinh học từ thực vật thủy sinh.
+ Hay TS Trần Đức Tường, 53 tuổi, Trường Đại học Đồng Tháp, sở hữu 21 công trình khoa học, chủ nhiệm và tham gia gần 20 đề tài nghiên cứu khoa học và công nghệ cấp bộ, cấp tỉnh và cấp cơ sở, xuất bản 5 giáo trình và bài giảng.
+ Một trong những nghiên cứu của TS Tường là nghiên cứu trồng nấm vân chi đỏ bằng lõi ngô và vỏ trấu, thay vì mùn cưa cao su, cho năng suất cao hơn và hoạt chất sinh học tốt hơn.
+ Hiện quy trình công nghệ đã được ứng dụng tại Trung tâm Ứng dụng Nông nghiệp Công nghệ cao tỉnh Đồng Tháp và một số cơ sở sản xuất kinh doanh tại nhà, đồng thời sẵn sàng chuyển giao công nghệ cho nông dân, doanh nghiệp nhằm thương mại hóa sản phẩm.
+ Trong số các nông dân sáng tạo có ông Võ Văn Út, 63 tuổi, Long An với giải pháp máy gieo hạt bắp có thể gieo được 1 ha trong hai giờ, tiết kiệm chi phí khoảng 20 công lao động so với cách gieo truyền thống.
+ Hay dụng cụ gieo mè sau khi cải tiến giúp tiết kiệm chi phí công lao động hơn 2 triệu đồng/ha; máy nhổ đậu phộng giúp thu hoạch ruộng đậu nhanh trong ngày, trong 3 giờ máy nhổ được 1 ha đậu, tương đương với 30 công lao động thủ công.
+ Từ khối doanh nghiệp, hợp tác xã, tác giả Ngô Chí Thắng, TP HCM với các giải pháp như thiết bị sản xuất phân compost, hệ thống phân phối sản phẩm phân compost.
+ Các giải pháp tận dụng nguyên liệu sẵn có rác thải hữu cơ; cải thiện chất lượng đất và nông sản do phân compost giúp cải thiện độ phì nhiêu của đất; giảm chi phí xử lý rác thải.
+ Lễ tôn vinh "Nhà khoa học của nhà nông" lần thứ 5 sẽ diễn ra sáng 3/10 tại Hà Nội.
+ Chương trình do Trung ương Hội Nông dân Việt Nam chủ trì phối hợp với Bộ Khoa học và Công nghệ, Liên hiệp các Hội Khoa học và Kỹ thuật Việt Nam, Bộ Nông nghiệp và Phát triển Nông thôn, thực hiện.
+ Kể từ lần đầu tổ chức năm 2018, đến nay đã có 301 cá nhân được vinh danh.

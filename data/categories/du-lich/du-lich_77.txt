@@ -1,8 +1,73 @@
-Tỷ lệ sự cố khi đi máy bay phụ thuộc vào mỗi quốc gia, được chia thành ba nhóm: rủi ro thấp, an toàn và rủi ro cao dựa trên hồ sơ hàng không.
- Các nhà nghiên cứu tại Học viện Công nghệ Massachusetts (MIT), Mỹ, đã thống kê và chỉ ra tỷ lệ sự cố khi bay phụ thuộc vào quốc gia du khách đến và đi. Nhóm nghiên cứu chia các quốc gia nằm ở ba cấp độ rủi ro: thấp, trung bình và cao, dựa trên hồ sơ an toàn hàng không của những nước đó. Nhóm rủi ro thấp nhất (cấp độ 1) gồm các nước thuộc Liên minh châu Âu EU, Australia, Canada, Trung Quốc, Israel, Nhật Bản, Montenegro, New Zealand, Na Uy, Thụy Sĩ, Anh và Mỹ. Một số quốc gia nằm trong nhóm cấp độ 2 hay rủi ro trung bình gồm Bahrain, Bosnia, Brazil, Brunei, Chile, Ấn Độ, Jordan, Kuwait, Malaysia, Mexico, Philippines, Qatar, Singapore, Nam Phi, Hàn Quốc, Thái Lan, Thổ Nhĩ Kỳ, UAE, Đài Loan và Hong Kong (Trung Quốc). Những nước còn lại nằm ở cấp độ 3. Nghiên cứu chỉ ra tại hai cấp độ đầu tiên, rủi ro tử vong khi đi máy bay giảm xuống còn 1 trên 80 triệu hay 80 triệu lượt khách đi máy bay mới có một người gặp sự cố.
- Với tỷ lệ trên, trung bình một hành khách lên một chuyến bay ngẫu nhiên mỗi ngày trong 220.
-000 năm mới có nguy cơ tử vong vì tai nạn máy bay. Nguy cơ tử vong ở các quốc gia cấp độ 3 cao hơn khoảng 36% so với hai cấp độ còn lại, tuy nhiên, tỷ lệ tử vong đang giảm dần.
- Các nhà nghiên cứu từ MIT đã phân tích dữ liệu hành khách đi máy bay và thiệt mạng trên toàn thế giới từ năm 2018 đến 2022. Kết quả chỉ ra số ca tử vong trên máy bay đã giảm trung bình 7% theo từng năm, khi ngày càng có nhiều chuyến bay cất và hạ cánh.
- Theo đó, trung bình 13,7 triệu lượt khách đi máy bay mới có một người thiệt mạng. Kết quả nghiên cứu không tính các vụ tai nạn xảy ra có chủ đích, như vụ đánh bom liều chết tại sân bay Kabul năm 2021 khiến 170 người Afghanistan và 13 quân nhân Mỹ thiệt mạng.
- Công bố được đưa ra sau khi nhà sản xuất máy bay Boeing phải đối mặt với hàng loạt các vấn đề kỹ thuật, buộc công ty phải ngừng các chuyến bay thử nghiệm của mẫu máy bay 777-9.
- Cục Hàng không Liên bang (FAA) của Mỹ được cho đã kiểm tra dòng máy bay 787 Dreamliner do lỗi chuyển động ở ghế phi công.
+Sa Pa, Phan Thiết đông nghịt khách trong khi Đà Lạt, Vũng Tàu và nhiều điểm du lịch khác đông nhưng không xảy ra tình trạng chen chúc trong dịp lễ 2/9.
+ Như dự báo trước lễ, Sa Pa là điểm thu hút khách bậc nhất miền Bắc với công suất phòng 80-90%.
+ Trong ngày 31/8 và 1/9, du khách di chuyển trong phố khó khăn vì đường nhỏ, lượng xe cá nhân đổ lên đông.
+ Theo một số đơn vị tổ chức tour Sa Pa, ngày thường, xe chở khách chỉ mất khoảng 15 phút để di chuyển từ bãi xe trung tâm về khách sạn nhưng dịp này phải mất hơn 40 phút.
+ Do nhiều tuyến đường cấm xe ôtô trong dịp lễ như đoạn đi bản Cát Cát, các đoàn khách phải di chuyển bằng xe điện tới gần đường vào bản, tiếp tục đi bộ rồi trung chuyển lên ôtô để đi tham quan.
+ Một số khách thiếu kinh nghiệm, không đặt trước phòng phải quay xe về Lào Cai hoặc đến các bản lân cận lưu trú.
+ Khu du lịch Fansipan Legend, nơi trang hoàng bằng hàng nghìn lá cờ đỏ sao vàng chào mừng Quốc khánh, ghi nhận lượng khách trong hai ngày đầu lễ tăng 45% so với cùng kỳ.
+ Theo đại diện khu du lịch, nhiều doanh nghiệp, đơn vị đã chọn lên đỉnh Fansipan để du lịch và tham gia các hoạt động lan tỏa tình yêu nước.
+ Một số đoàn phải đổi lịch trình tham quan Fansipan từ sáng sang chiều để tránh cảnh đông đúc.
+ Thời tiết miền Bắc dịp lễ nắng đẹp, mát mẻ, tạo điều kiện cho các đoàn du lịch.
+ Minh Thắng, hướng dẫn viên du lịch cung Mộc Châu - Ninh Bình - Hà Nội nói các điểm tham quan không bị quá tải.
+ Mộc Châu tắc đường nhẹ trong ngày 1/9 do tổ chức lễ hội.
+ Tràng An, Ninh Bình đông khách hơn nhưng các đoàn cũng không phải chờ đợi lâu.
+ Khu vực Phong Nha, Ninh Bình sáng 2/9 đón lượng khách không đông như năm ngoái.
+ Trong hai ngày đầu nghỉ lễ Quốc khánh 2/9 (31/9 và 1/9), tổng khách du lịch đến các điểm tham quan, du lịch trên toàn tỉnh Quảng Ninh ước đạt 289.
+000 lượt, bằng 134% cùng kỳ năm 2023.
+ Hạ Long thu hút khách nhất tỉnh với 67.
+700 lượt, tiếp đến là Móng Cái, Vân Đồn với 22.
+000 lượt khách.
+ Ở miền Trung, Khu di tích Quốc gia đặc biệt Kim Liên, nằm trên địa bàn xã Kim Liên huyện Nam Đàn, tỉnh Nghệ An, dự kiến đón 3.
+000 đoàn khách và hàng chục nghìn lượt khách tới thăm dịp 2/9.
+ Đây là quần thể di tích gắn liền với tuổi thơ Chủ tịch Hồ Chí Minh, cách thành phố Vinh 15 km. "Nhiều năm nay, dịp Quốc khánh tôi luôn đưa các con đến Kim Liên tham quan để cháu hiểu rõ hơn về cuộc đời, sự nghiệp của Chủ tịch Hồ Chí Minh, từ đó nỗ lực, cố gắng đạt thành tích tốt trong năm học mới", chị Thanh Thủy, 39 tuổi, đến từ huyện Thạch Hà, tỉnh Hà Tĩnh, nói.
+ Ban quản lý khu cho biết di tích đã huy động tất cả cán bộ, nhân viên làm việc thông suốt kỳ nghỉ lễ để người dân, du khách khi về với quê Bác được phục vụ tốt nhất.
+ Tại Đà Nẵng và Hội An, hướng dẫn viên du lịch Huỳnh Trung nói các điểm du lịch không xảy ra cảnh chen chúc hay phải chờ đợi lâu.
+ Tại khu du lịch Bà Nà Hills, khách lên xuống cáp treo không cần xếp hàng.
+ Khách du lịch dịp này chủ yếu là người địa phương hoặc các vùng lân cận.
+ Nguyễn Tiến, hướng dẫn viên cung Di sản miền Trung của Du Lịch Việt, nói các điểm chùa Linh Ứng, bán đảo Sơn Trà, Ngũ Hành Sơn, Hội An, Bà Nà Hills, thánh địa La Vang trong hai ngày 1/9 và 2/9 không bị quá tải.
+ Quãng đường từ Huế ra Phong Nha, Quảng Bình sáng 2/9 cũng thông thoáng.
+ Đại diện Khu du lịch Bà Nà Hills dự kiến lượng khách trong bốn ngày lễ tăng 25% so với cùng kỳ năm trước.
+ Khu du lịch đã triển khai nhiều hoạt động đón khách như trang trí cầu Vàng bằng hàng trăm lá cờ Tổ quốc, tạo hình nhiều món ăn lấy ý tưởng từ Quốc kỳ, miễn phí tham quan xưởng bia thủ công cho những du khách mặc áo cờ đỏ sao vàng.
+ Tại Nha Trang, thời tiết đẹp nhưng lượng khách không quá đông.
+ Ghi nhận tại cảng tàu du lịch Nha Trang sáng 1/9, nhiều khách đợi tàu lâu nhưng sáng 2/9 không xảy ra tình trạng chen chúc.
+ Hướng dẫn viên địa phương Nhã Phương nói đây là tình trạng chung dịp 2/9 vì khách đã dồn đi trong dịp hè.
+ Dịp lễ này, nhiều resort, villa ở Cam Ranh hết phòng, chủ yếu khách từ địa phương lân cận đi xe cá nhân tới lưu trú.
+ Ở Quy Nhơn và Phú Yên thời tiết nắng nóng, vắng khách, giao thông thuận tiện như ngày thường.
+ Điểm nóng du lịch Kỳ Co - Eo Gió ở Quy Nhơn không đông trong sáng 2/9.
+ Tại Tuy Hòa, thời tiết nóng nên khách không ra tắm biển vào buổi sáng, các điểm du lịch trong thành phố cũng chung tình trạng vắng vẻ.
+ Lượng khách du lịch đến tham quan, nghỉ dưỡng tại Đà Lạt ước đạt khoảng 100.
+000 lượt, tăng 11% so với cùng kỳ năm 2023.
+ Kim Yến, người địa phương, nói đường phố sáng 2/9 không đông như mọi năm, tình trạng kẹt xe không xảy ra thường xuyên.
+ Tại Phan Thiết, từ khi cao tốc Dầu Giây - Phan Thiết đi vào hoạt động, rút ngắn thời gian di chuyển từ TP HCM từ 4 xuống 2,5 tiếng, địa phương luôn hút khách.
+ Tổng lượng khách du lịch đến tỉnh Bình Thuận trong dịp lễ 2/9 khoảng 385.
+000 lượt khách, tăng gấp 3,3 lần so với 2023, doanh thu khoảng 510 tỷ đồng.
+ Lượng khách đông vào các ngày 31/8, 1/9 và 2/9, bình quân công suất phòng đạt từ 80 - 95%, trong đó có nhiều cơ sở đạt công suất 100%.
+ Theo ông Bùi Thế Nhân, Giám đốc Sở Văn hóa Thể Thao và Du lịch tỉnh, ngoài giới thiệu các điểm đến mới, chất lượng dịch vụ, an ninh trật tự được đảm bảo, niêm yết đúng giá qua các dịp lễ là yếu tố thu hút khách nội đến Bình Thuận.
+ Sáng 2/9, cao điểm dịp lễ kéo dài bốn ngày, Vũng Tàu nắng đẹp, gió nhẹ.
+ Các tuyến đường chính ở trung tâm thành phố đông xe cộ nhưng không xảy ra tình trạng ùn ứ.
+ Biển dọc đường Thùy Vân không quá đông khách như những kỳ nghỉ lễ trước.
+ Chị Lê Huyền Mai Nhi, ở Bình Dương, cho biết kỳ nghỉ hai ngày của gia đình khá thoải mái khi giá phòng cho bốn người chỉ 1,2 triệu đồng một đêm, ngay mặt tiền hướng biển Bãi Sau. "Bãi biển khá sạch sẽ, sóng lăn tăn tựa mặt hồ, cả gia đình ngụp lặn thỏa thích", chị nói thêm rằng những ngày này về chiều thành phố biển mưa giông kéo dài nhiều giờ khiến chuyến đi hai ngày qua không được trọn vẹn.
+ Các quán cà phê dọc bờ biển ở Bãi Trước đông kín khách từ sớm.
+ Ôtô xe máy đậu hàng dài trên các đường Hạ Long, Trần Phú.
+ Hàng quán hai bên đường Hoàng Hoa Thám, Lê Hồng Phong, Trần Hưng Đạo đông khi về trưa.
+ Vũng Tàu ước tính phục vụ khoảng 128.
+000 lượt khách tắm biển, lượt khách tắm trong ngày thứ hai ước đạt 85.
+000 lượt - giảm 3.
+000 lượt so với ngày nghỉ thứ hai của kỳ nghỉ lễ năm ngoái.
+ Chính quyền huy động hơn 40 người túc trực tại các bãi biển để trợ giúp du khách; tổ chức giăng hơn 700 m dây phao khoanh vùng để người dân và du khách tắm biển an toàn.
+ Ở TP HCM, nhiều khách lựa chọn du lịch các điểm gần như Củ Chi, Suối Tiên.
+ Theo ông Nguyễn Minh Tâm, Phó Giám đốc Khu Di tích lịch sử địa đạo Củ Chi ghi nhận lượng khách tăng 30% so với cùng kỳ năm trước.
+ Ghi nhận của phóng viên, trong những ngày nghỉ lễ, Khu du lịch Suối Tiên thu hút hàng nghìn người đến tham quan, vui chơi.
+ Bà Bùi Thị Tố Trinh, Phó Tổng giám đốc Công ty Cổ phần Du lịch Văn hóa Suối Tiên cho biết lượng khách tăng 10-15% so với cùng kỳ năm trước.
+ Tại Hà Nội, hàng nghìn người trên khắp cả nước đến xếp hàng từ sáng sớm chờ vào Lăng Chủ tịch Hồ Chí Minh viếng và tham quan.
+ Phó giám đốc chi nhánh Hà Nội Vietluxtour Nguyễn Thế Công nói nhờ đặt sớm khoảng nửa tháng nên đã đưa được đoàn khách từ TP HCM vào viếng nhanh hơn dù lượng xếp hàng khá đông.
+ Trong sáng 2/9, đoàn cũng ghé thăm Văn Miếu - Quốc Tử Giám và không gặp nhiều khó khăn dù lượng khách đông.
+ Phú Quốc vắng khách Việt dịp 2/9 vì giá vé máy bay cao, sát ngày giá vé chặng Hà Nội - Phú Quốc cao tới 6 triệu đồng khứ hồi.
+ Thống kê của Sở Du lịch tỉnh Kiên Giang cho thấy trong ngày 1/9, khách tới tỉnh tham quan, du lịch ước đạt gần 54.
+000 lượt, tăng 5,7% so với cùng kỳ.
+ Riêng Phú Quốc ước đón 21.
+300 lượt khách, giảm 15% so với cùng kỳ năm trước; khách quốc tế đạt gần 4.
+600 lượt - tăng 101,5% so với cùng kỳ.
+ Theo hướng dẫn viên địa phương Lê Đình, Phú Quốc có mưa lớn vào ngày 1/9 và sáng 2/9.
+ Các điểm du lịch ở thành phố vắng khách, giao thông di chuyển dễ dàng.
+ Anh Đình cũng nhận xét khách quốc tế đông hơn mọi năm, tập trung ở các khu nghỉ dưỡng Bắc và Nam đảo nhưng khách Việt khá lẻ tẻ, không có đoàn lớn.

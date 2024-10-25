@@ -1,9 +1,29 @@
-Máy bay vũ trụ X-37B của Lực lượng Không gian Mỹ thử nghiệm phanh khí động và sẽ thực hiện một loạt thao tác chưa từng có nhằm thay đổi quỹ đạo. Máy bay tự động X-37B đã bay theo quỹ đạo bí mật hình elip dài suốt 10 tháng từ khi phóng trong nhiệm vụ thứ 7 trên tên lửa Falcon Heavy của SpaceX vào cuối tháng 12 năm ngoái. Máy bay này đã tiến hành các thí nghiệm về ảnh hưởng của bức xạ và kiểm tra công nghệ theo dõi vệ tinh bay quanh Trái Đất Space Domain Awareness.
- Hiện nay, X-37B sẽ bắt đầu sử dụng khí quyển Trái Đất để thay đổi quỹ đạo, Space hôm 11/10 đưa tin. Một loạt thao tác phanh khí động sẽ tận dụng lực cản từ khí quyển Trái Đất.
- Điều này sẽ giúp hạ thấp quỹ đạo của X-37B trong khi sử dụng tối thiểu nhiên liệu, theo Lực lượng Không gian Mỹ.
- Sau khi chuyển từ quỹ đạo hình elip cao sang hình tròn thấp hơn, máy bay vũ trụ sau đó sẽ giải phóng các bộ phận module dịch vụ. Những bộ phận này sẽ ở trên quỹ đạo trong thời gian ngắn hơn nhiều so với giải phóng ở quỹ đạo cao, qua đó giảm bớt rác thải vũ trụ.
- Đây là lần đầu tiên X-37B tiến hành thao tác phanh khí động.
- Thử nghiệm dựa trên các nhiệm vụ X-37B trước đây cũng như hàng thập kỷ học hỏi từ cộng đồng khoa học thông qua nhiều nhiệm vụ Mặt Trăng và sao Hỏa.
- Theo Chance Saltzman, Tư lệnh Lực lượng Không gian Mỹ, loạt thao tác mà X-37B thực hiện là cột mốc cực kỳ quan trọng.
- Sau thao tác phanh khí động, X-37B sẽ tiếp tục các mục tiêu thử nghiệm. Máy bay vũ trụ sau đó sẽ rời khỏi quỹ đạo và hạ cánh như 6 nhiệm vụ trước.
- Chuyến bay hiện nay của X-37B có tên OTV-7 (Orbital Test Vehicle-7). Máy bay vũ trụ phóng lần đầu trên tên lửa Atlas V của United Launch Alliance năm 2010. Nhiệm vụ OTV-6 phóng trên tên lửa Falcon 9 của SpaceX và ở trên quỹ đạo 908 ngày.
+Sau sự kiện tiểu hành tinh đâm xuống Trái Đất 66 triệu năm trước, có thể một số loài chim không răng vẫn sống sót nhờ khả năng kiếm ăn.
+ Chim tiến hóa từ khủng long khoảng 160 triệu năm trước.
+ Thực tế, chim và khủng long đã sống cùng nhau khoảng 100 triệu năm.
+ Chim bắt nguồn từ một nhóm khủng long Dromaeosaurs, hay "thằn lằn chạy", một họ khủng long chân thú có lông vũ.
+ 66 triệu năm trước, khi một tiểu hành tinh lao xuống Trái Đất ở vùng biển ngoài khơi Mexico ngày nay, khủng long bị xóa sổ.
+ Tuy nhiên, một số loài chim vẫn tiếp tục tồn tại.
+ Các nhà khoa học chuyên nghiên cứu về sự tiến hóa của chim nỗ lực tìm hiểu lý do chim không tuyệt chủng.
+ Họ lắp ráp những manh mối như hóa thạch và nhiều bằng chứng khác về sự sống trên Trái Đất thời xa xưa để đưa ra một số giả thuyết về lý do chim sống sót, dù chưa có đáp án chắc chắn.
+ Chim ngày nay không có răng.
+ Thay vào đó, chúng có mỏ với nhiều hình dạng và kích cỡ khác nhau để ăn uống.
+ Vào thời khủng long, một số loài chim vẫn có răng, số khác thì không.
+ Sau sự kiện tiểu hành tinh đâm vào Trái Đất, tất cả chim có răng đều tuyệt chủng, nhưng nhiều loài không răng vẫn tiếp tục sống.
+ Một số nhà khoa học cho rằng chính đặc điểm không răng đã giúp chúng tồn tại.
+ Hóa thạch chim không răng cổ xưa cho thấy chúng có khả năng ăn thức ăn gốc thực vật nhiều hơn, nhất là các loại hạt và quả.
+ Điều này đồng nghĩa, so với chim có răng, chúng ít phụ thuộc hơn vào việc ăn thịt động vật khác.
+ Một số nhà khoa học cho rằng sự khác biệt trong chế độ ăn này trở thành lợi thế lớn sau sự kiện thiên thạch đâm.
+ Khi đó, sự kiện đã lập tức gây ra những trận sóng thần và động đất dữ dội.
+ Xung nhiệt khổng lồ từ vụ va chạm đã gây ra các đám cháy rừng quy mô lớn gần vị trí tiểu hành tinh đáp xuống.
+ Trong những tháng tiếp theo, một lượng lớn bụi đã lấp đầy lớp không khí bao quanh Trái Đất, che khuất Mặt Trời, khiến cây cối nhận được ít ánh sáng để phát triển.
+ Với động vật ăn thực vật, thức ăn trở nên cực kỳ khan hiếm.
+ Nhiều loài tuyệt chủng, gây rắc rối cho những kẻ đi săn.
+ Nhiều loài động vật bị xóa sổ và cây cối cũng gặp khó khăn trong việc lấy đủ ánh sáng Mặt Trời, do đó, thức ăn sẽ rất khó tìm.
+ Nhưng nếu có khả năng mổ đất và tìm hạt hoặc quả hạt bị chôn vùi để ăn, loài động vật đó có thể sinh tồn.
+ Tất nhiên, vẫn còn những yếu tố khác khiến chim không răng sống sót trong khi những "anh chị em" có răng của chúng diệt vong, bao gồm cả may mắn.
+ Hiện tại, đó là một bí ẩn chưa được giải đáp đầy đủ.
+ Các nhà khoa học sẽ đưa ra ý tưởng hoặc giả thuyết dựa trên kiến thức và thông tin hiện có.
+ Sau đó, họ kiểm tra ý tưởng bằng cách tiến hành thí nghiệm hoặc thu thập thêm bằng chứng.
+ Thông tin này sẽ củng cố hoặc bác bỏ ý tưởng ban đầu.
+ Vì vậy, các nhà khoa học sẵn sàng chỉnh sửa câu chuyện về cách chim sống sót và khủng long tuyệt chủng khi thu thập thêm thông tin từ đá, hóa thạch và ADN cổ đại.

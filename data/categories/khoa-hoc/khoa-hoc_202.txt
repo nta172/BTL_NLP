@@ -1,25 +1,19 @@
-Xác ướp tê giác lông xoăn được bảo quản hàng chục nghìn năm trong lớp đất đóng băng cung cấp nhiều hiểu biết quý giá về loài vật đã tuyệt chủng. Một con tê giác lông xoăn nguyên vẹn được phát hiện gần sông Tirekhtyakh ở Cộng hòa Sakha thuộc Nga.
- Xác ướp đông cứng này có niên đại 32.
-400 năm.
- Các nhà khoa học đứng đầu là Gennady Boeskorov ở Viện địa chất học kim loại quý hiếm và kim cương thuộc Viện hàn lâm Khoa học Nga, phân tích xác tê giác.
- Sinh vật có tên gọi tê giác Abyisky cung cấp cho nhóm nghiên cứu hiểu biết độc đáo về quá khứ.
- Dù con vật hơn 32.
-000 năm tuổi, nhiều bộ phận như mô mềm, da và lông của nó vẫn còn nguyên trong lớp đất đóng băng vĩnh cửu lạnh âm độ.
- Trạng thái bảo quản hoàn hảo đó cho phép các nhà nghiên cứu tìm hiểu đặc điểm giải phẫu của tê giác cổ đại ở mức độ chi tiết chưa từng có, Interesting Engineering hôm 23/9 đưa tin.
- Tê giác lông xoăn là động vật lớn nhiều lông dài có hai chiếc sừng, sống ở đại lục Á Âu trong thế Canh Tân.
- Chúng có tên khoa học là Coelodonta antiquitatis.
- Tê giác lông xoăn sống cùng thời với voi ma mút lông xoăn ở kỷ Băng hà.
- Đây là loài vật lớn thứ hai trong hệ sinh thái, chỉ xếp sau voi ma mút.
- Trong nghiên cứu mới công bố trên tạp chí Doklady Earth Sciences, một trong những phát hiện thú vị nhất là độ tuổi nhỏ của con tê giác.
- Bộ lông ngắn sáng màu hé lộ nó còn nhỏ khi chết, chỉ khoảng 4,5 tuổi. "Trong nghiên cứu này, chúng tôi mô tả xác ướp đông cứng mới tìm thấy của một con tê giác lông xoăn nhỏ tuổi (4 - 4,5 năm), tồn tại ở thời kỳ Karginia cuối thế Canh Tân", nhóm nghiên cứu cho biết.
- Phát hiện đáng chú ý nhất là u mỡ trên lưng tê giác.
- Bộ phận kỳ dị này chưa bao giờ được ghi nhận ở tê giác lông xoăn trước đây.
- Sự tồn tại của khối mỡ tương tự ở voi ma mút lông xoăn chỉ ra u mỡ có thể phục vụ cùng mục đích ở cả hai loài, như cách nhiệt hoặc lưu trữ năng lượng.
- Theo nghiên cứu, kết quả phân tích lông của tê giác hé lộ dấu vết của rận nước, loài ký sinh nhỏ li ti đã tuyệt chủng trong vùng.
- Tê giác lông xoăn là động vật có vú ăn cỏ sinh sống ở phía bắc đại lục Á Âu, đặc biệt là Siberia, trong hàng triệu năm cho tới khi tuyệt chủng cách đây 10.
-000 năm.
- Chúng từng lang thang trên những vùng đất đóng băng cùng với voi ma mút, chó sói và sư tử hang động.
- Dù chúng có số lượng dồi dào, số lượng mẫu vật từng được tìm thấy rất ít.
- Chỉ có 6 mẫu vật nguyên vẹn được khai quật ở Cộng hòa Sakha từ cuối thế kỷ 18. Mẫu vật gần đây nhất được phát hiện ở quận Oymyakonsky.
- Với nhiệt độ tăng lên, số sinh vật cổ đại lộ ra do đất đóng băng vĩnh cửu tan chảy.
- Tuy nhiên, một khi tiếp xúc với điều kiện ngoài trời, mẫu vật sẽ phân hủy nhanh chóng.
+Linac Coherent Light Source (LCLS) tại Phòng thí nghiệm Gia tốc Quốc gia SLAC sẽ trải qua nâng cấp quan trọng giúp tăng năng lượng tia X của cỗ máy gấp 3.
+000 lần.
+ LCLS - máy laser tia X mạnh nhất thế giới nằm ở Phòng thí nghiệm Gia tốc Quốc gia SLAC ở Mỹ.
+ Khi hoàn thành, nâng cấp sẽ cho phép các nhà khoa học khám phá những quá trình ở cấp nguyên tử nhằm giải đáp nhiều câu hỏi trong lĩnh vực sinh vật học, khoa học vật liệu, vật lý lượng tử, Interesting Engineering hôm 27/9 đưa tin.
+ LCLS được chế tạo với kinh phí từ Bộ Năng lượng Mỹ (DOE), là cỗ máy đầu tiên tạo ra tia X năng lượng cao (tia X cứng) bằng máy laser electron tự do.
+ Cơ sở bắt đầu hoạt động năm 2009 nhưng mới nâng cấp năm 2023.
+ LCLS có thêm một máy gia tốc siêu dẫn và cấu trúc từ gọi là máy gợn sóng có thể sản sinh cả chùm tia X cứng mềm và cứng.
+ Mang tên LCLS-II, nâng cấp gần nhất giúp cơ sở tạo ra một triệu xung tia X mỗi giây.
+ Hiện nay, DOE đã thông qua nâng cấp tiếp theo gọi là LCLS-II HE (năng lượng cao), nhằm tăng gấp đôi năng lượng của chùm electron đến từ máy gia tốc siêu dẫn, qua đó tăng gấp đôi năng lượng tia X.
+ Máy gia tốc siêu dẫn ở nâng cấp LCLS-II bao gồm 37 module lạnh sâu có thể làm mát tới -271 độ C để thúc đẩy electron tới năng lượng cao với mức hao hụt năng lượng tối thiểu.
+ Với nâng cấp HE mới, LCLS sẽ có 23 module lạnh sâu mới, mỗi module chứa 8 khoang tần số vô tuyến siêu dẫn giúp cung cấp hiệu suất tối ưu.
+ Các module được sản xuất bởi Phòng thí nghiệm Gia tốc Quốc gia Fermi (Fermilab) của DOE và Cơ sở Gia tốc Quốc gia Thomas Jefferson (Jefferson Lab).
+ Theo Greg Hays, giám đốc dự án LCLS-II-HE, module lạnh sâu đầu tiên là nguyên mẫu sản xuất từ linh kiện dự phòng của LCLS-II, vì vậy họ có sẵn mọi bộ phận.
+ Sau khi dây chuyền sản xuất hoạt động, họ có thể chế tạo một đơn vị trong thời gian trung bình khoảng 6 tuần.
+ Tất cả module được lên lịch lắp đặt trong đường hầm máy gia tốc vào năm 2026.
+ Dự kiến LCLS-II-HE sẽ tạo ra tia X đầu tiên trong khoảng cuối năm 2027 - 2030.
+ Hoạt động đầu tiên sẽ quyết định chùm laser mới đạt hiệu suất tốt tới mức nào, theo Mike Dunne, giám đốc LCLS.
+ Trong thời gian nâng cấp, LCLS-II sẽ vẫn phục vụ thí nghiệm khoa học.
+ Do cơ sở có hai máy gia tốc và chỉ có máy gia tốc siêu dẫn được nâng cấp, nó có thể tiếp tục vận hành với máy gia tốc thường.

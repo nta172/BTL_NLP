@@ -1,8 +1,24 @@
-Elon Musk cho rằng CEO OpenAI Sam Altman giống với nhân vật có tính cách gian xảo trong phim "Game of Thrones". "Sam Altman là Little Finger", Musk viết trên X ngày 26/9, ám chỉ lãnh chúa Petyr Baelish, kẻ thao túng điêu luyện trong phim Game of Thrones (Trò chơi vương quyền) với tính cách tàn nhẫn và xảo quyệt. Musk đăng thông điệp trên sau khi một tài khoản X khác chia sẻ bốn bức ảnh của Altman cùng cựu giám đốc công nghệ Mira Murati và các nhà đồng sáng lập Greg Brockman và Ilya Sutskever - những người được đánh giá có vai trò quan trọng tại OpenAI nhưng đều đã nghỉ việc.
- Ở mỗi ảnh, từng người này lần lượt bị loại khỏi khung hình. Ngày 25/9, CTO Murati, "nữ tướng thầm lặng" đứng sau thành công của ChatGPT, cho biết không còn làm việc tại OpenAI sau 6,5 năm gắn bó.
- Trước đó, Sutskever rời đi vào tháng 5 và thành lập công ty AI mới, còn Brockman quyết định nghỉ phép dài hạn vào tháng 8. Musk cũng phản hồi một bài đăng khác trên X ngày 26/9, chia sẻ đoạn podcast vào tháng 5, trong đó Altman nói bản thân không cần thêm tiền. "Điều cá nhân tôi không thích là cách Sam thực hiện mọi việc rất xảo quyệt", Musk nhận xét.
- Tỷ phú Mỹ cũng đề cập thông tin OpenAI đang chuẩn bị thay đổi cấu trúc doanh nghiệp thành công ty vì lợi nhuận. "Trúng đích", ông viết.
- Theo Business Insider, ông dường như chế giễu CEO OpenAI vì tuyên bố không cần tiền trước đó.
- Elon Musk, Sam Altman và OpenAI chưa đưa ra bình luận. Musk là một trong những nhà đồng sáng lập của OpenAI năm 2015, hoạt động như một tổ chức phi lợi nhuận với mục tiêu phát triển AI an toàn vì lợi ích nhân loại.
- Hồi tháng 2, Musk đệ đơn đơn kiện OpenAI, nói Altman đã dụ dỗ ông để cùng tạo công ty với lời hứa "sẽ đi theo hướng an toàn và mở so với các gã khổng lồ công nghệ theo đuổi lợi nhuận".
- Sau khi tham gia và đầu tư hàng triệu USD, Musk cảm thấy bị phản bội vì "Altman nói với tôi sẽ đảm bảo cấu trúc phi lợi nhuận giúp tạo sự trung lập, tập trung vào an toàn và tính mở vì lợi ích của nhân loại, không phải giá trị cổ đông. Nhưng hóa ra, đây chỉ là từ thiện suông".
+Cảnh sát Mỹ ghi nhận ngày càng nhiều vụ trộm trong đó kẻ gian đi theo xe giao hàng, đánh cắp iPhone khi nhân viên đặt chúng trước cửa nhà người nhận.
+ Jaqueline Rosales, cư dân ở Snellville, Georgia, cho biết đã đặt 5 chiếc iPhone cho cả gia đình hồi tháng 8.
+ Thế nhưng, tất cả đều bị lấy đi trong vài phút sau khi nhân viên FedEx giao hàng và được camera trước cửa ghi lại.
+ Rosales nói cô đã để ý chiếc xe chạy qua chạy lại tuyến phố nơi gia đình sinh sống nhiều lần. "Tôi từng đặt những mặt hàng có giá trị cao trước đây nhưng chưa từng gặp vấn đề cho đến khi diễn ra vụ trộm iPhone", cô cho hay. "Thật kỳ lạ và đáng báo động".
+ Theo cảnh sát bang Texas, "trộm hàng trước cửa nhà" liên tục xảy ra gần đây, chủ yếu nhắm vào các thiết bị có giá trị cao như iPhone.
+ Trong đó, chủ yếu là điện thoại do nhà mạng AT&T cung cấp.
+ Chris Brown, trung úy cảnh sát công tác tại Deer Park, Texas, nói nghi phạm dường như có thông tin nội bộ trước khi hành động. "Chúng có số theo dõi bưu kiện của AT&T", Brown nói. "Chúng tôi đang hợp tác với nhà mạng để điều tra cách nghi phạm cóđược thông tin đó".
+ Một yếu tố khác khiến gói hàng AT&T dễ bị lấy là chính sách của nhà mạng này thường không yêu cầu chữ ký người nhận.
+ Trong khi đó, Verizon và T-Mobile yêu cầu phải ký khi giao smartphone.
+ Không chỉ ở Texas, các video từ camera an ninh cho thấy nhiều vụ trộm tương tự xảy ra ở New York, Pennsylvania, Delaware, Virginia, Michigan, Georgia hay Florida.
+ Tất cả có kịch bản tương tự: tài xế FedEx giao hộp chứa iPhone từ AT&T, sau đó một người xuất hiện và lấy gói hàng ở bậc thềm nhà.
+ Hành động diễn ra nhanh đến mức tài xế FedEx và tên trộm có thể giáp mặt nhau.
+ Boston25News cho biết một số người dân sống tại Weston, Massachusetts đã cung cấp video trộm cắp cho cảnh sát.
+ Một video cho thấy người đàn ông mặc đồ đen, đeo khẩu trang, kính râm và mũ bảo hiểm "đi đến một ngôi nhà, xem xét các gói hàng ở cửa, trước khi chọn chính xác gói hàng có iPhone bên trong". "Chúng biết chính xác cái gì sẽ được giao và địa điểm sẽ giao", trung úy Matt Arsenault từ Sở cảnh sát Gardner, Massachusetts, nói.
+ Trong một số trường hợp, kẻ trộm đã bị bắt giữ.
+ Fox26 Houston đưa tin cảnh sát Deer Park đã bắt hai thanh niên liên quan đến một loạt vụ lấy gói hàng có điện thoại iPhone 16 cuối tháng 9.
+ Những người này thuê xe và dành hàng giờ vòng quanh các khu dân cư ở Houston.
+ Ngày 1/10, WKRN cũng đưa tin về một vụ bắt giữ tương tự tại Tennessee.
+ Một nhóm bị cáo buộc là thành viên của một tổ chức tội phạm chuyên thu thập thông tin vận chuyển để cung cấp cho kẻ trộm. "Ai đó có quyền truy cập vào danh sách giao hàng để lấy thông tin này", trung úy Mike Foster từ Sở cảnh sát Spring Hill dự đoán.
+ Nói với Ars Technica, phát ngôn viên AT&T cho biết công ty vận chuyển hàng chục nghìn gói hàng mỗi ngày mà không gặp sự cố.
+ Nhà mạng nhấn mạnh họ vẫn yêu cầu chữ ký tại một số khu vực xảy ra các vụ trộm và thường xuyên thay đổi quy trình để giảm thiểu tình trạng mất cắp.
+ Ngoài ra, AT&T cũng đang hợp tác với cơ quan thực thi pháp luật và đơn vị vận chuyển để bảo vệ mình và khách hàng.
+ Trong khi đó, FedEx cho biết công ty đang phối hợp với đối tác gửi hàng hóa có giá trị cao nhằm tăng cường biện pháp an ninh.
+ Công ty khuyến cáo người nhận nên sử dụng website và ứng dụng di động của FedEx để theo dõi và kiểm soát tốt hơn thời gian, địa điểm nhận hàng.
